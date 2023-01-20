@@ -1,4 +1,4 @@
-# DISRPT/sharedtask202th3
+# DISRPT/sharedtask2023
 
 Repository for DISRPT2023 shared task Discourse Unit Segmentation, Connective Detection and Discourse Relation Classification.  
 

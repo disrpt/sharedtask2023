@@ -5,6 +5,9 @@ Repository for DISRPT2023 shared task Discourse Unit Segmentation, Connective De
 **Please check our [FAQ](https://sites.google.com/view/disrpt2023/home) page on our main [website](https://sites.google.com/view/disrpt2023/home) for more information about the Shared Task, Participation, and Evaluation etc.!**  
 
 
+**Shared task participants are encouraged to follow this repository in case bugs are found and need to be fixed.** 
+
+
 ## Introduction
 
 The [DISRPT 2023](https://sites.google.com/view/disrpt2023/home) shared task, held in conjonction with [CODI 2023](https://sites.google.com/view/codi-2023/) and [ACL 2023](https://2023.aclweb.org/), introduces the third iteration of a cross-formalism shared task on **discourse unit segmentation** and **connective detection**, as well as the second iteration of a cross-formalism **discourse relation classification** task.

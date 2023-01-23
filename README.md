@@ -49,12 +49,12 @@ At the release of the test data, a surprise language dataset will be added! We w
 Systems should be accompanied by a regular workshop paper in the ACL format, as described on the CODI workshop website. During submission, you will be asked to supply a URL from which your system can be downloaded. If your system does not download necessary resources by itself (e.g. word embeddings), these resources should be included at the download URL. The system download should include a README file describing exactly how paper results can be reproduced. Please do not supply pre-trained models, but rather instructions on how to train the system using the downloaded resources and **make sure to seed your model** to rule out random variation in results. For any questions regarding system submissions, please contact the organizers.
 
 ## Important Dates
-- January &nbsp; &nbsp; &nbsp; &nbsp; Sample release  
-- February, 15th &nbsp; &nbsp; &nbsp; &nbsp; Train/dev dataset release  
-- April, 15th &nbsp; &nbsp; &nbsp; &nbsp; Test release  
-- May, 8st &nbsp; &nbsp; &nbsp; &nbsp; System release
-- June, 5th &nbsp; &nbsp; &nbsp; &nbsp; Camera ready
-- July, 9-14th  &nbsp; &nbsp; &nbsp; &nbsp; Workshop/Conference, Toronto, Canada.
+- January, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Sample release  
+- February, 15th, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Train/dev dataset release  
+- April, 15th, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Test release  
+- May, 8st, 2023 &nbsp; &nbsp; &nbsp; &nbsp; System release
+- June, 5th, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Camera ready
+- July, 9-14th, 2023  &nbsp; &nbsp; &nbsp; &nbsp; Workshop/Conference, Toronto, Canada.
 
 <!---
 ## Directories

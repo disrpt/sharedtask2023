@@ -54,7 +54,7 @@ Systems should be accompanied by a regular workshop paper in the ACL format, as 
 - April, 15th, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Test release  
 - May, 8st, 2023 &nbsp; &nbsp; &nbsp; &nbsp; System release
 - June, 5th, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Camera ready
-- July, 9-14th, 2023  &nbsp; &nbsp; &nbsp; &nbsp; Workshop/Conference, Toronto, Canada.
+- July, 9-14th, 2023  &nbsp; &nbsp; &nbsp; &nbsp; CODI Workshop, ACL, Toronto, Canada.
 
 <!---
 ## Directories

@@ -9,7 +9,7 @@ Repository for DISRPT2023 shared task Discourse Unit Segmentation, Connective De
 
 The [DISRPT 2023](https://sites.google.com/view/disrpt2023/home) shared task, held in conjonction with [CODI 2023](https://sites.google.com/view/codi-2023/) and [ACL 2023](https://2023.aclweb.org/), introduces the third iteration of a cross-formalism shared task on **discourse unit segmentation** and **connective detection**, as well as the second iteration of a cross-formalism **discourse relation classification** task.
 
-We *will* provide training, development and test datasets from all available languages and treebanks in the **RST**, **SDRT** and **PDTB** formalisms, using a uniform format. Because different corpora, languages and frameworks use different guidelines, the shared task is meant to promote design of flexible methods for dealing with various guidelines, and help to push forward the discussion of standards for computational approaches to discourse relations. We include data for evaluation with and without gold syntax, or otherwise using provided automatic parses for comparison to gold syntax data.
+We *will* provide training, development and test datasets from all available languages and treebanks in the **RST**, **SDRT**, **PDTB** and **dependency** formalisms, using a uniform format. Because different corpora, languages and frameworks use different guidelines, the shared task is meant to promote design of flexible methods for dealing with various guidelines, and help to push forward the discussion of standards for computational approaches to discourse relations. We include data for evaluation with and without gold syntax, or otherwise using provided automatic parses for comparison to gold syntax data.
 
 ## Types of Data
 The tasks are oriented towards finding the locus and type of discourse relations in texts, rather than predicting complete trees or graphs. For frameworks that segment text into non-overlapping spans covering each entire documents (RST and SDRT), the segmentation task corresponds to finding the **starting point of each discourse unit**. For PDTB-style datasets, the unit-identification task is to identify the **spans of discourse connectives** that explicitly identify the existence of a discourse relation. These tasks use the files ending in `.tok` and `.conllu` for the **plain** text and **parsed** scenarios respectively.  
@@ -24,6 +24,23 @@ Note that some datasets contain **discontinuous** discourse units, which sometim
 *Note about MWE*..............
 --->
 
+
+## Directories
+
+The shared task repository currently comprises the following directories (to be extended as the task progresses):
+
+  * data - individual corpora from various languages and frameworks (**for now, data samples**). 
+    * Folders are given names in the scheme `LANG.FRAMEWORK.CORPUS`, e.g. `eng.rst.gum` is the directory for the GUM corpus, which is in English and annotated in the framework of Rhetorical Structure Theory (RST).
+    * Note that some corpora (eng.rst.rstdt, eng.pdtb.pdtb, tur.pdtb.tdb, zho.pdtb.cdtb) **do not contain text** or have some documents without text (eng.rst.gum) and text therefore needs to be reconstructed using `utils/process_underscores.py`.
+  * utils - **COMING SOON** scripts for validating, evaluating and generating data formats. The official scorer for segmentation and connective detection is `seg_eval.py`, and the official scorer for relation classification is `rel_eval.py`.
+
+See the README files in individual data directories for more details on each dataset.
+
+## Surprise language
+
+At the release of the test data, a surprise language dataset will be added! We will disclose the language for this future corpus soon, to allow teams to be ready.
+
+
 ## Submitting a System
 
 Systems should be accompanied by a regular workshop paper in the ACL format, as described on the CODI workshop website. During submission, you will be asked to supply a URL from which your system can be downloaded. If your system does not download necessary resources by itself (e.g. word embeddings), these resources should be included at the download URL. The system download should include a README file describing exactly how paper results can be reproduced. Please do not supply pre-trained models, but rather instructions on how to train the system using the downloaded resources and **make sure to seed your model** to rule out random variation in results. For any questions regarding system submissions, please contact the organizers.
@@ -32,8 +49,8 @@ Systems should be accompanied by a regular workshop paper in the ACL format, as 
 - January &nbsp; &nbsp; &nbsp; &nbsp; Sample release  
 - February, 15th &nbsp; &nbsp; &nbsp; &nbsp; Train/dev dataset release  
 - April, 15th &nbsp; &nbsp; &nbsp; &nbsp; Test release  
-- May, 1st &nbsp; &nbsp; &nbsp; &nbsp; System release
-- June, 1st &nbsp; &nbsp; &nbsp; &nbsp; Camera ready
+- May, 8st &nbsp; &nbsp; &nbsp; &nbsp; System release
+- June, 5th &nbsp; &nbsp; &nbsp; &nbsp; Camera ready
 - July, 9-14th  &nbsp; &nbsp; &nbsp; &nbsp; Workshop/Conference, Toronto, Canada.
 
 <!---

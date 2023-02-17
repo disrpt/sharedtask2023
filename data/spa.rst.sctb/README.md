@@ -15,6 +15,6 @@ Citations:
 
 In total, 100 texts are included in this corpus. The genres of these texts are: (a) scientific abstract; (b) advertisement; (c) news and (d) announcement. The topics of the corpus are: (a) terminology; (b) culture; (c) language; (d) economy; (e) education; (f) art and (g) international affairs.
 
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
 Automatic parses were added using Stanza's pretrained Spanish Ancora model, with some additional postprocessing to resolve sentence splitting errors. This dataset contains discontinuous discourse units (split 'same-unit').

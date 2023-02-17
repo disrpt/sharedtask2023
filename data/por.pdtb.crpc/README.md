@@ -13,6 +13,8 @@ More information at: https://www.clul.ulisboa.pt/en/recurso/portuguese-discourse
 
 ## DISRPT 2023 shared task information
 
+For the 2023 shared task, train/dev/test partitions were balanced for genre.
+
 The texts were tokenized using the LX-tokenizer which separates punctuation marks from words, detects sentence boundaries and deals with contracted forms and clitics in Portuguese.
 Sentence segmentation, POS tagging and syntactic parses were obtained using Stanza.
 

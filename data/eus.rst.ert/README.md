@@ -22,6 +22,6 @@ Team-Group:
   * Arantza Diaz de Ilarraza
   * Mikel Iruskieta
 
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
 Sentence splits and parses balanced by genre. Train/dev/test partitions each contain 116/24/24 documents, parses were done automatically using Stanza. This dataset contains discontinuous discourse units (split 'same-unit'). 

@@ -71,8 +71,7 @@ The predicted label (the last column) for each instance has been truncated at Le
 
 ## DISRPT 2023 shared task information
 
-This corpus is a new addition for the 2023 shared task.
-The dialogs are split into training ( section 02) and development ( section 01).
+For the 2023 shared task, the dialogs were split into training ( section 02) and development ( section 01).
 A test set will be made available during the evaluation step of the shared task.
 
 Tokenization, sentence segmentation, POS tagging and syntactic dependency parses are made available using Stanza.

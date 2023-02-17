@@ -46,6 +46,6 @@ Contact : hodac@univ-tlse2.fr
 Yann MATHET & Antoine WIDLOCHER
 ANR Project: ANNODIS
 
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
-For the DISRPT 2021 shared task on elementary discourse unit segmentation, only segmentations from the 'expert' annotation portion of the corpus were used, leaving outside the 'naive' annotation portions. Syntactic parses are automatic, generated using Spacy. For relation classification, note that this dataset contains discontinuous discourse units (analyzed as equivalent to split 'same-unit' in RST). 
+For the DISRPT 2021 and 2023 shared task on elementary discourse unit segmentation, only segmentations from the 'expert' annotation portion of the corpus were used, leaving outside the 'naive' annotation portions. Syntactic parses are automatic, generated using Spacy. For relation classification, note that this dataset contains discontinuous discourse units (analyzed as equivalent to split 'same-unit' in RST). 

@@ -13,9 +13,10 @@ If you find this work useful in your research, please cite: [arxiv.org/abs/2106.
 
 [4]  Zeldes, A. (2016, June). rstWeb-a browser-based annotation interface for Rhetorical Structure Theory and discourse relations. In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Demonstrations (pp. 1-5).
 
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
-This is the surprise dataset for DISRPT 2021, for which training, development and test data is released during the test period. Tokenization, sentence splits, POS tags, morphology and syntactic parses were added using Stanza's default `fa` model. 
+Tokenization, sentence splits, POS tags, morphology and syntactic parses were added using Stanza's default `fa` model. 
+This was the surprise dataset for DISRPT 2021.
 
 ### Notes on segmentation
 

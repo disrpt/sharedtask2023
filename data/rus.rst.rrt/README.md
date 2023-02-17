@@ -33,7 +33,7 @@ Russian RST Treebank 1.0 is publicly available under the Creative Commons - Attr
 References:
 [Mann & Thompson 1988] Mann, William C. and Sandra A. Thompson (1988). "Rhetorical Structure Theory: Toward a functional theory of text organization". In: Text 8 (3), pp.243-281.
 
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
 This dataset has been expanded with the latest files bringing the total up from 178 documents in DISRPT 2019 to 322 in DISRPT 2021. Since the Russian RST Treebank does not contain gold tokenization and sentence splitting, data was automatically tokenized and parsed using Stanza's Syntagrus model. As a result sentence splits in conll files are not always correct. Additionally, some of the scientific texts contain portions in other languages, such as bibliographical references in English, brief summaries or keywords not in Russian.
 

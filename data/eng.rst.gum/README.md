@@ -1,6 +1,6 @@
 # eng.rst.gum
 
-The Georgetown University Multilayer (GUM) corpus
+The Georgetown University Multilayer (GUM) corpus: v.9.
 
 To cite this corpus, please refer to the following article:
 
@@ -27,9 +27,9 @@ The corpus is created as part of the course LING-367 (Computational Corpus Lingu
 
 For more details see: https://gucorpling.org/gum
 
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
-For the DISRPT 2021 shared task on elementary discourse unit segmentation, only 11 open text genres are included with plain text, while the remaining genre, containing Reddit forum discussions, **must be reconstructed** using the script in `utils/process_underscores.py` (see main repository README). The data follows the normal division into train, test and dev partitions used for other tasks (e.g. for the conll shared task on UD parsing).  
+For the DISRPT 2023 shared task on elementary discourse unit segmentation, only 11 open text genres are included with plain text, while the remaining genre, containing Reddit forum discussions, **must be reconstructed** using the script in `utils/process_underscores.py` (see main repository README). The data follows the normal division into train, test and dev partitions used for other tasks (e.g. for the conll shared task on UD parsing).  
 
 POS tags and syntactic parses are manually annotated gold data. 
 

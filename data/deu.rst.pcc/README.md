@@ -19,9 +19,9 @@ In the RST framework (Mann and Thompson, 1988), a text's discourse structure can
 
 See: http://angcl.ling.uni-potsdam.de/resources/pcc.html
 
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
-For the DISRPT 2021 shared task, the data is divided into train, test and dev partitions, comprising 142, 17 and 17 documents, respectively. There are no discontinuous discourse units in the data.
+For the DISRPT 2021 and 2023 shared tasks, the data is divided into train, test and dev partitions, comprising 142, 17 and 17 documents, respectively. There are no discontinuous discourse units in the data.
 
 For relation classification, sparse some sparse original labels were collapsed into more common categories recommended by the corpus designers, as follows:
 

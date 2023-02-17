@@ -6,18 +6,18 @@ Turkish Discourse Bank 1.0 & Turkish Discourse Bank 1.1
 
 Turkish Discourse Bank 1.0 is a 400,000-word corpus funded by TÜBİTAK (The Scientific and Technological Research Council of Turkey) annotated in the PDTB style. For more information regarding TDB, please visit: http://medid.ii.metu.edu.tr/theCorpus.html. TDB 1.0 contains explicit discourse connectives as well phrasal expressions based on postpositions, i.e: 
 
--conjunctions such as 've' (and), 'ama' (but), etc. 
--adverbials such as 'aksine' (to the contrary),
--postpositions such as için 'for' (conveying the purpose or reason sense), 
--phrasal expressions such as 'bunun için' (for this reason).
+- conjunctions such as 've' (and), 'ama' (but), etc. 
+- adverbials such as 'aksine' (to the contrary),
+- postpositions such as için 'for' (conveying the purpose or reason sense), 
+- phrasal expressions such as 'bunun için' (for this reason).
 
 Postpositions are single word connectives and they always appear after the verb of the syntactically dependent argument. The phrasal expressions annotated in TDB 1.0 are derived from postpositions and mostly contain a deictic element such as 'bu' (this), 'o' (that). Phrasal expressions are a sub-type of alternative lexicalizations.   
 
 As in the PDTB, in TDB,
 
--explicit connectives may be continuous or discontinuous, as in 've' (and), 'hem ... hem' (both ... and), 
--explicit connectives may be pre-modified as in 'tam aksine' (just to the contrary); they may also be post-modified as in 'sanki ... gibi' (as if)
--phrasal expressions may be pre-modified, as in 'ancak bundan sonra' (only after this), or they may be post-modified by a focus particle, as in 'bu amaçla da' (for this reason - focus particle). 
+- explicit connectives may be continuous or discontinuous, as in 've' (and), 'hem ... hem' (both ... and), 
+- explicit connectives may be pre-modified as in 'tam aksine' (just to the contrary); they may also be post-modified as in 'sanki ... gibi' (as if)
+- phrasal expressions may be pre-modified, as in 'ancak bundan sonra' (only after this), or they may be post-modified by a focus particle, as in 'bu amaçla da' (for this reason - focus particle). 
 
 Turkish Discourse Bank 1.1 (TDB 1.1) is an extension on the Turkish Discourse Bank 1.0. TDB 1.1 added sense annotations to a subset of the Turkish Discourse Bank 1.0 (10% of the corpus, 20 documents), which consists of the content of the relation classification task for Turkish. Please refer to the paper titled "TDB 1.1: Extensions on Turkish Discourse Bank" (https://www.aclweb.org/anthology/W17-0809/) for more details. 
 

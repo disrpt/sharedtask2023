@@ -14,7 +14,7 @@ This project took into consideration not only classical approaches to single and
 
 The project was developed at NILC (Interinstitutional Center for Computational Linguistics), one of the biggest research groups on Natural Language Processing and Computational Linguistics in Brazil. It started in 2007 as a natural follow up to some previous projects on single-document summarization carried out at NILC (FAPESP #2006/02887-9; see also related projects). It was supported by the research agencies FAPESP, CNPq, and CAPES, which have granted scholarships for undergraduate and graduate students and regular financial support for the project (FAPESP# 2015/17841-3, FAPESP #2012/03071-3, FAPESP #2009/05603-0). The project was officially over at the end of 2017.
 
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
 The corpus is composed of 140 news texts clustered in 50 groups, totaling 2221 sentences. The number of texts per cluster varies from 2 to 3. Each cluster groups texts from different news sources about the same event. To avoid biases, texts from the same cluster were put together in the same split (dev, test or train). As a result, the test set is somewhat smaller than the dev set, but this was not altered in order to respect the existing splits of the corpus from other tasks and papers.
 

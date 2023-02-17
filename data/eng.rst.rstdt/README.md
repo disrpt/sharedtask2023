@@ -14,7 +14,7 @@ See: https://catalog.ldc.upenn.edu/LDC2002T07
 
 ## DISRPT 2023 shared task information
 
-For the DISRPT 2021 and 2023 shared task the data was divided into train, test and dev partitions. The original test partition of 38 documents was retained, and 38 further documents from the remaining 347 documents were set aside for the dev partition.
+For the DISRPT 2023 shared task the data was divided into train, test and dev partitions. The original test partition of 38 documents was retained, and 38 further documents from the remaining 347 documents were set aside for the dev partition.
 
 Syntactic dependency parses are made available using the CoreNLP conversion to UD syntax from the gold Penn Treebank (PTB) constituent trees where possible; however for some sentences whose text varies slightly from the version found in the PTB, automatic parses using UDPipe were introduced, to match the automatic parser used for DISRPT 2019. This dataset contains discontinuous discourse units (split 'same-unit').
 

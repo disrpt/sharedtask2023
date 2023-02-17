@@ -6,7 +6,7 @@ The Penn Discourse Treebank (PDTB) is an NSF funded project at the University of
 
 The low-level, evidence-grounded approach in the PDTB exposes a clearly defined level of discourse structure which will support the extraction of a range of inferences associated with discourse connectives. More information on the PDTB2.0 is available from [Prasad et al, 2008; Prasad et al, 2012], while detailed information on the PDTB~3.0 is available from [Prasad et al, 2018; Webber et al, 2018].
 
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
 The data come from the PDTB 3.0, comprising over 53K discourse relations, including over 12K additional intra-sentential relations that were not annotated in the PDTB 2.0, a revised sense hierarchy, and some standardized decision procedures applied to both newly annotated tokens and tokens previously annotated in the PDTB 2.0.
 

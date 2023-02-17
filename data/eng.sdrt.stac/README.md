@@ -27,6 +27,6 @@ If you use the STAC corpus in a scientific publication, we would appreciate cita
 Nicholas Asher
 E-mail: nicholas.asher@irit.fr
 
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
 The STAC dataset treats individual chat turns as utterances for the purposes of syntactic sentence segmentation in the .conllu files. Parses were done automatically using Stanza's EWT model. Note that in .tok files, it is not always possible to recognize chat turn transitions, though in the .conllu files, they are guaranteed to be split into distinct sentences. Sentences may contain multiple discourse units. The .rels files contain no split EDUs, i.e. unit1 and unit2 are always uninterrupted sequences of tokens.

@@ -12,7 +12,7 @@ Chinese Discourse Treebank 0.5, Linguistic Data Consortium (LDC) Catalog Number 
 
 Data was selected from the newswire material in Chinese Treebank 8.0 (LDC2013T21), specifically, from Xinhua News Agency stories. There are approximately 5,500 annotation instances. 
 
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
 Syntactic dependency parses are made available using the CoreNLP conversion to UD syntax from the gold Chinese Treebank constituent trees.
 

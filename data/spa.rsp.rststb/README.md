@@ -15,6 +15,6 @@ The RST Spanish Treebank is an on-line specialized text corpus for Spanish. It w
   * Fragments found between brackets are only considered as EDUs if they contain a verb.
   * Completive clauses should not be segmented, whether they represent the subject, direct object, indirect object or circumstance of a main clause.
   
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
-Automatic parses were added using Stanza's pretrained Spanish Ancora model. The data contains discontinuous discourse units (originally connected via "same-unit" relations). This dataset contains discontinuous discourse units (split 'same-unit').
+Automatic parses were added using Stanza's pretrained Spanish Ancora model. The data contains discontinuous discourse units (originally connected via "same-unit" relations). 

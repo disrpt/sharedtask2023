@@ -50,15 +50,8 @@ The data has been anonymized at token-level using the following conversions:
 | `<MISC>`      |    2 | other; not covered above                        |
 
 
+### Note on discourse relation and segmentation for spoken dialogs  
 
-## DISRPT 2023 shared task information
-
-The dialogs are split into training ( section 02) and development ( section 01).
-A test set will be made available during the evaluation step of the shared task.
-
-Tokenization, sentence segmentation, POS tagging and syntactic dependency parses are made available using Stanza.
-
-## Note on discourse relation and segmentation for spoken dialogs  
 Discourse relations may appear cross-speaker: different arguments of the same relation being in different speaker turns for elaboration relation, for instance.
 Additionally, due to the phenomena such as one speaker completing the other's utterance, even arguments may appear cross-speaker.
 Overall, in spoken dialogs the turn and speaker segmentation is not parallel to the discourse relation segmentation.
@@ -76,6 +69,13 @@ As for other PDTB like corpora, with respect to LUNA, the DISRPT task only requi
 
 The predicted label (the last column) for each instance has been truncated at Level-2. For instance, the predicted label for the sense label “Expansion.Restatement.Equivalence” would be “Expansion.Restatement”. However, we keep the original label in the third-to-last column called “orig_label”, which matches the directionality information provided in the “dir” column.
 
+## DISRPT 2023 shared task information
+
+This corpus is a new addition for the 2023 shared task.
+The dialogs are split into training ( section 02) and development ( section 01).
+A test set will be made available during the evaluation step of the shared task.
+
+Tokenization, sentence segmentation, POS tagging and syntactic dependency parses are made available using Stanza.
 
 ## References
 

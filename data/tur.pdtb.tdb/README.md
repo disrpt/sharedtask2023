@@ -21,7 +21,7 @@ As in the PDTB, in TDB,
 
 Turkish Discourse Bank 1.1 (TDB 1.1) is an extension on the Turkish Discourse Bank 1.0. TDB 1.1 added sense annotations to a subset of the Turkish Discourse Bank 1.0 (10% of the corpus, 20 documents), which consists of the content of the relation classification task for Turkish. Please refer to the paper titled "TDB 1.1: Extensions on Turkish Discourse Bank" (https://www.aclweb.org/anthology/W17-0809/) for more details. 
 
-## DISRPT 2021 shared task information
+## DISRPT 2023 shared task information
 
 The data was automatically parsed using the UDPipe Turkish model (https://github.com/jwijffels/udpipe.models.ud.2.0/blob/master/inst/udpipe-ud-2.0-170801/turkish-ud-2.0-170801.udpipe). 
 

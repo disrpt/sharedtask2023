@@ -23,7 +23,7 @@ See: http://angcl.ling.uni-potsdam.de/resources/pcc.html
 
 For the DISRPT 2023 shared tasks, the data is divided into train, test and dev partitions, comprising 142, 17 and 17 documents, respectively. There are no discontinuous discourse units in the data.
 
-For relation classification, sparse some sparse original labels were collapsed into more common categories recommended by the corpus designers, as follows:
+For relation classification, some sparse original labels were collapsed into more common categories recommended by the corpus designers, as follows:
 
   * enablement => background
   * justify => reason

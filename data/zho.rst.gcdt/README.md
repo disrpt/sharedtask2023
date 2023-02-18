@@ -10,24 +10,11 @@ GCDT is the largest (as of October 2022) hierarchical discourse treebank for Man
 
 GCDT covers over 60K tokens across five genres of freely available text, using the same relation inventory as the contemporary RST treebank for English -- GUM (https://github.com/amir-zeldes/gum). 
 
-
-### Corpus statistics 
 The corpus contains 50 documents, 10 from each of the five genres below.
 
-In total, there are 62,905 tokens and  9,717 EDUs. 
+In total, there are 62,905 tokens and  9,717 EDUs. The label set contains 32 discourse relations.
 
-We provide an 8:1:1 train:dev:test split for each genre as shown in the table below.
-
-The five test documents are double annotated and the second annotation version appears in the double/ partition.
-
-| Genre   |  #docs |  Avg #tokens/doc | Avg #EDUs/doc | Source | Dev doc | Test doc |
-|:----------:|:-------------:|------:|------:|:-------------:|:-------------:|:-------------:|
-| academic | 10 | 1416.8 | 203.3 | https://www.hanspub.org/ | gcdt_academic_peoples | gcdt_academic_dingzhen |
-| bio | 10 | 1348.5 | 202.1 | https://zh.wikipedia.org/ | gcdt_bio_byron | gcdt_bio_dvorak |
-| interview | 10 | 1146.4 | 181.2 | https://zh.wikinews.org/ | gcdt_interview_ward | gcdt_interview_wimax |
-| news | 10 | 1124.9 | 165.2 | https://zh.wikinews.org/ | gcdt_news_famine | gcdt_news_simplified |
-| wikihow | 10 | 1253.9 | 219.9 | https://zh.wikihow.com/ | gcdt_whow_hiking | gcdt_whow_thanksgiving |
-
+A train/dev/test split is given, with a 8:1:1 proportion based on genre.
 
 ## DISRPT 2021 shared task information
 

@@ -32,17 +32,22 @@ Tokenization, setence split, POS tagging and syntactic parsing were obtained wit
 
 ## References
 
-The blank entries (i.e., volume, pages, doi) in the bibtex item below will be filled in after publication in TACL.
+Link:[https://aclanthology.org/2022.tacl-1.8/](Out-of-Domain Discourse Dependency Parsing via Bootstrapping: {A}n Empirical Analysis on its Effectiveness and Limitation)
 
 ```
-@article{nishida2021outofdomain,
-    title={Out-of-Domain Discourse Dependency Parsing via Bootstrapping: {A}n Empirical Analysis on its Effectiveness and Limitation},
-    author={Nishida, Noriki and Matsumoto, Yuji},
-    journal={Transactions of the Association for Computational Linguistics},
-    volume={},
-    pages={},
-    year={2021},
-    doi={},
+@article{nishida-matsumoto-2022-domain,
+    title = "Out-of-Domain Discourse Dependency Parsing via Bootstrapping: An Empirical Analysis on Its Effectiveness and Limitation",
+    author = "Nishida, Noriki  and
+      Matsumoto, Yuji",
+    journal = "Transactions of the Association for Computational Linguistics",
+    volume = "10",
+    year = "2022",
+    address = "Cambridge, MA",
+    publisher = "MIT Press",
+    url = "https://aclanthology.org/2022.tacl-1.8",
+    doi = "10.1162/tacl_a_00451",
+    pages = "127--144",
+    abstract = "Discourse parsing has been studied for decades. However, it still remains challenging to utilize discourse parsing for real-world applications because the parsing accuracy degrades significantly on out-of-domain text. In this paper, we report and discuss the effectiveness and limitations of bootstrapping methods for adapting modern BERT-based discourse dependency parsers to out-of-domain text without relying on additional human supervision. Specifically, we investigate self-training, co-training, tri-training, and asymmetric tri-training of graph-based and transition-based discourse dependency parsing models, as well as confidence measures and sample selection criteria in two adaptation scenarios: monologue adaptation between scientific disciplines and dialogue genre adaptation. We also release COVID-19 Discourse Dependency Treebank (COVID19-DTB), a new manually annotated resource for discourse dependency parsing of biomedical paper abstracts. The experimental results show that bootstrapping is significantly and consistently effective for unsupervised domain adaptation of discourse dependency parsing, but the low coverage of accurately predicted pseudo labels is a bottleneck for further improvement. We show that active learning can mitigate this limitation.",
 }
 ```
 

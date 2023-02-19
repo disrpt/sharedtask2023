@@ -93,6 +93,10 @@ We follow the same JSON schema with [the SciDTB dataset (Yang and Li, 2018)](htt
 
 ## DISRPT 2023 shared task information
 
+The dataset only contains a dev and test split, without train section. This dataset thus corresponds to an Out of Domain setting: participants have to produce a system based on other data.
+
+Tokenization, setence split, POS tagging and syntactic parsing were obtained with Stanza. 
+
 ## References
 
 The blank entries (i.e., volume, pages, doi) in the bibtex item below will be filled in after publication in TACL.

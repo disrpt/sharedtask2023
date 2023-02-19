@@ -2,6 +2,8 @@
 
 COVID19-DTB: COVID-19 Discourse Dependency Treebank
 
+Data are available at: https://github.com/norikinishida/biomedical-discourse-treebanks
+
 ## Introduction 
 
 COVID19-DTB is a collection of manually annotated discourse dependency structures for scholarly paper abstracts on COVID-19 and related coronaviruses like SARS and MERS.

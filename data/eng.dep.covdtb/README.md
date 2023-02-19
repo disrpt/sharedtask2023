@@ -16,12 +16,18 @@ The following figure shows an actual example of discourse dependency structure f
 
 ### Description
 
-First, we sampled 300 abstracts randomly from the 2020 September snapshot of [The COVID-19 Open Research Dataset (CORD-19)](https://allenai.org/data/cord-19).
+The authors sampled 300 abstracts randomly from the 2020 September snapshot of [The COVID-19 Open Research Dataset (CORD-19)](https://allenai.org/data/cord-19).
 Then, the 300 abstracts were segmented into Elementary Discourse Units (EDUs) manually by the authors.
-Then, we employed two professional annotators to give gold discourse dependency structures to the 300 abstracts independently.
-We divided the results into development and test sets, each of which consists of 150 examples.
+Then two professional annotators annotated gold discourse dependency structures to the 300 abstracts independently.
+The results were divided into development and test sets, each of which consists of 150 examples.
 
-The further details on the annotation scheme, annotation procedure, and corpus statistics can be found in our paper.
+### Notes on segmentation
+In the paper, the authors indicate that their annotation scheme follows the RST-DT annotation guideline (Carlson and Marcu, 2001) for EDU segmentation. 
+In particular, the authors used the relation 'Same-Unit'. 
+
+### Notes on discourse relations
+Based on SciDTB and Penn Discourse Treebank (PDTB) (Prasad et al., 2008), they defined 14 discourse relation classes.
+The authors indicate that they merged some classes, such as Cause-Effect + Explain → Cause-Result. Some classes are also renamed from SciDTB to fit the biomedical domain, such as Evaluation → Findings.
 
 
 ## DISRPT 2023 shared task information

@@ -1,6 +1,6 @@
 # zho.rst.gcdt
 
-GCDT: Georgetown Chinese Discourse Treebank 
+### GCDT: Georgetown Chinese Discourse Treebank 
 
 More information at: https://github.com/logan-siyao-peng/GCDT
 
@@ -8,21 +8,22 @@ More information at: https://github.com/logan-siyao-peng/GCDT
 
 GCDT is the largest (as of October 2022) hierarchical discourse treebank for Mandarin Chinese in the framework of Rhetorical Structure Theory (RST). 
 
-GCDT covers over 60K tokens across five genres of freely available text, using the same relation inventory as the contemporary RST treebank for English -- GUM (https://github.com/amir-zeldes/gum). 
+GCDT covers over 60K tokens across five genres of freely available text, using the same relation inventory as the contemporary RST treebank for English -- [GUM](https://github.com/amir-zeldes/gum). 
 
 The corpus contains 50 documents, 10 from each of the five genres below.
 
 In total, there are 62,905 tokens and  9,717 EDUs. The label set contains 32 discourse relations.
 
-A train/dev/test split is given, with a 8:1:1 proportion based on genre.
+A `train`/`dev`/`test` split is given, with a 8:1:1 proportion based on genre.
 
-## DISRPT 2021 shared task information
+
+## DISRPT 2023 Shared Task Information
 
 Tokenization, sentence segmentation, POS tagging and syntactic dependency parses are made available using Stanza.
 
-## Citing
+## References
 
-Please cite the following for the source paper -- [GCDT: A Chinese RST Treebank for Multigenre and Multilingual Discourse Parsing](https://aclanthology.org/2022.aacl-short.47/):
+[GCDT: A Chinese RST Treebank for Multigenre and Multilingual Discourse Parsing](https://aclanthology.org/2022.aacl-short.47/) (Peng et al., AACL-IJCNLP 2022)
 
 ```
 @inproceedings{peng_gcdt_2022,
@@ -42,11 +43,9 @@ Please cite the following for the source paper -- [GCDT: A Chinese RST Treebank 
 }
 ```
 
+
 Please cite the following for the [Chinese Discourse Annotation Reference Manual](https://hal.archives-ouvertes.fr/hal-03821884):
-
-
 ```
-
 @techreport{peng_chinese_2022,
 	type = {Research {Report}},
 	title = {Chinese {Discourse} {Annotation} {Reference} {Manual}},

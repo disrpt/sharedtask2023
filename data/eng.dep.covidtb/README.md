@@ -1,10 +1,12 @@
-# eng.dep.covdtb
+# eng.dep.covidtb
 
-COVID19-DTB: COVID-19 Discourse Dependency Treebank
+### COVID19-DTB: COVID-19 Discourse Dependency Treebank
 
-Data are available at: https://github.com/norikinishida/biomedical-discourse-treebanks
 
 ## Introduction 
+
+The following information about the dataset is extracted from the original paper and repository. 
+Original data is available at https://github.com/norikinishida/biomedical-discourse-treebanks
 
 COVID19-DTB is a collection of manually annotated discourse dependency structures for scholarly paper abstracts on COVID-19 and related coronaviruses like SARS and MERS.
 
@@ -21,24 +23,28 @@ Then, the 300 abstracts were segmented into Elementary Discourse Units (EDUs) ma
 Then two professional annotators annotated gold discourse dependency structures to the 300 abstracts independently.
 The results were divided into development and test sets, each of which consists of 150 examples.
 
-### Notes on segmentation
+### Notes on Segmentation
 In the paper, the authors indicate that their annotation scheme follows the RST-DT annotation guideline (Carlson and Marcu, 2001) for EDU segmentation. 
 In particular, the authors used the relation 'Same-Unit'. 
 
-### Notes on discourse relations
-Based on SciDTB and Penn Discourse Treebank (PDTB) (Prasad et al., 2008), they defined 14 discourse relation classes.
-The authors indicate that they merged some classes, such as Cause-Effect + Explain → Cause-Result. Some classes are also renamed from SciDTB to fit the biomedical domain, such as Evaluation → Findings.
+### Notes on Discourse Relations
+Based on SciDTB and Penn Discourse Treebank (PDTB) (Prasad et al., 2008), the authors defined 14 discourse relation classes.
+They indicate that they merged some classes, such as Cause-Effect + Explain → Cause-Result. Some classes are also renamed from SciDTB to fit the biomedical domain, such as Evaluation → Findings.
 
 
-## DISRPT 2023 shared task information
+## DISRPT 2023 Shared Task Information
 
-The dataset only contains a dev and test split, without train section. This dataset thus corresponds to an Out of Domain setting: participants have to produce a system based on other data.
+The dataset only contains a `dev` and `test` partition, without a `train` partition. 
+This dataset thus corresponds to an Out of Domain setting: 
+participants have to produce a system based on other data.
 
-Tokenization, setence split, POS tagging and syntactic parsing were obtained with Stanza. 
+Tokenization, sentence splits, POS tagging, and syntactic parsing were obtained with Stanza. 
+
 
 ## References
 
-Link:[https://aclanthology.org/2022.tacl-1.8/](Out-of-Domain Discourse Dependency Parsing via Bootstrapping: {A}n Empirical Analysis on its Effectiveness and Limitation)
+[Out-of-Domain Discourse Dependency Parsing via Bootstrapping: {A}n Empirical Analysis on its Effectiveness and Limitation](https://aclanthology.org/2022.tacl-1.8/)
+(Nishida & Matsumoto, TACL 2022)
 
 ```
 @article{nishida-matsumoto-2022-domain,

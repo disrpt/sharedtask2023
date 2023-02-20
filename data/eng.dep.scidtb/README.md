@@ -36,7 +36,8 @@ background description in scientific abstracts usually has more different intent
 For the 2023 shared task, the original split from the authors is adopted, 
 with 492 documents in the `train` set, 154 in the `dev` set, and 152 in the `test` set. 
 
-Data has been tokenized, split into sentences, POS tagged, and parsed using Stanza.
+Data has been tokenized, split into sentences, POS tagged, and parsed using Stanza. 
+This dataset contains cases of token that are multi-words contraction. The tokenization reflects those cases by providing the contracted form (with a range of IDs as ID) followed by both of parts of the "extended" form.
 
 
 ## References

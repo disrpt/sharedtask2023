@@ -8,7 +8,7 @@
 [//]: # (The unified Chinese discourse dependency dataset is now composed of **SciCDTB** developed by Peking University and **SU-CDTB_{dep}** converted from CDTB developed by Soochow University.)
 
 
-The underlying data is available at https://github.com/PKU-TANGENT/UnifiedDep
+The underlying data is available at https://github.com/PKU-TANGENT/UnifiedDep but only corresponds to the SciDTB/ directory in the available data.
 
 
 ## DISRPT 2023 Shared Task Information

@@ -75,7 +75,7 @@ The following illustrate DISRPT labelling of a sentence with several distinct co
 13	。	_	PU	PU	_	12	punct	_	_
 ```
 
-### Notes on relation Classification 
+### Notes on Relation Classification 
 
 When there are multiple sense labels available, the sense label that has a lower frequency is chosen as the sense label to predict, and the directionality information thus corresponds to this chosen sense. All sense labels are included in the “orig_label” column, separated by a semicolon. 
 

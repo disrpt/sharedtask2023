@@ -1,8 +1,20 @@
 # por.rst.cstn
 
-Cross-document Structure Theory News Corpus
+### Cross-document Structure Theory News Corpus
 
-Citation: Cardoso, P.C.F.; Maziero, E.G.; Jorge, M.L.C.; Seno, E.M.R.; Di Felippo, A.; Rino, L.H.M.; Nunes, M.G.V.; Pardo, T.A.S. (2011). CSTNews - A Discourse-Annotated Corpus for Single and Multi-Document Summarization of News Texts in Brazilian Portuguese. In the Proceedings of the 3rd RST Brazilian Meeting, pp. 88-105. October 26, Cuiabá/MT, Brazil. 
+Cardoso, P.C.F.; Maziero, E.G.; Jorge, M.L.C.; Seno, E.M.R.; Di Felippo, A.; Rino, L.H.M.; Nunes, M.G.V.; Pardo, T.A.S. (2011). 
+[CSTNews - A Discourse-Annotated Corpus for Single and Multi-Document Summarization of News Texts in Brazilian Portuguese](https://www.semanticscholar.org/paper/CSTNews-A-Discourse-Annotated-Corpus-for-Single-and-Cardoso-Maziero/d84cfba46785136129a276e906119ecd190085fd). In the Proceedings of the 3rd RST Brazilian Meeting, pp. 88-105. October 26, Cuiabá/MT, Brazil. 
+```
+@InProceedings{CardosoMazieroRosarioCastroJorgeEtAl2011,
+  author    = {Paula Christina Figueira Cardoso and Erick Galani Maziero and Maria Luc\'{i}a del Rosario Castro Jorge and M. Eloize and R. Kibar Aji Seno and Ariani Di Felippo and Lucia Helena Machado Rino and Maria das Gra\c{c}as Volpe Nunes and Thiago Alexandre Salgueiro Pardo},
+  title     = {{CSTNews} - A Discourse-Annotated Corpus for Single and Multi-Document Summarization of News Texts in {B}razilian {P}ortuguese},
+  booktitle = {Proceedings of the 3rd RST Brazilian Meeting},
+  year      = {2011},
+  pages     = {88--105},
+  address   = {Cuiab\'{a}, Brazil}
+}
+```
+
 
 ## Introduction
 
@@ -14,7 +26,8 @@ This project took into consideration not only classical approaches to single and
 
 The project was developed at NILC (Interinstitutional Center for Computational Linguistics), one of the biggest research groups on Natural Language Processing and Computational Linguistics in Brazil. It started in 2007 as a natural follow up to some previous projects on single-document summarization carried out at NILC (FAPESP #2006/02887-9; see also related projects). It was supported by the research agencies FAPESP, CNPq, and CAPES, which have granted scholarships for undergraduate and graduate students and regular financial support for the project (FAPESP# 2015/17841-3, FAPESP #2012/03071-3, FAPESP #2009/05603-0). The project was officially over at the end of 2017.
 
-## DISRPT 2023 shared task information
+
+## DISRPT 2023 Shared Task Information
 
 The corpus is composed of 140 news texts clustered in 50 groups, totaling 2221 sentences. The number of texts per cluster varies from 2 to 3. Each cluster groups texts from different news sources about the same event. To avoid biases, texts from the same cluster were put together in the same split (dev, test or train). As a result, the test set is somewhat smaller than the dev set, but this was not altered in order to respect the existing splits of the corpus from other tasks and papers.
 
@@ -41,4 +54,5 @@ Data was automatically parsed using the Stanza Portuguese model (based on UD Por
 ...
 ```
 
+### Notes
 This dataset contains discontinuous discourse units (split 'same-unit'). 

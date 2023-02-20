@@ -1,11 +1,39 @@
 # eus.rst.ert
 
-RST Basque TreeBank
+### RST Basque TreeBank
 
-Citations: 
+### References: 
 
-  * Iruskieta, M.; Aranzabe, M.J.; Diaz de Ilarraza, A.; Gonzalez, I.; Lersundi, M.; Lopez de la Calle, O. 2013. The RST Basque TreeBank: an online search interface to check rhetorical relations. Paper presented at the 4th Workshop ''RST and Discourse Studies'', Brasil, October 21-23.
-  * Aranzabe, M. J., Atutxa, A., Bengoetxea, K., de Ilarraza, A. D., Goenaga, I., Gojenola, K., & Uria, L. 2015. Automatic conversion of the basque dependency treebank to universal dependencies. In Proceedings of the fourteenth international workshop on treebanks an linguistic theories (TLT14) (pp. 233-241).
+Iruskieta, M.; Aranzabe, M.J.; Diaz de Ilarraza, A.; Gonzalez, I.; Lersundi, M.; Lopez de la Calle, O. 2013. 
+[The RST Basque TreeBank: An online search interface to check rhetorical relations](https://www.semanticscholar.org/paper/The-RST-Basque-TreeBank-%3A-an-online-search-to-check-Iruskieta-Aranzabe/e5dff6e196a6462906f00a6f264d6e4b5eb2c58e). 
+Paper presented at the 4th Workshop ''RST and Discourse Studies'', Brasil, October 21-23.
+```
+ @InProceedings{IruskietaAranzabeIlarrazaEtAl2013,
+  author    = {Mikel Iruskieta and Mar\'{i}a Jes\'{u}s Aranzabe and Arantza Diaz de Ilarraza and Itziar Gonzalez-Dios and Mikel Lersundi and Oier Lopez de Lacalle},
+  title     = {The {RST} {B}asque {TreeBank}: An Online Search Interface to Check Rhetorical Relations},
+  booktitle = {4th Workshop on RST and Discourse Studies},
+  year      = {2013},
+  pages     = {40-49},
+  address   = {Fortaleza, Brasil},
+  timestamp = {2019-03-14},
+}
+```
+
+Aranzabe, M. J., Atutxa, A., Bengoetxea, K., de Ilarraza, A. D., Goenaga, I., Gojenola, K., & Uria, L. 2015. 
+[Automatic conversion of the basque dependency treebank to universal dependencies](https://www.semanticscholar.org/paper/Automatic-Conversion-of-the-Basque-Dependency-to-Aranzabe-Atutxa/ffd4a990afcf6422ab5d56a46ac16c22d0e9737a). 
+In Proceedings of the fourteenth international workshop on treebanks an linguistic theories (TLT14) (pp. 233-241).
+```
+@InProceedings{Aranzabe2015AutomaticCO,
+  title={Automatic Conversion of the Basque Dependency Treebank to Universal Dependencies},
+  author={Mar{\'i}a Jes{\'u}s Aranzabe and Aitziber Atutxa and Kepa Bengoetxea and Arantza D{\'i}az and Deliana Ilarraza and Iakes Goenaga and Koldo Gojenola},
+  booktitle={the fourteenth international workshop on treebanks an linguistic theories (TLT14)},
+  year={2015},
+  pages={233-241},
+  address={Warsaw, Poland},
+}
+```
+
+
 
 ## Introduction
 
@@ -22,6 +50,8 @@ Team-Group:
   * Arantza Diaz de Ilarraza
   * Mikel Iruskieta
 
-## DISRPT 2023 shared task information
+## DISRPT 2023 Shared Task Information
 
-Sentence splits and parses balanced by genre. Train/dev/test partitions each contain 116/24/24 documents, parses were done automatically using Stanza. This dataset contains discontinuous discourse units (split 'same-unit'). 
+Sentence splits and parses balanced by genre. 
+The `train`/`dev`/`test` partitions contain 116/24/24 documents respectively, parses were done automatically using Stanza. 
+This dataset contains discontinuous discourse units (split 'same-unit'). 

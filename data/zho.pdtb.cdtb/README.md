@@ -1,8 +1,19 @@
 # zho.pdtb.cdtb
 
-Chinese Discourse Treebank 0.5
+### Chinese Discourse Treebank 0.5
 
-Citation: Zhou, Yuping, et al. Chinese Discourse Treebank 0.5 LDC2014T21. Web Download. Philadelphia: Linguistic Data Consortium, 2014.
+Zhou, Yuping, et al. [Chinese Discourse Treebank 0.5 LDC2014T21](https://catalog.ldc.upenn.edu/LDC2014T21). Web Download. Philadelphia: Linguistic Data Consortium, 2014.
+
+```
+@Misc{CDTB-LDC,
+  author       = {Yuping Zhou, Jill Lu, Jennifer Zhang, Nianwen Xue},
+  year         = {2014},
+  title        = {{Chinese Discourse Treebank 0.5 LDC2014T21}},
+  organization = {Linguistic Data Consortium},
+  address      = {Philadelphia}
+}
+```
+
 
 ## Introduction
 
@@ -10,17 +21,17 @@ Chinese Discourse Treebank 0.5, Linguistic Data Consortium (LDC) Catalog Number 
 
 ### Data
 
-Data was selected from the newswire material in Chinese Treebank 8.0 (LDC2013T21), specifically, from Xinhua News Agency stories. There are approximately 5,500 annotation instances. 
+Data was selected from the newswire material in [Chinese Treebank 8.0 (LDC2013T21)](https://catalog.ldc.upenn.edu/LDC2013T21), specifically, from Xinhua News Agency stories. There are approximately 5,500 annotation instances. 
 
-## DISRPT 2023 shared task information
+## DISRPT 2023 Shared Task Information
 
 Syntactic dependency parses are made available using the CoreNLP conversion to UD syntax from the gold Chinese Treebank constituent trees.
 
-### Obtaining the text
+### Obtaining the Text
 
 Since the underlying Xinhua news text cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain a copy of the LDC release of the Chinese Discourse Treebank 0.5 (LDC2014T21) and run the Python script in `utils/process_underscores.py cdtb -m add`. For more details, run `python utils/process_underscores.py -h`. 
 
-### Notes on segmentation
+### Notes on Segmentation
 
 (The organizers wish to thank Bonnie Webber for this introduction; see also the description of the English PDTB)
 
@@ -64,7 +75,7 @@ The following illustrate DISRPT labelling of a sentence with several distinct co
 13	。	_	PU	PU	_	12	punct	_	_
 ```
 
-### Notes on relation classification 
+### Notes on relation Classification 
 
 When there are multiple sense labels available, the sense label that has a lower frequency is chosen as the sense label to predict, and the directionality information thus corresponds to this chosen sense. All sense labels are included in the “orig_label” column, separated by a semicolon. 
 

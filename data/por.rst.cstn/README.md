@@ -18,7 +18,7 @@ The project was developed at NILC (Interinstitutional Center for Computational L
 
 The corpus is composed of 140 news texts clustered in 50 groups, totaling 2221 sentences. The number of texts per cluster varies from 2 to 3. Each cluster groups texts from different news sources about the same event. To avoid biases, texts from the same cluster were put together in the same split (dev, test or train). As a result, the test set is somewhat smaller than the dev set, but this was not altered in order to respect the existing splits of the corpus from other tasks and papers.
 
-Data was automatically parsed using the Stanza Portuguese model (based on UD Portuguese-Bosque 2.7). Note that the data includes .conllu multiword tokens, for example fused articles and prepositions are decomposed automatically:
+Data was automatically parsed using the Stanza Portuguese model (based on UD Portuguese-Bosque 2.7). Note that the data includes .conllu multi-word tokens, for example fused articles and prepositions are decomposed automatically:
 
 ```
 # newdoc id = D4_C36_JB

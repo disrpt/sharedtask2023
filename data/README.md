@@ -148,7 +148,7 @@ File `*.rels` are given in a 12 columns format, separated by tabulation, as desc
 - label&rarr;  Label to predict, maximum 2 level of sub-label
 
 ## Syntactic parsing
-Some languages allow multi-words contraction :  
+Some languages allow multi-word contraction :  
     - English: `that's` &rarr; `that` + `is`  
     - German: `im` &rarr; `in` + `dem`  
     ...  

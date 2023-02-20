@@ -15,7 +15,8 @@ If you find this work useful in your research, please cite: [arxiv.org/abs/2106.
 
 ## DISRPT 2023 shared task information
 
-Tokenization, sentence splits, POS tags, morphology and syntactic parses were added using Stanza's default `fa` model. 
+Tokenization, sentence splits, POS tags, morphology and syntactic parses were added using Stanza's default `fa` model.
+This dataset contains cases of token that are multi-word contraction. Tokenization reflects those cases by providing the contracted form (with a range of IDs as ID) followed by both of parts of the "extended" form.
 This was the surprise dataset for DISRPT 2021.
 
 ### Notes on segmentation

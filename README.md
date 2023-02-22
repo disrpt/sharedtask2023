@@ -39,9 +39,9 @@ The shared task repository currently comprises the following directories (to be 
 
 See the README files in individual data directories for more details on each dataset.
 
-## Surprise language
+## Surprise language(s)
 
-At the release of the test data, a surprise language dataset will be added! We will disclose the language for this future corpus soon, to allow teams to be ready.
+At the release of the test data, surprise language datasets will be added! We will disclose the languages for this future corpus soon, to allow teams to be ready.
 
 
 ## Submitting a System

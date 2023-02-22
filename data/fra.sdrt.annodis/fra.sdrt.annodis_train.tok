@@ -1,4 +1,4 @@
-# newdoc id = news_28_21-01-2003
+# newdoc_id = news_28_21-01-2003
 1	Milutinovic	_	_	_	_	_	_	_	BeginSeg=Yes
 2	devant	_	_	_	_	_	_	_	_
 3	le	_	_	_	_	_	_	_	_
@@ -162,7 +162,7 @@
 161	Haye	_	_	_	_	_	_	_	_
 162	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_20_21-01-2003
+# newdoc_id = news_20_21-01-2003
 1	Rixe	_	_	_	_	_	_	_	BeginSeg=Yes
 2	à	_	_	_	_	_	_	_	_
 3	Montbéliard	_	_	_	_	_	_	_	_
@@ -376,7 +376,7 @@
 211	quoi	_	_	_	_	_	_	_	_
 212	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_13_18-06-1999
+# newdoc_id = news_13_18-06-1999
 1	Le	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Petit	_	_	_	_	_	_	_	_
 3	Prince	_	_	_	_	_	_	_	_
@@ -699,7 +699,7 @@
 320	.	_	_	_	_	_	_	_	_
 321	»	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_07_02-04-2006
+# newdoc_id = wik1_07_02-04-2006
 1	Omertà	_	_	_	_	_	_	_	BeginSeg=Yes
 2	(	_	_	_	_	_	_	_	BeginSeg=Yes
 3	loi	_	_	_	_	_	_	_	_
@@ -806,7 +806,7 @@
 104	avant	_	_	_	_	_	_	_	_
 105	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_12_02-04-2006
+# newdoc_id = wik1_12_02-04-2006
 1	Amorrites	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Les	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Amorrites	_	_	_	_	_	_	_	_
@@ -1085,7 +1085,7 @@
 276	principales	_	_	_	_	_	_	_	_
 277	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_08_02-04-2006
+# newdoc_id = wik1_08_02-04-2006
 1	Panchromatique	_	_	_	_	_	_	_	BeginSeg=Yes
 2	On	_	_	_	_	_	_	_	BeginSeg=Yes
 3	appelle	_	_	_	_	_	_	_	_
@@ -1193,7 +1193,7 @@
 105	bleu	_	_	_	_	_	_	_	_
 106	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_05_1_02-04-2006
+# newdoc_id = wik1_05_1_02-04-2006
 1	Fin	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	l'	_	_	_	_	_	_	_	_
@@ -1489,7 +1489,7 @@
 293	Rhénanie	_	_	_	_	_	_	_	_
 294	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_25_16-10-2002
+# newdoc_id = news_25_16-10-2002
 1	Voyage	_	_	_	_	_	_	_	BeginSeg=Yes
 2	au	_	_	_	_	_	_	_	_
 3	coeur	_	_	_	_	_	_	_	_
@@ -1728,7 +1728,7 @@
 236	16	_	_	_	_	_	_	_	_
 237	h.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_30_10-01-2003
+# newdoc_id = news_30_10-01-2003
 1	COURCELLES	_	_	_	_	_	_	_	BeginSeg=Yes
 2	-	_	_	_	_	_	_	_	_
 3	LES	_	_	_	_	_	_	_	_
@@ -1962,7 +1962,7 @@
 231	Lyon	_	_	_	_	_	_	_	_
 232	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_27_21-01-2003
+# newdoc_id = news_27_21-01-2003
 1	Côte	_	_	_	_	_	_	_	BeginSeg=Yes
 2	d'	_	_	_	_	_	_	_	_
 3	Ivoire	_	_	_	_	_	_	_	_
@@ -2146,7 +2146,7 @@
 181	Orsay	_	_	_	_	_	_	_	_
 182	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_15_02-04-2006
+# newdoc_id = wik1_15_02-04-2006
 1	Cyclone	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Erica	_	_	_	_	_	_	_	_
 3	Le	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -3261,7 +3261,7 @@
 1112	Salée	_	_	_	_	_	_	_	_
 1113	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_31_10-01-2003
+# newdoc_id = news_31_10-01-2003
 1	Denise	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Jacquin	_	_	_	_	_	_	_	_
 3	n'	_	_	_	_	_	_	_	_
@@ -3628,7 +3628,7 @@
 364	condoléances	_	_	_	_	_	_	_	_
 365	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_01_02-04-2006
+# newdoc_id = wik1_01_02-04-2006
 1	Le	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Ban	_	_	_	_	_	_	_	_
 3	Amendment	_	_	_	_	_	_	_	_
@@ -4045,7 +4045,7 @@
 414	membres	_	_	_	_	_	_	_	_
 415	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_14_02-04-2006
+# newdoc_id = wik1_14_02-04-2006
 1	Une	_	_	_	_	_	_	_	BeginSeg=Yes
 2	espèce	_	_	_	_	_	_	_	_
 3	domestiquée	_	_	_	_	_	_	_	_
@@ -4331,7 +4331,7 @@
 283	aujourd'hui	_	_	_	_	_	_	_	_
 284	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_09_02-04-2006
+# newdoc_id = wik1_09_02-04-2006
 1	Limites	_	_	_	_	_	_	_	BeginSeg=Yes
 2	et	_	_	_	_	_	_	_	_
 3	défauts	_	_	_	_	_	_	_	_
@@ -4993,7 +4993,7 @@
 659	facturations	_	_	_	_	_	_	_	_
 660	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_23_04-03-2002
+# newdoc_id = news_23_04-03-2002
 1	Une	_	_	_	_	_	_	_	BeginSeg=Yes
 2	première	_	_	_	_	_	_	_	_
 3	réunion	_	_	_	_	_	_	_	_
@@ -5472,7 +5472,7 @@
 476	française	_	_	_	_	_	_	_	_
 477	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_12_18-06-1999
+# newdoc_id = news_12_18-06-1999
 1	L'	_	_	_	_	_	_	_	BeginSeg=Yes
 2	éclipse	_	_	_	_	_	_	_	_
 3	du	_	_	_	_	_	_	_	_
@@ -5847,7 +5847,7 @@
 372	maintenant	_	_	_	_	_	_	_	_
 373	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_21_21-01-2003
+# newdoc_id = news_21_21-01-2003
 1	L'	_	_	_	_	_	_	_	BeginSeg=Yes
 2	association	_	_	_	_	_	_	_	_
 3	paroissiale	_	_	_	_	_	_	_	_
@@ -6236,7 +6236,7 @@
 386	Mermet	_	_	_	_	_	_	_	_
 387	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_13_02-04-2006
+# newdoc_id = wik1_13_02-04-2006
 1	Arthur	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Penn	_	_	_	_	_	_	_	_
 3	Arthur	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -6631,7 +6631,7 @@
 392	indéniablement	_	_	_	_	_	_	_	_
 393	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_06_02-04-2006
+# newdoc_id = wik1_06_02-04-2006
 1	Les	_	_	_	_	_	_	_	BeginSeg=Yes
 2	réactions	_	_	_	_	_	_	_	_
 3	Les	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -6900,7 +6900,7 @@
 266	Wallonie	_	_	_	_	_	_	_	_
 267	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_29_21-01-2003
+# newdoc_id = news_29_21-01-2003
 1	Présidente	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	la	_	_	_	_	_	_	_	_
@@ -7508,7 +7508,7 @@
 605	Chantal	_	_	_	_	_	_	_	BeginSeg=Yes
 606	DIDIER	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_11_02-04-2006
+# newdoc_id = wik1_11_02-04-2006
 1	Amelia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Island	_	_	_	_	_	_	_	_
 3	Amelia	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -7766,7 +7766,7 @@
 255	féminin	_	_	_	_	_	_	_	_
 256	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_04_02-04-2006
+# newdoc_id = wik1_04_02-04-2006
 1	Inhibition	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	contact	_	_	_	_	_	_	_	_
@@ -7946,7 +7946,7 @@
 177	simple	_	_	_	_	_	_	_	_
 178	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_19_02-04-2006
+# newdoc_id = wik1_19_02-04-2006
 1	Massacre	_	_	_	_	_	_	_	BeginSeg=Yes
 2	d'	_	_	_	_	_	_	_	_
 3	Ispahan	_	_	_	_	_	_	_	_
@@ -8433,7 +8433,7 @@
 484	Tamerlan	_	_	_	_	_	_	_	_
 485	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_22_25-02-2002
+# newdoc_id = news_22_25-02-2002
 1	Jet	_	_	_	_	_	_	_	BeginSeg=Yes
 2	d'	_	_	_	_	_	_	_	_
 3	éponge	_	_	_	_	_	_	_	_
@@ -8780,7 +8780,7 @@
 344	prochain	_	_	_	_	_	_	_	_
 345	...	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_03_02-04-2006
+# newdoc_id = wik1_03_02-04-2006
 1	Houessou	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Akaba	_	_	_	_	_	_	_	_
 3	Houessou	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -8844,7 +8844,7 @@
 61	couteau	_	_	_	_	_	_	_	_
 62	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_16_02-04-2006
+# newdoc_id = wik1_16_02-04-2006
 1	Exobiologie	_	_	_	_	_	_	_	BeginSeg=Yes
 2	L	_	_	_	_	_	_	_	BeginSeg=Yes
 3	'	_	_	_	_	_	_	_	_
@@ -9127,7 +9127,7 @@
 280	significatives	_	_	_	_	_	_	_	_
 281	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_14_30-06-1999
+# newdoc_id = news_14_30-06-1999
 1	Une	_	_	_	_	_	_	_	BeginSeg=Yes
 2	pluie	_	_	_	_	_	_	_	_
 3	d'	_	_	_	_	_	_	_	_
@@ -9387,7 +9387,7 @@
 257	tourisme	_	_	_	_	_	_	_	_
 258	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_24_21-01-2003
+# newdoc_id = news_24_21-01-2003
 1	Premier	_	_	_	_	_	_	_	BeginSeg=Yes
 2	tour	_	_	_	_	_	_	_	_
 3	des	_	_	_	_	_	_	_	_
@@ -9679,7 +9679,7 @@
 289	rattraper	_	_	_	_	_	_	_	_
 290	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_26_10-01-2003
+# newdoc_id = news_26_10-01-2003
 1	Un	_	_	_	_	_	_	_	BeginSeg=Yes
 2	acte	_	_	_	_	_	_	_	_
 3	malveillant	_	_	_	_	_	_	_	_
@@ -9960,7 +9960,7 @@
 278	.	_	_	_	_	_	_	_	_
 279	C.L.	_	_	_	_	_	_	_	BeginSeg=Yes
 
-# newdoc id = wik1_05_2_02-04-2006
+# newdoc_id = wik1_05_2_02-04-2006
 1	Règne	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Le	_	_	_	_	_	_	_	BeginSeg=Yes
 3	règne	_	_	_	_	_	_	_	_
@@ -10563,7 +10563,7 @@
 600	souverain	_	_	_	_	_	_	_	_
 601	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_17_02-04-2006
+# newdoc_id = wik1_17_02-04-2006
 1	Chouette	_	_	_	_	_	_	_	BeginSeg=Yes
 2	hulotte	_	_	_	_	_	_	_	_
 3	--	_	_	_	_	_	_	_	_
@@ -10801,7 +10801,7 @@
 235	réjection	_	_	_	_	_	_	_	_
 236	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_02_02-04-2006
+# newdoc_id = wik1_02_02-04-2006
 1	Franco	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Sbarro	_	_	_	_	_	_	_	_
 3	Francesco	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -11417,7 +11417,7 @@
 613	Sbarro	_	_	_	_	_	_	_	_
 614	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_16_18-07-1999
+# newdoc_id = news_16_18-07-1999
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	batterie	_	_	_	_	_	_	_	_
 3	sans	_	_	_	_	_	_	_	_
@@ -11641,7 +11641,7 @@
 221	tristounet	_	_	_	_	_	_	_	_
 222	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_18_02-04-2006
+# newdoc_id = wik1_18_02-04-2006
 1	Inspecteur	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Bayard	_	_	_	_	_	_	_	_
 3	L'	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -11879,7 +11879,7 @@
 235	Monsieur	_	_	_	_	_	_	_	_
 236	K.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_10_02-04-2006
+# newdoc_id = wik1_10_02-04-2006
 1	De	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Mariana	_	_	_	_	_	_	_	_
 3	à	_	_	_	_	_	_	_	_
@@ -12603,7 +12603,7 @@
 721	”	_	_	_	_	_	_	_	_
 722	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_03_17-05-1999
+# newdoc_id = news_03_17-05-1999
 1	Gutenberg	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Cette	_	_	_	_	_	_	_	BeginSeg=Yes
 3	exposition	_	_	_	_	_	_	_	_
@@ -12764,7 +12764,7 @@
 158	Ancerville	_	_	_	_	_	_	_	_
 159	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_08_23-05-1999
+# newdoc_id = news_08_23-05-1999
 1	Le	_	_	_	_	_	_	_	BeginSeg=Yes
 2	président	_	_	_	_	_	_	_	_
 3	Simon	_	_	_	_	_	_	_	_
@@ -13062,7 +13062,7 @@
 295	diable	_	_	_	_	_	_	_	_
 296	!	_	_	_	_	_	_	_	_
 
-# newdoc id = news_04_17-05-1999
+# newdoc_id = news_04_17-05-1999
 1	Les	_	_	_	_	_	_	_	BeginSeg=Yes
 2	enfants	_	_	_	_	_	_	_	_
 3	et	_	_	_	_	_	_	_	_
@@ -13281,7 +13281,7 @@
 216	domicile	_	_	_	_	_	_	_	_
 217	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_23_02-04-2006
+# newdoc_id = wik1_23_02-04-2006
 1	L’	_	_	_	_	_	_	_	BeginSeg=Yes
 2	art	_	_	_	_	_	_	_	_
 3	en	_	_	_	_	_	_	_	_
@@ -13978,7 +13978,7 @@
 694	récipiendaire	_	_	_	_	_	_	_	_
 695	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_07_23-05-1999
+# newdoc_id = news_07_23-05-1999
 1	Décès	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	Guy	_	_	_	_	_	_	_	_
@@ -14268,7 +14268,7 @@
 287	enfants	_	_	_	_	_	_	_	_
 288	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_06_23-05-1999
+# newdoc_id = news_06_23-05-1999
 1	L'	_	_	_	_	_	_	_	BeginSeg=Yes
 2	agenda	_	_	_	_	_	_	_	_
 3	sportif	_	_	_	_	_	_	_	_
@@ -14448,7 +14448,7 @@
 177	club	_	_	_	_	_	_	_	_
 178	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_22_02-04-2006
+# newdoc_id = wik1_22_02-04-2006
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	psychothérapie	_	_	_	_	_	_	_	_
 3	est	_	_	_	_	_	_	_	_
@@ -14708,7 +14708,7 @@
 257	remboursée	_	_	_	_	_	_	_	_
 258	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_18_21-01-2003
+# newdoc_id = news_18_21-01-2003
 1	Création	_	_	_	_	_	_	_	BeginSeg=Yes
 2	d'	_	_	_	_	_	_	_	_
 3	un	_	_	_	_	_	_	_	_
@@ -14952,7 +14952,7 @@
 241	vendredis	_	_	_	_	_	_	_	_
 242	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_05_17-05-1999
+# newdoc_id = news_05_17-05-1999
 1	Une	_	_	_	_	_	_	_	BeginSeg=Yes
 2	nouvelle	_	_	_	_	_	_	_	_
 3	école	_	_	_	_	_	_	_	_
@@ -15374,7 +15374,7 @@
 419	esprit	_	_	_	_	_	_	_	_
 420	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_25_02-04-2006
+# newdoc_id = wik1_25_02-04-2006
 1	Jean	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Paulhan	_	_	_	_	_	_	_	_
 3	Jean	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -15773,7 +15773,7 @@
 396	Résistance	_	_	_	_	_	_	_	_
 397	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_17_21-01-2003
+# newdoc_id = news_17_21-01-2003
 1	Que	_	_	_	_	_	_	_	BeginSeg=Yes
 2	la	_	_	_	_	_	_	_	_
 3	lumière	_	_	_	_	_	_	_	_
@@ -16168,7 +16168,7 @@
 392	cité	_	_	_	_	_	_	_	_
 393	!	_	_	_	_	_	_	_	_
 
-# newdoc id = news_09_23-05-1999
+# newdoc_id = news_09_23-05-1999
 1	Toi	_	_	_	_	_	_	_	BeginSeg=Yes
 2	mon	_	_	_	_	_	_	_	_
 3	toit	_	_	_	_	_	_	_	_
@@ -16356,7 +16356,7 @@
 185	km	_	_	_	_	_	_	_	_
 186	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_02_17-05-1999
+# newdoc_id = news_02_17-05-1999
 1	Espoir	_	_	_	_	_	_	_	BeginSeg=Yes
 2	La	_	_	_	_	_	_	_	BeginSeg=Yes
 3	remise	_	_	_	_	_	_	_	_
@@ -16659,7 +16659,7 @@
 300	18	_	_	_	_	_	_	_	_
 301	h.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_15_21-01-2003
+# newdoc_id = news_15_21-01-2003
 1	Suzanne	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Sequin	_	_	_	_	_	_	_	_
 3	n'	_	_	_	_	_	_	_	_
@@ -16993,7 +16993,7 @@
 331	condoléances	_	_	_	_	_	_	_	_
 332	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_20_02-04-2006
+# newdoc_id = wik1_20_02-04-2006
 1	René	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Léon	_	_	_	_	_	_	_	_
 3	Bourret	_	_	_	_	_	_	_	_
@@ -17339,7 +17339,7 @@
 343	Toulouse	_	_	_	_	_	_	_	_
 344	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_11_23-05-1999
+# newdoc_id = news_11_23-05-1999
 1	Un	_	_	_	_	_	_	_	BeginSeg=Yes
 2	véhicule	_	_	_	_	_	_	_	_
 3	a	_	_	_	_	_	_	_	_
@@ -17550,7 +17550,7 @@
 208	contrôle	_	_	_	_	_	_	_	_
 209	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_10_23-05-1999
+# newdoc_id = news_10_23-05-1999
 1	Un	_	_	_	_	_	_	_	BeginSeg=Yes
 2	malaise	_	_	_	_	_	_	_	_
 3	Il	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -17741,7 +17741,7 @@
 188	A36	_	_	_	_	_	_	_	_
 189	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_01_17-05-1999
+# newdoc_id = news_01_17-05-1999
 1	Amélioration	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	la	_	_	_	_	_	_	_	_
@@ -17876,7 +17876,7 @@
 132	1999	_	_	_	_	_	_	_	_
 133	.	_	_	_	_	_	_	_	_
 
-# newdoc id = news_19_30-08-1999
+# newdoc_id = news_19_30-08-1999
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Soleuvre	_	_	_	_	_	_	_	_
 3	:	_	_	_	_	_	_	_	_
@@ -18091,7 +18091,7 @@
 212	.	_	_	_	_	_	_	_	_
 213	»	_	_	_	_	_	_	_	_
 
-# newdoc id = wik1_21_02-04-2006
+# newdoc_id = wik1_21_02-04-2006
 1	Le	_	_	_	_	_	_	_	BeginSeg=Yes
 2	scandale	_	_	_	_	_	_	_	_
 3	qui	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -18347,7 +18347,7 @@
 253	version	_	_	_	_	_	_	_	_
 254	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik2_attentats11sept_abstract
+# newdoc_id = wik2_attentats11sept_abstract
 1	Attentats	_	_	_	_	_	_	_	BeginSeg=Yes
 2	du	_	_	_	_	_	_	_	_
 3	11	_	_	_	_	_	_	_	_
@@ -18789,7 +18789,7 @@
 439	toxiques	_	_	_	_	_	_	_	_
 440	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik2_homoSapiens_origines
+# newdoc_id = wik2_homoSapiens_origines
 1	Homo	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Sapiens	_	_	_	_	_	_	_	_
 3	-	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -19423,7 +19423,7 @@
 631	représentants	_	_	_	_	_	_	_	_
 632	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik2_noamChomsky_abstract
+# newdoc_id = wik2_noamChomsky_abstract
 1	Noam	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Chomsky	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
@@ -19928,7 +19928,7 @@
 502	consacrés	_	_	_	_	_	_	_	_
 503	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik2_rechauffementClimatique_section1_3
+# newdoc_id = wik2_rechauffementClimatique_section1_3
 1	Temps	_	_	_	_	_	_	_	BeginSeg=Yes
 2	historiques	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
@@ -20427,7 +20427,7 @@
 496	ans	_	_	_	_	_	_	_	_
 497	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik2_rechauffementClimatique_section4_1
+# newdoc_id = wik2_rechauffementClimatique_section4_1
 1	Modèles	_	_	_	_	_	_	_	BeginSeg=Yes
 2	climatiques	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
@@ -20808,7 +20808,7 @@
 378	climat	_	_	_	_	_	_	_	_
 379	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik2_rechauffementClimatique_section7_2
+# newdoc_id = wik2_rechauffementClimatique_section7_2
 1	L'	_	_	_	_	_	_	_	BeginSeg=Yes
 2	UE	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -21392,7 +21392,7 @@
 581	climatique	_	_	_	_	_	_	_	_
 582	.	_	_	_	_	_	_	_	_
 
-# newdoc id = wik2_rechauffementClimatique_section7_32
+# newdoc_id = wik2_rechauffementClimatique_section7_32
 1	Californie	_	_	_	_	_	_	_	BeginSeg=Yes
 2	.	_	_	_	_	_	_	_	_
 3	Alors	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -22061,7 +22061,7 @@
 666	nucléaire	_	_	_	_	_	_	_	_
 667	.	_	_	_	_	_	_	_	_
 
-# newdoc id = geop_3_effort
+# newdoc_id = geop_3_effort
 1	Un	_	_	_	_	_	_	_	BeginSeg=Yes
 2	effort	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_

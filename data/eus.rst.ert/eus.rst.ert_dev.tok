@@ -1,4 +1,4 @@
-# newdoc id = GMB0001
+# newdoc_id = GMB0001
 1	Birikietako	_	_	_	_	_	_	_	BeginSeg=Yes
 2	tuberkulosiak	_	_	_	_	_	_	_	_
 3	tratatzeko	_	_	_	_	_	_	_	_
@@ -261,7 +261,7 @@
 260	duela	_	_	_	_	_	_	_	_
 261	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0201
+# newdoc_id = GMB0201
 1	Bronkiektasia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eta	_	_	_	_	_	_	_	_
 3	BGBK	_	_	_	_	_	_	_	_
@@ -664,7 +664,7 @@
 400	salbuespen	_	_	_	_	_	_	_	_
 401	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0801
+# newdoc_id = GMB0801
 1	Hipertentsio	_	_	_	_	_	_	_	BeginSeg=Yes
 2	arterialaren	_	_	_	_	_	_	_	_
 3	ikerketa	_	_	_	_	_	_	_	_
@@ -769,7 +769,7 @@
 102	genuke	_	_	_	_	_	_	_	_
 103	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF13
+# newdoc_id = INF13
 1	Ortografia-erroreak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eta	_	_	_	_	_	_	_	_
 3	konpetentzia	_	_	_	_	_	_	_	_
@@ -916,7 +916,7 @@
 144	baztertzeko	_	_	_	_	_	_	_	_
 145	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF18
+# newdoc_id = INF18
 1	Datuetatik	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ezagutzara	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
@@ -1045,7 +1045,7 @@
 126	helburua	_	_	_	_	_	_	_	_
 127	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF20
+# newdoc_id = INF20
 1	Tresna	_	_	_	_	_	_	_	BeginSeg=Yes
 2	linguistikoak	_	_	_	_	_	_	_	_
 3	informazioa	_	_	_	_	_	_	_	_
@@ -1144,7 +1144,7 @@
 96	dituzte	_	_	_	_	_	_	_	_
 97	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB12
+# newdoc_id = LAB12
 1	Zuhaitzak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ez	_	_	_	_	_	_	_	_
 3	dira	_	_	_	_	_	_	_	_
@@ -1320,7 +1320,7 @@
 173	jokatzea	_	_	_	_	_	_	_	_
 174	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB23
+# newdoc_id = LAB23
 1	ERAGILE	_	_	_	_	_	_	_	BeginSeg=Yes
 2	GEOLOGIKO	_	_	_	_	_	_	_	_
 3	edo	_	_	_	_	_	_	_	_
@@ -1857,7 +1857,7 @@
 534	zen	_	_	_	_	_	_	_	_
 535	.	_	_	_	_	_	_	_	_
 
-# newdoc id = MIS6
+# newdoc_id = MIS6
 1	Egunkaria-kirola	_	_	_	_	_	_	_	BeginSeg=Yes
 2	(	_	_	_	_	_	_	_	_
 3	2000/07/02	_	_	_	_	_	_	_	_
@@ -2076,7 +2076,7 @@
 216	lortu	_	_	_	_	_	_	_	_
 217	.	_	_	_	_	_	_	_	_
 
-# newdoc id = MIS9
+# newdoc_id = MIS9
 1	Eibarrek	_	_	_	_	_	_	_	BeginSeg=Yes
 2	gero	_	_	_	_	_	_	_	_
 3	eta	_	_	_	_	_	_	_	_
@@ -2281,7 +2281,7 @@
 202	punturekin	_	_	_	_	_	_	_	_
 203	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA08
+# newdoc_id = OSA08
 1	Kannabinoideen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	analisia	_	_	_	_	_	_	_	_
 3	gaixoen	_	_	_	_	_	_	_	_
@@ -2501,7 +2501,7 @@
 217	diren	_	_	_	_	_	_	_	_
 218	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA16
+# newdoc_id = OSA16
 1	I	_	_	_	_	_	_	_	BeginSeg=Yes
 2	motako	_	_	_	_	_	_	_	_
 3	diabetearen	_	_	_	_	_	_	_	_
@@ -2735,7 +2735,7 @@
 231	duelarik	_	_	_	_	_	_	_	_
 232	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA20
+# newdoc_id = OSA20
 1	Erretrobirus	_	_	_	_	_	_	_	BeginSeg=Yes
 2	endogenoak	_	_	_	_	_	_	_	_
 3	:	_	_	_	_	_	_	_	_
@@ -3066,7 +3066,7 @@
 328	ere	_	_	_	_	_	_	_	_
 329	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTARG04
+# newdoc_id = SENTARG04
 1	Uraren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	aroak	_	_	_	_	_	_	_	_
 3	/	_	_	_	_	_	_	_	_
@@ -3466,7 +3466,7 @@
 397	zait	_	_	_	_	_	_	_	_
 398	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTARG07
+# newdoc_id = SENTARG07
 1	Eguzkipekoak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	/	_	_	_	_	_	_	_	_
 3	Pablo	_	_	_	_	_	_	_	_
@@ -3879,7 +3879,7 @@
 410	bizitzekoa	_	_	_	_	_	_	_	_
 411	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTBER03
+# newdoc_id = SENTBER03
 1	Alter	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ero	_	_	_	_	_	_	_	_
 3	/	_	_	_	_	_	_	_	_
@@ -4491,7 +4491,7 @@
 609	modua	_	_	_	_	_	_	_	_
 610	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTQUE01
+# newdoc_id = SENTQUE01
 1	Gerra	_	_	_	_	_	_	_	BeginSeg=Yes
 2	txikia	_	_	_	_	_	_	_	_
 3	/	_	_	_	_	_	_	_	_
@@ -4761,7 +4761,7 @@
 267	hartzekoa	_	_	_	_	_	_	_	_
 268	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM21
+# newdoc_id = TERM21
 1	Adituaren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	jarrera	_	_	_	_	_	_	_	_
 3	maileguen	_	_	_	_	_	_	_	_
@@ -4947,7 +4947,7 @@
 183	sartuta	_	_	_	_	_	_	_	_
 184	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM22
+# newdoc_id = TERM22
 1	Gaztelaniazko	_	_	_	_	_	_	_	BeginSeg=Yes
 2	adjektibo	_	_	_	_	_	_	_	_
 3	erreferentzialen	_	_	_	_	_	_	_	_
@@ -5339,7 +5339,7 @@
 389	artean	_	_	_	_	_	_	_	_
 390	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM29
+# newdoc_id = TERM29
 1	Terminologiako	_	_	_	_	_	_	_	BeginSeg=Yes
 2	datu-baseak	_	_	_	_	_	_	_	_
 3	diseinatzea	_	_	_	_	_	_	_	_
@@ -5492,7 +5492,7 @@
 150	dezagun	_	_	_	_	_	_	_	_
 151	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM38
+# newdoc_id = TERM38
 1	Neologia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	,	_	_	_	_	_	_	_	_
 3	erlojupeko	_	_	_	_	_	_	_	_
@@ -5846,7 +5846,7 @@
 351	direnak	_	_	_	_	_	_	_	_
 352	?	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF15
+# newdoc_id = ZTF15
 1	Ingurumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	lurtarretako	_	_	_	_	_	_	_	_
 3	onddo	_	_	_	_	_	_	_	_
@@ -6320,7 +6320,7 @@
 471	da	_	_	_	_	_	_	_	_
 472	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF19
+# newdoc_id = ZTF19
 1	1	_	_	_	_	_	_	_	BeginSeg=Yes
 2	.	_	_	_	_	_	_	_	_
 3	Energiarako	_	_	_	_	_	_	_	_
@@ -6797,7 +6797,7 @@
 474	ditugu	_	_	_	_	_	_	_	_
 475	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF4
+# newdoc_id = ZTF4
 1	Kartzinogenesi	_	_	_	_	_	_	_	BeginSeg=Yes
 2	kimikoa	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_

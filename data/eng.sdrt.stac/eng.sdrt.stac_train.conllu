@@ -1,4 +1,4 @@
-# newdoc id = pilot01
+# newdoc_id = pilot01
 # sent_id = pilot01-1
 # speaker = Tomm
 # text = ello
@@ -6353,7 +6353,7 @@
 1	Thanks	thanks	NOUN	NN	Number=Sing	0	root	0:root	BeginSeg=Yes
 2	!	!	PUNCT	.	_	1	punct	1:punct	_
 
-# newdoc id = pilot02
+# newdoc_id = pilot02
 # sent_id = pilot02-1
 # speaker = william
 # text = hi markus .
@@ -8656,7 +8656,7 @@
 2	,	,	PUNCT	,	_	3	punct	3:punct	_
 3	thanks	thanks	NOUN	NN	Number=Sing	0	root	0:root	_
 
-# newdoc id = pilot03
+# newdoc_id = pilot03
 # sent_id = pilot03-1
 # speaker = Euan
 # text = Had to remake the game , too .
@@ -13552,7 +13552,7 @@
 4	all	all	DET	DT	_	2	vocative	2:vocative	_
 5	!	!	PUNCT	.	_	2	punct	2:punct	_
 
-# newdoc id = pilot04
+# newdoc_id = pilot04
 # sent_id = pilot04-1
 # speaker = skinnylinny
 # text = Hello Chameleon
@@ -16062,7 +16062,7 @@
 1	bye	bye	INTJ	UH	_	0	root	0:root	BeginSeg=Yes
 2	all	all	DET	DT	_	1	vocative	1:vocative	_
 
-# newdoc id = pilot14
+# newdoc_id = pilot14
 # sent_id = pilot14-1
 # speaker = Markus
 # text = waiting for one more person .
@@ -18525,7 +18525,7 @@
 # text = bye
 1	bye	bye	INTJ	UH	_	0	root	0:root	BeginSeg=Yes
 
-# newdoc id = s1-league1-game1
+# newdoc_id = s1-league1-game1
 # sent_id = s1-league1-game1-1
 # speaker = william
 # text = hi niko
@@ -21013,7 +21013,7 @@
 # text = bye
 1	bye	bye	INTJ	UH	_	0	root	0:root	BeginSeg=Yes
 
-# newdoc id = s1-league1-game2
+# newdoc_id = s1-league1-game2
 # sent_id = s1-league1-game2-1
 # speaker = william
 # text = hi tomas
@@ -23117,7 +23117,7 @@
 # text = bb
 1	bb	bb	PROPN	NNP	Number=Sing	0	root	0:root	BeginSeg=Yes
 
-# newdoc id = s1-league1-game3
+# newdoc_id = s1-league1-game3
 # sent_id = s1-league1-game3-1
 # speaker = william
 # text = hi
@@ -28659,7 +28659,7 @@
 # text = !
 1	!	!	PUNCT	.	_	0	root	0:root	_
 
-# newdoc id = s1-league1-game4
+# newdoc_id = s1-league1-game4
 # sent_id = s1-league1-game4-1
 # speaker = gotwood4sheep
 # text = Hey LJ !
@@ -32660,7 +32660,7 @@
 2	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	obj	1:obj	_
 3	:D	:d	SYM	NFP	_	1	discourse	1:discourse	_
 
-# newdoc id = s1-league1-game5
+# newdoc_id = s1-league1-game5
 # sent_id = s1-league1-game5-1
 # speaker = gotwood4sheep
 # text = buona sera
@@ -34970,7 +34970,7 @@
 6	!	!	PUNCT	.	_	4	punct	4:punct	_
 7	!	!	PUNCT	.	_	4	punct	4:punct	_
 
-# newdoc id = s1-league2-game1
+# newdoc_id = s1-league2-game1
 # sent_id = s1-league2-game1-1
 # speaker = sabercat
 # text = btw , are we playing without the others ?
@@ -38224,7 +38224,7 @@
 1	8	8	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	BeginSeg=Yes
 2	pm	pm	NOUN	NN	Number=Sing	0	root	0:root	_
 
-# newdoc id = s1-league2-game2
+# newdoc_id = s1-league2-game2
 # sent_id = s1-league2-game2-1
 # speaker = amycharl
 # text = heya
@@ -40008,7 +40008,7 @@
 7	then	then	ADV	RB	PronType=Dem	1	advcl	1:advcl	_
 8	!	!	PUNCT	.	_	1	punct	1:punct	_
 
-# newdoc id = s1-league2-game3
+# newdoc_id = s1-league2-game3
 # sent_id = s1-league2-game3-1
 # speaker = amycharl
 # text = i made it !
@@ -42065,7 +42065,7 @@
 4	new	new	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	game	game	NOUN	NN	Number=Sing	1	obl	1:obl:in	_
 
-# newdoc id = s1-league2-game4
+# newdoc_id = s1-league2-game4
 # sent_id = s1-league2-game4-1
 # speaker = sabercat
 # text = I think some of them have played one game only
@@ -43484,7 +43484,7 @@
 4	all	all	DET	DT	_	1	parataxis	1:parataxis	_
 5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
-# newdoc id = s1-league3-game1
+# newdoc_id = s1-league3-game1
 # sent_id = s1-league3-game1-1
 # speaker = inca
 # text = Hi
@@ -44699,7 +44699,7 @@
 2	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	1:obj	_
 3	:)	:)	SYM	NFP	_	1	discourse	1:discourse	_
 
-# newdoc id = s1-league3-game2
+# newdoc_id = s1-league3-game2
 # sent_id = s1-league3-game2-1
 # speaker = Gaeilgeoir
 # text = your room names are getting creative
@@ -45488,7 +45488,7 @@
 4	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	obj	3:obj	_
 5	later	later	ADV	RB	Degree=Pos	3	advmod	3:advmod	_
 
-# newdoc id = s1-league3-game3
+# newdoc_id = s1-league3-game3
 # sent_id = s1-league3-game3-1
 # speaker = inca
 # text = Hey
@@ -47447,7 +47447,7 @@
 5	then	then	ADV	RB	PronType=Dem	3	advmod	3:advmod	_
 6	!	!	PUNCT	.	_	1	punct	1:punct	_
 
-# newdoc id = s2-league1-game1
+# newdoc_id = s2-league1-game1
 # sent_id = s2-league1-game1-1
 # speaker = gotwood4sheep
 # text = Hey LJ
@@ -50452,7 +50452,7 @@
 3	bye	bye	INTJ	UH	_	1	discourse	1:discourse	_
 4	:)	:)	SYM	NFP	_	1	discourse	1:discourse	_
 
-# newdoc id = s2-league3-game1
+# newdoc_id = s2-league3-game1
 # sent_id = s2-league3-game1-1
 # speaker = Agnes
 # text = I could use some brick
@@ -51658,7 +51658,7 @@
 6	one	one	NOUN	NN	Number=Sing	1	obl	1:obl:to	_
 7	:-)	:-)	SYM	NFP	_	1	discourse	1:discourse	_
 
-# newdoc id = s2-league3-game4
+# newdoc_id = s2-league3-game4
 # sent_id = s2-league3-game4-1
 # speaker = sparkles
 # text = anyone want sheep or wheat for clay ?
@@ -52179,7 +52179,7 @@
 3	next	next	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	time	time	NOUN	NN	Number=Sing	1	obl:tmod	1:obl:tmod	_
 
-# newdoc id = s2-league3-game5
+# newdoc_id = s2-league3-game5
 # sent_id = s2-league3-game5-1
 # speaker = Agnes
 # text = Hi all
@@ -53582,7 +53582,7 @@
 1	see	see	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	BeginSeg=Yes
 2	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	1:obj	_
 
-# newdoc id = s2-league4-game1
+# newdoc_id = s2-league4-game1
 # sent_id = s2-league4-game1-1
 # speaker = somdechn
 # text = Hi WoodnSheep ...
@@ -56523,7 +56523,7 @@
 4	yes	yes	INTJ	UH	_	2	discourse	2:discourse	_
 5	...	...	PUNCT	.	_	4	punct	4:punct	_
 
-# newdoc id = s2-league4-game2
+# newdoc_id = s2-league4-game2
 # sent_id = s2-league4-game2-1
 # speaker = ztime
 # text = morning ...
@@ -60495,7 +60495,7 @@
 4	See	see	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	_
 5	u	u	PROPN	NNP	Number=Sing	4	obj	4:obj	_
 
-# newdoc id = s2-league4-game3
+# newdoc_id = s2-league4-game3
 # sent_id = s2-league4-game3-1
 # speaker = ztime
 # text = hello
@@ -63702,7 +63702,7 @@
 6	time.	time.	NOUN	NN	Number=Sing	3	obl:tmod	3:obl:tmod	_
 7	.	.	PUNCT	.	_	3	punct	3:punct	_
 
-# newdoc id = s2-league5-game0
+# newdoc_id = s2-league5-game0
 # sent_id = s2-league5-game0-1
 # speaker = zorburt
 # text = great !
@@ -64730,7 +64730,7 @@
 4	kill	kill	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
 5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	_
 
-# newdoc id = s2-league5-game1
+# newdoc_id = s2-league5-game1
 # sent_id = s2-league5-game1-1
 # speaker = raefbrisbin
 # text = good luck !
@@ -65986,7 +65986,7 @@
 8	of	of	ADP	IN	_	9	case	9:case	_
 9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obl	6:obl:out_of	_
 
-# newdoc id = s2-league5-game2
+# newdoc_id = s2-league5-game2
 # sent_id = s2-league5-game2-1
 # speaker = raefbrisbin
 # text = 50/50 odds that people remember ?
@@ -68890,7 +68890,7 @@
 4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 5	nailbiter	nailbiter	NOUN	NN	Number=Sing	0	root	0:root	_
 
-# newdoc id = s2-league5-game3
+# newdoc_id = s2-league5-game3
 # sent_id = s2-league5-game3-1
 # speaker = zorburt
 # text = excellent !
@@ -70796,7 +70796,7 @@
 # text = bye
 1	bye	bye	INTJ	UH	_	0	root	0:root	BeginSeg=Yes
 
-# newdoc id = s2-league5-game4
+# newdoc_id = s2-league5-game4
 # sent_id = s2-league5-game4-1
 # speaker = catanstrophe
 # text = man this is not a board to go last in
@@ -73561,7 +73561,7 @@
 2	wooo	wooo	INTJ	UH	_	1	discourse	1:discourse	_
 3	!	!	PUNCT	.	_	1	punct	1:punct	_
 
-# newdoc id = s2-league5-game5
+# newdoc_id = s2-league5-game5
 # sent_id = s2-league5-game5-1
 # speaker = gramos
 # text = ok , here we go
@@ -74923,7 +74923,7 @@
 5	fun	fun	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 6	everyone	everyone	PRON	NN	Number=Sing	0	root	0:root	_
 
-# newdoc id = s2-league8-game1
+# newdoc_id = s2-league8-game1
 # sent_id = s2-league8-game1-1
 # speaker = chrysaetos
 # text = How long do we want to wait for Xefortanzo ?
@@ -75113,7 +75113,7 @@
 11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
 12	league	league	PROPN	NNP	Number=Sing	8	obl	8:obl:in	_
 
-# newdoc id = s2-leagueM-game4
+# newdoc_id = s2-leagueM-game4
 # sent_id = s2-leagueM-game4-1
 # speaker = inca
 # text = hey
@@ -75818,7 +75818,7 @@
 3	later	later	ADV	RB	Degree=Pos	1	advmod	1:advmod	_
 4	!	!	PUNCT	.	_	1	punct	1:punct	_
 
-# newdoc id = s2-practice2
+# newdoc_id = s2-practice2
 # sent_id = s2-practice2-1
 # speaker = intemporaliter
 # text = Hello ?

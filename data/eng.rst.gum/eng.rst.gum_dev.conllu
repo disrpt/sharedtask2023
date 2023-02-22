@@ -1,4 +1,4 @@
-# newdoc id = GUM_academic_exposure
+# newdoc_id = GUM_academic_exposure
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Kara Morgan-Short, Ingrid Finger, Sarah Grey, Michael T. Ullman
 # meta::dateCollected = 2018-09-11
@@ -1128,7 +1128,7 @@
 48	]	]	PUNCT	-RRB-	_	47	punct	47:punct	SpaceAfter=No
 49	.	.	PUNCT	.	_	2	punct	2:punct	_
 
-# newdoc id = GUM_academic_librarians
+# newdoc_id = GUM_academic_librarians
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Michiel Cock, Lotte Wilms
 # meta::dateCollected = 2017-09-13
@@ -2146,7 +2146,7 @@
 15	contexts	context	NOUN	NNS	Number=Plur	11	obl	11:obl:in	Entity=173)172)170)|SpaceAfter=No
 16	.	.	PUNCT	.	_	2	punct	2:punct	_
 
-# newdoc id = GUM_bio_byron
+# newdoc_id = GUM_bio_byron
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Wikipedia, The Free Encyclopedia
 # meta::dateCollected = 2018-09-12
@@ -3077,7 +3077,7 @@
 59	life	life	NOUN	NN	Number=Sing	56	nmod	56:nmod:of	Entity=127)126)123)119)|SpaceAfter=No
 60	.	.	PUNCT	.	_	6	punct	6:punct	_
 
-# newdoc id = GUM_bio_emperor
+# newdoc_id = GUM_bio_emperor
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Wikipedia, The Free Encyclopedia
 # meta::dateCollected = 2017-09-13
@@ -4324,7 +4324,7 @@
 46	Congress	Congress	PROPN	NNP	Number=Sing	44	nmod	44:nmod:of	Entity=(43-organization-giv:inact-cf5-1-coref-United_States_Congress)143)|SpaceAfter=No
 47	.	.	PUNCT	.	_	8	punct	8:punct	_
 
-# newdoc id = GUM_conversation_grounded
+# newdoc_id = GUM_conversation_grounded
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Santa Barbara Corpus of Spoken American English (ed. John W. Du Bois)
 # meta::dateCollected = 2020-09-04
@@ -7108,7 +7108,7 @@
 3	down	down	ADP	RP	_	1	compound:prt	1:compound:prt	SpaceAfter=No
 4	.	.	PUNCT	.	_	1	punct	1:punct	_
 
-# newdoc id = GUM_conversation_risk
+# newdoc_id = GUM_conversation_risk
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Santa Barbara Corpus of Spoken American English (ed. John W. Du Bois)
 # meta::dateCollected = 2020-09-07
@@ -9674,7 +9674,7 @@
 3	tired	tired	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 4	.	.	PUNCT	.	_	3	punct	3:punct	_
 
-# newdoc id = GUM_fiction_beast
+# newdoc_id = GUM_fiction_beast
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Maureen F. McHugh
 # meta::dateCollected = 2017-09-13
@@ -11084,7 +11084,7 @@
 37	eaves	eave	NOUN	NNS	Number=Plur	34	nmod	34:nmod:on	Entity=156)155)|SpaceAfter=No
 38	.	.	PUNCT	.	_	6	punct	6:punct	_
 
-# newdoc id = GUM_fiction_lunre
+# newdoc_id = GUM_fiction_lunre
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Sofia Samatar
 # meta::dateCollected = 2018-08-15
@@ -12043,7 +12043,7 @@
 27	there	there	ADV	RB	PronType=Dem	26	advmod	26:advmod	Entity=115)2)|SpaceAfter=No
 28	.	.	PUNCT	.	_	3	punct	3:punct	_
 
-# newdoc id = GUM_interview_cyclone
+# newdoc_id = GUM_interview_cyclone
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Wikinews
 # meta::dateCollected = 2015-09-21
@@ -13305,7 +13305,7 @@
 19	this	this	PRON	DT	Number=Sing|PronType=Dem	17	obl	17:obl:with	Entity=(3-event-giv:act-cf1*-1-ana-Cyclone_Phailin)89)|SpaceAfter=No
 20	.	.	PUNCT	.	_	7	punct	7:punct	_
 
-# newdoc id = GUM_interview_gaming
+# newdoc_id = GUM_interview_gaming
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Wikinews
 # meta::dateCollected = 2015-09-21
@@ -14388,7 +14388,7 @@
 1	Yeah	yeah	INTJ	UH	_	0	root	0:root	Discourse=organization-phatic:85->82:2|SpaceAfter=No
 2	.	.	PUNCT	.	_	1	punct	1:punct	_
 
-# newdoc id = GUM_news_homeopathic
+# newdoc_id = GUM_news_homeopathic
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Wikinews
 # meta::dateCollected = 2016-09-19
@@ -15215,7 +15215,7 @@
 14	condition	condition	NOUN	NN	Number=Sing	9	obl	9:obl:for	Entity=93)91)|SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	2:punct	_
 
-# newdoc id = GUM_news_iodine
+# newdoc_id = GUM_news_iodine
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Wikinews
 # meta::dateCollected = 2016-09-19
@@ -16598,7 +16598,7 @@
 54	.	.	PUNCT	.	_	21	punct	21:punct	SpaceAfter=No
 55	"	''	PUNCT	''	_	21	punct	21:punct	XML=</quote>
 
-# newdoc id = GUM_reddit_macroeconomics
+# newdoc_id = GUM_reddit_macroeconomics
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Anjabe96, cchoe1
 # meta::dateCollected = 2017-09-13
@@ -18243,7 +18243,7 @@
 10	___________	_	NOUN	NN	Number=Sing	7	obl	7:obl:on	Entity=168)|SpaceAfter=No
 11	_	_	PUNCT	.	_	5	punct	5:punct	_
 
-# newdoc id = GUM_reddit_pandas
+# newdoc_id = GUM_reddit_pandas
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = reddit community (see URL)
 # meta::dateCollected = 2018-09-09
@@ -19330,7 +19330,7 @@
 27	____	_	VERB	VB	VerbForm=Inf	25	xcomp	25:xcomp	SpaceAfter=No
 28	_	_	PUNCT	.	_	5	punct	5:punct	_
 
-# newdoc id = GUM_speech_impeachment
+# newdoc_id = GUM_speech_impeachment
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Steny Hoyer
 # meta::dateCollected = 2020-09-04
@@ -20835,7 +20835,7 @@
 22	truth	truth	NOUN	NN	Number=Sing	19	nmod	19:nmod:but	Entity=137)138)|SpaceAfter=No
 23	.	.	PUNCT	.	_	4	punct	4:punct	_
 
-# newdoc id = GUM_speech_inauguration
+# newdoc_id = GUM_speech_inauguration
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Ronald Reagan
 # meta::dateCollected = 2020-09-05
@@ -22024,7 +22024,7 @@
 33	world	world	NOUN	NN	Number=Sing	30	conj	28:obl:with|30:conj:and	Entity=23)142)16)|SpaceAfter=No
 34	.	.	PUNCT	.	_	20	punct	20:punct	_
 
-# newdoc id = GUM_textbook_governments
+# newdoc_id = GUM_textbook_governments
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Glen Krutz and Sylvie Waskiewicz
 # meta::dateCollected = 2021-09-08
@@ -23288,7 +23288,7 @@
 13	world	world	NOUN	NN	Number=Sing	8	nmod	8:nmod:across	Entity=158)176)175)|SpaceAfter=No
 14	.	.	PUNCT	.	_	4	punct	4:punct	_
 
-# newdoc id = GUM_textbook_labor
+# newdoc_id = GUM_textbook_labor
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Steven A. Greenlaw, David Shapiro, Timothy Taylor, Eric Dodge, Cynthia Gamez, Andres Jauregui, Diane Keenan, Craig Richardson, Ralph Sonenshine, Dan MacDonald, Amyaz Moledina
 # meta::dateCollected = 2020-09-08
@@ -24097,7 +24097,7 @@
 15	scarcity	scarcity	NOUN	NN	Number=Sing	13	nmod	13:nmod:of	Entity=(134-abstract-new-cf6-1-sgl)133)131)|SpaceAfter=No
 16	.	.	PUNCT	.	_	10	punct	10:punct	_
 
-# newdoc id = GUM_vlog_portland
+# newdoc_id = GUM_vlog_portland
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Katie Blake
 # meta::dateCollected = 2021-09-07
@@ -25609,7 +25609,7 @@
 27	seriously	seriously	ADV	RB	Degree=Pos	22	advmod	22:advmod	Entity=114)|SpaceAfter=No
 28	.	.	PUNCT	.	_	4	punct	4:punct	_
 
-# newdoc id = GUM_vlog_radiology
+# newdoc_id = GUM_vlog_radiology
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Dr. Cellini
 # meta::dateCollected = 2020-09-01
@@ -26907,7 +26907,7 @@
 4	now	now	ADV	RB	_	2	advmod	2:advmod	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	2:punct	_
 
-# newdoc id = GUM_voyage_athens
+# newdoc_id = GUM_voyage_athens
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Ar2332, Ibaman, SPILMAN and others (see URL)
 # meta::dateCollected = 2015-09-21
@@ -28227,7 +28227,7 @@
 28	basin	basin	NOUN	NN	Number=Sing	25	nmod	25:nmod:in	Entity=169)176)|SpaceAfter=No
 29	.	.	PUNCT	.	_	21	punct	21:punct	_
 
-# newdoc id = GUM_voyage_coron
+# newdoc_id = GUM_voyage_coron
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Pashley, Wrh2Bot, Ikan Kekek and others (see URL)
 # meta::dateCollected = 2015-09-21
@@ -29025,7 +29025,7 @@
 29	today	today	NOUN	NN	Number=Sing	26	obl:tmod	26:obl:tmod	Entity=(52-time-giv:inact-cf3-1-coref)101)|SpaceAfter=No
 30	.	.	PUNCT	.	_	8	punct	8:punct	_
 
-# newdoc id = GUM_whow_joke
+# newdoc_id = GUM_whow_joke
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Zach, Emma, Carrie and others (see URL)
 # meta::dateCollected = 2015-09-21
@@ -30504,7 +30504,7 @@
 24	audience	audience	NOUN	NN	Number=Sing	18	obl	18:obl:for	Entity=126)|SpaceAfter=No
 25	.	.	PUNCT	.	_	4	punct	4:punct	_
 
-# newdoc id = GUM_whow_overalls
+# newdoc_id = GUM_whow_overalls
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Votebot, MiscBot, Maluniu and others (see URL)
 # meta::dateCollected = 2014-09-15

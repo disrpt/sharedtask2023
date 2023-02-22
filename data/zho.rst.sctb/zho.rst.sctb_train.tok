@@ -1,4 +1,4 @@
-# newdoc id = BMCS_CHN1-GS
+# newdoc_id = BMCS_CHN1-GS
 1	米盖尔	_	_	_	_	_	_	_	BeginSeg=Yes
 2	•	_	_	_	_	_	_	_	_
 3	德	_	_	_	_	_	_	_	_
@@ -272,7 +272,7 @@
 271	的	_	_	_	_	_	_	_	_
 272	培训	_	_	_	_	_	_	_	_
 
-# newdoc id = BMCS_CHN2-GS
+# newdoc_id = BMCS_CHN2-GS
 1	教师	_	_	_	_	_	_	_	BeginSeg=Yes
 2	和	_	_	_	_	_	_	_	_
 3	教学	_	_	_	_	_	_	_	_
@@ -507,7 +507,7 @@
 232	语	_	_	_	_	_	_	_	_
 233	。	_	_	_	_	_	_	_	_
 
-# newdoc id = BMCS_CHN3-GS
+# newdoc_id = BMCS_CHN3-GS
 1	课程	_	_	_	_	_	_	_	BeginSeg=Yes
 2	种类	_	_	_	_	_	_	_	_
 3	我们	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -815,7 +815,7 @@
 305	环境	_	_	_	_	_	_	_	_
 306	。	_	_	_	_	_	_	_	_
 
-# newdoc id = CCICE_CHN1-GS
+# newdoc_id = CCICE_CHN1-GS
 1	北美	_	_	_	_	_	_	_	BeginSeg=Yes
 2	上升	_	_	_	_	_	_	_	_
 3	为	_	_	_	_	_	_	_	_
@@ -935,7 +935,7 @@
 117	13%	_	_	_	_	_	_	_	_
 118	。	_	_	_	_	_	_	_	_
 
-# newdoc id = CCICE_CHN2-GS
+# newdoc_id = CCICE_CHN2-GS
 1	西班牙	_	_	_	_	_	_	_	BeginSeg=Yes
 2	跻身	_	_	_	_	_	_	_	_
 3	第六	_	_	_	_	_	_	_	_
@@ -1096,7 +1096,7 @@
 158	）	_	_	_	_	_	_	_	_
 159	。	_	_	_	_	_	_	_	_
 
-# newdoc id = CCICE_CHN3-GS
+# newdoc_id = CCICE_CHN3-GS
 1	西班牙	_	_	_	_	_	_	_	BeginSeg=Yes
 2	财政	_	_	_	_	_	_	_	_
 3	部拟	_	_	_	_	_	_	_	_
@@ -1239,7 +1239,7 @@
 140	次	_	_	_	_	_	_	_	_
 141	。	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_CHN1-GS
+# newdoc_id = EEP_CHN1-GS
 1	西班牙	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Aritex	_	_	_	_	_	_	_	_
 3	公司	_	_	_	_	_	_	_	_
@@ -1304,7 +1304,7 @@
 62	合作	_	_	_	_	_	_	_	_
 63	。	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_CHN2-GS
+# newdoc_id = EEP_CHN2-GS
 1	西班牙	_	_	_	_	_	_	_	BeginSeg=Yes
 2	驻华	_	_	_	_	_	_	_	_
 3	大使	_	_	_	_	_	_	_	_
@@ -1521,7 +1521,7 @@
 214	www.salvadordalimuseum.cn	_	_	_	_	_	_	_	_
 215	/	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_CHN3-GS
+# newdoc_id = EEP_CHN3-GS
 1	西班牙	_	_	_	_	_	_	_	BeginSeg=Yes
 2	研发	_	_	_	_	_	_	_	_
 3	创新	_	_	_	_	_	_	_	_
@@ -1763,7 +1763,7 @@
 239	讨论	_	_	_	_	_	_	_	_
 240	。	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_CHN4-GS
+# newdoc_id = EEP_CHN4-GS
 1	第二	_	_	_	_	_	_	_	BeginSeg=Yes
 2	届	_	_	_	_	_	_	_	_
 3	“	_	_	_	_	_	_	_	_
@@ -1975,7 +1975,7 @@
 209	者	_	_	_	_	_	_	_	_
 210	。	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_CHN5-GS
+# newdoc_id = EEP_CHN5-GS
 1	第一	_	_	_	_	_	_	_	BeginSeg=Yes
 2	届	_	_	_	_	_	_	_	_
 3	中西	_	_	_	_	_	_	_	_
@@ -2113,7 +2113,7 @@
 135	实例	_	_	_	_	_	_	_	_
 136	。	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_CHN6-GS
+# newdoc_id = EEP_CHN6-GS
 1	西班牙	_	_	_	_	_	_	_	BeginSeg=Yes
 2	女	_	_	_	_	_	_	_	_
 3	摄影	_	_	_	_	_	_	_	_
@@ -2302,7 +2302,7 @@
 186	未来	_	_	_	_	_	_	_	_
 187	。	_	_	_	_	_	_	_	_
 
-# newdoc id = FICB_CHN1-GS
+# newdoc_id = FICB_CHN1-GS
 1	巴塞罗那	_	_	_	_	_	_	_	BeginSeg=Yes
 2	孔子	_	_	_	_	_	_	_	_
 3	学院	_	_	_	_	_	_	_	_
@@ -2450,7 +2450,7 @@
 145	合作	_	_	_	_	_	_	_	_
 146	。	_	_	_	_	_	_	_	_
 
-# newdoc id = FICB_CHN2-GS
+# newdoc_id = FICB_CHN2-GS
 1	巴塞罗那	_	_	_	_	_	_	_	BeginSeg=Yes
 2	孔子	_	_	_	_	_	_	_	_
 3	学院	_	_	_	_	_	_	_	_
@@ -2751,7 +2751,7 @@
 298	证书	_	_	_	_	_	_	_	_
 299	。	_	_	_	_	_	_	_	_
 
-# newdoc id = FICB_CHN3-GS
+# newdoc_id = FICB_CHN3-GS
 1	巴塞罗那	_	_	_	_	_	_	_	BeginSeg=Yes
 2	地区	_	_	_	_	_	_	_	_
 3	汉	_	_	_	_	_	_	_	_
@@ -2887,7 +2887,7 @@
 133	赛	_	_	_	_	_	_	_	_
 134	。	_	_	_	_	_	_	_	_
 
-# newdoc id = ICEG_CHN1-GS
+# newdoc_id = ICEG_CHN1-GS
 1	学院	_	_	_	_	_	_	_	BeginSeg=Yes
 2	的	_	_	_	_	_	_	_	_
 3	具体	_	_	_	_	_	_	_	_
@@ -3232,7 +3232,7 @@
 342	管理	_	_	_	_	_	_	_	_
 343	。	_	_	_	_	_	_	_	_
 
-# newdoc id = ICEG_CHN2-GS
+# newdoc_id = ICEG_CHN2-GS
 1	讲习	_	_	_	_	_	_	_	BeginSeg=Yes
 2	课程	_	_	_	_	_	_	_	_
 3	格拉纳达	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -3349,7 +3349,7 @@
 114	其中	_	_	_	_	_	_	_	_
 115	。	_	_	_	_	_	_	_	_
 
-# newdoc id = ICP_CHN1-GS
+# newdoc_id = ICP_CHN1-GS
 1	学院	_	_	_	_	_	_	_	BeginSeg=Yes
 2	介绍	_	_	_	_	_	_	_	_
 3	塞万提斯	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -3550,7 +3550,7 @@
 198	活动	_	_	_	_	_	_	_	_
 199	。	_	_	_	_	_	_	_	_
 
-# newdoc id = ICP_CHN2-GS
+# newdoc_id = ICP_CHN2-GS
 1	潮流	_	_	_	_	_	_	_	BeginSeg=Yes
 2	猎	_	_	_	_	_	_	_	_
 3	人	_	_	_	_	_	_	_	_
@@ -4064,7 +4064,7 @@
 511	巡展	_	_	_	_	_	_	_	_
 512	。	_	_	_	_	_	_	_	_
 
-# newdoc id = ICP_CHN3-GS
+# newdoc_id = ICP_CHN3-GS
 1	文化	_	_	_	_	_	_	_	BeginSeg=Yes
 2	活动	_	_	_	_	_	_	_	_
 3	北京	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -4335,7 +4335,7 @@
 268	”	_	_	_	_	_	_	_	_
 269	。	_	_	_	_	_	_	_	_
 
-# newdoc id = ICP_CHN4-GS
+# newdoc_id = ICP_CHN4-GS
 1	用	_	_	_	_	_	_	_	BeginSeg=Yes
 2	西班牙	_	_	_	_	_	_	_	_
 3	语	_	_	_	_	_	_	_	_
@@ -4504,7 +4504,7 @@
 166	10	_	_	_	_	_	_	_	_
 167	58799670	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM18_CHN-GS
+# newdoc_id = TERM18_CHN-GS
 1	塞尔维亚	_	_	_	_	_	_	_	BeginSeg=Yes
 2	语	_	_	_	_	_	_	_	_
 3	科技	_	_	_	_	_	_	_	_
@@ -4804,7 +4804,7 @@
 297	规则	_	_	_	_	_	_	_	_
 298	。	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM19_CHN-GS
+# newdoc_id = TERM19_CHN-GS
 1	术语	_	_	_	_	_	_	_	BeginSeg=Yes
 2	标准	_	_	_	_	_	_	_	_
 3	化受	_	_	_	_	_	_	_	_
@@ -5139,7 +5139,7 @@
 332	构想	_	_	_	_	_	_	_	_
 333	。	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM23_CHN-GS
+# newdoc_id = TERM23_CHN-GS
 1	大学	_	_	_	_	_	_	_	BeginSeg=Yes
 2	教育	_	_	_	_	_	_	_	_
 3	和	_	_	_	_	_	_	_	_
@@ -5457,7 +5457,7 @@
 315	问题	_	_	_	_	_	_	_	_
 316	。	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM25_CHN-GS
+# newdoc_id = TERM25_CHN-GS
 1	从	_	_	_	_	_	_	_	BeginSeg=Yes
 2	巴斯克	_	_	_	_	_	_	_	_
 3	语	_	_	_	_	_	_	_	_
@@ -5690,7 +5690,7 @@
 230	调整	_	_	_	_	_	_	_	_
 231	。	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM28_CHN-GS
+# newdoc_id = TERM28_CHN-GS
 1	法律	_	_	_	_	_	_	_	BeginSeg=Yes
 2	翻译	_	_	_	_	_	_	_	_
 3	文件	_	_	_	_	_	_	_	_
@@ -5997,7 +5997,7 @@
 304	分析	_	_	_	_	_	_	_	_
 305	。	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM29_CHN-GS
+# newdoc_id = TERM29_CHN-GS
 1	术语	_	_	_	_	_	_	_	BeginSeg=Yes
 2	数据	_	_	_	_	_	_	_	_
 3	库	_	_	_	_	_	_	_	_
@@ -6193,7 +6193,7 @@
 193	结果	_	_	_	_	_	_	_	_
 194	。	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM30_CHN-GS
+# newdoc_id = TERM30_CHN-GS
 1	小	_	_	_	_	_	_	_	BeginSeg=Yes
 2	语种	_	_	_	_	_	_	_	_
 3	的	_	_	_	_	_	_	_	_
@@ -6962,7 +6962,7 @@
 766	基础	_	_	_	_	_	_	_	_
 767	。	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM31_CHN-GS
+# newdoc_id = TERM31_CHN-GS
 1	巴斯克	_	_	_	_	_	_	_	BeginSeg=Yes
 2	语术	_	_	_	_	_	_	_	_
 3	语	_	_	_	_	_	_	_	_
@@ -7698,7 +7698,7 @@
 733	重要	_	_	_	_	_	_	_	_
 734	。	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM32_CHN-GS
+# newdoc_id = TERM32_CHN-GS
 1	中文	_	_	_	_	_	_	_	BeginSeg=Yes
 2	计算	_	_	_	_	_	_	_	_
 3	机	_	_	_	_	_	_	_	_
@@ -8082,7 +8082,7 @@
 381	挑选	_	_	_	_	_	_	_	_
 382	。	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM34_CHN-GS
+# newdoc_id = TERM34_CHN-GS
 1	文字	_	_	_	_	_	_	_	BeginSeg=Yes
 2	关联	_	_	_	_	_	_	_	_
 3	或	_	_	_	_	_	_	_	_
@@ -9314,7 +9314,7 @@
 1229	系统	_	_	_	_	_	_	_	_
 1230	。	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM38_CHN-GS
+# newdoc_id = TERM38_CHN-GS
 1	与	_	_	_	_	_	_	_	BeginSeg=Yes
 2	时间	_	_	_	_	_	_	_	_
 3	赛跑	_	_	_	_	_	_	_	_

@@ -1,4 +1,4 @@
-# newdoc id = BMCS_CHN4-GS
+# newdoc_id = BMCS_CHN4-GS
 1	DELE	DELE	X	FW	_	2	nmod	_	BeginSeg=Yes
 2	考试	考试	NOUN	NN	_	3	nsubj	_	_
 3	考前	考前	VERB	VV	_	0	root	_	_
@@ -180,7 +180,7 @@
 28	技巧	技巧	NOUN	NN	_	22	conj	_	_
 29	。	。	PUNCT	.	_	16	punct	_	_
 
-# newdoc id = CCICE_CHN4-GS
+# newdoc_id = CCICE_CHN4-GS
 1	BBVA	BBVA	X	FW	_	3	nmod	_	BeginSeg=Yes
 2	葡萄牙	葡萄牙	PROPN	NNP	_	3	nmod	_	_
 3	分行	分行	NOUN	NN	_	11	nsubj	_	_
@@ -326,7 +326,7 @@
 21	元	元	NOUN	NNB	_	18	obj	_	_
 22	。	。	PUNCT	.	_	1	punct	_	_
 
-# newdoc id = EEP_CHN7-GS
+# newdoc_id = EEP_CHN7-GS
 1	第六	第六	NUM	CD	NumType=Ord	2	nummod	_	BeginSeg=Yes
 2	届	届	NOUN	NNB	_	7	nmod	_	_
 3	北京	北京	PROPN	NNP	_	7	nmod	_	_
@@ -565,7 +565,7 @@
 44	》	》	PUNCT	)	_	43	punct	_	_
 45	。	。	PUNCT	.	_	6	punct	_	_
 
-# newdoc id = FCEC_CHN1-GS
+# newdoc_id = FCEC_CHN1-GS
 1	欢	欢	NOUN	NN	_	2	nsubj	_	BeginSeg=Yes
 2	迎	迎	VERB	VV	_	0	root	_	_
 3	辞	辞	PUNCT	.	_	2	punct	_	_
@@ -1062,7 +1062,7 @@
 8	会	会	PART	SFN	_	9	nmod	_	_
 9	主席	主席	NOUN	NN	_	0	root	_	_
 
-# newdoc id = FICB_CHN4-GS
+# newdoc_id = FICB_CHN4-GS
 1	关于	关于	ADP	IN	_	3	case	_	BeginSeg=Yes
 2	西藏	西藏	PROPN	NNP	_	3	nmod	_	_
 3	图片	图片	NOUN	NN	_	8	obl	_	_
@@ -1214,7 +1214,7 @@
 76	联合	联合	NOUN	NN	_	77	nmod	_	_
 77	总会	总会	NOUN	NN	_	65	obj	_	_
 
-# newdoc id = ICP_CHN5-GS
+# newdoc_id = ICP_CHN5-GS
 1	西班牙	西班牙	PROPN	NNP	_	2	compound	_	BeginSeg=Yes
 2	语	语	PART	SFN	_	3	nsubj	_	_
 3	学习	学习	VERB	VV	_	0	root	_	_
@@ -1431,7 +1431,7 @@
 27	会	会	PART	SFN	_	22	conj	_	_
 28	......	......	PUNCT	...	_	10	punct	_	_
 
-# newdoc id = ICP_CHN6-GS
+# newdoc_id = ICP_CHN6-GS
 1	北京	北京	PROPN	NNP	_	3	nmod	_	BeginSeg=Yes
 2	塞万提斯	塞万提斯	PROPN	NNP	_	3	nmod	_	_
 3	学院	学院	NOUN	NN	_	0	root	_	_
@@ -2010,7 +2010,7 @@
 58	影响	影响	NOUN	NN	_	50	obj	_	_
 59	。	。	PUNCT	.	_	50	punct	_	_
 
-# newdoc id = TERM39_CHN-GS
+# newdoc_id = TERM39_CHN-GS
 1	为	为	ADP	IN	_	3	case	_	BeginSeg=Yes
 2	职业	职业	NOUN	NN	_	3	nmod	_	_
 3	培训	培训	NOUN	NN	_	4	obl	_	_
@@ -2222,7 +2222,7 @@
 25	论	论	PART	SFN	_	13	obj	_	_
 26	。	。	PUNCT	.	_	13	punct	_	_
 
-# newdoc id = TERM40_CHN-GS
+# newdoc_id = TERM40_CHN-GS
 1	阿根廷	阿根廷	PROPN	NNP	_	6	nmod	_	BeginSeg=Yes
 2	法律	法律	NOUN	NN	_	6	nmod	_	_
 3	信息	信息	NOUN	NN	_	6	nmod	_	_

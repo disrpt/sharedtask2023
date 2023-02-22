@@ -1,4 +1,4 @@
-# newdoc id = BMCS_CHN4-GS
+# newdoc_id = BMCS_CHN4-GS
 1	DELE	_	_	_	_	_	_	_	BeginSeg=Yes
 2	考试	_	_	_	_	_	_	_	_
 3	考前	_	_	_	_	_	_	_	_
@@ -174,7 +174,7 @@
 173	技巧	_	_	_	_	_	_	_	_
 174	。	_	_	_	_	_	_	_	_
 
-# newdoc id = CCICE_CHN4-GS
+# newdoc_id = CCICE_CHN4-GS
 1	BBVA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	葡萄牙	_	_	_	_	_	_	_	_
 3	分行	_	_	_	_	_	_	_	_
@@ -315,7 +315,7 @@
 138	元	_	_	_	_	_	_	_	_
 139	。	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_CHN7-GS
+# newdoc_id = EEP_CHN7-GS
 1	第六	_	_	_	_	_	_	_	BeginSeg=Yes
 2	届	_	_	_	_	_	_	_	_
 3	北京	_	_	_	_	_	_	_	_
@@ -548,7 +548,7 @@
 230	》	_	_	_	_	_	_	_	_
 231	。	_	_	_	_	_	_	_	_
 
-# newdoc id = FCEC_CHN1-GS
+# newdoc_id = FCEC_CHN1-GS
 1	欢	_	_	_	_	_	_	_	BeginSeg=Yes
 2	迎	_	_	_	_	_	_	_	_
 3	辞	_	_	_	_	_	_	_	_
@@ -1026,7 +1026,7 @@
 475	会	_	_	_	_	_	_	_	_
 476	主席	_	_	_	_	_	_	_	_
 
-# newdoc id = FICB_CHN4-GS
+# newdoc_id = FICB_CHN4-GS
 1	关于	_	_	_	_	_	_	_	BeginSeg=Yes
 2	西藏	_	_	_	_	_	_	_	_
 3	图片	_	_	_	_	_	_	_	_
@@ -1175,7 +1175,7 @@
 146	联合	_	_	_	_	_	_	_	_
 147	总会	_	_	_	_	_	_	_	_
 
-# newdoc id = ICP_CHN5-GS
+# newdoc_id = ICP_CHN5-GS
 1	西班牙	_	_	_	_	_	_	_	BeginSeg=Yes
 2	语	_	_	_	_	_	_	_	_
 3	学习	_	_	_	_	_	_	_	_
@@ -1380,7 +1380,7 @@
 202	会	_	_	_	_	_	_	_	_
 203	......	_	_	_	_	_	_	_	_
 
-# newdoc id = ICP_CHN6-GS
+# newdoc_id = ICP_CHN6-GS
 1	北京	_	_	_	_	_	_	_	BeginSeg=Yes
 2	塞万提斯	_	_	_	_	_	_	_	_
 3	学院	_	_	_	_	_	_	_	_
@@ -1945,7 +1945,7 @@
 562	影响	_	_	_	_	_	_	_	_
 563	。	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM39_CHN-GS
+# newdoc_id = TERM39_CHN-GS
 1	为	_	_	_	_	_	_	_	BeginSeg=Yes
 2	职业	_	_	_	_	_	_	_	_
 3	培训	_	_	_	_	_	_	_	_
@@ -2150,7 +2150,7 @@
 202	论	_	_	_	_	_	_	_	_
 203	。	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM40_CHN-GS
+# newdoc_id = TERM40_CHN-GS
 1	阿根廷	_	_	_	_	_	_	_	BeginSeg=Yes
 2	法律	_	_	_	_	_	_	_	_
 3	信息	_	_	_	_	_	_	_	_

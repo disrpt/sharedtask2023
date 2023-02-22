@@ -1,4 +1,4 @@
-# newdoc id = news_32_28-01-2003
+# newdoc_id = news_32_28-01-2003
 # sent_id = news_32_28-01-2003-1
 # text = Le voyage d' Arturo le corbeau
 1	Le	le	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -362,7 +362,7 @@
 12	déjeuner	déjeuner	VERB	VERB	VerbForm=Inf	10	acl	_	_
 13	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
-# newdoc id = news_33_21-01-2003
+# newdoc_id = news_33_21-01-2003
 # sent_id = news_33_21-01-2003-1
 # text = Les projets se concrétisent .
 1	Les	le	DET	DET	Definite=Def|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
@@ -1013,7 +1013,7 @@
 24	travail	travail	NOUN	NOUN	Gender=Masc|Number=Sing	22	nmod	_	_
 25	.	.	PUNCT	PUNCT	_	20	punct	_	_
 
-# newdoc id = news_34_10-06-2002
+# newdoc_id = news_34_10-06-2002
 # sent_id = news_34_10-06-2002-1
 # text = Venu armé pour chercher son enfant ,
 1	Venu	venir	VERB	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	BeginSeg=Yes
@@ -1482,7 +1482,7 @@
 19	20	20	NUM	NUM	NumType=Card	20	nummod	_	_
 20	h.	h.	NOUN	NOUN	Gender=Masc|Number=Plur	15	obl	_	_
 
-# newdoc id = news_35_03-11-2002
+# newdoc_id = news_35_03-11-2002
 # sent_id = news_35_03-11-2002-1
 # text = Photo M7 : la légende
 1	Photo	photo	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
@@ -1888,7 +1888,7 @@
 # text = »
 1	»	»	PUNCT	PUNCT	_	0	root	_	_
 
-# newdoc id = wik1_27_02-04-2006
+# newdoc_id = wik1_27_02-04-2006
 # sent_id = wik1_27_02-04-2006-1
 # text = Capharnaüm Capharnaüm ou Kefar Nahum était une ville de l' ancienne Galilée , sur la rive nord-ouest du lac de Tibériade au nord de la Palestine ( actuellement dans l' État d' Israël ) .
 1	Capharnaüm	Capharnaüm	PROPN	PROPN	Gender=Masc|Number=Sing	8	nsubj	_	BeginSeg=Yes
@@ -2434,7 +2434,7 @@
 15	1982	1982	NUM	NUM	NumType=Card	11	obl	_	_
 16	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
-# newdoc id = wik1_28_02-04-2006
+# newdoc_id = wik1_28_02-04-2006
 # sent_id = wik1_28_02-04-2006-1
 # text = La bisexualité dans l' Histoire
 1	La	le	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -2892,7 +2892,7 @@
 26	termes	terme	NOUN	NOUN	Gender=Masc|Number=Plur	23	obj	_	_
 27	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
-# newdoc id = wik1_29_02-04-2006
+# newdoc_id = wik1_29_02-04-2006
 # sent_id = wik1_29_02-04-2006-1
 # text = Bitnet BITNET était un réseau informatique coopératif d' universités américaines , fondé en 1981 sous l' égide d' Ira Fuchs et de Greydon
 1	Bitnet	Bitnet	PROPN	PROPN	Gender=Masc|Number=Sing	5	nsubj	_	BeginSeg=Yes
@@ -3513,7 +3513,7 @@
 12	eux	lui	PRON	PRON	Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obl	_	_
 13	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
-# newdoc id = wik1_26_02-04-2006
+# newdoc_id = wik1_26_02-04-2006
 # sent_id = wik1_26_02-04-2006-1
 # text = Le piano moderne
 1	Le	le	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -3913,7 +3913,7 @@
 26	départ	départ	NOUN	NOUN	Gender=Masc|Number=Sing	24	nmod	_	_
 27	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
-# newdoc id = wik2_selectionNaturelle_selection
+# newdoc_id = wik2_selectionNaturelle_selection
 # sent_id = wik2_selectionNaturelle_selection-1
 # text = Principes de la sélection naturelle .
 1	Principes	principe	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -4642,7 +4642,7 @@
 20	modernes	moderne	NOUN	NOUN	Gender=Fem|Number=Plur	18	amod	_	_
 21	.	.	PUNCT	PUNCT	_	13	punct	_	_
 
-# newdoc id = geop_3_space
+# newdoc_id = geop_3_space
 # sent_id = geop_3_space-1
 # text = La Space Launcher Initiative .
 1	La	le	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -5332,7 +5332,7 @@
 30	SLI	SLI	PROPN	PROPN	_	24	nmod	_	_
 31	.	.	PUNCT	PUNCT	_	15	punct	_	_
 
-# newdoc id = ling_fuchs_section2
+# newdoc_id = ling_fuchs_section2
 # sent_id = ling_fuchs_section2-1
 # text = Théorie psychomécanique et cognition .
 1	Théorie	théorie	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes

@@ -260,7 +260,7 @@ def underscore_files(filenames):
 				doc = ""
 				for line in lines:
 					line = line.strip()
-					if line.startswith("# newdoc id"):
+					if line.startswith("# newdoc_id"):
 						doc = line.split("=",maxsplit=1)[1].strip()
 					if "GUM" in doc and "reddit" not in doc:
 						output.append(line)
@@ -456,13 +456,13 @@ def restore_docs(path_to_underscores,text_dict):
 			docname = ""
 			for line in lines:
 				line = line.strip()
-				if "# newdoc id " in line:
+				if "# newdoc_id " in line:
 					tid = 0
 					if parse_text !="":
 						if not tokfile:
 							token_dict[docname] = parse_text
 					parse_text = ""
-					docname = re.search(r'# newdoc id ?= ?([^\s]+)',line).group(1)
+					docname = re.search(r'# newdoc_id ?= ?([^\s]+)',line).group(1)
 					if "GUM" in docname and "reddit" not in docname:
 						output.append(line)
 						continue

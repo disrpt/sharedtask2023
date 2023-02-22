@@ -1,4 +1,4 @@
-# newdoc id = blogs_25
+# newdoc_id = blogs_25
 # sent_id = blogs_25-1
 # text = https://my-first-time.livejournal.com/574158.html Как я впервые сморчки искала .
 1	https://my-first-time.livejournal.com/574158.html	https://my-first-time.livejournal.com/574158.html	PROPN	PROPN	Foreign=Yes	6	nsubj	_	BeginSeg=Yes
@@ -885,7 +885,7 @@
 4	грибоеды	грибоед	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	_
 5	!	!	PUNCT	PUNCT	_	1	punct	_
 
-# newdoc id = blogs_26
+# newdoc_id = blogs_26
 # sent_id = blogs_26-1
 # text = https://lena-miro.ru/1393544.html Три секрета питания
 1	https://lena-miro.ru/1393544.html	https://lena-miro.ru/1393544.html	PROPN	PROPN	Foreign=Yes	0	root	_	BeginSeg=Yes
@@ -1643,7 +1643,7 @@
 1	Вопросы	вопрос	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
 2	?	?	PUNCT	PUNCT	_	1	punct	_
 
-# newdoc id = blogs_37
+# newdoc_id = blogs_37
 # sent_id = blogs_37-1
 # text = https://airfit.ru/kak-stavit-stopy-vo-vremya-bega Постановка ноги во время пробежек Очень важный элемент .
 1	https://airfit.ru/kak-stavit-stopy-vo-vremya-bega	https://airfit.ru/kak-stavit-stopy-vo-vremya-bega	PROPN	PROPN	Foreign=Yes	9	nsubj	_	BeginSeg=Yes
@@ -2122,7 +2122,7 @@
 27	толчок	толчок	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	conj	_	_
 28	.	.	PUNCT	PUNCT	_	4	punct	_
 
-# newdoc id = blogs_41
+# newdoc_id = blogs_41
 # sent_id = blogs_41-1
 # text = https://habr.com/ru/company/kaspersky/blog/460135/ Security Week 29 : уязвимость в сервисе Zoom , безопасность и драма
 1	https://habr.com/ru/company/kaspersky/blog/460135/	https://habr.com/ru/company/kaspersky/blog/460135/	PROPN	PROPN	Foreign=Yes	0	root	_	BeginSeg=Yes
@@ -3304,7 +3304,7 @@
 11	скептицизмом	скептицизм	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	nmod	_	_
 12	.	.	PUNCT	PUNCT	_	4	punct	_
 
-# newdoc id = blogs_5
+# newdoc_id = blogs_5
 # sent_id = blogs_5-1
 # text = https://kosmetista.ru/blog/pricheski/94010.html Восточная сказка для волос с натуральной косметикой Zeitun IMG Приветствую !
 1	https://kosmetista.ru/blog/pricheski/94010.html	https://kosmetista.ru/blog/pricheski/94010.html	PROPN	PROPN	Foreign=Yes	11	nsubj	_	BeginSeg=Yes
@@ -4358,7 +4358,7 @@
 4	полезной	полезный	ADJ	ADJ	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	obl	_	_
 5	!	!	PUNCT	PUNCT	_	2	punct	_
 
-# newdoc id = blogs_51
+# newdoc_id = blogs_51
 # sent_id = blogs_51-1
 # text = http://sergeyteplyakov.blogspot.com/2013/09/blog-post_24.html Культ карго в программировании Замечали ли вы за собой , своими коллегами или друзьями одну интересную особенность : когда у кого-то начинает что-либо хорошо получаться , то почти всегда найдутся « подражатели » , которые попытаются повторить тот же самый успех , путем копирования видимых действий оригинала ?
 1	http://sergeyteplyakov.blogspot.com/2013/09/blog-post_24.html	http://sergeyteplyakov.blogspot.com/2013/09/blog-post_24.html	PROPN	PROPN	Foreign=Yes	6	nsubj	_	BeginSeg=Yes
@@ -5750,7 +5750,7 @@
 49	развитии	развитие	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	46	obl	_	_
 50	.	.	PUNCT	PUNCT	_	5	punct	_
 
-# newdoc id = blogs_62
+# newdoc_id = blogs_62
 # sent_id = blogs_62-1
 # text = https://marina-yudenich.livejournal.com/1384792.html#cutid1 А вы ещё удивлялись , чего это Кашин так сорвался на Илью Ухова в эфире " Дождя " ?
 1	https://marina-yudenich.livejournal.com/1384792.html#cutid1	https://marina-yudenich.livejournal.com/1384792.html#cutid1	PROPN	PROPN	Foreign=Yes	5	nsubj	_	BeginSeg=Yes
@@ -7007,7 +7007,7 @@
 2	минимум	минимум	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	fixed	_	_
 3	.	.	PUNCT	PUNCT	_	1	punct	_
 
-# newdoc id = blogs_77
+# newdoc_id = blogs_77
 # sent_id = blogs_77-1
 # text = https://miumau.livejournal.com/3097347.html
 1	https://miumau.livejournal.com/3097347.html	https://miumau.livejournal.com/3097347.html	PROPN	PROPN	Foreign=Yes	0	root	_	BeginSeg=Yes
@@ -7896,7 +7896,7 @@
 16	-	-	PUNCT	PUNCT	_	13	punct	_	_
 17	)	)	PUNCT	PUNCT	_	13	punct	_
 
-# newdoc id = blogs_79
+# newdoc_id = blogs_79
 # sent_id = blogs_79-1
 # text = https : //t . me/TeplitsaPRO/205 Поговорим о призывах к действию .
 1	https	https	PROPN	PROPN	Foreign=Yes	0	root	_	BeginSeg=Yes
@@ -8717,7 +8717,7 @@
 1	Спасибо	спасибо	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 2	.	.	PUNCT	PUNCT	_	1	punct	_
 
-# newdoc id = blogs_80
+# newdoc_id = blogs_80
 # sent_id = blogs_80-1
 # text = https://pudgik.livejournal.com/1367624.html Зоошиза и сохранятели семьи : судьба одной квартиры ФБ гудит .
 1	https://pudgik.livejournal.com/1367624.html	https://pudgik.livejournal.com/1367624.html	PROPN	PROPN	Foreign=Yes	0	root	_	BeginSeg=Yes
@@ -10797,7 +10797,7 @@
 # text = IMG-TXT
 1	IMG-TXT	IMG-TXT	PROPN	PROPN	Foreign=Yes	0	root	BeginSeg=Yes
 
-# newdoc id = blogs_94
+# newdoc_id = blogs_94
 # sent_id = blogs_94-1
 # text = https://ru-travel.livejournal.com/33764838.html Бежецк , ч.2 - немного уютной старины IMG И всё-таки есть что-то в чутье , в интуиции .
 1	https://ru-travel.livejournal.com/33764838.html	https://ru-travel.livejournal.com/33764838.html	PROPN	PROPN	Foreign=Yes	0	root	_	BeginSeg=Yes
@@ -13474,7 +13474,7 @@
 5	закончил	закончить	VERB	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	!	!	PUNCT	PUNCT	_	5	punct	_
 
-# newdoc id = news1_67
+# newdoc_id = news1_67
 # sent_id = news1_67-1
 # text = ##### Выходец из Нигерии решил остаться на ПМЖ в Израиле , поскольку на родине его якобы преследует опасный призрак .
 1	#####	#####	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	BeginSeg=Yes
@@ -13756,7 +13756,7 @@
 17	»	»	PROPN	PROPN	_	16	nmod	_	_
 18	.	.	PUNCT	PUNCT	_	11	punct	_
 
-# newdoc id = news1_68
+# newdoc_id = news1_68
 # sent_id = news1_68-1
 # text = ##### Главный тренер мюнхенского футбольного клуба « Бавария » Хосеп Гвардиола сказал наставнику московского « Спартака » Валерию Карпину , что главное отличие между их командами заключается в уровне игроков .
 1	#####	#####	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	BeginSeg=Yes
@@ -14130,7 +14130,7 @@
 68	Эмери	Эмери	PROPN	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	67	flat:name	_	_
 69	)	)	PUNCT	PUNCT	_	56	punct	_
 
-# newdoc id = news1_69
+# newdoc_id = news1_69
 # sent_id = news1_69-1
 # text = ##### Российские власти за последний месяц существенно нарастили военно-техническую помощь правительству сирийского президента Башара Асада , сообщает агентство Reuters со ссылкой на собственный анонимный источник .
 1	#####	#####	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	BeginSeg=Yes
@@ -14538,7 +14538,7 @@
 24	нарушает	нарушать	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	ccomp	_	_
 25	.	.	PUNCT	PUNCT	_	4	punct	_
 
-# newdoc id = news1_7
+# newdoc_id = news1_7
 # sent_id = news1_7-1
 # text = ##### 14 августа 2009 года исполнилось 17 лет с момента начала грузино-абхазского вооружённого конфликта .
 1	#####	#####	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	BeginSeg=Yes
@@ -15614,7 +15614,7 @@
 2	вопрос	вопрос	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 3	.	.	PUNCT	PUNCT	_	2	punct	_
 
-# newdoc id = news1_70
+# newdoc_id = news1_70
 # sent_id = news1_70-1
 # text = ##### В отчаянном стремлении удержать власть , Первез Мушарраф отверг конституционную систему Пакистана и объявил о введении чрезвычайного положения .
 1	#####	#####	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	BeginSeg=Yes
@@ -16679,7 +16679,7 @@
 26	Пакистана	Пакистан	PROPN	PROPN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	_
 27	.	.	PUNCT	PUNCT	_	12	punct	_
 
-# newdoc id = news1_71
+# newdoc_id = news1_71
 # sent_id = news1_71-1
 # text = ##### Односторонний уход Израиля из всех поселений ( 21 в секторе Газа и четыре на Западном берегу ) создал новую реальность для палестинцев .
 1	#####	#####	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	BeginSeg=Yes
@@ -17731,7 +17731,7 @@
 24	Аббасу	Аббас	PROPN	PROPN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	23	obl	_	_
 25	.	.	PUNCT	PUNCT	_	5	punct	_
 
-# newdoc id = news1_72
+# newdoc_id = news1_72
 # sent_id = news1_72-1
 # text = ##### Сокрушительная победа Хамас над Фатх на выборах , прошедших на этой неделе , ставит палестинских людей на распутье .
 1	#####	#####	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	BeginSeg=Yes
@@ -18732,7 +18732,7 @@
 31	задачей	задача	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	26	obl	_	_
 32	.	.	PUNCT	PUNCT	_	23	punct	_
 
-# newdoc id = news1_73
+# newdoc_id = news1_73
 # sent_id = news1_73-1
 # text = ##### Никого не удивляет тот факт , что во время первых лет правления задачей нового молодого лидера арабского государства должно стать доказательство своего статуса и правопреемственности .
 1	#####	#####	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	BeginSeg=Yes
@@ -19548,7 +19548,7 @@
 14	пример	пример	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
 15	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = sci.comp_49
+# newdoc_id = sci.comp_49
 # sent_id = sci.comp_49-1
 # text = УДК 330.46 08.00.00 Экономические науки РАЗРАБОТКА ЭКСПЕРТНОЙ СИСТЕМЫ КОЛИЧЕСТВЕННОЙ ОЦЕНКИ РИСКА БАНКРОТСТВА КФХ НА ОСНОВЕ НЕЧЕТКО-МНОЖЕСТВЕННОГО ПОДХОДА Ариничев Игорь Владимирович к. э. н. SPIN-код : 7555-6470 Кривко Михаил Сергеевич Студент 1го курса магистратуры SPIN-код : 1132-7258 Кубанский государственный университет , Краснодар , Россия
 1	УДК	удк	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -21826,7 +21826,7 @@
 3	2000	2000	NUM	NUM	_	1	nummod	_	_
 4	.	.	PUNCT	PUNCT	_	1	punct	_
 
-# newdoc id = sci.comp_5
+# newdoc_id = sci.comp_5
 # sent_id = sci.comp_5-1
 # text = СИНТЕЗ ИНФОРМАЦИОННО-ЭНЕРГЕТИЧЕСКИХ СВЯЗЕЙ В СТРУКТУРАХ ИЗОБРЕТЕНИЙ А. Б. Бушуев Для получения новых функций технических систем предложен метод синтеза прямых и обратных связей , увеличивающий информационно-энергетическую проводимость систем .
 1	СИНТЕЗ	синтез	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	nsubj:pass	_	BeginSeg=Yes
@@ -23254,7 +23254,7 @@
 11	15.09.94	15.09.94	NUM	NUM	_	9	conj	_	_
 12	.	.	PUNCT	PUNCT	_	1	punct	_
 
-# newdoc id = sci.comp_50
+# newdoc_id = sci.comp_50
 # sent_id = sci.comp_50-1
 # text = ﻿3 АНАЛИЗ И СИНТЕЗ СЛОЖНЫХ СИСТЕМ УДК 62-50 ОБЕСПЕЧЕНИЕ ПАРАМЕТРИЧЕСКОЙ 8-ИНВАРИАНТНОСТИ ВЫХОДА СИСТЕМЫ ПРИ НЕОПРЕДЕЛЕННОСТИ ОБЪЕКТА УПРАВЛЕНИЯ С. А. Александрова , А. А. Мусаев , О. В. Слита , А. В. Ушаков Ставится задача обеспечения параметрической е -инвариантности выхода непрерывной системы при неопределенности матрицы состояния исходного объекта .
 1	﻿3	﻿3	PUNCT	PUNCT	_	2	amod	_	BeginSeg=Yes
@@ -25691,7 +25691,7 @@
 83	,	,	PUNCT	PUNCT	_	82	punct	_	_
 84	ushakov-AVG@yandex.ru	ushakav-andemandex.ru	PROPN	PROPN	Foreign=Yes	82	punct	_
 
-# newdoc id = sci.comp_51
+# newdoc_id = sci.comp_51
 # sent_id = sci.comp_51-1
 # text = ﻿УДК 004.89 ВЕРИФИКАЦИЯ ДАННЫХ В СИСТЕМАХ ОТСЛЕЖИВАНИЯ ЗАДАЧ С ПОМОЩЬЮ ПРОДУКЦИОННЫХ ПРАВИЛ Р. С. Катериненко , И. А. Бессмертный Предлагается методика верификации данных в системах отслеживания задач с помощью модели продукционных правил .
 1	﻿УДК	﻿удк	ADP	ADP	_	2	case	_	BeginSeg=Yes
@@ -28704,7 +28704,7 @@
 3	1-37	1-37	PROPN	PROPN	Foreign=Yes	2	flat:foreign	_	_
 4	.	.	PUNCT	PUNCT	_	2	punct	_
 
-# newdoc id = sci.comp_52
+# newdoc_id = sci.comp_52
 # sent_id = sci.comp_52-1
 # text = УДК 355.58:004 В. И. Мухин ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ ГРАЖДАНСКОЙ ОБОРОНЫ
 1	УДК	удк	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -29732,7 +29732,7 @@
 10	-	-	PUNCT	PUNCT	_	7	punct	_	_
 11	2013'3	2013'3	NUM	NUM	_	3	punct	_
 
-# newdoc id = sci.ling_50
+# newdoc_id = sci.ling_50
 # sent_id = sci.ling_50-1
 # text = Адрес статьи : www.gramota.net/materials/272014/3-2/26.html Источник Филологические науки . Вопросы теории и практики Тамбов : Грамота , 2014 . № 3 ( 33 ) : в 2-х ч. Ч. II .
 1	Адрес	адрес	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -32756,7 +32756,7 @@
 9	130	130	NUM	NUM	_	7	nummod	_	_
 10	с.	с	PUNCT	PUNCT	_	1	punct	_
 
-# newdoc id = sci.ling_51
+# newdoc_id = sci.ling_51
 # sent_id = sci.ling_51-1
 # text = Сер . 9 . 2007 . Вып . 2 .
 1	Сер	сера	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -34849,7 +34849,7 @@
 7	2006	2006	NUM	NUM	_	5	nummod	_	_
 8	г	год	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_
 
-# newdoc id = sci.ling_52
+# newdoc_id = sci.ling_52
 # sent_id = sci.ling_52-1
 # text = Адрес статьи : www.aramota.net/materials/2/2015/7-1/16.html Источник Филологические науки . Вопросы теории и практики Тамбов : Грамота , 2015 . № 7 ( 49 ) : в 2-х ч. Ч. I. C. 70-73 .
 1	Адрес	адрес	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -38333,7 +38333,7 @@
 8	540	540	NUM	NUM	_	6	nummod	_	_
 9	p.	путр	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	punct	_
 
-# newdoc id = sci.ling_53
+# newdoc_id = sci.ling_53
 # sent_id = sci.ling_53-1
 # text = Адрес статьи : www.gramota.net/materials/272015/2-1/40.html Источник Филологические науки . Вопросы теории и практики Тамбов : Грамота , 2015 . № 2 ( 44 ) : в 2-х ч. Ч. I. C. 146-148 .
 1	Адрес	адрес	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -41189,7 +41189,7 @@
 9	)	)	PUNCT	PUNCT	_	5	punct	_	_
 10	.	.	PUNCT	PUNCT	_	1	punct	_
 
-# newdoc id = sci.ling_54
+# newdoc_id = sci.ling_54
 # sent_id = sci.ling_54-1
 # text = Адрес статьи : www.gramota.net/materials/272015/7-1/41.html Источник Филологические науки . Вопросы теории и практики Тамбов : Грамота , 2015 . № 7 ( 49 ) : в 2-х ч. Ч. I. C. 146-149 .
 1	Адрес	адрес	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
@@ -44034,7 +44034,7 @@
 88	)	)	PUNCT	PUNCT	_	84	punct	_	_
 89	.	.	PUNCT	PUNCT	_	1	punct	_
 
-# newdoc id = sci.ling_55
+# newdoc_id = sci.ling_55
 # sent_id = sci.ling_55-1
 # text = Сер . 9 . 2007 . Вып . 3 .
 1	Сер	сера	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes

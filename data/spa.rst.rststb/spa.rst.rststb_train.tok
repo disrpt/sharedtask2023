@@ -1,4 +1,4 @@
-# newdoc id = as00001
+# newdoc_id = as00001
 1	Cuasares	_	_	_	_	_	_	_	BeginSeg=Yes
 2	y	_	_	_	_	_	_	_	_
 3	núcleos	_	_	_	_	_	_	_	_
@@ -32,7 +32,7 @@
 31	cuasares	_	_	_	_	_	_	_	_
 32	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00002
+# newdoc_id = as00002
 1	Cuando	_	_	_	_	_	_	_	BeginSeg=Yes
 2	calienta	_	_	_	_	_	_	_	_
 3	el	_	_	_	_	_	_	_	_
@@ -175,7 +175,7 @@
 140	Norte	_	_	_	_	_	_	_	_
 141	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00003
+# newdoc_id = as00003
 1	Cúmulos	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	galaxias	_	_	_	_	_	_	_	_
@@ -569,7 +569,7 @@
 391	Cúmulos	_	_	_	_	_	_	_	_
 392	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00004
+# newdoc_id = as00004
 1	Desafíos	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	la	_	_	_	_	_	_	_	_
@@ -700,7 +700,7 @@
 128	oscura	_	_	_	_	_	_	_	_
 129	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00005
+# newdoc_id = as00005
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	análisis	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -896,7 +896,7 @@
 193	planeta	_	_	_	_	_	_	_	_
 194	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00006
+# newdoc_id = as00006
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Medio	_	_	_	_	_	_	_	_
 3	Interestelar	_	_	_	_	_	_	_	_
@@ -1030,7 +1030,7 @@
 131	dinámica	_	_	_	_	_	_	_	_
 132	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00007
+# newdoc_id = as00007
 1	KANT	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Y	_	_	_	_	_	_	_	_
 3	SU	_	_	_	_	_	_	_	_
@@ -1110,7 +1110,7 @@
 77	Universo	_	_	_	_	_	_	_	_
 78	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00008
+# newdoc_id = as00008
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	abundancia	_	_	_	_	_	_	_	_
 3	primordial	_	_	_	_	_	_	_	_
@@ -1184,7 +1184,7 @@
 71	galaxia	_	_	_	_	_	_	_	_
 72	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00009
+# newdoc_id = as00009
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Astronomía	_	_	_	_	_	_	_	_
 3	Prehispánica	_	_	_	_	_	_	_	_
@@ -1250,7 +1250,7 @@
 63	calendario	_	_	_	_	_	_	_	_
 64	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00010
+# newdoc_id = as00010
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	influencia	_	_	_	_	_	_	_	_
 3	del	_	_	_	_	_	_	_	_
@@ -1309,7 +1309,7 @@
 56	teoría	_	_	_	_	_	_	_	_
 57	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00011
+# newdoc_id = as00011
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	materia	_	_	_	_	_	_	_	_
 3	entre	_	_	_	_	_	_	_	_
@@ -1376,7 +1376,7 @@
 64	galaxias	_	_	_	_	_	_	_	_
 65	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00012
+# newdoc_id = as00012
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Tierra	_	_	_	_	_	_	_	_
 3	vista	_	_	_	_	_	_	_	_
@@ -1801,7 +1801,7 @@
 422	son	_	_	_	_	_	_	_	_
 423	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00013
+# newdoc_id = as00013
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	vía	_	_	_	_	_	_	_	_
 3	láctea	_	_	_	_	_	_	_	_
@@ -1872,7 +1872,7 @@
 68	espirales	_	_	_	_	_	_	_	_
 69	.	_	_	_	_	_	_	_	_
 
-# newdoc id = de00001
+# newdoc_id = de00001
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	propósito	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -2053,7 +2053,7 @@
 178	admisibles	_	_	_	_	_	_	_	_
 179	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00001
+# newdoc_id = ec00001
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	A	_	_	_	_	_	_	_	BeginSeg=Yes
 3	contar	_	_	_	_	_	_	_	_
@@ -2360,7 +2360,7 @@
 304	transición	_	_	_	_	_	_	_	_
 305	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00002
+# newdoc_id = ec00002
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Esta	_	_	_	_	_	_	_	BeginSeg=Yes
 3	nota	_	_	_	_	_	_	_	_
@@ -2479,7 +2479,7 @@
 116	decisión	_	_	_	_	_	_	_	_
 117	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00003
+# newdoc_id = ec00003
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Durante	_	_	_	_	_	_	_	BeginSeg=Yes
 3	la	_	_	_	_	_	_	_	_
@@ -2656,7 +2656,7 @@
 174	elementos	_	_	_	_	_	_	_	_
 175	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00004
+# newdoc_id = ec00004
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Este	_	_	_	_	_	_	_	BeginSeg=Yes
 3	artículo	_	_	_	_	_	_	_	_
@@ -2849,7 +2849,7 @@
 190	secundaria	_	_	_	_	_	_	_	_
 191	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00005
+# newdoc_id = ec00005
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Este	_	_	_	_	_	_	_	BeginSeg=Yes
 3	artículo	_	_	_	_	_	_	_	_
@@ -2956,7 +2956,7 @@
 104	financiera	_	_	_	_	_	_	_	_
 105	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00006
+# newdoc_id = ec00006
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	La	_	_	_	_	_	_	_	BeginSeg=Yes
 3	política	_	_	_	_	_	_	_	_
@@ -3163,7 +3163,7 @@
 204	actual	_	_	_	_	_	_	_	_
 205	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00007
+# newdoc_id = ec00007
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	El	_	_	_	_	_	_	_	BeginSeg=Yes
 3	objetivo	_	_	_	_	_	_	_	_
@@ -3307,7 +3307,7 @@
 141	unidireccional	_	_	_	_	_	_	_	_
 142	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00008
+# newdoc_id = ec00008
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Dada	_	_	_	_	_	_	_	BeginSeg=Yes
 3	la	_	_	_	_	_	_	_	_
@@ -3422,7 +3422,7 @@
 112	activos	_	_	_	_	_	_	_	_
 113	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00009
+# newdoc_id = ec00009
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	En	_	_	_	_	_	_	_	BeginSeg=Yes
 3	1905	_	_	_	_	_	_	_	_
@@ -3572,7 +3572,7 @@
 147	económicas	_	_	_	_	_	_	_	_
 148	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00010
+# newdoc_id = ec00010
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	El	_	_	_	_	_	_	_	BeginSeg=Yes
 3	propósito	_	_	_	_	_	_	_	_
@@ -3755,7 +3755,7 @@
 180	cambiaria	_	_	_	_	_	_	_	_
 181	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00011
+# newdoc_id = ec00011
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	En	_	_	_	_	_	_	_	BeginSeg=Yes
 3	este	_	_	_	_	_	_	_	_
@@ -3873,7 +3873,7 @@
 115	neutral	_	_	_	_	_	_	_	_
 116	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00012
+# newdoc_id = ec00012
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	En	_	_	_	_	_	_	_	BeginSeg=Yes
 3	el	_	_	_	_	_	_	_	_
@@ -4019,7 +4019,7 @@
 143	económico	_	_	_	_	_	_	_	_
 144	.	_	_	_	_	_	_	_	_
 
-# newdoc id = in00001
+# newdoc_id = in00001
 1	Una	_	_	_	_	_	_	_	BeginSeg=Yes
 2	estructura	_	_	_	_	_	_	_	_
 3	que	_	_	_	_	_	_	_	_
@@ -4251,7 +4251,7 @@
 229	estructuras	_	_	_	_	_	_	_	_
 230	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00001
+# newdoc_id = li00001
 1	Desarrollo	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	lenguaje	_	_	_	_	_	_	_	_
@@ -4440,7 +4440,7 @@
 186	Cuba	_	_	_	_	_	_	_	_
 187	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00002
+# newdoc_id = li00002
 1	Modelos	_	_	_	_	_	_	_	BeginSeg=Yes
 2	sobre	_	_	_	_	_	_	_	_
 3	la	_	_	_	_	_	_	_	_
@@ -4517,7 +4517,7 @@
 74	mismo	_	_	_	_	_	_	_	_
 75	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00003
+# newdoc_id = li00003
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	lenguaje	_	_	_	_	_	_	_	_
 3	del	_	_	_	_	_	_	_	_
@@ -4717,7 +4717,7 @@
 197	bebé	_	_	_	_	_	_	_	_
 198	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00004
+# newdoc_id = li00004
 1	Adquisición	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	lenguaje	_	_	_	_	_	_	_	_
@@ -4822,7 +4822,7 @@
 102	esta	_	_	_	_	_	_	_	_
 103	adquisición	_	_	_	_	_	_	_	_
 
-# newdoc id = li00005
+# newdoc_id = li00005
 1	INTERVENCIÓN	_	_	_	_	_	_	_	BeginSeg=Yes
 2	CONDUCTUAL	_	_	_	_	_	_	_	_
 3	PARA	_	_	_	_	_	_	_	_
@@ -4968,7 +4968,7 @@
 143	lectores	_	_	_	_	_	_	_	_
 144	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00006
+# newdoc_id = li00006
 1	LA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ADQUISICIÓN	_	_	_	_	_	_	_	_
 3	DEL	_	_	_	_	_	_	_	_
@@ -5064,7 +5064,7 @@
 93	lenguaje	_	_	_	_	_	_	_	_
 94	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00007
+# newdoc_id = li00007
 1	ADQUISICIADQUISICIÓN	_	_	_	_	_	_	_	BeginSeg=Yes
 2	DEL	_	_	_	_	_	_	_	_
 3	LENGUAGUAJE	_	_	_	_	_	_	_	_
@@ -5255,7 +5255,7 @@
 188	temática	_	_	_	_	_	_	_	_
 189	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00008
+# newdoc_id = li00008
 1	Disfasia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	,	_	_	_	_	_	_	_	_
 3	un	_	_	_	_	_	_	_	_
@@ -5333,7 +5333,7 @@
 75	este	_	_	_	_	_	_	_	_
 76	trastorno	_	_	_	_	_	_	_	_
 
-# newdoc id = li00009
+# newdoc_id = li00009
 1	Relación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	pensamiento	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
@@ -5436,7 +5436,7 @@
 100	diferentes	_	_	_	_	_	_	_	_
 101	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00010
+# newdoc_id = li00010
 1	Crecer	_	_	_	_	_	_	_	BeginSeg=Yes
 2	sin	_	_	_	_	_	_	_	_
 3	lenguaje	_	_	_	_	_	_	_	_
@@ -5485,7 +5485,7 @@
 46	cognitiva	_	_	_	_	_	_	_	_
 47	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00011
+# newdoc_id = li00011
 1	Lenguaje	_	_	_	_	_	_	_	BeginSeg=Yes
 2	e	_	_	_	_	_	_	_	_
 3	inteligencia	_	_	_	_	_	_	_	_
@@ -5651,7 +5651,7 @@
 163	multidisciplinarias	_	_	_	_	_	_	_	_
 164	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00012
+# newdoc_id = li00012
 1	Aprendizaje	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	lenguaje	_	_	_	_	_	_	_	_
@@ -5738,7 +5738,7 @@
 84	señas	_	_	_	_	_	_	_	_
 85	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00013
+# newdoc_id = li00013
 1	Lenguaje	_	_	_	_	_	_	_	BeginSeg=Yes
 2	,	_	_	_	_	_	_	_	_
 3	Producción	_	_	_	_	_	_	_	_
@@ -5929,7 +5929,7 @@
 188	lenguaje	_	_	_	_	_	_	_	_
 189	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00014
+# newdoc_id = li00014
 1	¿	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Podemos	_	_	_	_	_	_	_	_
 3	predecir	_	_	_	_	_	_	_	_
@@ -6001,7 +6001,7 @@
 69	tarde	_	_	_	_	_	_	_	_
 70	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00015
+# newdoc_id = li00015
 1	CARACTERÍSTICAS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	DEL	_	_	_	_	_	_	_	_
 3	DESARROLLO	_	_	_	_	_	_	_	_
@@ -6158,7 +6158,7 @@
 154	edad	_	_	_	_	_	_	_	_
 155	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00016
+# newdoc_id = li00016
 1	Aspectos	_	_	_	_	_	_	_	BeginSeg=Yes
 2	biológicos	_	_	_	_	_	_	_	_
 3	del	_	_	_	_	_	_	_	_
@@ -6232,7 +6232,7 @@
 71	alteración	_	_	_	_	_	_	_	_
 72	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00017
+# newdoc_id = li00017
 1	Desarrollo	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	lenguaje	_	_	_	_	_	_	_	_
@@ -6407,7 +6407,7 @@
 172	y	_	_	_	_	_	_	_	_
 173	profundización	_	_	_	_	_	_	_	_
 
-# newdoc id = li00018
+# newdoc_id = li00018
 1	Análisis	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	las	_	_	_	_	_	_	_	_
@@ -6554,7 +6554,7 @@
 144	símbolo	_	_	_	_	_	_	_	_
 145	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00019
+# newdoc_id = li00019
 1	Comentarios	_	_	_	_	_	_	_	BeginSeg=Yes
 2	a	_	_	_	_	_	_	_	_
 3	la	_	_	_	_	_	_	_	_
@@ -6822,7 +6822,7 @@
 265	UNAM	_	_	_	_	_	_	_	_
 266	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00020
+# newdoc_id = li00020
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	alternancia	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -7107,7 +7107,7 @@
 282	débiles	_	_	_	_	_	_	_	_
 283	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00021
+# newdoc_id = li00021
 1	Ahora	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ahorra	_	_	_	_	_	_	_	_
 3	para	_	_	_	_	_	_	_	_
@@ -7431,7 +7431,7 @@
 321	auditiva	_	_	_	_	_	_	_	_
 322	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00022
+# newdoc_id = li00022
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	posición	_	_	_	_	_	_	_	_
 3	del	_	_	_	_	_	_	_	_
@@ -7737,7 +7737,7 @@
 303	alumnos	_	_	_	_	_	_	_	_
 304	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00023
+# newdoc_id = li00023
 1	Estudio	_	_	_	_	_	_	_	BeginSeg=Yes
 2	comparativo	_	_	_	_	_	_	_	_
 3	entre	_	_	_	_	_	_	_	_
@@ -8088,7 +8088,7 @@
 348	alumnos	_	_	_	_	_	_	_	_
 349	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00024
+# newdoc_id = li00024
 1	Análisis	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	la	_	_	_	_	_	_	_	_
@@ -8426,7 +8426,7 @@
 335	formal	_	_	_	_	_	_	_	_
 336	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00025
+# newdoc_id = li00025
 1	Propuesta	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	un	_	_	_	_	_	_	_	_
@@ -8771,7 +8771,7 @@
 342	trabajo	_	_	_	_	_	_	_	_
 343	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00026
+# newdoc_id = li00026
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	estructura	_	_	_	_	_	_	_	_
 3	temática	_	_	_	_	_	_	_	_
@@ -9127,7 +9127,7 @@
 353	distintos	_	_	_	_	_	_	_	_
 354	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00027
+# newdoc_id = li00027
 1	Mecanismos	_	_	_	_	_	_	_	BeginSeg=Yes
 2	lingüísticos	_	_	_	_	_	_	_	_
 3	censorios	_	_	_	_	_	_	_	_
@@ -9488,7 +9488,7 @@
 358	decir	_	_	_	_	_	_	_	_
 359	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00028
+# newdoc_id = li00028
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	mantenimiento-desplazamiento	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -9841,7 +9841,7 @@
 350	escuela	_	_	_	_	_	_	_	_
 351	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00029
+# newdoc_id = li00029
 1	Tendencias	_	_	_	_	_	_	_	BeginSeg=Yes
 2	generales	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -10156,7 +10156,7 @@
 312	estructural	_	_	_	_	_	_	_	_
 313	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00030
+# newdoc_id = li00030
 1	Dimensión	_	_	_	_	_	_	_	BeginSeg=Yes
 2	social	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -10515,7 +10515,7 @@
 356	actual	_	_	_	_	_	_	_	_
 357	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00031
+# newdoc_id = li00031
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	creación	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -10851,7 +10851,7 @@
 333	irlandés	_	_	_	_	_	_	_	_
 334	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00032
+# newdoc_id = li00032
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	terminología	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -11119,7 +11119,7 @@
 265	discurso	_	_	_	_	_	_	_	_
 266	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00033
+# newdoc_id = li00033
 1	Metodología	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	vaciado	_	_	_	_	_	_	_	_
@@ -11475,7 +11475,7 @@
 353	metodología	_	_	_	_	_	_	_	_
 354	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00034
+# newdoc_id = li00034
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	diseño	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
@@ -11690,7 +11690,7 @@
 212	resultados	_	_	_	_	_	_	_	_
 213	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00035
+# newdoc_id = li00035
 1	Gestión	_	_	_	_	_	_	_	BeginSeg=Yes
 2	terminológica	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
@@ -12551,7 +12551,7 @@
 858	otra	_	_	_	_	_	_	_	_
 859	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00036
+# newdoc_id = li00036
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	vaciado	_	_	_	_	_	_	_	_
 3	terminológico	_	_	_	_	_	_	_	_
@@ -13296,7 +13296,7 @@
 742	decisivo	_	_	_	_	_	_	_	_
 743	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00001
+# newdoc_id = ma00001
 1	Introducción	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Cada	_	_	_	_	_	_	_	BeginSeg=Yes
 3	vez	_	_	_	_	_	_	_	_
@@ -13643,7 +13643,7 @@
 344	situaciones	_	_	_	_	_	_	_	_
 345	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00002
+# newdoc_id = ma00002
 1	Números	_	_	_	_	_	_	_	BeginSeg=Yes
 2	reales	_	_	_	_	_	_	_	_
 3	Desde	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -13992,7 +13992,7 @@
 346	número	_	_	_	_	_	_	_	_
 347	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00003
+# newdoc_id = ma00003
 1	Series	_	_	_	_	_	_	_	BeginSeg=Yes
 2	y	_	_	_	_	_	_	_	_
 3	sucesiones	_	_	_	_	_	_	_	_
@@ -14266,7 +14266,7 @@
 271	continuarían	_	_	_	_	_	_	_	_
 272	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00004
+# newdoc_id = ma00004
 1	Teorema	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	Pitágoras	_	_	_	_	_	_	_	_
@@ -14549,7 +14549,7 @@
 280	cálculo	_	_	_	_	_	_	_	_
 281	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00005
+# newdoc_id = ma00005
 1	TEOREMA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	DE	_	_	_	_	_	_	_	_
 3	PITÁGORAS	_	_	_	_	_	_	_	_
@@ -14864,7 +14864,7 @@
 312	sumo	_	_	_	_	_	_	_	BeginSeg=Yes
 313	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00006
+# newdoc_id = ma00006
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	circunferencia	_	_	_	_	_	_	_	_
 3	Entre	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -15330,7 +15330,7 @@
 463	lo	_	_	_	_	_	_	_	_
 464	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00007
+# newdoc_id = ma00007
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	mapa	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -15539,7 +15539,7 @@
 206	Norte	_	_	_	_	_	_	_	_
 207	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00008
+# newdoc_id = ma00008
 1	Números	_	_	_	_	_	_	_	BeginSeg=Yes
 2	reales	_	_	_	_	_	_	_	_
 3	Con	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -15716,7 +15716,7 @@
 174	real	_	_	_	_	_	_	_	_
 175	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00009
+# newdoc_id = ma00009
 1	Évariste	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Galois	_	_	_	_	_	_	_	_
 3	Es	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -16088,7 +16088,7 @@
 369	Liouville	_	_	_	_	_	_	_	_
 370	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00010
+# newdoc_id = ma00010
 1	Distancias	_	_	_	_	_	_	_	BeginSeg=Yes
 2	interplanetarias	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
@@ -16546,7 +16546,7 @@
 455	años-luz	_	_	_	_	_	_	_	_
 456	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00011
+# newdoc_id = ma00011
 1	PARÁBOLAS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	HORIZONTALES	_	_	_	_	_	_	_	_
 3	Y	_	_	_	_	_	_	_	_
@@ -16685,7 +16685,7 @@
 136	negativo	_	_	_	_	_	_	_	_
 137	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00012
+# newdoc_id = ma00012
 1	Importancia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	la	_	_	_	_	_	_	_	_
@@ -16803,7 +16803,7 @@
 115	Andes	_	_	_	_	_	_	_	_
 116	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00013
+# newdoc_id = ma00013
 1	¿	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Qué	_	_	_	_	_	_	_	_
 3	tan	_	_	_	_	_	_	_	_
@@ -16936,7 +16936,7 @@
 130	otro	_	_	_	_	_	_	_	_
 131	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00014
+# newdoc_id = ma00014
 1	Las	_	_	_	_	_	_	_	BeginSeg=Yes
 2	matemáticas	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
@@ -17095,7 +17095,7 @@
 156	definir	_	_	_	_	_	_	_	_
 157	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00015
+# newdoc_id = ma00015
 1	Comportamiento	_	_	_	_	_	_	_	BeginSeg=Yes
 2	local	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
@@ -17234,7 +17234,7 @@
 136	denominador	_	_	_	_	_	_	_	_
 137	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00016
+# newdoc_id = ma00016
 1	Presentación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	La	_	_	_	_	_	_	_	BeginSeg=Yes
 3	renovación	_	_	_	_	_	_	_	_
@@ -17666,7 +17666,7 @@
 429	permanente	_	_	_	_	_	_	_	_
 430	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00017
+# newdoc_id = ma00017
 1	Consulta	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Infantil	_	_	_	_	_	_	_	_
 3	:	_	_	_	_	_	_	_	_
@@ -18239,7 +18239,7 @@
 570	locales	_	_	_	_	_	_	_	_
 571	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00018
+# newdoc_id = ma00018
 1	Área	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	polígonos	_	_	_	_	_	_	_	_
@@ -18522,7 +18522,7 @@
 280	terreno	_	_	_	_	_	_	_	_
 281	?	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00019
+# newdoc_id = ma00019
 1	BLOQUE	_	_	_	_	_	_	_	BeginSeg=Yes
 2	UNO	_	_	_	_	_	_	_	_
 3	Los	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -18809,7 +18809,7 @@
 284	romano	_	_	_	_	_	_	_	_
 285	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00020
+# newdoc_id = ma00020
 1	LECCIÓN	_	_	_	_	_	_	_	BeginSeg=Yes
 2	21	_	_	_	_	_	_	_	_
 3	Los	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -19149,7 +19149,7 @@
 337	numeración	_	_	_	_	_	_	_	_
 338	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00021
+# newdoc_id = ma00021
 1	Cálculo	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	volumen	_	_	_	_	_	_	_	_
@@ -19389,7 +19389,7 @@
 237	tabla	_	_	_	_	_	_	_	_
 238	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00022
+# newdoc_id = ma00022
 1	LA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	HUERTA	_	_	_	_	_	_	_	_
 3	DE	_	_	_	_	_	_	_	_
@@ -19662,7 +19662,7 @@
 270	ellos	_	_	_	_	_	_	_	_
 271	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00023
+# newdoc_id = ma00023
 1	LA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	VUELTA	_	_	_	_	_	_	_	_
 3	AL	_	_	_	_	_	_	_	_
@@ -19976,7 +19976,7 @@
 311	compañeros	_	_	_	_	_	_	_	_
 312	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00024
+# newdoc_id = ma00024
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	papa	_	_	_	_	_	_	_	_
 3	caliente	_	_	_	_	_	_	_	_
@@ -20200,7 +20200,7 @@
 221	cantan	_	_	_	_	_	_	_	_
 222	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00025
+# newdoc_id = ma00025
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	puesto	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -20345,7 +20345,7 @@
 142	yoyos	_	_	_	_	_	_	_	_
 143	?	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00026
+# newdoc_id = ma00026
 1	¡	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Vamos	_	_	_	_	_	_	_	_
 3	al	_	_	_	_	_	_	_	_
@@ -20450,7 +20450,7 @@
 102	compró	_	_	_	_	_	_	_	_
 103	?	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00027
+# newdoc_id = ma00027
 1	Reutiliza	_	_	_	_	_	_	_	BeginSeg=Yes
 2	la	_	_	_	_	_	_	_	_
 3	basura	_	_	_	_	_	_	_	_
@@ -20654,7 +20654,7 @@
 201	tienen	_	_	_	_	_	_	_	_
 202	?	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00028
+# newdoc_id = ma00028
 1	Lección	_	_	_	_	_	_	_	BeginSeg=Yes
 2	5	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
@@ -20932,7 +20932,7 @@
 275	metro	_	_	_	_	_	_	_	_
 276	?	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00029
+# newdoc_id = ma00029
 1	14.	_	_	_	_	_	_	_	BeginSeg=Yes
 2	El	_	_	_	_	_	_	_	_
 3	Calendario	_	_	_	_	_	_	_	_
@@ -21042,7 +21042,7 @@
 107	fechas	_	_	_	_	_	_	_	_
 108	?	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00030
+# newdoc_id = ma00030
 1	Una	_	_	_	_	_	_	_	BeginSeg=Yes
 2	visita	_	_	_	_	_	_	_	_
 3	a	_	_	_	_	_	_	_	_
@@ -21287,7 +21287,7 @@
 242	tecnología	_	_	_	_	_	_	_	_
 243	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00031b
+# newdoc_id = ma00031b
 1	Algoritmo	_	_	_	_	_	_	_	BeginSeg=Yes
 2	para	_	_	_	_	_	_	_	_
 3	resolver	_	_	_	_	_	_	_	_
@@ -21368,7 +21368,7 @@
 78	adicionales	_	_	_	_	_	_	_	_
 79	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00032b
+# newdoc_id = ma00032b
 1	Un	_	_	_	_	_	_	_	BeginSeg=Yes
 2	panorama	_	_	_	_	_	_	_	_
 3	del	_	_	_	_	_	_	_	_
@@ -21425,7 +21425,7 @@
 54	universal	_	_	_	_	_	_	_	_
 55	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00033b
+# newdoc_id = ma00033b
 1	¿	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Realmente	_	_	_	_	_	_	_	_
 3	imposible	_	_	_	_	_	_	_	_
@@ -21468,7 +21468,7 @@
 40	realizar	_	_	_	_	_	_	_	_
 41	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00034b
+# newdoc_id = ma00034b
 1	Vida	_	_	_	_	_	_	_	BeginSeg=Yes
 2	y	_	_	_	_	_	_	_	_
 3	Obra	_	_	_	_	_	_	_	_
@@ -21632,7 +21632,7 @@
 161	bibliografía	_	_	_	_	_	_	_	_
 162	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00035b
+# newdoc_id = ma00035b
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	invención	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -21733,7 +21733,7 @@
 98	analítica	_	_	_	_	_	_	_	_
 99	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00036b
+# newdoc_id = ma00036b
 1	Descomposición	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	dos	_	_	_	_	_	_	_	_
@@ -21835,7 +21835,7 @@
 99	de	_	_	_	_	_	_	_	_
 100	R.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00037b
+# newdoc_id = ma00037b
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	representación	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -21862,7 +21862,7 @@
 24	en	_	_	_	_	_	_	_	_
 25	R3.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00038b
+# newdoc_id = ma00038b
 1	Inducción	_	_	_	_	_	_	_	BeginSeg=Yes
 2	y	_	_	_	_	_	_	_	_
 3	recursión	_	_	_	_	_	_	_	_
@@ -21955,7 +21955,7 @@
 90	lógica	_	_	_	_	_	_	_	_
 91	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00039b
+# newdoc_id = ma00039b
 1	Funciones	_	_	_	_	_	_	_	BeginSeg=Yes
 2	multivaluadas	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
@@ -22051,7 +22051,7 @@
 93	multivaluadas	_	_	_	_	_	_	_	_
 94	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00040b
+# newdoc_id = ma00040b
 1	Solución	_	_	_	_	_	_	_	BeginSeg=Yes
 2	numérica	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -22156,7 +22156,7 @@
 102	transporte	_	_	_	_	_	_	_	_
 103	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00041b
+# newdoc_id = ma00041b
 1	Definiciones	_	_	_	_	_	_	_	BeginSeg=Yes
 2	originales	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -22198,7 +22198,7 @@
 39	posteriores	_	_	_	_	_	_	_	_
 40	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00042b
+# newdoc_id = ma00042b
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	trabajo	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -22292,7 +22292,7 @@
 91	tradicional	_	_	_	_	_	_	_	_
 92	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00043b
+# newdoc_id = ma00043b
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Conjunto	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -22454,7 +22454,7 @@
 159	topología	_	_	_	_	_	_	_	_
 160	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00044b
+# newdoc_id = ma00044b
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	concepto	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -22543,7 +22543,7 @@
 86	función	_	_	_	_	_	_	_	_
 87	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00045b
+# newdoc_id = ma00045b
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	condición	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -22612,7 +22612,7 @@
 66	radiación	_	_	_	_	_	_	_	_
 67	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00046b
+# newdoc_id = ma00046b
 1	Una	_	_	_	_	_	_	_	BeginSeg=Yes
 2	demostración	_	_	_	_	_	_	_	_
 3	geométrica	_	_	_	_	_	_	_	_
@@ -22721,7 +22721,7 @@
 106	prometida	_	_	_	_	_	_	_	_
 107	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00047b
+# newdoc_id = ma00047b
 1	Sobre	_	_	_	_	_	_	_	BeginSeg=Yes
 2	el	_	_	_	_	_	_	_	_
 3	surgimiento	_	_	_	_	_	_	_	_
@@ -22826,7 +22826,7 @@
 102	misma	_	_	_	_	_	_	_	_
 103	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00048b
+# newdoc_id = ma00048b
 1	Principios	_	_	_	_	_	_	_	BeginSeg=Yes
 2	básicos	_	_	_	_	_	_	_	_
 3	sobre	_	_	_	_	_	_	_	_
@@ -22892,7 +22892,7 @@
 63	gauge	_	_	_	_	_	_	_	_
 64	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00049b
+# newdoc_id = ma00049b
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	curvatura	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -23147,7 +23147,7 @@
 252	Estereología	_	_	_	_	_	_	_	_
 253	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00050b
+# newdoc_id = ma00050b
 1	Riemann	_	_	_	_	_	_	_	BeginSeg=Yes
 2	y	_	_	_	_	_	_	_	_
 3	los	_	_	_	_	_	_	_	_
@@ -23254,7 +23254,7 @@
 104	tesis	_	_	_	_	_	_	_	_
 105	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00051b
+# newdoc_id = ma00051b
 1	Identificación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	la	_	_	_	_	_	_	_	_
@@ -23327,7 +23327,7 @@
 70	+	_	_	_	_	_	_	_	_
 71	1.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00052b
+# newdoc_id = ma00052b
 1	Una	_	_	_	_	_	_	_	BeginSeg=Yes
 2	exploración	_	_	_	_	_	_	_	_
 3	gráfica	_	_	_	_	_	_	_	_
@@ -23416,7 +23416,7 @@
 86	estudio	_	_	_	_	_	_	_	_
 87	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00053b
+# newdoc_id = ma00053b
 1	Una	_	_	_	_	_	_	_	BeginSeg=Yes
 2	justificación	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -23639,7 +23639,7 @@
 220	palanca	_	_	_	_	_	_	_	_
 221	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00054b
+# newdoc_id = ma00054b
 1	¿	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Convenir	_	_	_	_	_	_	_	_
 3	para	_	_	_	_	_	_	_	_
@@ -23755,7 +23755,7 @@
 113	ilustrativos	_	_	_	_	_	_	_	_
 114	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00055b
+# newdoc_id = ma00055b
 1	¿	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Qué	_	_	_	_	_	_	_	_
 3	es	_	_	_	_	_	_	_	_
@@ -23823,7 +23823,7 @@
 65	interpretación	_	_	_	_	_	_	_	_
 66	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00056b
+# newdoc_id = ma00056b
 1	Hacia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	la	_	_	_	_	_	_	_	_
 3	clasificación	_	_	_	_	_	_	_	_
@@ -23888,7 +23888,7 @@
 62	plano	_	_	_	_	_	_	_	_
 63	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00057b
+# newdoc_id = ma00057b
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	función	_	_	_	_	_	_	_	_
 3	zeta	_	_	_	_	_	_	_	_
@@ -24041,7 +24041,7 @@
 150	interesado	_	_	_	_	_	_	_	_
 151	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00058b
+# newdoc_id = ma00058b
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Hidrodinámica	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -24108,7 +24108,7 @@
 64	él	_	_	_	_	_	_	_	_
 65	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00059b
+# newdoc_id = ma00059b
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	estudio	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -24208,7 +24208,7 @@
 97	epistemológico	_	_	_	_	_	_	_	_
 98	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00060b
+# newdoc_id = ma00060b
 1	Recordando	_	_	_	_	_	_	_	BeginSeg=Yes
 2	a	_	_	_	_	_	_	_	_
 3	John	_	_	_	_	_	_	_	_
@@ -24382,7 +24382,7 @@
 171	deseado	_	_	_	_	_	_	_	_
 172	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00061b
+# newdoc_id = ma00061b
 1	Controlabilidad	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	la	_	_	_	_	_	_	_	_
@@ -24519,7 +24519,7 @@
 134	)	_	_	_	_	_	_	_	_
 135	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00062b
+# newdoc_id = ma00062b
 1	Estimación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Paramétrica	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -24579,7 +24579,7 @@
 57	estimadores	_	_	_	_	_	_	_	_
 58	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00001
+# newdoc_id = me00001
 1	Análisis	_	_	_	_	_	_	_	BeginSeg=Yes
 2	prospectivo	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -24803,7 +24803,7 @@
 221	positividad	_	_	_	_	_	_	_	_
 222	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00002
+# newdoc_id = me00002
 1	Implicancia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	clínica	_	_	_	_	_	_	_	_
 3	del	_	_	_	_	_	_	_	_
@@ -25024,7 +25024,7 @@
 218	ml	_	_	_	_	_	_	_	_
 219	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00003
+# newdoc_id = me00003
 1	Bloqueo	_	_	_	_	_	_	_	BeginSeg=Yes
 2	androgénico	_	_	_	_	_	_	_	_
 3	total	_	_	_	_	_	_	_	_
@@ -25323,7 +25323,7 @@
 296	avanzada	_	_	_	_	_	_	_	_
 297	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00004
+# newdoc_id = me00004
 1	Recurrencia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	cáncer	_	_	_	_	_	_	_	_
@@ -25666,7 +25666,7 @@
 340	muerte	_	_	_	_	_	_	_	_
 341	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00005
+# newdoc_id = me00005
 1	Detección	_	_	_	_	_	_	_	BeginSeg=Yes
 2	oportuna	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -25856,7 +25856,7 @@
 187	resultados	_	_	_	_	_	_	_	_
 188	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00006
+# newdoc_id = me00006
 1	Ecografía	_	_	_	_	_	_	_	BeginSeg=Yes
 2	transrectal	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -26396,7 +26396,7 @@
 537	adecuada	_	_	_	_	_	_	_	_
 538	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00007
+# newdoc_id = me00007
 1	Fibromatosis	_	_	_	_	_	_	_	BeginSeg=Yes
 2	mamaria	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
@@ -26626,7 +26626,7 @@
 227	mama	_	_	_	_	_	_	_	_
 228	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00008
+# newdoc_id = me00008
 1	UTILIDAD	_	_	_	_	_	_	_	BeginSeg=Yes
 2	DEL	_	_	_	_	_	_	_	_
 3	INDICE	_	_	_	_	_	_	_	_
@@ -27107,7 +27107,7 @@
 478	Adenocarcinoma	_	_	_	_	_	_	_	_
 479	Prostático	_	_	_	_	_	_	_	_
 
-# newdoc id = me00009
+# newdoc_id = me00009
 1	INFLUENCIA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	DE	_	_	_	_	_	_	_	_
 3	LA	_	_	_	_	_	_	_	_
@@ -27294,7 +27294,7 @@
 184	adipoquinas	_	_	_	_	_	_	_	_
 185	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00010
+# newdoc_id = me00010
 1	ESTUDIO	_	_	_	_	_	_	_	BeginSeg=Yes
 2	FARMACOEPIDEMIOLÓGICO	_	_	_	_	_	_	_	_
 3	Y	_	_	_	_	_	_	_	_
@@ -27446,7 +27446,7 @@
 149		_	_	_	_	_	_	_	_
 150	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00011
+# newdoc_id = me00011
 1	Evolución	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	los	_	_	_	_	_	_	_	_
@@ -27764,7 +27764,7 @@
 315	domiciliaria	_	_	_	_	_	_	_	_
 316	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00012
+# newdoc_id = me00012
 1	Perfil	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	usuario	_	_	_	_	_	_	_	_
@@ -27932,7 +27932,7 @@
 165	hospital	_	_	_	_	_	_	_	_
 166	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00013
+# newdoc_id = me00013
 1	Tratamiento	_	_	_	_	_	_	_	BeginSeg=Yes
 2	quirúrgico	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -28164,7 +28164,7 @@
 229	notable	_	_	_	_	_	_	_	_
 230	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00014
+# newdoc_id = me00014
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Estomatitis	_	_	_	_	_	_	_	_
 3	Aftosa	_	_	_	_	_	_	_	_
@@ -28237,7 +28237,7 @@
 70	oral	_	_	_	_	_	_	_	_
 71	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00015
+# newdoc_id = me00015
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	cirugía	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -28301,7 +28301,7 @@
 61	precoces	_	_	_	_	_	_	_	_
 62	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00016
+# newdoc_id = me00016
 1	TRATAMIENTO	_	_	_	_	_	_	_	BeginSeg=Yes
 2	DEL	_	_	_	_	_	_	_	_
 3	PIE	_	_	_	_	_	_	_	_
@@ -28488,7 +28488,7 @@
 184	patología	_	_	_	_	_	_	_	_
 185	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00017
+# newdoc_id = me00017
 1	Correlación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ecográfica	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
@@ -28800,7 +28800,7 @@
 309	lesional	_	_	_	_	_	_	_	_
 310	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00018
+# newdoc_id = me00018
 1	Colonización-infección	_	_	_	_	_	_	_	BeginSeg=Yes
 2	por	_	_	_	_	_	_	_	_
 3	Pseudomonas	_	_	_	_	_	_	_	_
@@ -29339,7 +29339,7 @@
 536	exposición	_	_	_	_	_	_	_	_
 537	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00019
+# newdoc_id = me00019
 1	Morbilidad	_	_	_	_	_	_	_	BeginSeg=Yes
 2	y	_	_	_	_	_	_	_	_
 3	tolerancia	_	_	_	_	_	_	_	_
@@ -29545,7 +29545,7 @@
 203	tiempo	_	_	_	_	_	_	_	_
 204	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00020
+# newdoc_id = me00020
 1	Evolución	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	las	_	_	_	_	_	_	_	_
@@ -29790,7 +29790,7 @@
 242	sexos	_	_	_	_	_	_	_	_
 243	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00021
+# newdoc_id = me00021
 1	Evolución	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	las	_	_	_	_	_	_	_	_
@@ -30021,7 +30021,7 @@
 228	analizadas	_	_	_	_	_	_	_	_
 229	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00022
+# newdoc_id = me00022
 1	Evolución	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	las	_	_	_	_	_	_	_	_
@@ -30256,7 +30256,7 @@
 232	global	_	_	_	_	_	_	_	_
 233	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00023
+# newdoc_id = me00023
 1	Manifestaciones	_	_	_	_	_	_	_	BeginSeg=Yes
 2	infrecuentes	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -30348,7 +30348,7 @@
 89	actualidad	_	_	_	_	_	_	_	_
 90	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00024
+# newdoc_id = me00024
 1	Atención	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	ictus	_	_	_	_	_	_	_	_
@@ -30560,7 +30560,7 @@
 209	sanitaria	_	_	_	_	_	_	_	_
 210	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00001
+# newdoc_id = ps00001
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	relación	_	_	_	_	_	_	_	_
 3	entre	_	_	_	_	_	_	_	_
@@ -30741,7 +30741,7 @@
 178	jugadores	_	_	_	_	_	_	_	_
 179	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00002
+# newdoc_id = ps00002
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	artículo	_	_	_	_	_	_	_	_
 3	examina	_	_	_	_	_	_	_	_
@@ -30954,7 +30954,7 @@
 210	mama	_	_	_	_	_	_	_	_
 211	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00003
+# newdoc_id = ps00003
 1	Se	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presenta	_	_	_	_	_	_	_	_
 3	la	_	_	_	_	_	_	_	_
@@ -31157,7 +31157,7 @@
 200	investigación	_	_	_	_	_	_	_	_
 201	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00004b
+# newdoc_id = ps00004b
 1	Elaboración	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	una	_	_	_	_	_	_	_	_
@@ -31278,7 +31278,7 @@
 118	mental	_	_	_	_	_	_	_	_
 119	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00005b
+# newdoc_id = ps00005b
 1	Los	_	_	_	_	_	_	_	BeginSeg=Yes
 2	tipos	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -31511,7 +31511,7 @@
 230	madres	_	_	_	_	_	_	_	_
 231	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00006b
+# newdoc_id = ps00006b
 1	Intervención	_	_	_	_	_	_	_	BeginSeg=Yes
 2	interconductual	_	_	_	_	_	_	_	_
 3	en	_	_	_	_	_	_	_	_
@@ -31627,7 +31627,7 @@
 113	conducta	_	_	_	_	_	_	_	_
 114	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00007b
+# newdoc_id = ps00007b
 1	Mediación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	relaciones	_	_	_	_	_	_	_	_
@@ -31775,7 +31775,7 @@
 145	empleada	_	_	_	_	_	_	_	_
 146	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00008b
+# newdoc_id = ps00008b
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	cuerpo	_	_	_	_	_	_	_	_
 3	como	_	_	_	_	_	_	_	_
@@ -31994,7 +31994,7 @@
 216	paradójica	_	_	_	_	_	_	_	_
 217	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00009b
+# newdoc_id = ps00009b
 1	Significados	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	cuerpo	_	_	_	_	_	_	_	_
@@ -32386,7 +32386,7 @@
 389	participantes	_	_	_	_	_	_	_	_
 390	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00010b
+# newdoc_id = ps00010b
 1	Estudio	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	caso	_	_	_	_	_	_	_	_
@@ -32522,7 +32522,7 @@
 133	terapia	_	_	_	_	_	_	_	_
 134	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00011b
+# newdoc_id = ps00011b
 1	Cuerpo	_	_	_	_	_	_	_	BeginSeg=Yes
 2	y	_	_	_	_	_	_	_	_
 3	salud	_	_	_	_	_	_	_	_
@@ -32699,7 +32699,7 @@
 174	1871	_	_	_	_	_	_	_	_
 175	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00012b
+# newdoc_id = ps00012b
 1	Higiene	_	_	_	_	_	_	_	BeginSeg=Yes
 2	mental	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
@@ -32876,7 +32876,7 @@
 174	higiene	_	_	_	_	_	_	_	_
 175	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00013b
+# newdoc_id = ps00013b
 1	Orientar	_	_	_	_	_	_	_	BeginSeg=Yes
 2	el	_	_	_	_	_	_	_	_
 3	cuerpo	_	_	_	_	_	_	_	_
@@ -32966,7 +32966,7 @@
 87	desvanecen	_	_	_	_	_	_	_	_
 88	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00014b
+# newdoc_id = ps00014b
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	diferenciación	_	_	_	_	_	_	_	_
 3	como	_	_	_	_	_	_	_	_
@@ -33084,7 +33084,7 @@
 115	de	_	_	_	_	_	_	_	_
 116	pareja	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00015b
+# newdoc_id = ps00015b
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	trama	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -33209,7 +33209,7 @@
 122	potencia	_	_	_	_	_	_	_	_
 123	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00016b
+# newdoc_id = ps00016b
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	autoestima	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
@@ -33448,7 +33448,7 @@
 236	)	_	_	_	_	_	_	_	_
 237	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00017b
+# newdoc_id = ps00017b
 1	Variables	_	_	_	_	_	_	_	BeginSeg=Yes
 2	relativas	_	_	_	_	_	_	_	_
 3	al	_	_	_	_	_	_	_	_
@@ -33682,7 +33682,7 @@
 231	universitarios	_	_	_	_	_	_	_	_
 232	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00018b
+# newdoc_id = ps00018b
 1	Problemas	_	_	_	_	_	_	_	BeginSeg=Yes
 2	maritales	_	_	_	_	_	_	_	_
 3	:	_	_	_	_	_	_	_	_
@@ -33783,7 +33783,7 @@
 98	conclusiones	_	_	_	_	_	_	_	_
 99	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00019b
+# newdoc_id = ps00019b
 1	Simetría	_	_	_	_	_	_	_	BeginSeg=Yes
 2	y	_	_	_	_	_	_	_	_
 3	doble	_	_	_	_	_	_	_	_
@@ -33906,7 +33906,7 @@
 120	conyugal	_	_	_	_	_	_	_	_
 121	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00020b
+# newdoc_id = ps00020b
 1	Interacción	_	_	_	_	_	_	_	BeginSeg=Yes
 2	marital	_	_	_	_	_	_	_	_
 3	desde	_	_	_	_	_	_	_	_
@@ -34071,7 +34071,7 @@
 162	marital	_	_	_	_	_	_	_	_
 163	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00021b
+# newdoc_id = ps00021b
 1	Caracterización	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	hombres	_	_	_	_	_	_	_	_
@@ -34250,7 +34250,7 @@
 176	pareja	_	_	_	_	_	_	_	_
 177	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00022b
+# newdoc_id = ps00022b
 1	Prohibido	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ser	_	_	_	_	_	_	_	_
 3	padre	_	_	_	_	_	_	_	_
@@ -34487,7 +34487,7 @@
 234	hijas	_	_	_	_	_	_	_	_
 235	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00023b
+# newdoc_id = ps00023b
 1	Tratamiento	_	_	_	_	_	_	_	BeginSeg=Yes
 2	cognitivo	_	_	_	_	_	_	_	_
 3	conductual	_	_	_	_	_	_	_	_
@@ -34591,7 +34591,7 @@
 101	miembros	_	_	_	_	_	_	_	_
 102	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00001
+# newdoc_id = se00001
 1	VEJEZ	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Y	_	_	_	_	_	_	_	_
 3	SEXUALIDAD	_	_	_	_	_	_	_	_
@@ -34746,7 +34746,7 @@
 152	cultural	_	_	_	_	_	_	_	_
 153	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00002
+# newdoc_id = se00002
 1	Conducta	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Sexual	_	_	_	_	_	_	_	_
 3	Protegida	_	_	_	_	_	_	_	_
@@ -34909,7 +34909,7 @@
 160	anticonceptivos	_	_	_	_	_	_	_	_
 161	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00003
+# newdoc_id = se00003
 1	Disfunción	_	_	_	_	_	_	_	BeginSeg=Yes
 2	sexual	_	_	_	_	_	_	_	_
 3	femenina	_	_	_	_	_	_	_	_
@@ -35119,7 +35119,7 @@
 207	insatisfactorio	_	_	_	_	_	_	_	_
 208	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00004
+# newdoc_id = se00004
 1	Guía	_	_	_	_	_	_	_	BeginSeg=Yes
 2	clínica	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -35292,7 +35292,7 @@
 170	utilizadas	_	_	_	_	_	_	_	_
 171	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00005
+# newdoc_id = se00005
 1	Tratamientos	_	_	_	_	_	_	_	BeginSeg=Yes
 2	psicológicos	_	_	_	_	_	_	_	_
 3	eficaces	_	_	_	_	_	_	_	_
@@ -35553,7 +35553,7 @@
 258	tema	_	_	_	_	_	_	_	_
 259	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00006
+# newdoc_id = se00006
 1	Sexo	_	_	_	_	_	_	_	BeginSeg=Yes
 2	como	_	_	_	_	_	_	_	_
 3	variable	_	_	_	_	_	_	_	_
@@ -35804,7 +35804,7 @@
 248	varones	_	_	_	_	_	_	_	_
 249	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00007
+# newdoc_id = se00007
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	psicología	_	_	_	_	_	_	_	_
 3	¿	_	_	_	_	_	_	_	_
@@ -35988,7 +35988,7 @@
 181	sexual	_	_	_	_	_	_	_	_
 182	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00008
+# newdoc_id = se00008
 1	Consecuencias	_	_	_	_	_	_	_	BeginSeg=Yes
 2	psicológicas	_	_	_	_	_	_	_	_
 3	a	_	_	_	_	_	_	_	_
@@ -36107,7 +36107,7 @@
 116	eficaz	_	_	_	_	_	_	_	_
 117	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00009
+# newdoc_id = se00009
 1	Dimensiones	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	adherencia	_	_	_	_	_	_	_	_
@@ -36392,7 +36392,7 @@
 282	campo	_	_	_	_	_	_	_	_
 283	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00010
+# newdoc_id = se00010
 1	AUTOEFICACIA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	EN	_	_	_	_	_	_	_	_
 3	LA	_	_	_	_	_	_	_	_
@@ -36559,7 +36559,7 @@
 164	Caribe	_	_	_	_	_	_	_	_
 165	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00011
+# newdoc_id = se00011
 1	Ser	_	_	_	_	_	_	_	BeginSeg=Yes
 2	hombre	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -36643,7 +36643,7 @@
 81	diferencias	_	_	_	_	_	_	_	_
 82	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00012
+# newdoc_id = se00012
 1	GÉNERO	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Y	_	_	_	_	_	_	_	_
 3	SEXO	_	_	_	_	_	_	_	_
@@ -36813,7 +36813,7 @@
 167	futura	_	_	_	_	_	_	_	_
 168	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00013
+# newdoc_id = se00013
 1	SEXO	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Y	_	_	_	_	_	_	_	_
 3	EDAD	_	_	_	_	_	_	_	_
@@ -36933,7 +36933,7 @@
 117	mujeres	_	_	_	_	_	_	_	_
 118	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00014
+# newdoc_id = se00014
 1	Asociación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	entre	_	_	_	_	_	_	_	_
 3	Consumo	_	_	_	_	_	_	_	_
@@ -37233,7 +37233,7 @@
 297	sexuales	_	_	_	_	_	_	_	_
 298	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00015
+# newdoc_id = se00015
 1	Conductas	_	_	_	_	_	_	_	BeginSeg=Yes
 2	sexuales	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -37357,7 +37357,7 @@
 121	costes	_	_	_	_	_	_	_	_
 122	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00016
+# newdoc_id = se00016
 1	Tratamiento	_	_	_	_	_	_	_	BeginSeg=Yes
 2	y	_	_	_	_	_	_	_	_
 3	prevención	_	_	_	_	_	_	_	_
@@ -37993,7 +37993,7 @@
 633	transmisión	_	_	_	_	_	_	_	_
 634	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00017
+# newdoc_id = se00017
 1	Uso	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	condón	_	_	_	_	_	_	_	_
@@ -39140,7 +39140,7 @@
 1144	país	_	_	_	_	_	_	_	_
 1145	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00018
+# newdoc_id = se00018
 1	Encuesta	_	_	_	_	_	_	_	BeginSeg=Yes
 2	sobre	_	_	_	_	_	_	_	_
 3	comportamientos	_	_	_	_	_	_	_	_
@@ -39614,7 +39614,7 @@
 471	seleccionados	_	_	_	_	_	_	_	_
 472	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00019
+# newdoc_id = se00019
 1	Las	_	_	_	_	_	_	_	BeginSeg=Yes
 2	enfermedades	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -39952,7 +39952,7 @@
 335	1998	_	_	_	_	_	_	_	_
 336	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00020
+# newdoc_id = se00020
 1	Úlceras	_	_	_	_	_	_	_	BeginSeg=Yes
 2	genitales	_	_	_	_	_	_	_	_
 3	En	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -40191,7 +40191,7 @@
 236	laboratorio	_	_	_	_	_	_	_	_
 237	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00021
+# newdoc_id = se00021
 1	Uretritis	_	_	_	_	_	_	_	BeginSeg=Yes
 2	gonocócica	_	_	_	_	_	_	_	_
 3	Es	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -40494,7 +40494,7 @@
 300	semejante	_	_	_	_	_	_	_	_
 301	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00022
+# newdoc_id = se00022
 1	Uretritis	_	_	_	_	_	_	_	BeginSeg=Yes
 2	no-gonocócica	_	_	_	_	_	_	_	_
 3	La	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -40732,7 +40732,7 @@
 235	tratamiento	_	_	_	_	_	_	_	_
 236	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00023
+# newdoc_id = se00023
 1	Uretritis	_	_	_	_	_	_	_	BeginSeg=Yes
 2	persistente	_	_	_	_	_	_	_	_
 3	Ante	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -40855,7 +40855,7 @@
 120	oral	_	_	_	_	_	_	_	_
 121	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00024
+# newdoc_id = se00024
 1	Uretritis	_	_	_	_	_	_	_	BeginSeg=Yes
 2	y	_	_	_	_	_	_	_	_
 3	mucocervicitis	_	_	_	_	_	_	_	_
@@ -41316,7 +41316,7 @@
 458	embarazo	_	_	_	_	_	_	_	_
 459	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00025
+# newdoc_id = se00025
 1	Riesgo	_	_	_	_	_	_	_	BeginSeg=Yes
 2	perinatal	_	_	_	_	_	_	_	_
 3	por	_	_	_	_	_	_	_	_
@@ -41608,7 +41608,7 @@
 289	días	_	_	_	_	_	_	_	_
 290	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00026b
+# newdoc_id = se00026b
 1	Enfermedades	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	Transmisión	_	_	_	_	_	_	_	_
@@ -41676,7 +41676,7 @@
 65	oral	_	_	_	_	_	_	_	_
 66	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00027b
+# newdoc_id = se00027b
 1	VIRUS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Virus	_	_	_	_	_	_	_	BeginSeg=Yes
 3	de	_	_	_	_	_	_	_	_
@@ -41900,7 +41900,7 @@
 221	oportunistas	_	_	_	_	_	_	_	_
 222	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00028b
+# newdoc_id = se00028b
 1	VIRUS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Papiloma	_	_	_	_	_	_	_	BeginSeg=Yes
 3	humano	_	_	_	_	_	_	_	_
@@ -42543,7 +42543,7 @@
 640	genitales	_	_	_	_	_	_	_	_
 641	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00029b
+# newdoc_id = se00029b
 1	VIRUS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Citomegalovirus	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Pertenece	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -43030,7 +43030,7 @@
 484	órganos	_	_	_	_	_	_	_	_
 485	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00030b
+# newdoc_id = se00030b
 1	VIRUS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Molluscum	_	_	_	_	_	_	_	BeginSeg=Yes
 3	contagiosum	_	_	_	_	_	_	_	_
@@ -43245,7 +43245,7 @@
 212	)	_	_	_	_	_	_	_	_
 213	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00031b
+# newdoc_id = se00031b
 1	VIRUS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Hepatitis	_	_	_	_	_	_	_	BeginSeg=Yes
 3	B	_	_	_	_	_	_	_	_

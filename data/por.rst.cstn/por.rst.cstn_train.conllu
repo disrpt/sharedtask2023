@@ -1,4 +1,4 @@
-# newdoc id = D1_C12_Folha_07-08-2006_08h30
+# newdoc_id = D1_C12_Folha_07-08-2006_08h30
 # sent_id = D1_C12_Folha_07-08-2006_08h30-1
 # text = Um total de 549 pessoas morreram , 3.043 ficaram feridas e 295 estão desaparecidas em razão das enchentes que recentemente afetaram a Coréia do Norte , informou hoje um jornal pró norte-coreano publicado no Japão , que citou fontes oficiais de Pyongyang .
 1	Um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -456,7 +456,7 @@
 34	alimentícia	alimentício	ADJ	ADJ	Gender=Fem|Number=Sing	33	amod	_	_
 35	.	.	PUNCT	PUNCT	_	17	punct	_
 
-# newdoc id = D1_C16_Folha_21-08-2006_10h14
+# newdoc_id = D1_C16_Folha_21-08-2006_10h14
 # sent_id = D1_C16_Folha_21-08-2006_10h14-1
 # text = Os deputados acusados de envolvimento na máfia dos sanguessugas têm até a meia-noite desta segunda-feira para renunciar aos mandatos se quiserem escapar da cassação .
 1	Os	o	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
@@ -1089,7 +1089,7 @@
 24	renúncia	renúncia	NOUN	NOUN	Gender=Fem|Number=Sing	21	obj	_	_
 25	.	.	PUNCT	PUNCT	_	19	punct	_
 
-# newdoc id = D1_C17_Folha_21-08-2006
+# newdoc_id = D1_C17_Folha_21-08-2006
 # sent_id = D1_C17_Folha_21-08-2006-1
 # text = Após um fim de semana no Norte e Nordeste ao lado de caciques pefelistas adeptos de uma campanha mais ofensiva e com discursos duros contra o presidente Luiz Inácio Lula da Silva , o candidato do PSDB à Presidência , Geraldo Alckmin , deixou ontem a linha " paz e amor " e se curvou à temperatura alta do debate eleitoral .
 1	Após	após	ADP	ADP	_	3	case	_	BeginSeg=Yes
@@ -1991,7 +1991,7 @@
 22	"	"	PUNCT	PUNCT	_	1	punct	_	_
 23	.	.	PUNCT	PUNCT	_	1	punct	_
 
-# newdoc id = D1_C18_Folha_16-04-2007_15h46
+# newdoc_id = D1_C18_Folha_16-04-2007_15h46
 # sent_id = D1_C18_Folha_16-04-2007_15h46-1
 # text = Um atirador matou ao menos 30 pessoas em dois diferentes locais da Universidade Técnica da Virgínia , em Blacksburg ( Virgínia ) , nesta segunda-feira , no pior ataque a tiros contra um campus universitário da história dos Estados Unidos .
 1	Um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -2645,7 +2645,7 @@
 42	universidade	universidade	NOUN	NOUN	Gender=Fem|Number=Sing	38	nmod	_	_
 43	.	.	PUNCT	PUNCT	_	12	punct	_
 
-# newdoc id = D1_C19_Folha_16-04-2007_12h00
+# newdoc_id = D1_C19_Folha_16-04-2007_12h00
 # sent_id = D1_C19_Folha_16-04-2007_12h00-1
 # text = O médico pessoal do argentino Diego Maradona , Alfredo Cahe , revelou nesta segunda-feira que uma recaída da hepatite aguda de que sofre foi o motivo da nova internação do ex-craque .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -2846,7 +2846,7 @@
 21	investigadas	investigar	VERB	VERB	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	9	conj	_	_
 22	.	.	PUNCT	PUNCT	_	2	punct	_
 
-# newdoc id = D1_C1_Folha_04-08-2006_07h42
+# newdoc_id = D1_C1_Folha_04-08-2006_07h42
 # sent_id = D1_C1_Folha_04-08-2006_07h42-1
 # text = Ao menos 17 pessoas morreram após a queda de um avião de passageiros na República Democrática do Congo .
 1	Ao	ao	ADP	ADP	_	2	case	_	BeginSeg=Yes
@@ -3115,7 +3115,7 @@
 29	setor	setor	NOUN	NOUN	Gender=Masc|Number=Sing	25	nmod	_	_
 30	.	.	PUNCT	PUNCT	_	10	punct	_
 
-# newdoc id = D1_C20_Folha_19-09-2007_13h39
+# newdoc_id = D1_C20_Folha_19-09-2007_13h39
 # sent_id = D1_C20_Folha_19-09-2007_13h39-1
 # text = O presidente da Câmara , Arlindo Chinaglia ( PT-SP ) , marcou para hoje a votação da PEC ( Proposta de Emenda Constitucional ) que prorroga a cobrança da CPMF ( Contribuição Provisória sobre Movimentação Financeira ) até 2011 e mantém a alíquota de 0,38 % .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -3786,7 +3786,7 @@
 68	Desarmamento	Desarmamento	PROPN	PROPN	Number=Sing	65	nmod	_	_
 69	.	.	PUNCT	PUNCT	_	7	punct	_
 
-# newdoc id = D1_C21_Estadao_06-08-2007_15h40
+# newdoc_id = D1_C21_Estadao_06-08-2007_15h40
 # sent_id = D1_C21_Estadao_06-08-2007_15h40-1
 # text = A pista principal do Aeroporto Internacional de São Paulo ( Cumbica ) , em Guarulhos , será totalmente reformada em março de 2008 , segundo informações do Ministério da Defesa anunciadas nesta segunda-feira , 6 .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -4033,7 +4033,7 @@
 24	Campinas	Campinas	PROPN	PROPN	Gender=Fem|Number=Sing	16	obl	_	_
 25	.	.	PUNCT	PUNCT	_	16	punct	_
 
-# newdoc id = D1_C23_Folha
+# newdoc_id = D1_C23_Folha
 # sent_id = D1_C23_Folha-1
 # text = As piores enchentes dos últimos 60 anos no Reino Unido deixaram milhares de britânicos desabrigados , sem abastecimento de água ou sem energia elétrica .
 1	As	o	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	BeginSeg=Yes
@@ -4293,7 +4293,7 @@
 30	Tâmisa	Tâmisa	PROPN	PROPN	Gender=Masc|Number=Sing	28	conj	_	_
 31	.	.	PUNCT	PUNCT	_	13	punct	_
 
-# newdoc id = D1_C26_Folha_20-08-2007_13h16
+# newdoc_id = D1_C26_Folha_20-08-2007_13h16
 # sent_id = D1_C26_Folha_20-08-2007_13h16-1
 # text = O furacão Dean mudou de rumo e não atingiu em cheio as ilhas Cayman nesta segunda-feira , e continua a avançar em direção à península de Yucatán , no México , depois de causar fortes chuvas e ventos na Jamaica e no Caribe , onde forçou a saída de milhares de turistas .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -5181,7 +5181,7 @@
 41	furacão	furacão	NOUN	NOUN	Gender=Masc|Number=Sing	38	obl:agent	_	_
 42	.	.	PUNCT	PUNCT	_	11	punct	_
 
-# newdoc id = D1_C27_Folha_17-10-2007_23h53
+# newdoc_id = D1_C27_Folha_17-10-2007_23h53
 # sent_id = D1_C27_Folha_17-10-2007_23h53-1
 # text = Depois de sete anos sem jogar no Maracanã , o Brasil chegou a ser vaiado pelo torcedor , mas deslanchou no fim e goleou o Equador por 5 a 0 , nesta quarta-feira , pela segunda rodada das eliminatórias sul-americanas para a Copa do Mundo-2010 .
 1	Depois	depois	ADV	ADV	_	16	advmod	_	BeginSeg=Yes
@@ -6005,7 +6005,7 @@
 33	Paulo	Paulo	PROPN	PROPN	Number=Sing	32	flat:name	_	_
 34	.	.	PUNCT	PUNCT	_	6	punct	_
 
-# newdoc id = D1_C28_Folha_15-07-2007_17h12
+# newdoc_id = D1_C28_Folha_15-07-2007_17h12
 # sent_id = D1_C28_Folha_15-07-2007_17h12-1
 # text = A seleção brasileira masculina de vôlei mostrou , mais uma vez , sua superioridade na modalidade .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -6374,7 +6374,7 @@
 13	lugar	lugar	NOUN	NOUN	Gender=Masc|Number=Sing	10	obl	_	_
 14	.	.	PUNCT	PUNCT	_	8	punct	_
 
-# newdoc id = D1_C29_Folha_16-07-2007
+# newdoc_id = D1_C29_Folha_16-07-2007
 # sent_id = D1_C29_Folha_16-07-2007-1
 # text = Os advogados de mais de 500 pessoas que se dizem vítimas de abusos sexuais cometidos por padres e religiosos católicos no Estado da Califórnia anunciaram , na noite de sábado , ter feito um acordo de US$ 660 milhões ( R$ 1,227 bilhão ) com a Arquidiocese de Los Angeles para encerrar os processos movidos contra ela .
 1	Os	o	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
@@ -7085,7 +7085,7 @@
 20	.	.	PUNCT	PUNCT	_	13	punct	_	_
 21	"	"	PUNCT	PUNCT	_	13	punct	_
 
-# newdoc id = D1_C2_Folha_04-08-2006_11h38
+# newdoc_id = D1_C2_Folha_04-08-2006_11h38
 # sent_id = D1_C2_Folha_04-08-2006_11h38-1
 # text = Se a eleição fosse hoje , o presidente Luiz Inácio Lula da Silva , candidato à reeleição , teria 44 % das intenções de voto , contra 25 % do tucano Geraldo Alckmin , de acordo com a pesquisa CNI/Ibope divulgada nesta sexta-feira .
 1	Se	se	SCONJ	SCONJ	_	5	mark	_	BeginSeg=Yes
@@ -7747,7 +7747,7 @@
 15	%	%	SYM	SYM	_	9	obl	_	_
 16	.	.	PUNCT	PUNCT	_	9	punct	_
 
-# newdoc id = D1_C34_Folha_20-08-2007_12h22
+# newdoc_id = D1_C34_Folha_20-08-2007_12h22
 # sent_id = D1_C34_Folha_20-08-2007_12h22-1
 # text = A Receita Federal intensificou a fiscalização sobre as declarações das pessoas físicas neste ano .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -8346,7 +8346,7 @@
 40	)	)	PUNCT	PUNCT	_	39	punct	_	_
 41	.	.	PUNCT	PUNCT	_	6	punct	_
 
-# newdoc id = D1_C35_Folha_07-08-2007_14h11
+# newdoc_id = D1_C35_Folha_07-08-2007_14h11
 # sent_id = D1_C35_Folha_07-08-2007_14h11-1
 # text = O colombiano Juan Carlos Ramirez Abadia , o Chupeta , um dos traficantes de drogas mais procurados do mundo , foi preso na manhã desta terça-feira , em um condomínio da Grande São Paulo , durante a operação Farrapos da Polícia Federal .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -9003,7 +9003,7 @@
 49	.	.	PUNCT	PUNCT	_	3	punct	_	_
 50	"	"	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D1_C3_Folha_19-07-2007_21h05
+# newdoc_id = D1_C3_Folha_19-07-2007_21h05
 # sent_id = D1_C3_Folha_19-07-2007_21h05-1
 # text = O Airbus-A320 da TAM acidentado em São Paulo na última terça-feira ( 17 ) tinha um defeito no reverso da turbina direita desde o último dia 13 .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -9931,7 +9931,7 @@
 73	reto	reto	ADJ	ADJ	Gender=Masc|Number=Sing	72	xcomp	_	_
 74	.	.	PUNCT	PUNCT	_	11	punct	_
 
-# newdoc id = D1_C42_Folha_25-09-2007_11h44
+# newdoc_id = D1_C42_Folha_25-09-2007_11h44
 # sent_id = D1_C42_Folha_25-09-2007_11h44-1
 # text = O relator da segunda representação contra o senador Renan Calheiros ( PMDB-AL ) no Conselho de Ética do Senado , João Pedro ( PT-AM ) , vai recomendar o " sobrestamento " ( paralisação ) das investigações ao invés do arquivamento imediato do processo contra o presidente da Casa .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -10617,7 +10617,7 @@
 24	afirmou	afirmar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	BeginSeg=Yes
 25	.	.	PUNCT	PUNCT	_	24	punct	_
 
-# newdoc id = D1_C43_Folha_17-07-2007_13h37
+# newdoc_id = D1_C43_Folha_17-07-2007_13h37
 # sent_id = D1_C43_Folha_17-07-2007_13h37-1
 # text = Por unanimidade , os integrantes da Mesa Diretora do Senado decidiram aceitar o pedido do Conselho de Ética de encaminhar para a Polícia Federal pedido para realização de nova perícia nos documentos do presidente da Casa , Renan Calheiros ( PMDB-AL ) .
 1	Por	por	ADP	ADP	_	2	case	_	BeginSeg=Yes
@@ -11255,7 +11255,7 @@
 43	.	.	PUNCT	PUNCT	_	34	punct	_	_
 44	"	"	PUNCT	PUNCT	_	34	punct	_
 
-# newdoc id = D1_C44_Folha_19-09-2007_12h03
+# newdoc_id = D1_C44_Folha_19-09-2007_12h03
 # sent_id = D1_C44_Folha_19-09-2007_12h03-1
 # text = O presidente do Conselho de Ética do Senado , Leomar Quintanilha ( PMDB-TO ) , disse hoje ser contrário à unificação dos processos contra o senador Renan Calheiros ( PMDB-AL ) que tramitam na Casa Legislativa .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -12033,7 +12033,7 @@
 46	Ética	Ética	PROPN	PROPN	Number=Sing	44	nmod	_	_
 47	.	.	PUNCT	PUNCT	_	2	punct	_
 
-# newdoc id = D1_C45_Folha_18-10-2007_08h03
+# newdoc_id = D1_C45_Folha_18-10-2007_08h03
 # sent_id = D1_C45_Folha_18-10-2007_08h03-1
 # text = A polícia de São Paulo afirmou ontem ter detido dois suspeitos de ter participado do roubo do relógio Rolex do apresentador Luciano Huck , da TV Globo , em um semáforo do Itaim Bibi ( zona oeste de SP ) .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -12808,7 +12808,7 @@
 35	Santi	Santi	PROPN	PROPN	Number=Sing	34	flat:name	_	_
 36	.	.	PUNCT	PUNCT	_	31	punct	_
 
-# newdoc id = D1_C48_Folha
+# newdoc_id = D1_C48_Folha
 # sent_id = D1_C48_Folha-1
 # text = A torcida recebeu Bernardinho com vaias e gritos de " Ricardinho " na estréia da seleção de vôlei no Pan do Rio , ontem .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -13545,7 +13545,7 @@
 9	Anderson	Anderson	PROPN	PROPN	Gender=Masc|Number=Sing	8	nsubj	_	_
 10	.	.	PUNCT	PUNCT	_	8	punct	_
 
-# newdoc id = D1_C49_Folha_17-07-2007_08h25
+# newdoc_id = D1_C49_Folha_17-07-2007_08h25
 # sent_id = D1_C49_Folha_17-07-2007_08h25-1
 # text = O presidente Luiz Inácio Lula da Silva afirmou nesta segunda-feira , durante o programa de rádio " Café com o Presidente " , que ficou triste com as vaias que recebeu durante a abertura oficial da 15ª edição dos Jogos Pan-Americanos , realizada no estádio do Maracanã , no Rio de Janeiro .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -14144,7 +14144,7 @@
 58	.	.	PUNCT	PUNCT	_	1	punct	_	_
 59	"	"	PUNCT	PUNCT	_	1	punct	_
 
-# newdoc id = D1_C4_Folha_16-07-2007_09h48
+# newdoc_id = D1_C4_Folha_16-07-2007_09h48
 # sent_id = D1_C4_Folha_16-07-2007_09h48-1
 # text = O CGE ( Centro de Gerenciamento de Emergências ) da Prefeitura de São Paulo registrava oito pontos de alagamento na cidade , às 9h30 desta segunda-feira .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -14567,7 +14567,7 @@
 11	envolvidos	envolvido	NOUN	NOUN	Gender=Masc|Number=Plur	6	nmod	_	_
 12	.	.	PUNCT	PUNCT	_	2	punct	_
 
-# newdoc id = D1_C50_Folha_06-11-2007_12h57
+# newdoc_id = D1_C50_Folha_06-11-2007_12h57
 # sent_id = D1_C50_Folha_06-11-2007_12h57-1
 # text = O ministro da Fazenda , Guido Mantega , apresentou nesta terça-feira a proposta do governo em troca do apoio do PSDB na votação da PEC ( Proposta de Emenda Constitucional ) que prorroga a cobrança da CPMF ( Contribuição Provisória sobre Movimentação Financeira ) até 2011 .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -15484,7 +15484,7 @@
 27	2008	2008	NUM	NUM	NumType=Card	8	obl	_	_
 28	.	.	PUNCT	PUNCT	_	8	punct	_
 
-# newdoc id = D1_C5_JB
+# newdoc_id = D1_C5_JB
 # sent_id = D1_C5_JB-1
 # text = O ministro da Defesa , Nelson Jobim , deve encaminhar o nome da economista Solange Vieira para assumir uma das diretorias da Agência Nacional de Aviação Civil ( Anac ) .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -15700,7 +15700,7 @@
 15	Lomanto	Lomanto	PROPN	PROPN	Number=Sing	14	flat:name	_	_
 16	.	.	PUNCT	PUNCT	_	2	punct	_
 
-# newdoc id = D1_C6_Folha_06-08-2007_08h48
+# newdoc_id = D1_C6_Folha_06-08-2007_08h48
 # sent_id = D1_C6_Folha_06-08-2007_08h48-1
 # text = O presidente Luiz Inácio Lula da Silva afirmou nesta segunda-feira , durante o programa de rádio " Café com o Presidente " , que vai anunciar obras de infra-estrutura que transformarão o Brasil em um " verdadeiro canteiro de obras " .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -16181,7 +16181,7 @@
 30	.	.	PUNCT	PUNCT	_	5	punct	_	_
 31	"	"	PUNCT	PUNCT	_	5	punct	_
 
-# newdoc id = D1_C7_Estadao_04-08-2006_14h13
+# newdoc_id = D1_C7_Estadao_04-08-2006_14h13
 # sent_id = D1_C7_Estadao_04-08-2006_14h13-1
 # text = A lista dos chamados exoplanetas , mundos localizados fora do sistema solar , têm um extraordinário novo membro .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -16728,7 +16728,7 @@
 35	Ivanov	Ivanov	PROPN	PROPN	Gender=Masc|Number=Sing	34	nsubj	_	_
 36	.	.	PUNCT	PUNCT	_	34	punct	_
 
-# newdoc id = D1_C8_Estadao_04-08-2006_13h56
+# newdoc_id = D1_C8_Estadao_04-08-2006_13h56
 # sent_id = D1_C8_Estadao_04-08-2006_13h56-1
 # text = A seleção brasileira masculina de vôlei conseguiu , nesta sexta-feira , a sétima vitória consecutiva na Liga Mundial ao derrotar a Finlândia por 3 sets a 0 - parciais de 25/17 , 25/22 e 25/21 - , em jogo realizado na cidade de Tampere , na Finlândia .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -16994,7 +16994,7 @@
 13	Rússia	Rússia	PROPN	PROPN	Gender=Fem|Number=Sing	10	obl	_	_
 14	.	.	PUNCT	PUNCT	_	10	punct	_
 
-# newdoc id = D1_C9_Folha_04-08-2006_13h20
+# newdoc_id = D1_C9_Folha_04-08-2006_13h20
 # sent_id = D1_C9_Folha_04-08-2006_13h20-1
 # text = A PF ( Polícia Federal ) prendeu na manhã desta sexta-feira 23 pessoas suspeitas de envolvimento em esquema da Assembléia Legislativa do Estado de Rondônia para desvio de recursos públicos e influência indevida sobre Poder Judiciário , Ministério Público , Tribunal de Contas e Poder Executivo do Estado .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -17359,7 +17359,7 @@
 21	Dominó	Dominó	PROPN	PROPN	Number=Sing	20	flat:name	_	_
 22	.	.	PUNCT	PUNCT	_	17	punct	_
 
-# newdoc id = D2_C12_Estadao_07-08-2006_02h29
+# newdoc_id = D2_C12_Estadao_07-08-2006_02h29
 # sent_id = D2_C12_Estadao_07-08-2006_02h29-1
 # text = Já está em 549 mortos e 295 desaparecidas com as inundações que afetaram a Coréia do Norte , informou hoje um jornal pró norte-coreano publicado no Japão , que citou fontes oficiais de Pyongyang .
 1	Já	já	ADV	ADV	_	5	advmod	_	BeginSeg=Yes
@@ -17812,7 +17812,7 @@
 34	alimentícia	alimentício	ADJ	ADJ	Gender=Fem|Number=Sing	33	amod	_	_
 35	.	.	PUNCT	PUNCT	_	17	punct	_
 
-# newdoc id = D2_C15_Estadao_21-08-2006_07h32
+# newdoc_id = D2_C15_Estadao_21-08-2006_07h32
 # sent_id = D2_C15_Estadao_21-08-2006_07h32-1
 # text = Nove pessoas morreram , três delas crianças , e outras 25 ficaram feridas nesta segunda-feira em uma explosão ocorrida em um mercado de Moscou , informou a polícia .
 1	Nove	nove	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -18016,7 +18016,7 @@
 28	terrorista	terrorista	ADJ	ADJ	Gender=Masc|Number=Sing	27	amod	_	_
 29	.	.	PUNCT	PUNCT	_	16	punct	_
 
-# newdoc id = D2_C16_Estadao_21-08-2006
+# newdoc_id = D2_C16_Estadao_21-08-2006
 # sent_id = D2_C16_Estadao_21-08-2006-1
 # text = Termina hoje , às 20 horas , o prazo para que os deputados acusados de participar do esquema dos sanguessugas renunciem para escapar da abertura de processo por quebra de decoro parlamentar .
 1	Termina	terminar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -18803,7 +18803,7 @@
 8	mandato	mandato	NOUN	NOUN	Gender=Masc|Number=Sing	5	nmod	_	_
 9	.	.	PUNCT	PUNCT	_	2	punct	_
 
-# newdoc id = D2_C17_Estadao_20-08-2006_21h41
+# newdoc_id = D2_C17_Estadao_20-08-2006_21h41
 # sent_id = D2_C17_Estadao_20-08-2006_21h41-1
 # text = O presidente Luiz Inácio Lula da Silva , candidato à reeleição pelo PT , afirmou hoje que " não moverá uma palha " para se defender dos ataques dos seus adversários .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -19417,7 +19417,7 @@
 35	migração	migração	NOUN	NOUN	Gender=Fem|Number=Sing	32	obl	_	_
 36	.	.	PUNCT	PUNCT	_	2	punct	_
 
-# newdoc id = D2_C18_Estadao_16-04-2007_13h44
+# newdoc_id = D2_C18_Estadao_16-04-2007_13h44
 # sent_id = D2_C18_Estadao_16-04-2007_13h44-1
 # text = Ao menos 33 pessoas morreram nesta segunda-feira , 16 , segundo o presidente da instituição , Charles Steger .
 1	Ao	ao	ADP	ADP	_	2	case	_	BeginSeg=Yes
@@ -20484,7 +20484,7 @@
 17	filmes	filme	NOUN	NOUN	Gender=Masc|Number=Plur	9	obl	_	_
 18	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D2_C19_Estadao_16-04-2007_11h02
+# newdoc_id = D2_C19_Estadao_16-04-2007_11h02
 # sent_id = D2_C19_Estadao_16-04-2007_11h02-1
 # text = Maradona voltou a ter problemas de saúde no fim de semana .
 1	Maradona	Maradona	PROPN	PROPN	Gender=Masc|Number=Sing	4	nsubj	_	BeginSeg=Yes
@@ -20740,7 +20740,7 @@
 13	jogo	jogo	NOUN	NOUN	Gender=Masc|Number=Sing	10	obj	_	_
 14	.	.	PUNCT	PUNCT	_	6	punct	_
 
-# newdoc id = D2_C1_Estadao_04-08-2006_05h54
+# newdoc_id = D2_C1_Estadao_04-08-2006_05h54
 # sent_id = D2_C1_Estadao_04-08-2006_05h54-1
 # text = Um acidente aéreo na localidade de Bukavu , no leste da República Democrática do Congo ( RDC ) , matou 17 pessoas na quinta-feira à tarde , informou nesta sexta-feira um porta-voz das Nações Unidas .
 1	Um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -20944,7 +20944,7 @@
 30	minerais	mineral	NOUN	NOUN	Gender=Masc|Number=Plur	28	nmod	_	_
 31	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D2_C21_OGlobo_06-08-2007_16h23
+# newdoc_id = D2_C21_OGlobo_06-08-2007_16h23
 # sent_id = D2_C21_OGlobo_06-08-2007_16h23-1
 # text = O Ministério da Defesa anunciou nesta segunda-feira ( 6 ) que em março do ano que vem uma das pistas do Aeroporto de Guarulhos será fechada para reformas de seu trecho central .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -21673,7 +21673,7 @@
 18	características	característica	NOUN	NOUN	Gender=Fem|Number=Plur	15	obj	_	_
 19	.	.	PUNCT	PUNCT	_	5	punct	_
 
-# newdoc id = D2_C23_Estadao_23-07-2007_13h58
+# newdoc_id = D2_C23_Estadao_23-07-2007_13h58
 # sent_id = D2_C23_Estadao_23-07-2007_13h58-1
 # text = A chuva torrencial que atinge o Reino Unido encobriu estradas e milhares de pessoas estão sem fornecimento de eletricidade e de água potável em decorrência da pior enchente nos últimos 60 anos no país , segundo informou nesta segunda-feira , 23 , a rede de televisão BBC .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -22234,7 +22234,7 @@
 38	)	)	PUNCT	PUNCT	_	35	punct	_	_
 39	.	.	PUNCT	PUNCT	_	6	punct	_
 
-# newdoc id = D2_C24_Estadao_23-07-2007_19h16
+# newdoc_id = D2_C24_Estadao_23-07-2007_19h16
 # sent_id = D2_C24_Estadao_23-07-2007_19h16-1
 # text = Como esperado , a atleta Fabiana Murer conquistou a medalha de ouro - a 29 . ª brasileira - no salto com vara nos Jogos Pan-Americanos do Rio , nesta segunda-feira , no Estádio João Havelange .
 1	Como	como	SCONJ	SCONJ	_	2	mark	_	BeginSeg=Yes
@@ -22641,7 +22641,7 @@
 34	4,66	4,66	NUM	NUM	NumType=Card	35	nummod	_	_
 35	m.	m.	NOUN	NOUN	Gender=Masc|Number=Plur	24	ccomp	_
 
-# newdoc id = D2_C27_Estadao_18-10-2007_00h04
+# newdoc_id = D2_C27_Estadao_18-10-2007_00h04
 # sent_id = D2_C27_Estadao_18-10-2007_00h04-1
 # text = O Brasil lavou a alma após o decepcionante empate com a Colômbia no último domingo e , nesta quarta-feira , aplicou uma sonora goleada por 5 a 0 sobre o Equador no Maracanã .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -23208,7 +23208,7 @@
 51	brasileiro	brasileiro	ADJ	ADJ	Gender=Masc|Number=Sing	50	amod	_	_
 52	.	.	PUNCT	PUNCT	_	12	punct	_
 
-# newdoc id = D2_C28_Estadao_15-07-2007_17h24
+# newdoc_id = D2_C28_Estadao_15-07-2007_17h24
 # sent_id = D2_C28_Estadao_15-07-2007_17h24-1
 # text = A seleção brasileira de vôlei mais uma vez mostrou o porquê de ser o melhor time do mundo ao vencer a Rússia por 3 sets a 1 , com parciais de 18 a 25 , 25 a 23 , 28 a 26 e 25 a 22 , na tarde deste domingo , em Katowice , Polônia , na final da Liga Mundial de vôlei , conquistando o heptacampeonato da competição .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -23619,7 +23619,7 @@
 49	brasileiro	brasileiro	ADJ	ADJ	Gender=Masc|Number=Sing	47	amod	_	_
 50	.	.	PUNCT	PUNCT	_	6	punct	_
 
-# newdoc id = D2_C29_OGlobo_15-07-2007_07h49
+# newdoc_id = D2_C29_OGlobo_15-07-2007_07h49
 # sent_id = D2_C29_OGlobo_15-07-2007_07h49-1
 # text = A Igreja Católica chegou a um acordo financeiro estimado em US$ 660 milhões ( aproximadamente R$ 1,2 bilhão ) com mais de 500 pessoas que alegam ter sido vítimas de abuso sexual por padres em Los Angeles , nos Estados Unidos .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -24099,7 +24099,7 @@
 36	anos	ano	NOUN	NOUN	Gender=Masc|Number=Plur	29	obl	_	_
 37	.	.	PUNCT	PUNCT	_	13	punct	_
 
-# newdoc id = D2_C2_Estadao_04-08-2006_12h44
+# newdoc_id = D2_C2_Estadao_04-08-2006_12h44
 # sent_id = D2_C2_Estadao_04-08-2006_12h44-1
 # text = BRASÍLIA - A pesquisa CNI/Ibope realizada em julho e divulgada nesta sexta-feira mostra que o presidente Luiz Inácio da Silva teria 44 % dos votos no primeiro turno , enquanto o candidato tucano Geraldo Alckmin teria 25 % das intenções de voto .
 1	BRASÍLIA	Brasília	PROPN	PROPN	Gender=Fem|Number=Sing	14	parataxis	_	BeginSeg=Yes
@@ -24732,7 +24732,7 @@
 22	12.197/2006	12.197/2006	NUM	NUM	NumType=Card	21	nummod	_	_
 23	.	.	PUNCT	PUNCT	_	4	punct	_
 
-# newdoc id = D2_C31_Estadao_17-10-2007_09h32
+# newdoc_id = D2_C31_Estadao_17-10-2007_09h32
 # sent_id = D2_C31_Estadao_17-10-2007_09h32-1
 # text = Um dos destaques desta temporada do esporte brasileiro , a ginasta Jade Barbosa foi escolhida , na noite desta terça-feira , para ser a representante do Brasil no revezamento da tocha dos Jogos Olímpicos de Pequim .
 1	Um	um	NUM	NUM	NumType=Card	18	nsubj:pass	_	BeginSeg=Yes
@@ -24954,7 +24954,7 @@
 27	agosto	agosto	NOUN	NOUN	Gender=Masc|Number=Sing	24	nmod	_	_
 28	.	.	PUNCT	PUNCT	_	7	punct	_
 
-# newdoc id = D2_C32_Estadao_17-07-2007_08h03
+# newdoc_id = D2_C32_Estadao_17-07-2007_08h03
 # sent_id = D2_C32_Estadao_17-07-2007_08h03-1
 # text = Os chefes da usina nuclear do Japão atingida por terremotos na última segunda-feira admitiram que ocorreram mais vazamentos radioativos no local .
 1	Os	o	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
@@ -25525,7 +25525,7 @@
 39	1995	1995	NUM	NUM	NumType=Card	33	obl	_	_
 40	.	.	PUNCT	PUNCT	_	4	punct	_
 
-# newdoc id = D2_C33_Estadao_25-09-2007_10h51
+# newdoc_id = D2_C33_Estadao_25-09-2007_10h51
 # sent_id = D2_C33_Estadao_25-09-2007_10h51-1
 # text = O presidente Luiz Inácio Lula da Silva afirmou , nesta terça-feira , 25 , na abertura da 62ª Assembléia Geral da ONU , que os biocombustíveis não afetam a segurança alimentar .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -26966,7 +26966,7 @@
 30	meses	mês	NOUN	NOUN	Gender=Masc|Number=Plur	27	obl	_	_
 31	.	.	PUNCT	PUNCT	_	4	punct	_
 
-# newdoc id = D2_C34_Estadao_20-08-2007_13h22
+# newdoc_id = D2_C34_Estadao_20-08-2007_13h22
 # sent_id = D2_C34_Estadao_20-08-2007_13h22-1
 # text = A Receita Federal intensificou a fiscalização e o resultado foi um aumento do número de contribuintes que caíram na malha fina .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -27796,7 +27796,7 @@
 28	2006	2006	NUM	NUM	NumType=Card	26	nmod	_	_
 29	.	.	PUNCT	PUNCT	_	7	punct	_
 
-# newdoc id = D2_C3_Estadao_20-07-2007_11h28
+# newdoc_id = D2_C3_Estadao_20-07-2007_11h28
 # sent_id = D2_C3_Estadao_20-07-2007_11h28-1
 # text = Para especialistas , a tragédia do Vôo 3054 não teria acontecido caso o Airbus da TAM tivesse pousando em Cumbica .
 1	Para	para	ADP	ADP	_	2	case	_	BeginSeg=Yes
@@ -28096,7 +28096,7 @@
 15	escorregadia	escorregadio	ADJ	ADJ	Gender=Fem|Number=Sing	7	acl:relcl	_	_
 16	.	.	PUNCT	PUNCT	_	4	punct	_
 
-# newdoc id = D2_C40_Estadao_06-08-2007_16h17
+# newdoc_id = D2_C40_Estadao_06-08-2007_16h17
 # sent_id = D2_C40_Estadao_06-08-2007_16h17-1
 # text = Ao chegar nesta segunda-feira , 6 , ao Senado Federal , o presidente da Casa , Renan Calheiros , disse que a decisão do procurador geral da República , Antonio Fernando de Souza , de investigar as denúncias contra ele , atende a um pedido que fez há cerca de um mês .
 1	Ao	ao	SCONJ	SCONJ	_	2	mark	_	BeginSeg=Yes
@@ -28445,7 +28445,7 @@
 15	Veloso	Veloso	PROPN	PROPN	Number=Sing	14	flat:name	_	_
 16	.	.	PUNCT	PUNCT	_	4	punct	_
 
-# newdoc id = D2_C41_Estadao_20-07-2007_12h23
+# newdoc_id = D2_C41_Estadao_20-07-2007_12h23
 # sent_id = D2_C41_Estadao_20-07-2007_12h23-1
 # text = Em uma disputa emocionante , o Brasil conquistou nesta sexta-feira a medalha de ouro no revezamento 4x100 metros livre , uma das provas mais charmosas da natação , ao cravar o tempo de 3min15s90 ( novo recorde pan-americano e sul-americano ) .
 1	Em	em	ADP	ADP	_	3	case	_	BeginSeg=Yes
@@ -28974,7 +28974,7 @@
 17	)	)	PUNCT	PUNCT	_	15	punct	_	_
 18	.	.	PUNCT	PUNCT	_	1	punct	_
 
-# newdoc id = D2_C42_Estadao_25-09-2007_14h28
+# newdoc_id = D2_C42_Estadao_25-09-2007_14h28
 # sent_id = D2_C42_Estadao_25-09-2007_14h28-1
 # text = O senador João Pedro ( PT-AM ) , relator da segunda representação contra Renan Calheiros ( PMDB-AL ) no Senado , confirmou que vai apresentar nesta quarta-feira , 26 , na reunião doConselho de Ética , pedido de sobrestamento ( suspensão temporária ) das investigações sobre o caso .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -29897,7 +29897,7 @@
 8	horas	hora	NOUN	NOUN	Gender=Fem|Number=Plur	4	obl	_	_
 9	.	.	PUNCT	PUNCT	_	4	punct	_
 
-# newdoc id = D2_C43_Estadao_17-07-2007_12h13
+# newdoc_id = D2_C43_Estadao_17-07-2007_12h13
 # sent_id = D2_C43_Estadao_17-07-2007_12h13-1
 # text = A Mesa Diretora do Senado se reuniu na manhã desta terça-feira , 17 , para decidir sobre o envio de perícia aprofundada à Polícia Federal de documentos entregues pelo presidente da Casa , Renan Calheiros ( PMDB ) , para comprovar a evolução do seu patrimônio com a venda de gado , nos últimos anos .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -30302,7 +30302,7 @@
 21	)	)	PUNCT	PUNCT	_	20	punct	_	_
 22	.	.	PUNCT	PUNCT	_	8	punct	_
 
-# newdoc id = D2_C44_JB_10-09-2007_13h36
+# newdoc_id = D2_C44_JB_10-09-2007_13h36
 # sent_id = D2_C44_JB_10-09-2007_13h36-1
 # text = O Conselho de Ética do Senado vai decidir na próxima semana sobre o pedido do líder do P-SOL , José Nery ( PA ) , para juntar em uma só as representações apresentadas contra o presidente da Casa , Renan Calheiros ( PMDB-AL ) .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -30577,7 +30577,7 @@
 23	PMDB	PMDB	PROPN	PROPN	Gender=Masc|Number=Sing	20	obl:agent	_	_
 24	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D2_C45_Estadao_18-10-2007_07h58
+# newdoc_id = D2_C45_Estadao_18-10-2007_07h58
 # sent_id = D2_C45_Estadao_18-10-2007_07h58-1
 # text = Um homem suspeito de ter roubado o relógio Rolex do apresentador de televisão Luciano Huck foi detido na quarta-feira , 16 , em Taboão da Serra , na Grande São Paulo .
 1	Um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -30844,7 +30844,7 @@
 35	Janeiro	Janeiro	PROPN	PROPN	Number=Sing	33	nmod	_	_
 36	.	.	PUNCT	PUNCT	_	13	punct	_
 
-# newdoc id = D2_C46_Estadao
+# newdoc_id = D2_C46_Estadao
 # sent_id = D2_C46_Estadao-1
 # text = Um terremoto de 6,8 graus na escala Richter atingiu a costa noroeste do Japão nesta segunda-feira , 16 , matando pelo menos sete pessoas na cidade de Kashiwazaki e deixando outros 700 feridos .
 1	Um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -31248,7 +31248,7 @@
 17	Niigata	Niigata	PROPN	PROPN	Gender=Masc|Number=Sing	8	nmod	_	_
 18	.	.	PUNCT	PUNCT	_	8	punct	_
 
-# newdoc id = D2_C48_Estadao_24-07-2007_09h56
+# newdoc_id = D2_C48_Estadao_24-07-2007_09h56
 # sent_id = D2_C48_Estadao_24-07-2007_09h56-1
 # text = Duas horas antes da estréia da seleção brasileira de vôlei no Pan-Americano , diante dos canadenses , o Ginásio do Maracanãzinho já estava cheio .
 1	Duas	dois	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -31781,7 +31781,7 @@
 7	"	"	PUNCT	PUNCT	_	6	punct	_	_
 8	.	.	PUNCT	PUNCT	_	2	punct	_
 
-# newdoc id = D2_C4_Estadao_16-07-2007_09h24
+# newdoc_id = D2_C4_Estadao_16-07-2007_09h24
 # sent_id = D2_C4_Estadao_16-07-2007_09h24-1
 # text = A forte chuva em São Paulo complicava o trânsito na manhã desta segunda-feira , 16 , e fez com que o Centro de Gerenciamento de Emergência ( CGE ) da Prefeitura colocasse a cidade em estado de atenção .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	BeginSeg=Yes
@@ -32118,7 +32118,7 @@
 14	normais	normal	ADJ	ADJ	Gender=Fem|Number=Plur	13	xcomp	_	_
 15	.	.	PUNCT	PUNCT	_	13	punct	_
 
-# newdoc id = D2_C5_GPovo_19-09-2007_10h01
+# newdoc_id = D2_C5_GPovo_19-09-2007_10h01
 # sent_id = D2_C5_GPovo_19-09-2007_10h01-1
 # text = O ministro da Defesa , Nelson Jobim , informou no fim da noite desta terça-feira que a economista Solange Vieira , de 38 anos , será a nova presidente da Agência Nacional de Aviação Civil ( Anac ) .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -32760,7 +32760,7 @@
 43	Maia	Maia	PROPN	PROPN	Gender=Masc|Number=Sing	42	nsubj	_	_
 44	.	.	PUNCT	PUNCT	_	42	punct	_
 
-# newdoc id = D2_C6_Estadao_08-08-2007_07h49
+# newdoc_id = D2_C6_Estadao_08-08-2007_07h49
 # sent_id = D2_C6_Estadao_08-08-2007_07h49-1
 # text = O presidente Luiz Inácio Lula da Silva disse , nesta segunda-feira , 6 , que irá transformar o Brasil em " um verdadeiro canteiro de obra " .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -33261,7 +33261,7 @@
 40	"	"	PUNCT	PUNCT	_	21	punct	_	_
 41	.	.	PUNCT	PUNCT	_	8	punct	_
 
-# newdoc id = D2_C7_OGlobo
+# newdoc_id = D2_C7_OGlobo
 # sent_id = D2_C7_OGlobo-1
 # text = Astrônomos do Observatório Europeu Austral , localizado no Chile , anunciaram a descoberta de uma dupla de planetas errantes ( sem estrela-mãe ) que giram ao redor deles mesmos e que vagam livremente pelo espaço .
 1	Astrônomos	astrônomo	NOUN	NOUN	Gender=Masc|Number=Plur	13	nsubj	_	BeginSeg=Yes
@@ -33563,7 +33563,7 @@
 19	declarou	declarar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	BeginSeg=Yes
 20	.	.	PUNCT	PUNCT	_	19	punct	_
 
-# newdoc id = D2_C8_OGlobo_04-08-2006_14h13
+# newdoc_id = D2_C8_OGlobo_04-08-2006_14h13
 # sent_id = D2_C8_OGlobo_04-08-2006_14h13-1
 # text = A seleção brasileira masculina de vôlei , que é treinada por Bernardinho , venceu a Finlândia por 3 sets a 0 , parciais de 25/17 , 25/22 e 25/21 , nesta sexta-feira , em Tampere ( FIN ) , e manteve sua invencibilidade na Liga Mundial-06 .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -33810,7 +33810,7 @@
 13	competição	competição	NOUN	NOUN	Gender=Fem|Number=Sing	10	nmod	_	_
 14	.	.	PUNCT	PUNCT	_	10	punct	_
 
-# newdoc id = D2_C9_Estadao_04-08-2006_09h53
+# newdoc_id = D2_C9_Estadao_04-08-2006_09h53
 # sent_id = D2_C9_Estadao_04-08-2006_09h53-1
 # text = A Polícia Federal desencadeou na manhã desta sexta-feira em Rondônia , a " Operação Dominó " , destinada a prender uma quadrilha de altos funcionários públicos especializada em desvio de recursos públicos , corrupção , peculato , extorsão , lavagem de dinheiro e venda de sentenças judiciais .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -34437,7 +34437,7 @@
 34	"	"	PUNCT	PUNCT	_	24	punct	_	_
 35	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D3_C10_OGlobo
+# newdoc_id = D3_C10_OGlobo
 # sent_id = D3_C10_OGlobo-1
 # text = A aviação de Israel realizou durante a madrugada desta segunda-feira , dia 7 , ataques a 150 alvos no Líbano .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -34575,7 +34575,7 @@
 26	israelenses	israelense	ADJ	ADJ	Gender=Fem|Number=Plur	25	amod	_	_
 27	.	.	PUNCT	PUNCT	_	23	punct	_
 
-# newdoc id = D3_C11_OGlobo_07-08-2006_08h29
+# newdoc_id = D3_C11_OGlobo_07-08-2006_08h29
 # sent_id = D3_C11_OGlobo_07-08-2006_08h29-1
 # text = Uma nova série de ataques criminosos foi registrada na madrugada desta segunda-feira , dia 7 , em São Paulo e municípios do interior paulista .
 1	Uma	um	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	BeginSeg=Yes
@@ -34967,7 +34967,7 @@
 17	temporária	temporário	ADJ	ADJ	Gender=Fem|Number=Sing	16	amod	_	_
 18	.	.	PUNCT	PUNCT	_	10	punct	_
 
-# newdoc id = D3_C12_GPovo_07-08-2006_08h28
+# newdoc_id = D3_C12_GPovo_07-08-2006_08h28
 # sent_id = D3_C12_GPovo_07-08-2006_08h28-1
 # text = Ao menos 549 pessoas morreram e outras 295 ainda estão desaparecidas em conseqüência das enchentes que atingiram a Coréia do Norte em julho , segundo um jornal japonês pró-Pyongyang .
 1	Ao	ao	ADP	ADP	_	2	case	_	BeginSeg=Yes
@@ -35424,7 +35424,7 @@
 38	Pyongyang	Pyongyang	PROPN	PROPN	Gender=Masc|Number=Sing	36	obl:agent	_	_
 39	.	.	PUNCT	PUNCT	_	6	punct	_
 
-# newdoc id = D3_C15_OGlobo_21-08-2006_06h58
+# newdoc_id = D3_C15_OGlobo_21-08-2006_06h58
 # sent_id = D3_C15_OGlobo_21-08-2006_06h58-1
 # text = Uma explosão causou nesta segunda-feira a morte de dez pessoas e deixou cerca de 30 feridas no mercado Cherkizov de Moscou .
 1	Uma	um	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -35828,7 +35828,7 @@
 31	TNT	TNT	PROPN	PROPN	Gender=Masc|Number=Sing	29	nmod	_	_
 32	.	.	PUNCT	PUNCT	_	16	punct	_
 
-# newdoc id = D3_C16_OGlobo_21-08-2006_10h45
+# newdoc_id = D3_C16_OGlobo_21-08-2006_10h45
 # sent_id = D3_C16_OGlobo_21-08-2006_10h45-1
 # text = Os parlamentares acusados de envolvimento com o esquema de superfaturamento das ambulâncias têm até a meia-noite desta segunda-feira , dia 21 , para renunciar ao mandato , caso queiram escapar do julgamento por quebra de decoro .
 1	Os	o	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
@@ -36014,7 +36014,7 @@
 15	passada	passado	ADJ	ADJ	Gender=Fem|Number=Sing	14	amod	_	_
 16	.	.	PUNCT	PUNCT	_	9	punct	_
 
-# newdoc id = D3_C18_GPovo
+# newdoc_id = D3_C18_GPovo
 # sent_id = D3_C18_GPovo-1
 # text = Um ataque em dois lugares da Universidade Técnica da Virgínia , em Blacksburg , Estados Unidos , resultou na morte de 30 pessoas .
 1	Um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -36271,7 +36271,7 @@
 15	escola	escola	NOUN	NOUN	Gender=Fem|Number=Sing	12	nmod	_	_
 16	.	.	PUNCT	PUNCT	_	4	punct	_
 
-# newdoc id = D3_C1_JB_04-08-2006_05h44
+# newdoc_id = D3_C1_JB_04-08-2006_05h44
 # sent_id = D3_C1_JB_04-08-2006_05h44-1
 # text = Um acidente aéreo na localidade de Bukavu , no leste da República Democrática do Congo , matou 17 pessoas na quinta-feira à tarde , informou hoje um porta-voz das Nações Unidas .
 1	Um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -36469,7 +36469,7 @@
 13	russa	russo	ADJ	ADJ	Gender=Fem|Number=Sing	12	amod	_	_
 14	.	.	PUNCT	PUNCT	_	12	punct	_
 
-# newdoc id = D3_C21_JB
+# newdoc_id = D3_C21_JB
 # sent_id = D3_C21_JB-1
 # text = O ministro da Defesa , Nelson Jobim , decidiu que será realizada uma reforma definitiva na pista principal de Guarulhos , o mais rápido possível , de acordo com a assessoria do ministério da Defesa .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -36801,7 +36801,7 @@
 17	Guarulhos	Guarulhos	PROPN	PROPN	Gender=Masc|Number=Sing	15	nmod	_	_
 18	.	.	PUNCT	PUNCT	_	4	punct	_
 
-# newdoc id = D3_C24_JB
+# newdoc_id = D3_C24_JB
 # sent_id = D3_C24_JB-1
 # text = Depois da queda de April Steiner , a brasileira Fabiana Murer leva a medalha de ouro no salto com vara , com 4m50 - novo recorde pan-americano .
 1	Depois	depois	ADV	ADV	_	13	advmod	_	BeginSeg=Yes
@@ -36864,7 +36864,7 @@
 8	Silva	Silva	PROPN	PROPN	Number=Sing	7	flat:name	_	_
 9	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D3_C28_OGlobo_15-07-2007_17h18
+# newdoc_id = D3_C28_OGlobo_15-07-2007_17h18
 # sent_id = D3_C28_OGlobo_15-07-2007_17h18-1
 # text = A seleção brasileira de vôlei voltou a fazer bonito , desta vez na final da Liga Mundial , disputada contra a Rússia neste domingo no ginásio de Spodekna , em Katowice , na Polônia .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -37149,7 +37149,7 @@
 19	1992	1992	NUM	NUM	NumType=Card	10	obl	_	_
 20	.	.	PUNCT	PUNCT	_	10	punct	_
 
-# newdoc id = D3_C29_GPovo_15-07-2007_10h43
+# newdoc_id = D3_C29_GPovo_15-07-2007_10h43
 # sent_id = D3_C29_GPovo_15-07-2007_10h43-1
 # text = A Igreja Católica chegou a um acordo financeiro estimado em US$ 660 milhões ( aproximadamente R$ 1,2 bilhão ) com mais de 500 pessoas que alegam ter sido vítimas de abuso sexual por padres em Los Angeles , nos Estados Unidos .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -37629,7 +37629,7 @@
 36	anos	ano	NOUN	NOUN	Gender=Masc|Number=Plur	29	obl	_	_
 37	.	.	PUNCT	PUNCT	_	13	punct	_
 
-# newdoc id = D3_C32_JB_17-07-2007_08h16
+# newdoc_id = D3_C32_JB_17-07-2007_08h16
 # sent_id = D3_C32_JB_17-07-2007_08h16-1
 # text = Autoridades da maior usina de energia nuclear do mundo , no Japão , admitiram nesta terça-feira que houve mais vazamentos de radiação após um terremoto ter matado nove pessoas no país e deixado milhares de desabrigados .
 1	Autoridades	autoridade	NOUN	NOUN	Gender=Fem|Number=Plur	17	nsubj	_	BeginSeg=Yes
@@ -38209,7 +38209,7 @@
 25	Kobe	Kobe	PROPN	PROPN	Gender=Masc|Number=Sing	23	nmod	_	_
 26	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D3_C33_OGlobo_25-09-2007_19h59
+# newdoc_id = D3_C33_OGlobo_25-09-2007_19h59
 # sent_id = D3_C33_OGlobo_25-09-2007_19h59-1
 # text = O presidente Luiz Inácio Lula da Silva abriu nesta terça-feira a Assembléia Geral da Organização das Nações Unidas ( ONU ) reforçando o discurso do secretário-geral Ban Ki-moon sobre a importância dos países desenvolvidos liderarem os esforços pela preservação do meio ambiente .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -38951,7 +38951,7 @@
 21	"	"	PUNCT	PUNCT	_	2	punct	_	_
 22	.	.	PUNCT	PUNCT	_	2	punct	_
 
-# newdoc id = D3_C34_JB_20-08-2007_16h22
+# newdoc_id = D3_C34_JB_20-08-2007_16h22
 # sent_id = D3_C34_JB_20-08-2007_16h22-1
 # text = Dobrou o número de pessoas físicas autuadas depois de cair na malha fina até julho , de acordo com a Receita Federal do Brasil .
 1	Dobrou	dobrar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -39192,7 +39192,7 @@
 24	declaradas	declarar	VERB	VERB	Gender=Fem|Number=Plur|VerbForm=Part	22	acl	_	_
 25	.	.	PUNCT	PUNCT	_	7	punct	_
 
-# newdoc id = D3_C3_JB
+# newdoc_id = D3_C3_JB
 # sent_id = D3_C3_JB-1
 # text = A TAM confirmou , na noite desta quinta-feira , que ao airbus da TAM estava com o reverso do lado direito desligado , desde o último dia 13 .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -39836,7 +39836,7 @@
 32	estado	estado	NOUN	NOUN	Gender=Masc|Number=Sing	20	conj	_	_
 33	.	.	PUNCT	PUNCT	_	16	punct	_
 
-# newdoc id = D3_C40_OGlobo_06-08-2007_20h53
+# newdoc_id = D3_C40_OGlobo_06-08-2007_20h53
 # sent_id = D3_C40_OGlobo_06-08-2007_20h53-1
 # text = O procurador-geral da República , Antonio Fernando de Souza , pediu abertura de inquérito no Supremo Tribunal Federal ( STF ) para investigar o presidente do Senado , Renan Calheiros .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -40360,7 +40360,7 @@
 23	comando	comando	NOUN	NOUN	Gender=Masc|Number=Sing	16	obl	_	_
 24	.	.	PUNCT	PUNCT	_	16	punct	_
 
-# newdoc id = D3_C45_OGlobo_18-10-2007_08h33
+# newdoc_id = D3_C45_OGlobo_18-10-2007_08h33
 # sent_id = D3_C45_OGlobo_18-10-2007_08h33-1
 # text = Um garçom de 22 anos foi preso na noite desta quarta-feira , acusado de ter roubado o Rolex do apresentador Luciano Huck .
 1	Um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -41166,7 +41166,7 @@
 59	.	.	PUNCT	PUNCT	_	3	punct	_	_
 60	"	"	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D3_C46_OGlobo
+# newdoc_id = D3_C46_OGlobo
 # sent_id = D3_C46_OGlobo-1
 # text = Um terremoto de 6,8 graus na escala Richter , com epicentro a 17 quilômetros de profundidade , atingiu a costa noroeste do Japão às 10h13 m desta segunda-feira ( 22h13m de domingo em Brasília ) .
 1	Um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -41452,7 +41452,7 @@
 28	feridos	ferido	NOUN	NOUN	Gender=Masc|Number=Plur	23	obj	_	_
 29	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D3_C47_OGlobo
+# newdoc_id = D3_C47_OGlobo
 # sent_id = D3_C47_OGlobo-1
 # text = O Parlamento da Turquia aprovou por ampla maioria ( 507 votos contra 19 ) , nesta quarta-feira , um pedido do governo para permitir que tropas do país cruzem a fronteira para o norte do Iraque , a fim de combater rebeldes separatistas curdos refugiados na região montanhosa .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -41906,7 +41906,7 @@
 23	EUA	EUA	PROPN	PROPN	Gender=Masc|Number=Plur	19	nmod	_	_
 24	.	.	PUNCT	PUNCT	_	11	punct	_
 
-# newdoc id = D3_C49_OGlobo_16-07-2007_13h57
+# newdoc_id = D3_C49_OGlobo_16-07-2007_13h57
 # sent_id = D3_C49_OGlobo_16-07-2007_13h57-1
 # text = O presidente Luiz Inácio Lula da Silva classificou de “ reação do ser humano ” as vaias que recebeu , na última sexta-feira , durante a abertura dos Jogos Pan-Americanos do Rio , no Maracanã .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -42322,7 +42322,7 @@
 27	.	.	PUNCT	PUNCT	_	9	punct	_	_
 28	”	”	PUNCT	PUNCT	_	9	punct	_
 
-# newdoc id = D3_C4_OGlobo
+# newdoc_id = D3_C4_OGlobo
 # sent_id = D3_C4_OGlobo-1
 # text = Depois de 20 dias de tempo seco , voltou a chover na capital paulista .
 1	Depois	depois	ADV	ADV	_	11	advmod	_	BeginSeg=Yes
@@ -42849,7 +42849,7 @@
 18	Climatempo	Climatempo	PROPN	PROPN	Gender=Fem|Number=Sing	13	nmod	_	_
 19	.	.	PUNCT	PUNCT	_	12	punct	_
 
-# newdoc id = D3_C50_OGlobo
+# newdoc_id = D3_C50_OGlobo
 # sent_id = D3_C50_OGlobo-1
 # text = Ao deixar a reunião dos tucanos com o ministro da Fazenda , Guido Mantega , o senador Sérgio Guerra ( PDSB-PE ) disse que seu partido considerou insuficiente a proposta do governo , que teria se comprometido a elevar o limite de isenção da CPMF para quem tem renda até R$ 4.340 , em vez dos R$ 1.642 negociados até então .
 1	Ao	ao	SCONJ	SCONJ	_	2	mark	_	BeginSeg=Yes
@@ -43747,7 +43747,7 @@
 16	terça-feira	terça-feira	NOUN	NOUN	Gender=Fem|Number=Sing	12	nmod	_	_
 17	.	.	PUNCT	PUNCT	_	6	punct	_
 
-# newdoc id = D3_C6_JB
+# newdoc_id = D3_C6_JB
 # sent_id = D3_C6_JB-1
 # text = O presidente Luiz Inácio Lula da Silva disse na manhã desta segunda-feira , no programa Café com o Presidente , que o Brasil se transformará em um " canteiro de obra " .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -44080,7 +44080,7 @@
 24	básico	básico	ADJ	ADJ	Gender=Masc|Number=Sing	23	amod	_	_
 25	.	.	PUNCT	PUNCT	_	9	punct	_
 
-# newdoc id = D3_C8_JB_04-08-2006_13h56
+# newdoc_id = D3_C8_JB_04-08-2006_13h56
 # sent_id = D3_C8_JB_04-08-2006_13h56-1
 # text = O Brasil arrasou a Finlândia no primeiro confronto entre as seleções , nesta sexta-feira , na cidade de Tampere , pela Liga Mundial de vôlei 2006 , por 3 sets a 0 , com parciais de 25/17 , 25/22 e 25/21 .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -44440,7 +44440,7 @@
 38	21	21	NUM	NUM	NumType=Card	36	nmod	_	_
 39	.	.	PUNCT	PUNCT	_	9	punct	_
 
-# newdoc id = D3_C9_OGlobo_04-08-2006_14h09
+# newdoc_id = D3_C9_OGlobo_04-08-2006_14h09
 # sent_id = D3_C9_OGlobo_04-08-2006_14h09-1
 # text = O superintendente regional da Polícia Federal de Rondônia , delegado Joaquim Mesquita , informou nesta sexta-feira , dia 04 , que 23 pessoas foram presas , até o momento , pela Operação Dominó , em Rondônia .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -44859,7 +44859,7 @@
 48	Brasília	Brasília	PROPN	PROPN	Gender=Fem|Number=Sing	39	obl	_	_
 49	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D4_C10_JB_07-08-2006_03h51
+# newdoc_id = D4_C10_JB_07-08-2006_03h51
 # sent_id = D4_C10_JB_07-08-2006_03h51-1
 # text = A aviação israelense atacou 150 alvos na madrugada de hoje no Líbano , enquanto soldados do Estado judeu mataram 10 milicianos do Hisbolá nas aldeias libanesas de Bint Djebeil e Kafr Hula , segundo informações de fontes militares .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -45510,7 +45510,7 @@
 23	concluiu	concluir	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	BeginSeg=Yes
 24	.	.	PUNCT	PUNCT	_	23	punct	_
 
-# newdoc id = D4_C11_JB_07-08-2006_06h26
+# newdoc_id = D4_C11_JB_07-08-2006_06h26
 # sent_id = D4_C11_JB_07-08-2006_06h26-1
 # text = A cidade de São Paulo e alguns municípios do interior paulista foram atingidos na madrugada desta segunda-feira por novos atentados com bombas e tiros contra agências bancárias , bases policiais e prédios públicos .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -46340,7 +46340,7 @@
 17	temporária	temporário	ADJ	ADJ	Gender=Fem|Number=Sing	16	amod	_	_
 18	.	.	PUNCT	PUNCT	_	10	punct	_
 
-# newdoc id = D4_C15_JB
+# newdoc_id = D4_C15_JB
 # sent_id = D4_C15_JB-1
 # text = Nove pessoas morreram , sendo três crianças , e outras 25 ficaram feridas nesta segunda-feira em uma explosão registrada em um mercado moscovita , informou a Polícia de Moscou .
 1	Nove	nove	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -46568,7 +46568,7 @@
 30	terrorista	terrorista	ADJ	ADJ	Gender=Masc|Number=Sing	29	amod	_	_
 31	.	.	PUNCT	PUNCT	_	18	punct	_
 
-# newdoc id = D4_C20_JB
+# newdoc_id = D4_C20_JB
 # sent_id = D4_C20_JB-1
 # text = A Câmara discute o requerimento de autoria do PSDB para adiamento da discussão da proposta que prorroga a CPMF .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -46646,7 +46646,7 @@
 16	sessões	sessão	NOUN	NOUN	Gender=Fem|Number=Plur	8	obl	_	_
 17	.	.	PUNCT	PUNCT	_	8	punct	_
 
-# newdoc id = D4_C22_JB
+# newdoc_id = D4_C22_JB
 # sent_id = D4_C22_JB-1
 # text = Esta terça-feira começou com atrasos e cancelamentos no aeroporto de Congonhas , zona Sul de São Paulo .
 1	Esta	este	DET	DET	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	BeginSeg=Yes
@@ -47124,7 +47124,7 @@
 31	cancelamentos	cancelamento	NOUN	NOUN	Gender=Masc|Number=Plur	28	conj	_	_
 32	.	.	PUNCT	PUNCT	_	15	punct	_
 
-# newdoc id = D4_C24_GPovo_23-07-2007_19h38
+# newdoc_id = D4_C24_GPovo_23-07-2007_19h38
 # sent_id = D4_C24_GPovo_23-07-2007_19h38-1
 # text = A brasileira Fabiana Murer conquistou o primeiro ouro do atletismo para o Brasil , nesta segunda-feira , na prova de salto com vara .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -47413,7 +47413,7 @@
 51	nervosismo	nervosismo	NOUN	NOUN	Gender=Masc|Number=Sing	44	obl	_	_
 52	.	.	PUNCT	PUNCT	_	5	punct	_
 
-# newdoc id = D4_C26_JB_20-08-2007_10h28
+# newdoc_id = D4_C26_JB_20-08-2007_10h28
 # sent_id = D4_C26_JB_20-08-2007_10h28-1
 # text = O furacão Dean chegou à costa sul da Jamaica , inundando a capital e espalhando árvores e telhados depois de matar nove pessoas na passagem pelo Caribe nesta segunda-feira , na direção da península de Yucatán , no México .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -48054,7 +48054,7 @@
 35	tropicais	tropical	ADJ	ADJ	Gender=Masc|Number=Plur	34	amod	_	_
 36	.	.	PUNCT	PUNCT	_	7	punct	_
 
-# newdoc id = D4_C27_JB
+# newdoc_id = D4_C27_JB
 # sent_id = D4_C27_JB-1
 # text = Na volta da Seleção Brasileira ao Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles e frango do goleiro adversário .
 1-2	Na	_	_	_	_	_	_	_	_
@@ -48993,7 +48993,7 @@
 16	campo	campo	NOUN	NOUN	Gender=Masc|Number=Sing	11	obl	_	_
 17	.	.	PUNCT	PUNCT	_	11	punct	_
 
-# newdoc id = D4_C2_Globo_04-08-2006_16h09
+# newdoc_id = D4_C2_Globo_04-08-2006_16h09
 # sent_id = D4_C2_Globo_04-08-2006_16h09-1
 # text = O Instituto de pesquisa CNI/Ibope divulgou nesta sexta-feira , em Brasília , que o presidente Luiz Inácio Lula da Silva seria reeleito em primeiro turno caso as eleições fossem hoje .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -49249,7 +49249,7 @@
 29	)	)	PUNCT	PUNCT	_	26	punct	_	_
 30	.	.	PUNCT	PUNCT	_	5	punct	_
 
-# newdoc id = D4_C32_GPovo_16-07-2007_19h17
+# newdoc_id = D4_C32_GPovo_16-07-2007_19h17
 # sent_id = D4_C32_GPovo_16-07-2007_19h17-1
 # text = Dois terremotos atingiram a região de Niigata , na costa oeste do Japão , nesta segunda-feira ( 16 ) .
 1	Dois	dois	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -50010,7 +50010,7 @@
 26	mundo	mundo	NOUN	NOUN	Gender=Masc|Number=Sing	23	obl	_	_
 27	.	.	PUNCT	PUNCT	_	12	punct	_
 
-# newdoc id = D4_C33_JB
+# newdoc_id = D4_C33_JB
 # sent_id = D4_C33_JB-1
 # text = O presidente Luiz Inácio Lula da Silva propôs nesta terça-feira em seu discurso na abertura 62ª Assembléia Geral da Organização das Nações Unidas , a realização de uma nova conferência para sediar a Rio +20 .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -50259,7 +50259,7 @@
 16	social	social	ADJ	ADJ	Gender=Masc|Number=Sing	15	amod	_	_
 17	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D4_C35_JB_08-08-2007_19h30
+# newdoc_id = D4_C35_JB_08-08-2007_19h30
 # sent_id = D4_C35_JB_08-08-2007_19h30-1
 # text = A Operação Farrapos da Polícia Federal , que tem como objetivo desarticular uma quadrilha internacional de drogas , prendeu até o final da manhã desta terça-feira 14 pessoas acusadas de envolvimento com o tráfico .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -50541,7 +50541,7 @@
 40	Argentina	Argentina	PROPN	PROPN	Gender=Fem|Number=Sing	31	conj	_	_
 41	.	.	PUNCT	PUNCT	_	22	punct	_
 
-# newdoc id = D4_C40_JB
+# newdoc_id = D4_C40_JB
 # sent_id = D4_C40_JB-1
 # text = O presidente do Senado , Renan Calheiros ( PMDB-AL ) prometeu , nesta segunda-feira , defender-se das acusações publicadas pela revista Veja desta semana , de que teria usado laranja para comprar uma emissora de rádio e TV , em Maceió .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -50783,7 +50783,7 @@
 36	Renan	Renan	PROPN	PROPN	Gender=Masc|Number=Sing	34	nmod	_	_
 37	.	.	PUNCT	PUNCT	_	11	punct	_
 
-# newdoc id = D4_C41_JB
+# newdoc_id = D4_C41_JB
 # sent_id = D4_C41_JB-1
 # text = A natação brasileira mais uma vez está em festa .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -51030,7 +51030,7 @@
 28	modalidade	modalidade	NOUN	NOUN	Gender=Fem|Number=Sing	24	nmod	_	_
 29	.	.	PUNCT	PUNCT	_	6	punct	_
 
-# newdoc id = D4_C43_JB_17-07-2007_08h50
+# newdoc_id = D4_C43_JB_17-07-2007_08h50
 # sent_id = D4_C43_JB_17-07-2007_08h50-1
 # text = Preocupados com o surgimento de manobras que possam atrasar as investigações por causa do recesso parlamentar , que terá início amanhã , os relatores do caso envolvendo o presidente do Senado , Renan Calheiros ( PMDB-AL ) , já articulam um plano B. Com base na resolução que disciplina a atuação do Conselho de Ética , podem assumir as investigações sem precisarem recorrer à Polícia Federal ou esperar uma definição do Supremo Tribunal Federal sobre um eventual recurso do presidente do Congresso .
 1	Preocupados	preocupar	VERB	VERB	Gender=Masc|Number=Plur|VerbForm=Part	25	acl	_	BeginSeg=Yes
@@ -51841,7 +51841,7 @@
 43	gado	gado	NOUN	NOUN	Gender=Masc|Number=Sing	41	nmod	_	_
 44	.	.	PUNCT	PUNCT	_	6	punct	_
 
-# newdoc id = D4_C46_JB
+# newdoc_id = D4_C46_JB
 # sent_id = D4_C46_JB-1
 # text = Um forte terremoto matou ao menos cinco pessoas no noroeste do Japão nesta segunda-feira .
 1	Um	um	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	BeginSeg=Yes
@@ -52213,7 +52213,7 @@
 15	feriado	feriado	NOUN	NOUN	Gender=Masc|Number=Sing	12	obl	_	_
 16	.	.	PUNCT	PUNCT	_	8	punct	_
 
-# newdoc id = D4_C47_JB_17-10-2007_07h54
+# newdoc_id = D4_C47_JB_17-10-2007_07h54
 # sent_id = D4_C47_JB_17-10-2007_07h54-1
 # text = A Turquia intensificou nesta quarta-feira ( 17 ) a sua pressão sobre o Iraque para que atue contra os rebeldes do Partido dos Trabalhadores do Curdistão ( PKK ) , enquanto o vice-presidente iraquiano , Tariq al-Hashimi , tratava de acalmar os ânimos e evitar um ataque militar em uma visita-relâmpago a Ancara .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -52963,7 +52963,7 @@
 35	Iraque	Iraque	PROPN	PROPN	Gender=Masc|Number=Sing	32	nmod	_	_
 36	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D4_C49_JB
+# newdoc_id = D4_C49_JB
 # sent_id = D4_C49_JB-1
 # text = O presidente Luiz Inácio Lula da Silva classificou de reação do ser humano as vaias que recebeu , na última sexta-feira , dia 13 , durante a abertura dos Jogos Pan-Americanos do Rio , no Maracanã .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -53372,7 +53372,7 @@
 26	Janeiro	Janeiro	PROPN	PROPN	Number=Sing	24	nmod	_	_
 27	.	.	PUNCT	PUNCT	_	9	punct	_
 
-# newdoc id = D4_C50_JB_06-11-2007_14h12
+# newdoc_id = D4_C50_JB_06-11-2007_14h12
 # sent_id = D4_C50_JB_06-11-2007_14h12-1
 # text = O governo aumentou para 4.340 reais o teto salarial que poderá ficar isento do pagamento da CPMF , em um esforço para convencer o PSDB a votar a favor da prorrogação do tributo até 2011 .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -53828,7 +53828,7 @@
 56	assunto	assunto	NOUN	NOUN	Gender=Masc|Number=Sing	50	nmod	_	_
 57	.	.	PUNCT	PUNCT	_	4	punct	_
 
-# newdoc id = D5_C10_GPovo_07-08-2006_07h20
+# newdoc_id = D5_C10_GPovo_07-08-2006_07h20
 # sent_id = D5_C10_GPovo_07-08-2006_07h20-1
 # text = A Força Aérea israelense lançou uma série de bombardeios contra o Líbano nesta segunda-feira .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -54458,7 +54458,7 @@
 22	York	York	PROPN	PROPN	Number=Sing	21	flat:name	_	_
 23	.	.	PUNCT	PUNCT	_	9	punct	_
 
-# newdoc id = D5_C11_GPovo
+# newdoc_id = D5_C11_GPovo
 # sent_id = D5_C11_GPovo-1
 # text = O estado de São Paulo voltou a sofrer com os ataques contra postos policiais , agências bancárias e ônibus , na madrugada desta segunda-feira .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -54750,7 +54750,7 @@
 24	proibida	proibido	ADJ	ADJ	Gender=Fem|Number=Sing	17	conj	_	_
 25	.	.	PUNCT	PUNCT	_	17	punct	_
 
-# newdoc id = D5_C20_GPovo_19-09-2007_12h44
+# newdoc_id = D5_C20_GPovo_19-09-2007_12h44
 # sent_id = D5_C20_GPovo_19-09-2007_12h44-1
 # text = Com a presença de 54 parlamentares às 10h40 , o plenário da Câmara começou o debate sobre a prorrogação da CPMF ( imposto do cheque ) até 2011 .
 1	Com	com	ADP	ADP	_	3	case	_	BeginSeg=Yes
@@ -55437,7 +55437,7 @@
 27	21h	21h	NOUN	NOUN	Gender=Fem|Number=Plur	22	obl	_	_
 28	.	.	PUNCT	PUNCT	_	22	punct	_
 
-# newdoc id = D5_C26_GPovo_20-08-2007_12h47
+# newdoc_id = D5_C26_GPovo_20-08-2007_12h47
 # sent_id = D5_C26_GPovo_20-08-2007_12h47-1
 # text = Os brasileiros que estão em Cancún , um dos pontos turísticos mais visitados do México , estão se preparando para a chegada do furacão “ Dean ” , que já matou nove pessoas na região do Caribe .
 1	Os	o	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
@@ -55987,7 +55987,7 @@
 29	local	local	ADJ	ADJ	Gender=Masc|Number=Sing	28	amod	_	_
 30	.	.	PUNCT	PUNCT	_	16	punct	_
 
-# newdoc id = D5_C35_GPovo_07-08-2007_10h26
+# newdoc_id = D5_C35_GPovo_07-08-2007_10h26
 # sent_id = D5_C35_GPovo_07-08-2007_10h26-1
 # text = Um dos traficantes internacionais de drogas mais procurados pelos Estados Unidos , o colombiano Juan Carlos Ramirez-Abadia , de 44 anos , foi preso por volta das 6h30 desta terça-feira ( 7 ) , na região de Aldeia da Serra , na Grande São Paulo .
 1	Um	um	NUM	NUM	NumType=Card	26	nsubj:pass	_	BeginSeg=Yes
@@ -56349,7 +56349,7 @@
 17	narcotráfico	narcotráfico	NOUN	NOUN	Gender=Masc|Number=Sing	14	nmod	_	_
 18	.	.	PUNCT	PUNCT	_	7	punct	_
 
-# newdoc id = D5_C41_GPovo_20-07-2007_10h56
+# newdoc_id = D5_C41_GPovo_20-07-2007_10h56
 # sent_id = D5_C41_GPovo_20-07-2007_10h56-1
 # text = Thiago Pereira foi mais uma vez a estrela da natação brasileira na manhã desta sexta-feira ( 20 ) , no Parque Aquático Maria Lenk .
 1	Thiago	Thiago	PROPN	PROPN	Gender=Masc|Number=Sing	8	nsubj	_	BeginSeg=Yes
@@ -57014,7 +57014,7 @@
 20	semis	semis	NOUN	NOUN	Gender=Fem|Number=Plur	16	nmod	_	_
 21	.	.	PUNCT	PUNCT	_	5	punct	_
 
-# newdoc id = D5_C47_GPovo_17-10-2007_07h54
+# newdoc_id = D5_C47_GPovo_17-10-2007_07h54
 # sent_id = D5_C47_GPovo_17-10-2007_07h54-1
 # text = A Turquia intensificou nesta quarta-feira ( 17 ) a sua pressão sobre o Iraque para que atue contra os rebeldes do Partido dos Trabalhadores do Curdistão ( PKK ) , enquanto o vice-presidente iraquiano , Tariq al-Hashimi , tratava de acalmar os ânimos e evitar um ataque militar em uma visita-relâmpago a Ancara .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes

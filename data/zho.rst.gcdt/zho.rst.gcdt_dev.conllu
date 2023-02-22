@@ -1,4 +1,5 @@
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-1
+# newdoc_id = gcdt_academic_peoples
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-1
 # text = 疫情期间主流媒体的传播策略研究——以人民日报抖音号为例
 1	疫情	疫情	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	期间	期间	NN	NN	_	8	dep	_	_
@@ -16,13 +17,13 @@
 14	为	为	VV	VV	_	8	dep	_	_
 15	例	例	NN	NN	_	14	dobj	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-2
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-2
 # text = 1. 研究背景
 1	1.	1.	NN	NN	_	3	compound:nn	_	BeginSeg=Yes
 2	研究	研究	NN	NN	_	3	compound:nn	_	_
 3	背景	背景	NN	NN	_	0	root	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-3
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-3
 # text = 2020年，新冠疫情在中国爆发，并快速蔓延全球。
 1	2020年	2020年	NT	NT	_	7	nmod:tmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	7	punct	_	_
@@ -38,7 +39,7 @@
 12	全球	全球	NN	NN	_	11	dobj	_	_
 13	。	。	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-4
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-4
 # text = 中国人民在党和政府的领导下进入全民抗疫阻击战和疫情防控阻击战。
 1	中国	中国	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
 2	人民	人民	NN	NN	_	10	nsubj	_	_
@@ -59,7 +60,7 @@
 17	阻击战	阻击战	NN	NN	_	10	dobj	_	_
 18	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-5
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-5
 # text = 面对疫情对现有公共话语体系的冲击，抖音短视频平台契合了信息传播的需要，因此，众多政务号获得了很好的发展机会。
 1	面对	面对	P	P	_	9	case	_	BeginSeg=Yes
 2	疫情	疫情	NN	NN	_	9	dep	_	_
@@ -95,7 +96,7 @@
 32	机会	机会	NN	NN	_	26	dobj	_	_
 33	。	。	PU	PU	_	26	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-6
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-6
 # text = 人民日报作为中国最重要的主流媒体之一，在疫情期间生产有关疫情的短视频新闻，获得了大量关注。
 1	人民	人民	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	日报	日报	NN	NN	_	23	nsubj	_	_
@@ -125,7 +126,7 @@
 26	关注	关注	NN	NN	_	23	dobj	_	_
 27	。	。	PU	PU	_	23	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-7
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-7
 # text = 直至今天的新冠疫情常态化防治时期，我们看到了以人民日报为首的我国各大主流媒体应对重大公共卫生事件所采取的不同传播行动。
 1	直	直	AD	AD	_	12	nmod:prep	_	BeginSeg=Yes
 2	至	至	P	P	_	9	case	_	_
@@ -164,7 +165,7 @@
 35	行动	行动	NN	NN	_	12	dobj	_	_
 36	。	。	PU	PU	_	12	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-8
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-8
 # text = 2. 人民日报的传播策略分析
 1	2.	2.	NR	NR	_	3	compound:nn	_	BeginSeg=Yes
 2	人民	人民	NN	NN	_	3	compound:nn	_	_
@@ -174,7 +175,7 @@
 6	策略	策略	NN	NN	_	7	nsubj	_	_
 7	分析	分析	VV	VV	_	0	root	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-9
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-9
 # text = 2.1. 人民日报的成功经验
 1	2.1.	2.1.	NR	NR	_	3	compound:nn	_	BeginSeg=Yes
 2	人民	人民	NN	NN	_	3	compound:nn	_	_
@@ -183,7 +184,7 @@
 5	成功	成功	JJ	JJ	_	6	amod	_	_
 6	经验	经验	NN	NN	_	0	root	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-10
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-10
 # text = 2.1.1. 注重平民故事，触发大众共情
 1	2.1.1.	2.1.1.	NR	NR	_	2	nsubj	_	BeginSeg=Yes
 2	注重	注重	VV	VV	_	0	root	_	_
@@ -194,7 +195,7 @@
 7	大众	大众	NN	NN	_	8	compound:nn	_	_
 8	共情	共情	NN	NN	_	6	dobj	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-11
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-11
 # text = 来源于民间和生活的信息，是短视频内容的最核心组成。
 1	来源于	来源于	VV	VV	_	15	conj	_	BeginSeg=Yes
 2	民间	民间	NN	NN	_	4	conj	_	_
@@ -213,7 +214,7 @@
 15	组成	组成	NN	NN	_	0	root	_	_
 16	。	。	PU	PU	_	15	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-12
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-12
 # text = 民间化视角、民间化表达、民间化立场是民间化叙事的基本内涵。-LSB-1-RSB-
 1	民间化	民间化	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	视角	视角	NN	NN	_	8	conj	_	_
@@ -234,7 +235,7 @@
 17	1	1	CD	CD	_	14	dep	_	_
 18	-RSB-	-RSB-	X	X	_	14	dep	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-13
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-13
 # text = 在传播学的劝服效果理论中，诉诸感情比诉诸理性可能更有效果。-LSB-2-RSB-
 1	在	在	P	P	_	6	case	_	BeginSeg=Yes
 2	传播学	传播学	NN	NN	_	6	nmod:assmod	_	_
@@ -258,7 +259,7 @@
 20	2	2	CD	CD	_	21	dep	_	_
 21	-RSB-	-RSB-	NN	NN	_	16	dobj	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-14
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-14
 # text = 在疫情爆发和蔓延时期，人民日报报道了很多基层工作人员和一线医护人员的故事，通过传递抗疫故事共情。
 1	在	在	P	P	_	6	case	_	BeginSeg=Yes
 2	疫情	疫情	NN	NN	_	3	nsubj	_	_
@@ -289,7 +290,7 @@
 27	共情	共情	NN	NN	_	24	dobj	_	BeginSeg=Yes
 28	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-15
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-15
 # text = 让大众感受到在疫情肆虐下社会的温情，激发人们对生活的希望。
 1	让	让	VV	VV	_	0	root	_	BeginSeg=Yes
 2	大众	大众	NN	NN	_	1	dobj	_	_
@@ -311,7 +312,7 @@
 18	希望	希望	NN	NN	_	13	dobj	_	_
 19	。	。	PU	PU	_	1	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-16
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-16
 # text = 经统计，2020年1月20日到2月29日人民日报共发布了288条抖音，其中和疫情有关的有262条。
 1	经	经	P	P	_	2	case	_	BeginSeg=Yes
 2	统计	统计	NN	NN	_	13	nmod:prep	_	_
@@ -341,7 +342,7 @@
 26	条	条	M	M	_	25	mark:clf	_	_
 27	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-17
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-17
 # text = 在262条中，有100条与普通人的抗疫生活有关。
 1	在	在	P	P	_	2	case	_	BeginSeg=Yes
 2	262	262	CD	CD	_	6	nmod:prep	_	_
@@ -360,7 +361,7 @@
 15	有关	有关	VV	VV	_	6	ccomp	_	_
 16	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-18
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-18
 # text = 2020年3月1日至4月30日共发布了322条抖音，和疫情有关的抖音166条，其中有92条抖音与普通人抗疫生活有关。
 1	2020年	2020年	NT	NT	_	6	compound:nn	_	BeginSeg=Yes
 2	3月	3月	NT	NT	_	6	compound:nn	_	_
@@ -396,7 +397,7 @@
 32	有关	有关	VV	VV	_	23	ccomp	_	_
 33	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-19
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-19
 # text = 2020年5月1日至9月30日共有532条抖音发布，和疫情有关的抖音87条，其中有25条与普通人抗疫生活有关。
 1	2020年	2020年	NT	NT	_	6	compound:nn	_	BeginSeg=Yes
 2	5月	5月	NT	NT	_	6	compound:nn	_	_
@@ -431,7 +432,7 @@
 31	有关	有关	VV	VV	_	23	ccomp	_	_
 32	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-20
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-20
 # text = 与疫情有关的抖音数量的减少是因为国内疫情趋势总体向好，人们对于疫情的恐惧和消极心理减少，因此数量总体在减小。
 1	与	与	P	P	_	2	case	_	BeginSeg=Yes
 2	疫情	疫情	NN	NN	_	3	nmod:prep	_	_
@@ -466,7 +467,7 @@
 31	减小	减小	VV	VV	_	25	conj	_	_
 32	。	。	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-21
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-21
 # text = 总体而言，从2020年1月20日到9月30日发布的抖音中，有42.1%的视频是关于普通人在疫情期间的抗疫生活。
 1	总体而言	总体而言	AD	AD	_	15	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	15	punct	_	_
@@ -498,7 +499,7 @@
 28	生活	生活	NN	NN	_	15	ccomp	_	_
 29	。	。	PU	PU	_	15	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-22
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-22
 # text = 在1月28日，一条视频为“妻子驰援武汉，丈夫送别时一句话让人瞬间泪目”火遍全网。
 1	在	在	P	P	_	3	case	_	BeginSeg=Yes
 2	1月	1月	NT	NT	_	3	compound:nn	_	_
@@ -528,7 +529,7 @@
 26	全网	全网	VV	VV	_	20	ccomp	_	_
 27	。	。	PU	PU	_	20	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-23
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-23
 # text = 视频中，丈夫用四川话对即将去往武汉的医护妻子喊话，在她回家之后，自己包一年的家务活。
 1	视频	视频	NN	NN	_	14	advmod:loc	_	BeginSeg=Yes
 2	中	中	LC	LC	_	1	case	_	_
@@ -558,7 +559,7 @@
 26	家务活	家务活	NN	NN	_	22	dobj	_	_
 27	。	。	PU	PU	_	14	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-24
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-24
 # text = 这种平凡又不凡的情感，令人动容。
 1	这	这	DT	DT	_	7	det	_	BeginSeg=Yes
 2	种	种	M	M	_	1	mark:clf	_	_
@@ -573,7 +574,7 @@
 11	动容	动容	VV	VV	_	9	ccomp	_	_
 12	。	。	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-25
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-25
 # text = 这条抖音获得了127.7 w的点赞量，5.6w的评论量和2.8w的转发量。
 1	这	这	DT	DT	_	3	det	_	BeginSeg=Yes
 2	条	条	M	M	_	1	mark:clf	_	_
@@ -593,7 +594,7 @@
 16	转发量	转发量	NN	NN	_	4	dobj	_	_
 17	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-26
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-26
 # text = 人民日报聚焦普通人的常态化生活，虽然没有极具冲击力的视觉效果，但是能够使大众在酸甜苦辣中感同身受。
 1	人民	人民	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	日报	日报	NN	NN	_	3	nsubj	_	_
@@ -624,7 +625,7 @@
 27	身受	身受	VV	VV	_	26	compound:vc	_	_
 28	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-27
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-27
 # text = 2.1.2. 巧用素材和音乐，沉浸式传播信息
 1	2.1.2.	2.1.2.	URL	URL	_	9	compound:nn	_	BeginSeg=Yes
 2	巧用	巧用	JJ	JJ	_	3	amod	_	_
@@ -636,7 +637,7 @@
 8	传播	传播	NN	NN	_	9	compound:nn	_	_
 9	信息	信息	NN	NN	_	0	root	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-28
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-28
 # text = 人民日报主要采用的视频制作方式为“同期声 + 视频画面 + 音乐”。
 1	人民	人民	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	日报	日报	NN	NN	_	4	nsubj	_	_
@@ -657,7 +658,7 @@
 17	”	”	PU	PU	_	16	punct	_	_
 18	。	。	PU	PU	_	16	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-29
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-29
 # text = 同期声的使用增强了现场感，让观众沉浸式感受视频内容，身临其境。
 1	同期声	同期声	NN	NN	_	3	nmod:assmod	_	BeginSeg=Yes
 2	的	的	DEG	DEG	_	1	case	_	_
@@ -678,7 +679,7 @@
 17	其境	其境	NN	NN	_	16	dobj	_	_
 18	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-30
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-30
 # text = 据统计，在全部和疫情有关的515条抖音中，来自抗疫现场，由现场的人拍摄的视频有181条。
 1	据	据	P	P	_	2	case	_	BeginSeg=Yes
 2	统计	统计	NN	NN	_	26	nmod:prep	_	_
@@ -710,7 +711,7 @@
 28	条	条	M	M	_	27	mark:clf	_	_
 29	。	。	PU	PU	_	26	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-31
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-31
 # text = 素材来源为监控的有8条。
 1	素材	素材	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	来源	来源	NN	NN	_	3	nsubj	_	_
@@ -722,7 +723,7 @@
 8	条	条	M	M	_	7	mark:clf	_	_
 9	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-32
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-32
 # text = 2020年1月30日发布的“一对母女在火车站悄悄放下十多瓶消毒液”；“火神山医院病区初具雏形”；2月10日发布的“武汉方舱医院医生患者一起打太极”等视频，都用适合该素材的音乐进行气氛渲染和情绪引导。
 1	2020年	2020年	NT	NT	_	3	compound:nn	_	BeginSeg=Yes
 2	1月	1月	NT	NT	_	3	compound:nn	_	_
@@ -781,7 +782,7 @@
 55	引导	引导	NN	NN	_	50	dobj	_	_
 56	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-33
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-33
 # text = 让受众感受到疫情期间医护人员在一线奋战的大无畏精神，配合视频画面，增强报道内容的可信度 -LSB-3-RSB-。
 1	让	让	VV	VV	_	0	root	_	BeginSeg=Yes
 2	受众	受众	NN	NN	_	1	dobj	_	_
@@ -812,7 +813,7 @@
 27	-RSB-	-RSB-	NN	NN	_	1	dep	_	_
 28	。	。	PU	PU	_	1	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-34
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-34
 # text = 2.1.3. 使用科技手段，借图表直观展示疫情
 1	2.1.3.	2.1.3.	AD	AD	_	2	advmod	_	BeginSeg=Yes
 2	使用	使用	VV	VV	_	0	root	_	_
@@ -825,7 +826,7 @@
 9	展示	展示	VV	VV	_	2	conj	_	_
 10	疫情	疫情	NN	NN	_	9	dobj	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-35
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-35
 # text = 疫情期间，在人民日报抖音号采取图表的形式，报道每日疫情变动的信息。
 1	疫情	疫情	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	期间	期间	NN	NN	_	13	nmod:topic	_	_
@@ -847,7 +848,7 @@
 18	信息	信息	NN	NN	_	13	dobj	_	_
 19	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-36
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-36
 # text = 如在2020年2月9日发布的“湖北以外新增确诊病例连续5天下降！小黄线，请一路向下别回头！小紫线和小橙线也请跟上！加油！”的视频，采用了折线图，可视化展示疫情的最新动向。
 1	如	如	AD	AD	_	17	advmod	_	BeginSeg=Yes
 2	在	在	P	P	_	5	case	_	_
@@ -905,7 +906,7 @@
 54	动向	动向	NN	NN	_	50	dobj	_	_
 55	。	。	PU	PU	_	17	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-37
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-37
 # text = 将疫情情况利用折线图展示，不止能够让观众直观地看到一段时间内的疫情变化情况，还能够告诉大众目前的疫情环境和当下防疫措施的实施成果。
 1	将	将	BA	BA	_	4	aux:ba	_	BeginSeg=Yes
 2	疫情	疫情	NN	NN	_	3	compound:nn	_	_
@@ -948,7 +949,7 @@
 39	成果	成果	NN	NN	_	27	dobj	_	_
 40	。	。	PU	PU	_	11	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-38
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-38
 # text = 此外，对于前线的医护人员和基层工作人员来说，看到折线图的变化也给了他们正能量，让他们看到了目前所做的一切都是有效的，是他们在让一切变好。
 1	此外	此外	AD	AD	_	14	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	14	punct	_	_
@@ -997,7 +998,7 @@
 45	变好	变好	VV	VV	_	43	ccomp	_	_
 46	。	。	PU	PU	_	14	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-39
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-39
 # text = 因此可见，图表化疫情信息一举多得。
 1	因	因	P	P	_	2	case	_	BeginSeg=Yes
 2	此	此	PN	PN	_	4	nmod:prep	_	_
@@ -1011,7 +1012,7 @@
 10	多得	多得	VV	VV	_	0	root	_	_
 11	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-40
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-40
 # text = 2.2. 需要调整和改正的问题
 1	2.2.	2.2.	AD	AD	_	2	advmod	_	BeginSeg=Yes
 2	需要	需要	VV	VV	_	0	root	_	BeginSeg=Yes
@@ -1021,7 +1022,7 @@
 6	的	的	DEC	DEC	_	3	mark	_	_
 7	问题	问题	NN	NN	_	2	dobj	_	BeginSeg=Yes
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-41
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-41
 # text = 2.2.1. 同质化现象较严重
 1	2.2.1.	2.2.1.	URL	URL	_	3	compound:nn	_	BeginSeg=Yes
 2	同质化	同质化	NN	NN	_	3	compound:nn	_	_
@@ -1029,7 +1030,7 @@
 4	较	较	AD	AD	_	5	advmod	_	_
 5	严重	严重	VA	VA	_	0	root	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-42
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-42
 # text = 人民日报所发布的一部分视频，其原素材已被多个政务号二创转载，但人民日报仍选择发布。
 1	人民	人民	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	日报	日报	NN	NN	_	4	nsubj	_	_
@@ -1059,7 +1060,7 @@
 26	发布	发布	VV	VV	_	25	ccomp	_	_
 27	。	。	PU	PU	_	19	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-43
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-43
 # text = 这些政务号有像人民日报和央视新闻一样的全国性官媒，也有地区性的地方媒体和消防公安政务号，还有一些抖音博主为博关注而发布。
 1	这些	这些	DT	DT	_	2	det	_	BeginSeg=Yes
 2	政务号	政务号	NN	NN	_	3	dep	_	_
@@ -1098,7 +1099,7 @@
 35	发布	发布	VV	VV	_	27	ccomp	_	_
 36	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-44
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-44
 # text = 这造成了一定程度上的资源浪费。
 1	这	这	PN	PN	_	2	nsubj	_	BeginSeg=Yes
 2	造成	造成	VV	VV	_	0	root	_	_
@@ -1111,7 +1112,7 @@
 9	浪费	浪费	NN	NN	_	2	dobj	_	_
 10	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-45
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-45
 # text = 2.2.2. 很少回复大众评论
 1	2.2.2.	2.2.2.	URL	URL	_	3	nsubj	_	BeginSeg=Yes
 2	很少	很少	AD	AD	_	3	advmod	_	_
@@ -1119,7 +1120,7 @@
 4	大众	大众	NN	NN	_	5	compound:nn	_	_
 5	评论	评论	NN	NN	_	3	dobj	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-46
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-46
 # text = 在人民日报的评论区，很少看到人民日报的评论回应。
 1	在	在	P	P	_	5	case	_	BeginSeg=Yes
 2	人民	人民	NN	NN	_	3	compound:nn	_	_
@@ -1136,7 +1137,7 @@
 13	回应	回应	NN	NN	_	8	dobj	_	_
 14	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-47
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-47
 # text = 很多视频的第一条热评来源于各地区的消防公安政务号，普通大众的评论大部分都在每条视频的第二条评论之后。
 1	很多	很多	CD	CD	_	2	dep	_	BeginSeg=Yes
 2	视频	视频	NN	NN	_	6	nmod:assmod	_	_
@@ -1169,7 +1170,7 @@
 29	之后	之后	LC	LC	_	28	case	_	_
 30	。	。	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-48
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-48
 # text = 评论区很难见到人民日报的评论回复。
 1	评论区	评论区	NN	NN	_	4	nsubj	_	BeginSeg=Yes
 2	很	很	AD	AD	_	4	advmod	_	_
@@ -1182,7 +1183,7 @@
 9	回复	回复	NN	NN	_	4	dobj	_	_
 10	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-49
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-49
 # text = 2.2.3. 发布数据图的次数较少，且形式较单一
 1	2.2.3.	2.2.3.	URL	URL	_	2	nsubj	_	BeginSeg=Yes
 2	发布	发布	VV	VV	_	6	acl	_	_
@@ -1198,7 +1199,7 @@
 12	较	较	AD	AD	_	13	advmod	_	_
 13	单一	单一	VA	VA	_	8	conj	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-50
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-50
 # text = 纵观500条抖音，只有2条抖音发布了数据图，且都在疫情爆发时期的2020年2月初。
 1	纵观	纵观	VV	VV	_	7	dep	_	BeginSeg=Yes
 2	500	500	CD	CD	_	4	nummod	_	_
@@ -1226,7 +1227,7 @@
 24	初	初	LC	LC	_	23	case	_	_
 25	。	。	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-51
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-51
 # text = 后续如北京新发地，大连等地的疫情也没有使用数据图表。
 1	后续	后续	AD	AD	_	13	advmod	_	BeginSeg=Yes
 2	如	如	AD	AD	_	4	advmod	_	_
@@ -1245,7 +1246,7 @@
 15	图表	图表	NN	NN	_	13	dobj	_	_
 16	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-52
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-52
 # text = 3. 基于人民日报传播策略的启发
 1	3.	3.	AD	AD	_	0	root	_	BeginSeg=Yes
 2	基于	基于	P	P	_	8	case	_	BeginSeg=Yes
@@ -1256,7 +1257,7 @@
 7	的	的	DEG	DEG	_	6	case	_	_
 8	启发	启发	NN	NN	_	1	dep	_	BeginSeg=Yes
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-53
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-53
 # text = 3.1. 应多发掘故事，进行多元化报道
 1	3.1.	3.1.	NR	NR	_	4	nsubj	_	BeginSeg=Yes
 2	应	应	VV	VV	_	4	aux:modal	_	_
@@ -1268,7 +1269,7 @@
 8	多元化	多元化	NN	NN	_	9	compound:nn	_	_
 9	报道	报道	NN	NN	_	7	dobj	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-54
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-54
 # text = 疫情期间，政务号视频同质化严重。
 1	疫情	疫情	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	期间	期间	NN	NN	_	7	nmod:topic	_	_
@@ -1279,7 +1280,7 @@
 7	严重	严重	VA	VA	_	0	root	_	_
 8	。	。	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-55
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-55
 # text = 作为媒体，真实性是生命，时效性是视频是否能够受到关注的关键所在，但是不能够盲目跟从爆火视频，忘记了自身的使命。
 1	作为	作为	P	P	_	2	case	_	BeginSeg=Yes
 2	媒体	媒体	NN	NN	_	6	nmod:prep	_	_
@@ -1315,7 +1316,7 @@
 32	使命	使命	NN	NN	_	28	dobj	_	_
 33	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-56
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-56
 # text = 主流媒体可以派遣记者在生活中寻找选题，也可以在微博等平台按照关键词搜索信息，以避免同质化选题。
 1	主流	主流	JJ	JJ	_	2	amod	_	BeginSeg=Yes
 2	媒体	媒体	NN	NN	_	4	nsubj	_	_
@@ -1346,7 +1347,7 @@
 27	选题	选题	NN	NN	_	25	dobj	_	_
 28	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-57
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-57
 # text = 如果这个同质化的选题是非常棒的选题，不想更换的话，可以从不同的角度入手，减少大众视觉疲劳。
 1	如果	如果	CS	CS	_	11	advmod	_	BeginSeg=Yes
 2	这	这	DT	DT	_	6	det	_	_
@@ -1378,7 +1379,7 @@
 28	疲劳	疲劳	NN	NN	_	25	dobj	_	_
 29	。	。	PU	PU	_	23	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-58
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-58
 # text = 3.2. 应借用科技手段，将数据可视化呈现
 1	3.2.	3.2.	AD	AD	_	3	advmod	_	BeginSeg=Yes
 2	应	应	VV	VV	_	3	aux:modal	_	_
@@ -1391,7 +1392,7 @@
 9	可视化	可视化	VV	VV	_	10	advmod	_	_
 10	呈现	呈现	VV	VV	_	3	conj	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-59
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-59
 # text = 当代社会，有着众多数据统计和数据分析软件。
 1	当代	当代	NT	NT	_	2	compound:nn	_	BeginSeg=Yes
 2	社会	社会	NN	NN	_	4	nsubj	_	_
@@ -1407,7 +1408,7 @@
 12	软件	软件	NN	NN	_	4	dobj	_	_
 13	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-60
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-60
 # text = 不仅是前文提到的折线图，“词云”、柱状图、饼图，都可以直观地展示数据变化。
 1	不仅	不仅	AD	AD	_	7	advmod	_	BeginSeg=Yes
 2	是	是	VC	VC	_	7	cop	_	_
@@ -1435,7 +1436,7 @@
 24	变化	变化	NN	NN	_	22	dobj	_	_
 25	。	。	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-61
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-61
 # text = 此外，甚至可以结合地理行政图，人口分布图等地理层面的地图，分地区进行数据标记。
 1	此外	此外	AD	AD	_	5	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	5	punct	_	_
@@ -1462,7 +1463,7 @@
 23	标记	标记	NN	NN	_	21	dobj	_	_
 24	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-62
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-62
 # text = 这样大众不仅可以知道疫情数据信息，还可以了解到疫情和自己所出地区和自己生活圈的距离。
 1	这样	这样	AD	AD	_	5	advmod	_	BeginSeg=Yes
 2	大众	大众	NN	NN	_	5	nsubj	_	_
@@ -1491,7 +1492,7 @@
 25	距离	距离	NN	NN	_	12	dobj	_	_
 26	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-63
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-63
 # text = 3.3. 应重视与观众的评论互动
 1	3.3.	3.3.	AD	AD	_	3	advmod	_	BeginSeg=Yes
 2	应	应	VV	VV	_	3	aux:modal	_	_
@@ -1502,7 +1503,7 @@
 7	评论	评论	NN	NN	_	8	compound:nn	_	_
 8	互动	互动	NN	NN	_	3	dobj	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-64
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-64
 # text = 在抖音短视频平台，人民日报很少在评论区和观众互动。
 1	在	在	P	P	_	5	case	_	BeginSeg=Yes
 2	抖音	抖音	NN	NN	_	5	compound:nn	_	_
@@ -1521,7 +1522,7 @@
 15	互动	互动	VV	VV	_	0	root	_	_
 16	。	。	PU	PU	_	15	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-65
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-65
 # text = 在新媒体时代，观众很希望自己的评论可以获得视频作者的认可。
 1	在	在	P	P	_	4	case	_	BeginSeg=Yes
 2	新	新	JJ	JJ	_	3	amod	_	_
@@ -1542,7 +1543,7 @@
 17	认可	认可	NN	NN	_	13	dobj	_	_
 18	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-66
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-66
 # text = 如果评论被官方媒体回应，称之为“被翻牌子”，会更加活跃地表达自己的观点，也让人民日报更直观看到自己的舆论引导效果。
 1	如果	如果	CS	CS	_	6	advmod	_	BeginSeg=Yes
 2	评论	评论	NN	NN	_	6	nsubjpass	_	_
@@ -1582,7 +1583,7 @@
 36	效果	效果	NN	NN	_	31	dobj	_	_
 37	。	。	PU	PU	_	20	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-67
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-67
 # text = 因此，加强评论区的互动，可以更好的引导舆论。
 1	因此	因此	AD	AD	_	12	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	12	punct	_	_
@@ -1599,12 +1600,12 @@
 13	舆论	舆论	NN	NN	_	12	dobj	_	_
 14	。	。	PU	PU	_	12	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-68
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-68
 # text = 4. 结语
 1	4.	4.	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	结语	结语	NN	NN	_	0	root	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-69
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-69
 # text = 由上可见，互联网的飞速发展，视频剪辑技术的简单化和普及化催生了各类短视频APP，从而影响了整个新闻媒体发展的大方向，媒体的传播方式发生了改变。
 1	由	由	P	P	_	2	case	_	BeginSeg=Yes
 2	上	上	NN	NN	_	4	nmod:prep	_	_
@@ -1651,7 +1652,7 @@
 43	改变	改变	NN	NN	_	41	dobj	_	_
 44	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-70
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-70
 # text = 对新型冠状肺炎疫情的抗击，是对媒体信息传播治理体系和能力的一次“大考”。
 1	对	对	P	P	_	5	case	_	BeginSeg=Yes
 2	新型	新型	JJ	JJ	_	5	amod	_	_
@@ -1678,7 +1679,7 @@
 23	”	”	PU	PU	_	22	punct	_	_
 24	。	。	PU	PU	_	22	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-71
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-71
 # text = 我们在媒体的舆论引领下，全球人民共同抗疫的信心。
 1	我们	我	PN	PN	_	14	dep	_	BeginSeg=Yes
 2	在	在	P	P	_	6	case	_	_
@@ -1696,14 +1697,14 @@
 14	信心	信心	NN	NN	_	0	root	_	_
 15	。	。	PU	PU	_	14	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-72
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-72
 # text = 道阻且长，行则将至。
 1	道阻且长	道阻且长	VV	VV	_	0	root	_	BeginSeg=Yes
 2	，	，	PU	PU	_	1	punct	_	_
 3	行则将至	行则将至	VV	VV	_	1	conj	_	BeginSeg=Yes
 4	。	。	PU	PU	_	1	punct	_	_
 
-# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-gcdt_academic_peoples-73
+# sent_id = gcdt_academic_peoples-gcdt_academic_peoples-73
 # text = 在报道突发公共卫生事件上，主流媒体仍需努力学习，积极汲取经验和教训，以达到其预期的舆论引导效果。
 1	在	在	P	P	_	6	case	_	BeginSeg=Yes
 2	报道	报道	VV	VV	_	14	nmod:prep	_	_
@@ -1736,12 +1737,13 @@
 29	效果	效果	NN	NN	_	23	dobj	_	_
 30	。	。	PU	PU	_	14	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-1
+# newdoc_id = gcdt_bio_byron
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-1
 # text = 拜伦勋爵
 1	拜伦	拜伦	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
 2	勋爵	勋爵	NN	NN	_	0	root	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-2
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-2
 # text = 乔治·戈登·拜伦，第六代拜伦男爵（George Gordon Byron, 6th Baron Byron，1788年1月22日－1824年4月19日），中文又译“摆伦”，出生于英格兰伦敦，逝世于希腊，英国诗人、革命家，独领风骚的浪漫主义文学泰斗。
 1	乔治·戈登·拜伦	乔治·戈登·拜伦	NR	NR	_	27	nmod:topic	_	BeginSeg=Yes
 2	，	，	PU	PU	_	14	punct	_	_
@@ -1796,7 +1798,7 @@
 51	泰斗	泰斗	NN	NN	_	37	dobj	_	_
 52	。	。	PU	PU	_	27	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-3
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-3
 # text = 世袭男爵，人称“拜伦勋爵”（Lord Byron）。-LSB-1-RSB--LSB-2-RSB-
 1	世袭	世袭	JJ	JJ	_	2	amod	_	BeginSeg=Yes
 2	男爵	男爵	NN	NN	_	5	nmod:topic	_	_
@@ -1819,7 +1821,7 @@
 19	2	2	CD	CD	_	5	dep	_	_
 20	-RSB-	-RSB-	X	X	_	5	dep	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-4
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-4
 # text = 拜伦著名的作品有长篇的《唐璜》及《恰尔德·哈罗尔德游记》，以及短篇作品《她举步娉婷》。
 1	拜伦	拜伦	NR	NR	_	4	nmod	_	BeginSeg=Yes
 2	著名	著名	JJ	JJ	_	4	amod	_	_
@@ -1847,7 +1849,7 @@
 24	》	》	PU	PU	_	22	punct	_	_
 25	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-5
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-5
 # text = 爱达·勒芙蕾丝是拜伦的女儿，其有关查尔斯·巴贝奇分析机的研究是在计算机科学上的重要文献。
 1	爱达·勒芙蕾丝	爱达·勒芙蕾丝	NR	NR	_	5	nsubj	_	BeginSeg=Yes
 2	是	是	VC	VC	_	5	cop	_	_
@@ -1871,7 +1873,7 @@
 20	文献	文献	NN	NN	_	5	conj	_	_
 21	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-6
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-6
 # text = 幼年夭折的奥格拉·拜伦也是拜伦的小孩，甚至伊丽莎白·梅朵拉·李可能也是拜伦婚外所生的女儿-LSB-3-RSB-。
 1	幼年	幼年	NT	NT	_	2	nmod:tmod	_	BeginSeg=Yes
 2	夭折	夭折	VV	VV	_	4	acl	_	_
@@ -1899,11 +1901,11 @@
 24	-RSB-	-RSB-	NN	NN	_	9	conj	_	_
 25	。	。	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-7
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-7
 # text = 生平
 1	生平	生平	NN	NN	_	0	root	_	BeginSeg=Yes
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-8
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-8
 # text = 1788年1月22日，拜伦出生于伦敦的一个衰落的贵族家庭，他的父亲是没落的贵族，他的父亲在他三岁时去世-LSB-4-RSB-，拜伦跟随母亲孤儿寡母在苏格兰过着节衣缩食的清贫生活。-LSB-5-RSB-
 1	1788年	1788年	NT	NT	_	3	compound:nn	_	BeginSeg=Yes
 2	1月	1月	NT	NT	_	3	compound:nn	_	_
@@ -1961,7 +1963,7 @@
 54	5	5	CD	CD	_	55	dep	_	_
 55	-RSB-	-RSB-	NN	NN	_	45	dobj	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-9
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-9
 # text = 拜伦先天性的跛足，而他的母亲性情乖戾、喜怒无常，这两方面的原因使得他形成了孤僻和忧郁的性格。-LSB-1-RSB-
 1	拜伦	拜伦	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
 2	先天性	先天性	NN	NN	_	4	nmod:assmod	_	_
@@ -1997,7 +1999,7 @@
 32	1	1	CD	CD	_	4	dep	_	_
 33	-RSB-	-RSB-	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-10
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-10
 # text = 1798年，拜伦继承了伯祖父的男爵爵位，于是和母亲移居到诺丁汉郡的世袭领地生活。-LSB-6-RSB-
 1	1798年	1798年	NT	NT	_	4	nmod:tmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	4	punct	_	_
@@ -2024,7 +2026,7 @@
 23	6	6	CD	CD	_	24	dep	_	_
 24	-RSB-	-RSB-	NN	NN	_	4	conj	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-11
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-11
 # text = 诺丁汉郡是当时英国的工业重郡，也是工人运动中心之一，他在这里了解和熟悉了工人的苦难生活和被剥削和压迫的命运，他对工人们的遭遇给予了深深地同情，立志武装斗争，为劳苦大众争取社会权益。-LSB-1-RSB--LSB-2-RSB-
 1	诺丁汉郡	诺丁汉郡	NR	NR	_	7	nsubj	_	BeginSeg=Yes
 2	是	是	VC	VC	_	7	cop	_	_
@@ -2089,7 +2091,7 @@
 61	2	2	CD	CD	_	59	dep	_	_
 62	-RSB-	-RSB-	X	X	_	7	dep	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-12
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-12
 # text = 1805年，拜伦从中学毕业，进入剑桥大学主修文学和历史。-LSB-1-RSB-
 1	1805年	1805年	NT	NT	_	6	nmod:tmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	6	punct	_	_
@@ -2110,7 +2112,7 @@
 17	1	1	CD	CD	_	18	dep	_	_
 18	-RSB-	-RSB-	NN	NN	_	6	conj	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-13
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-13
 # text = 大学时期，他对启蒙思想家的著作极其感兴趣，狂热研读伏尔泰和卢梭的作品，并且开始自己创作诗歌。-LSB-1-RSB-
 1	大学	大学	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	时期	时期	NN	NN	_	11	nmod:topic	_	_
@@ -2143,7 +2145,7 @@
 29	1	1	CD	CD	_	30	dep	_	_
 30	-RSB-	-RSB-	NN	NN	_	11	conj	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-14
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-14
 # text = 1807年，拜伦出版了诗集《懒散的时刻》，这是他的处女作，拜伦透过诗集表达对现实生活的不满和对贵族生活的厌倦和鄙视，很快诗集在社会上受到消极浪漫主义刊物的攻击和奚落。-LSB-1-RSB-
 1	1807年	1807年	NT	NT	_	4	nmod:tmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	4	punct	_	_
@@ -2201,7 +2203,7 @@
 54	1	1	CD	CD	_	55	dep	_	_
 55	-RSB-	-RSB-	NN	NN	_	4	dep	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-15
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-15
 # text = 1809年，面对接踵而至的攻击和谩骂，拜伦写出长诗《英国诗人和苏格兰评论家》回击攻击者，却意外地揭开了积极浪漫主义对抗消极浪漫主义的序幕，长诗也使得拜伦在英国诗歌文坛中初露锋芒。-LSB-1-RSB--LSB-2-RSB-
 1	1809年	1809年	NT	NT	_	12	nmod:tmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	12	punct	_	_
@@ -2260,7 +2262,7 @@
 55	2	2	CD	CD	_	56	dep	_	_
 56	-RSB-	-RSB-	X	X	_	12	dep	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-16
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-16
 # text = 1809年，拜伦在剑桥大学毕业，因为贵族世袭制，使得他在上议院获得了议员的资格。-LSB-1-RSB-
 1	1809年	1809年	NT	NT	_	7	nmod:tmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	7	punct	_	_
@@ -2288,7 +2290,7 @@
 24	1	1	CD	CD	_	7	dep	_	_
 25	-RSB-	-RSB-	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-17
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-17
 # text = 6月，拜伦开始出国游玩，他先后到葡萄牙、西班牙、马耳他岛、阿尔巴尼亚、希腊和土耳其等地方。-LSB-1-RSB-
 1	6月	6月	NT	NT	_	6	nmod:tmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	6	punct	_	_
@@ -2318,7 +2320,7 @@
 26	1	1	CD	CD	_	6	dep	_	_
 27	-RSB-	-RSB-	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-18
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-18
 # text = 1811年7月，拜伦回到了英国，拜伦的这次旅游扩展了他的政治视野，也丰富了他的写作素材，他亲眼目睹了欧洲被压迫民族为自己的自由和独立而斗争的场面，也了解到英国在欧洲大陆明争暗斗不光彩的一面。-LSB-1-RSB--LSB-2-RSB-
 1	1811年	1811年	NT	NT	_	2	compound:nn	_	BeginSeg=Yes
 2	7月	7月	NT	NT	_	5	nmod:tmod	_	_
@@ -2389,7 +2391,7 @@
 67	2	2	CD	CD	_	68	dep	_	_
 68	-RSB-	-RSB-	NN	NN	_	5	dep	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-19
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-19
 # text = 1812年，拜伦发表了长诗《恰尔德·哈罗尔德游记》第一、二章，诗歌立刻轰动文坛，给他带来了巨大的声誉。-LSB-1-RSB-
 1	1812年	1812年	NT	NT	_	4	nmod:tmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	4	punct	_	_
@@ -2423,7 +2425,7 @@
 30	1	1	CD	CD	_	4	dep	_	_
 31	-RSB-	-RSB-	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-20
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-20
 # text = 同时，英国国内的卢德运动也在汹涌蓬勃，2月，上议院通过了毁坏机器的工人必须判处死刑的法案，拜伦虽然在议会上为工人们的权益而辩护，但是无济于事，愤怒的拜伦回到家中，发表了讽刺诗《反对破坏机器法案》。-LSB-1-RSB-
 1	同时	同时	AD	AD	_	11	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	11	punct	_	_
@@ -2488,7 +2490,7 @@
 61	1	1	CD	CD	_	11	dep	_	_
 62	-RSB-	-RSB-	PU	PU	_	11	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-21
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-21
 # text = 4月，拜伦在国会发表演说，支持爱尔兰独立，同时发表了《给一位哭泣的贵妇人》。-LSB-1-RSB-
 1	4月	4月	NT	NT	_	6	nmod:tmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	6	punct	_	_
@@ -2518,7 +2520,7 @@
 26	1	1	CD	CD	_	6	dep	_	_
 27	-RSB-	-RSB-	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-22
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-22
 # text = 1813年，拜伦陆续发表了《异教徒》、《阿比道斯的新娘》，1814年，拜伦发表了《温莎的诗艺》、《海盗》、《莱拉》，1816年，拜伦发表了《科林斯的围攻》、《巴里西纳》和《路德分子歌》，这些诗歌总称为“《东方叙事诗》”，并且塑造了出文学史上“拜伦式的英雄”佳话；虽然诗歌为拜伦赢得了巨大的声誉，但是由于他的思想和英国政坛的思想截然相反，他受到了政客和上流社会的攻击和谩骂。-LSB-1-RSB-
 1	1813年	1813年	NT	NT	_	5	nmod:tmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	5	punct	_	_
@@ -2640,7 +2642,7 @@
 118	1	1	CD	CD	_	106	dep	_	_
 119	-RSB-	-RSB-	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-23
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-23
 # text = 1816年，上流社会以他和妻子离婚的事情炒作和攻击，使得他被迫黯然离开故土。-LSB-1-RSB--LSB-2-RSB-
 1	1816年	1816年	NT	NT	_	12	nmod:tmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	12	punct	_	_
@@ -2671,7 +2673,7 @@
 27	2	2	CD	CD	_	25	dep	_	_
 28	-RSB-	-RSB-	X	X	_	12	dep	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-24
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-24
 # text = 拜伦来到了比利时，亲自去了滑铁卢战场，随后去了瑞士，并且在日内瓦认识了珀西·比希·雪莱，两人结下了深切的友谊，雪莱的诗歌精神影响了拜伦，这时期，他创作了《普罗米修斯》、《锡雍的囚徒》和《恰尔德·哈罗尔德游记》第三章，同时由于欧洲各地的战场和人民的苦难遭遇，拜伦灰心失望到了极点，他创作了悲观主义诗歌《曼弗雷特》。-LSB-1-RSB--LSB-2-RSB-
 1	拜伦	拜伦	NR	NR	_	2	nsubj	_	BeginSeg=Yes
 2	来到	来到	VV	VV	_	0	root	_	_
@@ -2772,7 +2774,7 @@
 97	2	2	CD	CD	_	2	dep	_	_
 98	-RSB-	-RSB-	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-25
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-25
 # text = 1816年下半年，拜伦去了意大利，他投入到了烧炭党人的运动中，并且成为地方组织的领袖。-LSB-1-RSB-
 1	1816年	1816年	NT	NT	_	2	compound:nn	_	BeginSeg=Yes
 2	下半年	下半年	NT	NT	_	5	nmod:tmod	_	_
@@ -2802,7 +2804,7 @@
 26	1	1	CD	CD	_	27	dep	_	_
 27	-RSB-	-RSB-	X	X	_	5	dep	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-26
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-26
 # text = 同时创作了《恰尔德·哈罗尔德游记》第四章、《马力诺·法里埃罗》、《该隐》、《审判的幻景》、《青铜世纪》和《唐璜》，这时期他的创作达到了辉煌。-LSB-1-RSB-
 1	同时	同时	AD	AD	_	2	advmod	_	BeginSeg=Yes
 2	创作	创作	VV	VV	_	0	root	_	_
@@ -2850,7 +2852,7 @@
 44	1	1	CD	CD	_	45	dep	_	_
 45	-RSB-	-RSB-	NN	NN	_	39	dobj	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-27
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-27
 # text = 不久之后，烧炭党人的革命活动失败，1823年7月，拜伦离开意大利去了希腊，加入到了反抗奥斯曼奴役的希腊独立战争，他担任希腊一个军队的司令，每天忙着为希腊军队筹集物资，购买先进武器，调节内部纠纷，过度的劳累和奔波使得他的身体健康恶化，在一次行军途中，拜伦遇到了暴风雨，经过风雨吹打的拜伦从此一病不起，1824年4月19日，拜伦因治疗无效病逝于希腊军队的军帐中。-LSB-1-RSB-
 1	不久	不久	NT	NT	_	8	advmod:loc	_	BeginSeg=Yes
 2	之后	之后	LC	LC	_	1	case	_	_
@@ -2957,7 +2959,7 @@
 103	1	1	CD	CD	_	104	dep	_	_
 104	-RSB-	-RSB-	NN	NN	_	8	conj	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-28
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-28
 # text = 临终时，拜伦的遗嘱说道：“我的财产，我的精力都献给了希腊的独立战争，现在连生命也献上吧！”
 1	临终	临终	VV	VV	_	7	advcl:loc	_	BeginSeg=Yes
 2	时	时	LC	LC	_	1	case	_	_
@@ -2992,7 +2994,7 @@
 31	！	！	PU	PU	_	7	punct	_	_
 32	”	”	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-29
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-29
 # text = 希腊政府为拜伦举行了隆重的国葬仪式。-LSB-1-RSB--LSB-2-RSB-
 1	希腊	希腊	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
 2	政府	政府	NN	NN	_	5	nsubj	_	_
@@ -3012,11 +3014,11 @@
 16	2	2	CD	CD	_	17	dep	_	_
 17	-RSB-	-RSB-	NN	NN	_	5	dobj	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-30
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-30
 # text = 死后
 1	死后	死后	NN	NN	_	0	root	_	BeginSeg=Yes
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-31
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-31
 # text = 随后，丁尼生向英国国内传达了拜伦的死讯-LSB-7-RSB-， 而希腊人也为其举办了国葬，把他当作一位英雄来看待。-LSB-8-RSB--LSB-9-RSB-
 1	随后	随后	AD	AD	_	7	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	7	punct	_	_
@@ -3058,7 +3060,7 @@
 38	9	9	CD	CD	_	39	dep	_	_
 39	-RSB-	-RSB-	X	X	_	7	dep	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-32
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-32
 # text = 希腊的大诗人狄俄尼索斯·索洛莫斯专门为拜伦写下了挽诗，即《拜伦之死》。-LSB-10-RSB-
 1	希腊	希腊	NR	NR	_	4	nmod:assmod	_	BeginSeg=Yes
 2	的	的	DEG	DEG	_	1	case	_	_
@@ -3083,7 +3085,7 @@
 21	10	10	CD	CD	_	9	dep	_	_
 22	-RSB-	-RSB-	X	X	_	9	dep	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-33
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-33
 # text = 拜伦的遗体经过防腐处理保存了下来。
 1	拜伦	拜伦	NR	NR	_	3	nmod:assmod	_	BeginSeg=Yes
 2	的	的	DEG	DEG	_	1	case	_	_
@@ -3096,7 +3098,7 @@
 9	下来	下来	VV	VV	_	7	advmod:rcomp	_	_
 10	。	。	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-34
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-34
 # text = 有一种说法是他的心脏被取出留在了迈索隆吉翁-LSB-11-RSB-，但可以肯定的是，其遗体的大部分都在其男仆提塔（Tita）的护送下送囘了英格兰，并打算葬于威斯敏斯特教堂。
 1	有	有	VE	VE	_	0	root	_	BeginSeg=Yes
 2	一	一	CD	CD	_	4	nummod	_	_
@@ -3149,7 +3151,7 @@
 49	教堂	教堂	NN	NN	_	47	dobj	_	_
 50	。	。	PU	PU	_	1	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-35
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-35
 # text = 然而，威斯敏斯特教堂却以拜伦“道德败坏”为由拒绝了这一请求-LSB-12-RSB- -LSB-13-RSB-。
 1	然而	然而	AD	AD	_	24	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	24	punct	_	_
@@ -3177,7 +3179,7 @@
 24	-RSB-	-RSB-	NN	NN	_	0	root	_	_
 25	。	。	PU	PU	_	24	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-36
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-36
 # text = 拜伦的遗体抵达伦敦的那一日，有很多人前去瞻仰-LSB-12-RSB-。
 1	拜伦	拜伦	NR	NR	_	3	nmod:assmod	_	BeginSeg=Yes
 2	的	的	DEG	DEG	_	1	case	_	_
@@ -3199,7 +3201,7 @@
 18	-RSB-	-RSB-	NN	NN	_	15	dobj	_	_
 19	。	。	PU	PU	_	11	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-37
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-37
 # text = 他最终葬于诺丁汉郡哈克诺的圣抹大拉教堂（Church of St. Mary Magdalene），希腊国王赠予的大理石墓碑立于其墓前。
 1	他	他	PN	PN	_	3	nsubj	_	BeginSeg=Yes
 2	最终	最终	AD	AD	_	3	advmod	_	_
@@ -3228,7 +3230,7 @@
 25	墓前	墓前	NN	NN	_	23	dobj	_	_
 26	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-38
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-38
 # text = 拜伦的朋友们筹集了一千镑为他制造雕像，这座雕像耗时十年乃成。
 1	拜伦	拜伦	NR	NR	_	3	nmod:assmod	_	BeginSeg=Yes
 2	的	的	DEG	DEG	_	1	case	_	_
@@ -3252,7 +3254,7 @@
 20	成	成	VV	VV	_	16	conj	_	_
 21	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-39
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-39
 # text = 但1834年雕成之后，大英博物馆、圣保罗大教堂、威斯敏斯特教堂和国家美术馆都拒绝展出此作，久经波折之后，由剑桥大学三一学院将其置于自家的图书馆里-LSB-7-RSB-。
 1	但	但	AD	AD	_	19	advmod	_	BeginSeg=Yes
 2	1834年	1834年	NT	NT	_	3	nmod:tmod	_	_
@@ -3298,7 +3300,7 @@
 42	-RSB-	-RSB-	NN	NN	_	35	dobj	_	_
 43	。	。	PU	PU	_	19	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-40
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-40
 # text = 在拜伦死去145年后的1969年，另一座拜伦的雕像才放入威斯敏斯特教堂。-LSB-14-RSB-
 1	在	在	P	P	_	8	case	_	BeginSeg=Yes
 2	拜伦	拜伦	NR	NR	_	3	nsubj	_	BeginSeg=Yes
@@ -3324,18 +3326,18 @@
 22	14	14	CD	CD	_	23	dep	_	_
 23	-RSB-	-RSB-	NN	NN	_	17	dep	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-41
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-41
 # text = 健康及外貌
 1	健康	健康	NN	NN	_	3	conj	_	BeginSeg=Yes
 2	及	及	CC	CC	_	3	cc	_	_
 3	外貌	外貌	NN	NN	_	0	root	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-42
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-42
 # text = 性倾向
 1	性	性	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	倾向	倾向	NN	NN	_	0	root	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-43
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-43
 # text = “我以奇怪的方式由善和恶混杂而成，要形容我会相当困难-LSB-15-RSB-”
 1	“	“	PU	PU	_	16	punct	_	BeginSeg=Yes
 2	我	我	PN	PN	_	13	nsubj	_	_
@@ -3362,7 +3364,7 @@
 23	-RSB-	-RSB-	NN	NN	_	20	dep	_	_
 24	”	”	PU	PU	_	16	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-44
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-44
 # text = 学者们对拜伦的性倾向仍没有共识，伯恩哈德·杰克逊（Bernhard Jackson）的结论是：“拜伦的性倾向一直是一个难题，更不要说所引起的争议和话题，由于证据含糊不清、矛盾而且寥寥无几，任何想要讨论此议题的人都需要有一定程度的推测”-LSB-16-RSB--LSB-17-RSB-，不过克朗普顿（Crompton）认为“在拜伦那个时代，除了拜伦同伙的一小群人之外，其他人不知道拜伦是双性恋。”-LSB-18-RSB-
 1	学者们	学者们	NN	NN	_	8	nsubj	_	BeginSeg=Yes
 2	对	对	P	P	_	6	case	_	_
@@ -3471,12 +3473,12 @@
 105	18	18	CD	CD	_	106	dep	_	_
 106	-RSB-	-RSB-	NN	NN	_	8	dep	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-45
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-45
 # text = 先天缺陷
 1	先天	先天	JJ	JJ	_	2	amod	_	BeginSeg=Yes
 2	缺陷	缺陷	NN	NN	_	0	root	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-46
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-46
 # text = 拜伦一出生右脚就有畸形，通常被称为“马蹄内翻足”，有些现代的医学家认为这是小儿麻痹症的结果，也有些学者认为是骨骼的发育不良-LSB-19-RSB- :pp. 3–4。
 1	拜伦	拜伦	NR	NR	_	3	nsubj	_	BeginSeg=Yes
 2	一	一	AD	AD	_	3	advmod	_	_
@@ -3523,7 +3525,7 @@
 43	3–4	3–4	CD	CD	_	42	nmod:range	_	_
 44	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-47
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-47
 # text = 不论原因为何，这都使得拜伦跛行，并带来一辈子心理及身体的痛苦，尤其是幼年时痛苦且无效的“治疗”更加重了跛行-LSB-20-RSB-。
 1	不论	不论	CS	CS	_	4	advmod	_	BeginSeg=Yes
 2	原因	原因	NN	NN	_	4	nsubj	_	_
@@ -3565,11 +3567,11 @@
 38	-RSB-	-RSB-	NN	NN	_	33	dobj	_	_
 39	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-48
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-48
 # text = 体格
 1	体格	体格	NN	NN	_	0	root	_	BeginSeg=Yes
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-49
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-49
 # text = 拜伦成年时的身高为174公分，体重则在60公斤及89公斤之间。
 1	拜伦	拜伦	NR	NR	_	2	nsubj	_	BeginSeg=Yes
 2	成年	成年	VV	VV	_	5	nmod	_	BeginSeg=Yes
@@ -3591,7 +3593,7 @@
 18	之间	之间	LC	LC	_	16	case	_	_
 19	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-50
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-50
 # text = 拜伦以其美貌闻名，曾为了发型晚上戴棉芯卷发-LSB-21-RSB-。
 1	拜伦	拜伦	NR	NR	_	5	nsubj	_	BeginSeg=Yes
 2	以	以	P	P	_	4	case	_	_
@@ -3612,7 +3614,7 @@
 17	-RSB-	-RSB-	NN	NN	_	14	dobj	_	_
 18	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-51
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-51
 # text = 拜伦是拳击手、骑师及杰出的游泳选手。
 1	拜伦	拜伦	NR	NR	_	10	nsubj	_	BeginSeg=Yes
 2	是	是	VC	VC	_	10	cop	_	_
@@ -3626,7 +3628,7 @@
 10	选手	选手	NN	NN	_	0	root	_	_
 11	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-52
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-52
 # text = 他参加了前职业拳击冠军约翰“绅士”杰克逊在邦德街房间的付费拳击课程，并记录训练会议的内容，在他的信和日记中称杰克逊为“拳击界的皇帝”-LSB-22-RSB-。
 1	他	他	PN	PN	_	2	nsubj	_	BeginSeg=Yes
 2	参加	参加	VV	VV	_	0	root	_	_
@@ -3675,7 +3677,7 @@
 45	-RSB-	-RSB-	NN	NN	_	35	dobj	_	_
 46	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-53
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-53
 # text = 拜伦和其他的作家（例如他的朋友霍布豪斯）仔细地描述拜伦的饮食习惯。
 1	拜伦	拜伦	NR	NR	_	5	conj	_	BeginSeg=Yes
 2	和	和	CC	CC	_	5	cc	_	_
@@ -3698,7 +3700,7 @@
 19	习惯	习惯	NN	NN	_	15	dobj	_	_
 20	。	。	PU	PU	_	15	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-54
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-54
 # text = 拜伦在就读剑桥时实行严格的节食以控制其体重，拜伦的运动量很大，而且穿许多衣服使自己出汗。
 1	拜伦	拜伦	NR	NR	_	6	nsubj	_	BeginSeg=Yes
 2	在	在	P	P	_	3	case	_	BeginSeg=Yes
@@ -3729,7 +3731,7 @@
 27	出汗	出汗	VV	VV	_	25	ccomp	_	_
 28	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-55
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-55
 # text = 日常生活中拜伦多半只吃素食，常常几天只靠干的饼干及白葡萄酒维生。
 1	日常	日常	JJ	JJ	_	2	amod	_	BeginSeg=Yes
 2	生活	生活	NN	NN	_	7	advmod:loc	_	_
@@ -3754,7 +3756,7 @@
 21	维生	维生	VV	VV	_	7	conj	_	_
 22	。	。	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-56
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-56
 # text = 偶尔他会吃大量的肉和甜点。
 1	偶尔	偶尔	AD	AD	_	4	advmod	_	BeginSeg=Yes
 2	他	他	PN	PN	_	4	nsubj	_	_
@@ -3767,7 +3769,7 @@
 9	甜点	甜点	NN	NN	_	4	dobj	_	_
 10	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_bio_byron-gcdt_bio_byron-gcdt_bio_byron-57
+# sent_id = gcdt_bio_byron-gcdt_bio_byron-57
 # text = 高尔特和其他人都描述拜伦喜欢暴力的运动，霍布豪斯认为那是他脚畸形的疼痛使得身体不易活动，因此也造成他的体重问题-LSB-21-RSB-。
 1	高尔特	高尔特	NR	NR	_	4	conj	_	BeginSeg=Yes
 2	和	和	CC	CC	_	4	cc	_	_
@@ -3808,7 +3810,8 @@
 37	-RSB-	-RSB-	NN	NN	_	30	dobj	_	_
 38	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-1
+# newdoc_id = gcdt_interview_ward
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-1
 # text = 史提芬·沃德：人们开始生活在虚假的现实中
 1	史提芬·沃德	史提芬·沃德	NR	NR	_	5	nmod:topic	_	BeginSeg=Yes
 2	：	：	PU	PU	_	5	punct	_	_
@@ -3821,7 +3824,7 @@
 9	现实	现实	NN	NN	_	5	nmod:prep	_	_
 10	中	中	LC	LC	_	9	case	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-2
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-2
 # text = 【2020年11月18日讯】
 1	【	【	PU	PU	_	5	punct	_	BeginSeg=Yes
 2	2020年	2020年	NT	NT	_	5	dep	_	_
@@ -3830,7 +3833,7 @@
 5	讯	讯	VV	VV	_	0	root	_	_
 6	】	】	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-3
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-3
 # text = 地球上近80亿人中的绝大多数人继续通过媒体和社交网络获得有关新冠病毒传播的讯息。
 1	地球	地球	NN	NN	_	5	dep	_	BeginSeg=Yes
 2	上	上	LC	LC	_	1	case	_	_
@@ -3856,7 +3859,7 @@
 22	讯息	讯息	NN	NN	_	16	dobj	_	_
 23	。	。	PU	PU	_	16	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-4
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-4
 # text = 与此同时，在世界不同地区，当局、记者和公民对大流行的威胁和长期隔离的经济后果有不同的认识。
 1	与此同时	与此同时	AD	AD	_	24	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	24	punct	_	_
@@ -3887,7 +3890,7 @@
 27	认识	认识	NN	NN	_	24	dobj	_	_
 28	。	。	PU	PU	_	24	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-5
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-5
 # text = 加拿大新闻学院院长、英属哥伦比亚大学教授史提芬·J·A·沃德（Stephen J. A. Ward），同时也是威斯康星大学新闻伦理中心的创始主任，他在接受俄语维基新闻采访时，谈到了他对当前新冠大流行病报道形势的看法。
 1	加拿大	加拿大	NR	NR	_	3	compound:nn	_	BeginSeg=Yes
 2	新闻	新闻	NN	NN	_	3	compound:nn	_	_
@@ -3940,7 +3943,7 @@
 49	看法	看法	NN	NN	_	38	dobj	_	_
 50	。	。	PU	PU	_	38	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-6
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-6
 # text = 在采访时，作为前战地记者和加拿大记者协会（CAJ）道德委员会的负责人罗马·巴拉宾（Roman Balabin），沃德教授评价了目前媒体对病毒的报道。
 1	在	在	P	P	_	2	case	_	BeginSeg=Yes
 2	采访	采访	NN	NN	_	28	nmod:prep	_	_
@@ -3979,7 +3982,7 @@
 35	报道	报道	NN	NN	_	28	dobj	_	_
 36	。	。	PU	PU	_	28	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-7
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-7
 # text = 2017年，你写道：“互联网曾经风靡一时，我们曾称赞它‘使媒体民主化并使“我们人民”一词成为现实’ 一个由巨魔、黑客、种族主义者、狂热分子、阴谋论者和政府为操纵社交网络，而创造由机器人组成的，喧闹而又经常危险的全球环境。”
 1	2017年	2017年	NT	NT	_	4	nmod:tmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	4	punct	_	_
@@ -4050,7 +4053,7 @@
 67	。	。	PU	PU	_	4	punct	_	_
 68	”	”	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-8
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-8
 # text = 你认为从那以后情况有变化吗？
 1	你	你	PN	PN	_	2	nsubj	_	BeginSeg=Yes
 2	认为	认为	VV	VV	_	0	root	_	_
@@ -4063,7 +4066,7 @@
 9	吗	吗	SP	SP	_	10	discourse	_	_
 10	？	？	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-9
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-9
 # text = 不，情况并没有改变，事实上它已经变得更糟了。
 1	不	不	AD	AD	_	6	neg	_	BeginSeg=Yes
 2	，	，	PU	PU	_	6	punct	_	_
@@ -4082,7 +4085,7 @@
 15	了	了	SP	SP	_	14	discourse	_	_
 16	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-10
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-10
 # text = 社会的公共讯息渠道──今天相当于他们与世界或“现实”的接触被扭曲，意味着他们不仅会误解问题，而且政府和其他虚假讯息的代理人将更有能力操纵他们和公众舆论。
 1	社会	社会	NN	NN	_	5	nmod:assmod	_	BeginSeg=Yes
 2	的	的	DEG	DEG	_	1	case	_	_
@@ -4131,7 +4134,7 @@
 45	舆论	舆论	NN	NN	_	41	dobj	_	_
 46	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-11
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-11
 # text = 公众开始生活在一个由意识形态主义者、冒充民粹主义者的暴君和极右翼团体制造的虚假现实中。
 1	公众	公众	NN	NN	_	3	nsubj	_	BeginSeg=Yes
 2	开始	开始	VV	VV	_	3	xcomp	_	_
@@ -4159,7 +4162,7 @@
 24	中	中	LC	LC	_	23	case	_	_
 25	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-12
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-12
 # text = 在一个如此相互联系和相互依存的全球世界里，我想不出比这更危险的和平共处的发展了。
 1	在	在	P	P	_	12	case	_	BeginSeg=Yes
 2	一	一	CD	CD	_	12	nummod	_	_
@@ -4191,7 +4194,7 @@
 28	了	了	SP	SP	_	16	discourse	_	_
 29	。	。	PU	PU	_	16	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-13
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-13
 # text = 只要看看围绕COVID-19流传的错误讯息的程度就知道了。
 1	只要	只要	CS	CS	_	2	advmod	_	BeginSeg=Yes
 2	看看	看看	VV	VV	_	12	dep	_	_
@@ -4208,7 +4211,7 @@
 13	了	了	AS	AS	_	12	aux:asp	_	_
 14	。	。	PU	PU	_	12	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-14
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-14
 # text = 我们已经将我们的公共渠道“政治化”，以至于任何人都难以获得合理客观、非极化的讯息。
 1	我们	我	PN	PN	_	9	nsubj	_	BeginSeg=Yes
 2	已经	已经	AD	AD	_	9	advmod	_	_
@@ -4236,7 +4239,7 @@
 24	讯息	讯息	NN	NN	_	18	dobj	_	_
 25	。	。	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-15
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-15
 # text = 维基新闻是一个新闻媒体项目，任何人都可以编辑任何文章。
 1	维基	维基	NR	NR	_	2	compound:nn	_	BeginSeg=Yes
 2	新闻	新闻	NN	NN	_	8	nsubj	_	_
@@ -4256,7 +4259,7 @@
 16	文章	文章	NN	NN	_	14	dobj	_	_
 17	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-16
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-16
 # text = 这是否会给参与者带来任何特殊的道德问题？
 1	这	这	PN	PN	_	6	nsubj	_	BeginSeg=Yes
 2	是否	是否	AD	AD	_	6	advmod	_	_
@@ -4271,7 +4274,7 @@
 11	问题	问题	NN	NN	_	6	dobj	_	_
 12	？	？	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-17
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-17
 # text = 这个问题围绕着“任何人”。
 1	这	这	DT	DT	_	3	det	_	BeginSeg=Yes
 2	个	个	M	M	_	1	mark:clf	_	_
@@ -4284,7 +4287,7 @@
 9	”	”	PU	PU	_	8	punct	_	_
 10	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-18
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-18
 # text = 就像任何其他维基服务的用户一样，我看到的文章，（例如在维基媒体上）是关于非政治主题的，例如，哲学家或作家，我知道这些文章是不完整的，而且似乎是倾斜的，但我并不感到惊讶。
 1	就	就	AD	AD	_	9	advmod	_	BeginSeg=Yes
 2	像	像	P	P	_	8	case	_	_
@@ -4343,7 +4346,7 @@
 55	惊讶	惊讶	VA	VA	_	54	ccomp	_	_
 56	。	。	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-19
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-19
 # text = 但当涉及到新闻时，管理维基新闻的人需要格外警惕，检查谁在写文章，并透明地提供讯息，说明为什么这个人有能力写这篇文章。
 1	但	但	AD	AD	_	13	advmod	_	BeginSeg=Yes
 2	当	当	P	P	_	3	case	_	_
@@ -4386,7 +4389,7 @@
 39	文章	文章	NN	NN	_	36	dobj	_	_
 40	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-20
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-20
 # text = 我不认为维基新闻可以保证完全的客观性或公正性，无论这意味着什么，但他们需要采取媒体道德的基本步骤：负责任、透明、检查文章是否有偏见或不完整，文章要接受独立媒体专家的检查（Review），并明确阐述他们的道德准则，这是强制性的。
 1	我	我	PN	PN	_	3	nsubj	_	BeginSeg=Yes
 2	不	不	AD	AD	_	3	neg	_	_
@@ -4457,7 +4460,7 @@
 67	的	的	DEG	DEG	_	66	case	_	_
 68	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-21
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-21
 # text = 教授克劳斯·梅耶（Klaus Meyer）和温森克·维斯（Vincenz Wyss）争论，在2月和3月初，有关COVID-19流行病的新闻“在科学估计中的观点多样性和偏见很少得到体现”。
 1	教授	教授	NN	NN	_	2	appos	_	BeginSeg=Yes
 2	克劳斯·梅耶	克劳斯·梅耶	NR	NR	_	8	dep	_	_
@@ -4501,7 +4504,7 @@
 40	”	”	PU	PU	_	38	punct	_	_
 41	。	。	PU	PU	_	38	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-22
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-22
 # text = 您是否同意这种观点？
 1	您	您	PN	PN	_	3	nsubj	_	BeginSeg=Yes
 2	是否	是否	VV	VV	_	3	xcomp	_	_
@@ -4511,7 +4514,7 @@
 6	观点	观点	NN	NN	_	3	dobj	_	_
 7	？	？	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-23
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-23
 # text = 覆盖范围大部分是关键的还是非关键的？
 1	覆盖	覆盖	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	范围	范围	NN	NN	_	4	compound:nn	_	_
@@ -4526,7 +4529,7 @@
 11	的	的	SP	SP	_	10	discourse	_	_
 12	？	？	PU	PU	_	0	root	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-24
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-24
 # text = 报道科学上的不确定性总是一个问题，公平地说，今次大流行病包含的不确定性超出了常规。
 1	报道	报道	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	科学	科学	NN	NN	_	5	nmod	_	_
@@ -4554,7 +4557,7 @@
 24	常规	常规	NN	NN	_	22	dobj	_	_
 25	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-25
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-25
 # text = 即使是世界上最伟大的流行病专家，也无法确定未来会发生什么。
 1	即使	即使	CS	CS	_	9	advmod	_	BeginSeg=Yes
 2	是	是	VC	VC	_	9	cop	_	_
@@ -4575,7 +4578,7 @@
 17	什么	什么	PN	PN	_	16	dobj	_	_
 18	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-26
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-26
 # text = 这不是因为缺乏知识，而是人类不可能总是预测复杂疾病的后果。
 1	这	这	PN	PN	_	3	nsubj	_	BeginSeg=Yes
 2	不	不	AD	AD	_	3	neg	_	_
@@ -4597,7 +4600,7 @@
 18	后果	后果	NN	NN	_	3	conj	_	_
 19	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-27
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-27
 # text = 有这么多因素。
 1	有	有	VE	VE	_	0	root	_	BeginSeg=Yes
 2	这么	这么	AD	AD	_	3	advmod	_	_
@@ -4605,7 +4608,7 @@
 4	因素	因素	NN	NN	_	1	dobj	_	_
 5	。	。	PU	PU	_	1	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-28
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-28
 # text = 另一个问题是，太多人认为科学是“确定”的知识，或者说是纯粹的事实，而不是基于现有最佳证据和推理模型的可能知识。
 1	另	另	DT	DT	_	4	det	_	BeginSeg=Yes
 2	一	一	CD	CD	_	1	dep	_	_
@@ -4647,7 +4650,7 @@
 38	知识	知识	NN	NN	_	28	nmod:prep	_	_
 39	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-29
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-29
 # text = 所以，当记者报道科学家对某件事情“不确定”时，太多人就会得出科学家不知道自己在说什么的结论，并把他们和非专家归为同一桶。
 1	所以	所以	AD	AD	_	22	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	22	punct	_	_
@@ -4694,7 +4697,7 @@
 43	桶	桶	M	M	_	42	mark:clf	_	_
 44	。	。	PU	PU	_	22	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-30
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-30
 # text = 我赞成对不确定性进行细致入微的报道，我知道很多报道在这件事上没有做好。
 1	我	我	PN	PN	_	2	nsubj	_	BeginSeg=Yes
 2	赞成	赞成	VV	VV	_	0	root	_	_
@@ -4719,7 +4722,7 @@
 21	做好	做好	VV	VV	_	12	ccomp	_	_
 22	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-31
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-31
 # text = 这说明各大新闻单位需要在沟通风险和不确定性方面进行自我宣传，这是我多年来一直强调的。
 1	这	这	PN	PN	_	2	nsubj	_	BeginSeg=Yes
 2	说明	说明	VV	VV	_	0	root	_	_
@@ -4749,7 +4752,7 @@
 26	的	的	SP	SP	_	25	discourse	_	_
 27	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-32
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-32
 # text = 也好，新闻学院应该把它作为教学的一部分。
 1	也好	也好	AD	AD	_	8	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	8	punct	_	_
@@ -4765,7 +4768,7 @@
 12	部分	部分	NN	NN	_	8	dobj	_	_
 13	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-33
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-33
 # text = 克劳斯·梅耶和温森克·维斯还表示，“德国和瑞士的媒体在报道时，基本没有距离感──他们的资讯与联邦和州的官方讯息一致。”
 1	克劳斯·梅耶	克劳斯·梅耶	NR	NR	_	3	conj	_	BeginSeg=Yes
 2	和	和	CC	CC	_	3	cc	_	_
@@ -4801,7 +4804,7 @@
 32	。	。	PU	PU	_	5	punct	_	_
 33	”	”	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-34
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-34
 # text = 你同意这个观点吗？
 1	你	你	PN	PN	_	2	nsubj	_	BeginSeg=Yes
 2	同意	同意	VV	VV	_	7	dep	_	_
@@ -4811,7 +4814,7 @@
 6	吗	吗	SP	SP	_	7	discourse	_	_
 7	？	？	PU	PU	_	0	root	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-35
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-35
 # text = 美国和加拿大的情况是相似，还是不同？
 1	美国	美国	NR	NR	_	3	conj	_	BeginSeg=Yes
 2	和	和	CC	CC	_	3	cc	_	_
@@ -4825,7 +4828,7 @@
 10	不同	不同	VA	VA	_	7	conj	_	_
 11	？	？	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-36
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-36
 # text = 这是报道健康问题和严重事态发展的另一个问题。
 1	这	这	PN	PN	_	14	nsubj	_	BeginSeg=Yes
 2	是	是	VC	VC	_	14	cop	_	_
@@ -4843,7 +4846,7 @@
 14	问题	问题	NN	NN	_	0	root	_	_
 15	。	。	PU	PU	_	14	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-37
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-37
 # text = 新闻媒体必须告诉人们他们的政府和相关机构在说什么，做什么，对事情。
 1	新闻	新闻	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	媒体	媒体	NN	NN	_	4	nsubj	_	_
@@ -4867,7 +4870,7 @@
 20	事情	事情	NN	NN	_	16	nmod:prep	_	_
 21	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-38
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-38
 # text = 有一个巨大的讯息真空需要填补，而这个真空将被恐惧和错误讯息所填补，否则。
 1	有	有	VE	VE	_	0	root	_	BeginSeg=Yes
 2	一	一	CD	CD	_	7	nummod	_	_
@@ -4895,7 +4898,7 @@
 24	否则	否则	AD	AD	_	1	dep	_	_
 25	。	。	PU	PU	_	1	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-39
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-39
 # text = 然而，与此同时，至关重要的是，媒体要批判性地对待官方讯息，而不是简单地“接受”所有讯息。
 1	然而	然而	AD	AD	_	13	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	13	punct	_	_
@@ -4925,7 +4928,7 @@
 26	讯息	讯息	NN	NN	_	23	dobj	_	_
 27	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-40
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-40
 # text = 他们需要进行自己的独立调查和报道。
 1	他们	他	PN	PN	_	3	nsubj	_	BeginSeg=Yes
 2	需要	需要	VV	VV	_	3	xcomp	_	_
@@ -4938,7 +4941,7 @@
 9	报道	报道	NN	NN	_	3	dobj	_	_
 10	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-41
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-41
 # text = 在北美，它的纪录好坏参半。
 1	在	在	P	P	_	2	case	_	BeginSeg=Yes
 2	北美	北美	NR	NR	_	8	nmod:prep	_	_
@@ -4950,7 +4953,7 @@
 8	参半	参半	VV	VV	_	0	root	_	_
 9	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-42
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-42
 # text = 在美国，各大新闻机构都对特朗普总统及其政权产生的官方路线提出了严重的质疑。
 1	在	在	P	P	_	2	case	_	BeginSeg=Yes
 2	美国	美国	NR	NR	_	19	nmod:prep	_	_
@@ -4977,7 +4980,7 @@
 23	质疑	质疑	NN	NN	_	19	dobj	_	_
 24	。	。	PU	PU	_	19	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-43
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-43
 # text = 但太多时候，特朗普每天都在用他那可笑的新闻发布会来主导报道，病毒怀疑论是主题。
 1	但	但	AD	AD	_	18	advmod	_	BeginSeg=Yes
 2	太	太	AD	AD	_	3	advmod	_	_
@@ -5005,7 +5008,7 @@
 24	主题	主题	NN	NN	_	18	conj	_	_
 25	。	。	PU	PU	_	18	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-44
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-44
 # text = 在加拿大，加拿大广播公司（CBC）在平衡官方和非官方讯息方面做得很好，各大报纸也是如此。
 1	在	在	P	P	_	2	case	_	BeginSeg=Yes
 2	加拿大	加拿大	NR	NR	_	21	nmod:prep	_	_
@@ -5037,7 +5040,7 @@
 28	如此	如此	VA	VA	_	21	conj	_	_
 29	。	。	PU	PU	_	21	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-45
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-45
 # text = 加拿大的主要媒体也很好地展示了加拿大如何反应迟缓，在许多方面毫无准备。
 1	加拿大	加拿大	NR	NR	_	4	nmod:assmod	_	BeginSeg=Yes
 2	的	的	DEG	DEG	_	1	case	_	_
@@ -5061,7 +5064,7 @@
 20	准备	准备	NN	NN	_	19	dobj	_	_
 21	。	。	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-46
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-46
 # text = 病死人数在俄罗斯媒体上基本被表述为“真实事实”。
 1	病死	病死	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	人数	人数	NN	NN	_	9	nsubj	_	_
@@ -5079,14 +5082,14 @@
 14	”	”	PU	PU	_	13	punct	_	_
 15	。	。	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-47
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-47
 # text = 能否如此命名？
 1	能否	能否	VV	VV	_	3	advmod	_	BeginSeg=Yes
 2	如此	如此	AD	AD	_	3	advmod	_	_
 3	命名	命名	VV	VV	_	0	root	_	_
 4	？	？	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-48
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-48
 # text = 不，它们不是“真实的事实”，如果这意味着不容置疑或肯定的话。
 1	不	不	AD	AD	_	9	neg	_	BeginSeg=Yes
 2	，	，	PU	PU	_	9	punct	_	_
@@ -5109,7 +5112,7 @@
 19	的话	的话	SP	SP	_	14	discourse	_	_
 20	。	。	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-49
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-49
 # text = 人们为什么要接受这样的宣传？
 1	人们	人	NN	NN	_	4	nsubj	_	BeginSeg=Yes
 2	为什么	为什么	AD	AD	_	4	advmod	_	_
@@ -5120,7 +5123,7 @@
 7	宣传	宣传	NN	NN	_	4	dobj	_	_
 8	？	？	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-50
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-50
 # text = 任何一个有理智的人都知道，现有的关于病毒和死亡人数等数据并不完整，取决于估计，而估计又取决于检测的多少。
 1	任何	任何	DT	DT	_	7	det	_	BeginSeg=Yes
 2	一	一	CD	CD	_	1	dep	_	_
@@ -5156,7 +5159,7 @@
 32	多少	多少	CD	CD	_	29	nmod:range	_	_
 33	。	。	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-51
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-51
 # text = 而俄罗斯或其他地方的政府，都有一个利益就是让事实看起来尽可能的好。
 1	而	而	AD	AD	_	10	advmod	_	BeginSeg=Yes
 2	俄罗斯	俄罗斯	NR	NR	_	5	conj	_	_
@@ -5181,7 +5184,7 @@
 21	好	好	VA	VA	_	16	ccomp	_	_
 22	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-52
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-52
 # text = 这就是为什么媒体报道需要说这是政府公布的数据，然后继续指出任何不确定因素。
 1	这	这	PN	PN	_	6	nsubj	_	BeginSeg=Yes
 2	就	就	AD	AD	_	6	advmod	_	_
@@ -5206,7 +5209,7 @@
 21	因素	因素	NN	NN	_	18	dobj	_	_
 22	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_interview_ward-gcdt_interview_ward-gcdt_interview_ward-53
+# sent_id = gcdt_interview_ward-gcdt_interview_ward-53
 # text = 例如，CBC关于病毒的网站上有很多关于疾病传播的图表；但是，在网页的开头，它明确指出了这些数据的局限性，例如采样的测试次数。
 1	例如	例如	AD	AD	_	9	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	9	punct	_	_
@@ -5247,7 +5250,8 @@
 37	次数	次数	NN	NN	_	26	dobj	_	_
 38	。	。	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-1
+# newdoc_id = gcdt_news_famine
+# sent_id = gcdt_news_famine-gcdt_news_famine-1
 # text = 十月革命百年 乌克兰纪念大饥荒
 1	十月	十月	NT	NT	_	6	nmod:tmod	_	BeginSeg=Yes
 2	革命	革命	NN	NN	_	3	dep	_	_
@@ -5258,7 +5262,7 @@
 7	大	大	JJ	JJ	_	8	amod	_	_
 8	饥荒	饥荒	NN	NN	_	6	dobj	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-2
+# sent_id = gcdt_news_famine-gcdt_news_famine-2
 # text = 【2017年11月26日讯】
 1	【	【	PU	PU	_	5	punct	_	BeginSeg=Yes
 2	2017年	2017年	NT	NT	_	5	dep	_	_
@@ -5267,7 +5271,7 @@
 5	讯	讯	VV	VV	_	0	root	_	_
 6	】	】	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-3
+# sent_id = gcdt_news_famine-gcdt_news_famine-3
 # text = 乌克兰星期六再次纪念大饥荒。
 1	乌克兰	乌克兰	NR	NR	_	4	nsubj	_	BeginSeg=Yes
 2	星期六	星期六	NT	NT	_	4	nmod:tmod	_	_
@@ -5277,7 +5281,7 @@
 6	饥荒	饥荒	NN	NN	_	4	dobj	_	_
 7	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-4
+# sent_id = gcdt_news_famine-gcdt_news_famine-4
 # text = 在十月革命百年之际，今年的大饥荒纪念活动特别强调，独裁者斯大林人为制造和利用大饥荒消灭乌克兰社会，特别是农村中对苏共政权的不满。
 1	在	在	P	P	_	7	case	_	BeginSeg=Yes
 2	十月	十月	NT	NT	_	3	compound:nn	_	_
@@ -5318,12 +5322,12 @@
 37	不满	不满	NN	NN	_	26	dobj	_	_
 38	。	。	PU	PU	_	16	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-5
+# sent_id = gcdt_news_famine-gcdt_news_famine-5
 # text = 全国默哀
 1	全国	全国	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	默哀	默哀	NN	NN	_	0	root	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-6
+# sent_id = gcdt_news_famine-gcdt_news_famine-6
 # text = 乌克兰星期六再次举行全国性活动，悼念1932年到1933年乌克兰大饥荒中的受难者。
 1	乌克兰	乌克兰	NR	NR	_	4	nsubj	_	BeginSeg=Yes
 2	星期六	星期六	NT	NT	_	4	nmod:tmod	_	_
@@ -5344,7 +5348,7 @@
 17	受难者	受难者	NN	NN	_	8	dobj	_	_
 18	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-7
+# sent_id = gcdt_news_famine-gcdt_news_famine-7
 # text = 同每年的活动一样，下午4点时乌克兰全国默哀，然后点燃蜡烛。
 1	同	同	P	P	_	4	case	_	BeginSeg=Yes
 2	每年	每年	JJ	JJ	_	4	amod	_	_
@@ -5364,7 +5368,7 @@
 16	蜡烛	蜡烛	NN	NN	_	15	dobj	_	_
 17	。	。	PU	PU	_	12	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-8
+# sent_id = gcdt_news_famine-gcdt_news_famine-8
 # text = 乌克兰总统和总理率领高官和社会人士向首都基辅的大饥荒纪念碑献花圈。
 1	乌克兰	乌克兰	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
 2	总统	总统	NN	NN	_	4	conj	_	_
@@ -5386,7 +5390,7 @@
 18	花圈	花圈	NN	NN	_	17	dobj	_	_
 19	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-9
+# sent_id = gcdt_news_famine-gcdt_news_famine-9
 # text = 乌克兰各地也同时举行了献花圈活动。
 1	乌克兰	乌克兰	NR	NR	_	3	nmod	_	BeginSeg=Yes
 2	各	各	DT	DT	_	3	det	_	_
@@ -5400,7 +5404,7 @@
 10	活动	活动	NN	NN	_	6	dobj	_	_
 11	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-10
+# sent_id = gcdt_news_famine-gcdt_news_famine-10
 # text = 乌克兰各政府机关和有关机构星期六下半旗，并在国旗上悬挂致哀用的黑色丝带，各种娱乐活动当天受到限制，乌克兰全国各地教堂都举行了安灵弥撒活动。
 1	乌克兰	乌克兰	NR	NR	_	4	nmod	_	BeginSeg=Yes
 2	各	各	DT	DT	_	3	det	_	_
@@ -5445,7 +5449,7 @@
 41	活动	活动	NN	NN	_	37	dobj	_	_
 42	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-11
+# sent_id = gcdt_news_famine-gcdt_news_famine-11
 # text = 镇压民族复兴 用大饥荒报复
 1	镇压	镇压	VV	VV	_	0	root	_	BeginSeg=Yes
 2	民族	民族	NN	NN	_	3	compound:nn	_	_
@@ -5455,7 +5459,7 @@
 6	饥荒	饥荒	NN	NN	_	7	nmod:prep	_	_
 7	报复	报复	NN	NN	_	1	dobj	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-12
+# sent_id = gcdt_news_famine-gcdt_news_famine-12
 # text = 在十月革命百年之际，今年乌克兰大饥荒纪念活动的主题是，共产党政权当年人为制造大饥荒，目的是报复当时所兴起的乌克兰民族复兴运动。
 1	在	在	P	P	_	7	case	_	BeginSeg=Yes
 2	十月	十月	NT	NT	_	3	compound:nn	_	BeginSeg=Yes
@@ -5496,7 +5500,7 @@
 37	运动	运动	NN	NN	_	29	dobj	_	_
 38	。	。	PU	PU	_	23	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-13
+# sent_id = gcdt_news_famine-gcdt_news_famine-13
 # text = 一百年前沙俄帝国崩溃，末代沙皇被推翻和十月革命爆发后，芬兰，以及与乌克兰拥有密切历史和文化渊源的波兰先后独立，乌克兰知识界从1917年起积极寻找乌克兰的文化和民族定位。
 1	一百	一百	CD	CD	_	6	advmod:loc	_	BeginSeg=Yes
 2	年	年	M	M	_	1	mark:clf	_	_
@@ -5546,7 +5550,7 @@
 46	定位	定位	NN	NN	_	40	dobj	_	_
 47	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-14
+# sent_id = gcdt_news_famine-gcdt_news_famine-14
 # text = 与此同时，富裕的乌克兰农村对布尔什维克政权强制推行的集体农庄运动日益抵触，乌克兰媒体说，大饥荒就成为斯大林专制政权对乌克兰寻求自由和民族革命的一场报复。
 1	与此同时	与此同时	AD	AD	_	17	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	17	punct	_	_
@@ -5590,7 +5594,7 @@
 40	报复	报复	NN	NN	_	26	dobj	_	_
 41	。	。	PU	PU	_	17	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-15
+# sent_id = gcdt_news_famine-gcdt_news_famine-15
 # text = 目前定居波兰的美国记者和专栏作家阿普勒鲍姆几天前在乌克兰首都基辅表示，斯大林利用大饥荒来镇压乌克兰社会当时的抗议和不满。
 1	目前	目前	NT	NT	_	2	nmod:tmod	_	BeginSeg=Yes
 2	定居	定居	VV	VV	_	10	acl	_	_
@@ -5626,7 +5630,7 @@
 32	不满	不满	NN	NN	_	25	dobj	_	_
 33	。	。	PU	PU	_	18	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-16
+# sent_id = gcdt_news_famine-gcdt_news_famine-16
 # text = 在今年大饥荒纪念活动前夕，这位普利策奖得主在基辅特别介绍了她撰写的新书《红色饥荒，斯大林针对乌克兰的战争》。
 1	在	在	P	P	_	7	case	_	BeginSeg=Yes
 2	今年	今年	NT	NT	_	6	compound:nn	_	_
@@ -5662,7 +5666,7 @@
 32	》	》	PU	PU	_	31	punct	_	_
 33	。	。	PU	PU	_	16	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-17
+# sent_id = gcdt_news_famine-gcdt_news_famine-17
 # text = 她撰写这本书时研究了当年斯大林与乌克兰共产党领导人之间的往来信件。
 1	她	她	PN	PN	_	7	nsubj	_	BeginSeg=Yes
 2	撰写	撰写	VV	VV	_	7	advcl:loc	_	_
@@ -5684,7 +5688,7 @@
 18	信件	信件	NN	NN	_	7	dobj	_	_
 19	。	。	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-18
+# sent_id = gcdt_news_famine-gcdt_news_famine-18
 # text = 阿普勒鲍姆认为，斯大林在1917年时就对乌克兰的民族运动深感恐惧，因为他害怕乌克兰民族运动会与布尔什维克革命相竞争。
 1	阿普勒鲍姆	阿普勒鲍姆	NR	NR	_	2	nsubj	_	BeginSeg=Yes
 2	认为	认为	VV	VV	_	0	root	_	_
@@ -5716,7 +5720,7 @@
 28	竞争	竞争	VV	VV	_	19	ccomp	_	_
 29	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-19
+# sent_id = gcdt_news_famine-gcdt_news_famine-19
 # text = 斯大林利用大饥荒解决了所谓的“乌克兰问题”，那就是首先跟除了乌克兰农民中的抗议潜力，接下来镇压迫害乌克兰知识阶层，最终目的是不让乌克兰对布尔什维克政权构成威胁。
 1	斯大林	斯大林	NR	NR	_	2	nsubj	_	BeginSeg=Yes
 2	利用	利用	VV	VV	_	0	root	_	BeginSeg=Yes
@@ -5764,7 +5768,7 @@
 44	威胁	威胁	NN	NN	_	43	dobj	_	_
 45	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-20
+# sent_id = gcdt_news_famine-gcdt_news_famine-20
 # text = 阿普勒鲍姆的夫婿是波兰前外长和前国会议长西科尔斯基。
 1	阿普勒鲍姆	阿普勒鲍姆	NR	NR	_	3	nmod:assmod	_	BeginSeg=Yes
 2	的	的	DEG	DEG	_	1	case	_	_
@@ -5780,7 +5784,7 @@
 12	西科尔斯基	西科尔斯基	NR	NR	_	0	root	_	_
 13	。	。	PU	PU	_	12	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-21
+# sent_id = gcdt_news_famine-gcdt_news_famine-21
 # text = 饥荒都发生在黑土地 消灭反抗力量
 1	饥荒	饥荒	NN	NN	_	3	nsubj	_	BeginSeg=Yes
 2	都	都	AD	AD	_	3	advmod	_	_
@@ -5792,7 +5796,7 @@
 8	反抗	反抗	NN	NN	_	9	compound:nn	_	_
 9	力量	力量	NN	NN	_	7	dobj	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-22
+# sent_id = gcdt_news_famine-gcdt_news_famine-22
 # text = 俄罗斯时事评论人士伊赫洛夫说，看一下地图就知道，苏联北部土地贫瘠的地区没有发生饥荒。
 1	俄罗斯	俄罗斯	NR	NR	_	4	nmod:assmod	_	BeginSeg=Yes
 2	时事	时事	NN	NN	_	4	compound:nn	_	_
@@ -5818,7 +5822,7 @@
 22	饥荒	饥荒	NN	NN	_	21	dobj	_	_
 23	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-23
+# sent_id = gcdt_news_famine-gcdt_news_famine-23
 # text = 大饥荒都发生在乌克兰、俄罗斯，以及哈萨克斯坦那些肥沃的黑土地地区。
 1	大	大	JJ	JJ	_	2	amod	_	BeginSeg=Yes
 2	饥荒	饥荒	NN	NN	_	4	nsubj	_	_
@@ -5839,7 +5843,7 @@
 17	地区	地区	NN	NN	_	4	nmod:prep	_	_
 18	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-24
+# sent_id = gcdt_news_famine-gcdt_news_famine-24
 # text = 伊赫洛夫认为，大饥荒更消灭了对共产党政权不满并构成潜在威胁的农民阶层。
 1	伊赫洛夫	伊赫洛夫	NR	NR	_	2	nsubj	_	BeginSeg=Yes
 2	认为	认为	VV	VV	_	0	root	_	_
@@ -5862,7 +5866,7 @@
 19	阶层	阶层	NN	NN	_	7	dobj	_	_
 20	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-25
+# sent_id = gcdt_news_famine-gcdt_news_famine-25
 # text = 伊赫洛夫说：“尽管大饥荒中饿死的以乌克兰人和哈萨克人居多，但那场民族灭绝行动不仅仅针对单一民族，也同样针对某个社会阶层，那就是有意利用大饥荒来彻底消灭那些比较富裕，很独立自主的农村地区中的农民。”
 1	伊赫洛夫	伊赫洛夫	NR	NR	_	2	nsubj	_	BeginSeg=Yes
 2	说	说	VV	VV	_	0	root	_	_
@@ -5926,7 +5930,7 @@
 60	。	。	PU	PU	_	2	punct	_	_
 61	”	”	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-26
+# sent_id = gcdt_news_famine-gcdt_news_famine-26
 # text = 饥荒之后 俄语居民填充空旷农村
 1	饥荒	饥荒	NN	NN	_	5	advmod:loc	_	BeginSeg=Yes
 2	之后	之后	LC	LC	_	1	case	_	_
@@ -5936,7 +5940,7 @@
 6	空旷	空旷	JJ	JJ	_	7	amod	_	_
 7	农村	农村	NN	NN	_	5	dobj	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-27
+# sent_id = gcdt_news_famine-gcdt_news_famine-27
 # text = 伊赫洛夫说，当苏共政权派军队到农村持枪强行征收粮食和农民手中的食品后，饥荒立刻开始。
 1	伊赫洛夫	伊赫洛夫	NR	NR	_	2	nsubj	_	BeginSeg=Yes
 2	说	说	VV	VV	_	0	root	_	_
@@ -5965,7 +5969,7 @@
 25	开始	开始	VV	VV	_	2	ccomp	_	_
 26	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-28
+# sent_id = gcdt_news_famine-gcdt_news_famine-28
 # text = 今天乌克兰境内的很多俄语系居民就是在大饥荒之后被迁移到了空旷已无人烟的乌克兰农村，然后定居了下来。
 1	今天	今天	NT	NT	_	15	nmod:tmod	_	BeginSeg=Yes
 2	乌克兰	乌克兰	NR	NR	_	3	nmod:assmod	_	_
@@ -5996,7 +6000,7 @@
 27	下来	下来	VV	VV	_	25	advmod:rcomp	_	_
 28	。	。	PU	PU	_	15	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-29
+# sent_id = gcdt_news_famine-gcdt_news_famine-29
 # text = 乌克兰人口学家最近公布的研究结果显示，在大饥荒爆发后的头7个月，就有3百万人丧生，说明当时的饿死现象非常集中。
 1	乌克兰	乌克兰	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
 2	人口学家	人口学家	NN	NN	_	4	nsubj	_	_
@@ -6033,7 +6037,7 @@
 33	集中	集中	VV	VV	_	27	ccomp	_	_
 34	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-30
+# sent_id = gcdt_news_famine-gcdt_news_famine-30
 # text = 推动立法 否认大饥荒将承担责任
 1	推动	推动	VV	VV	_	0	root	_	BeginSeg=Yes
 2	立法	立法	NN	NN	_	1	dobj	_	_
@@ -6044,7 +6048,7 @@
 7	承担	承担	VV	VV	_	3	ccomp	_	_
 8	责任	责任	NN	NN	_	7	dobj	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-31
+# sent_id = gcdt_news_famine-gcdt_news_famine-31
 # text = 乌克兰总统波罗申科星期六说，乌克兰永远不会忘记那场可怕的犯罪行动的组织者，反人类犯罪行为永远没有时间期限。
 1	乌克兰	乌克兰	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
 2	总统	总统	NN	NN	_	3	appos	_	_
@@ -6076,7 +6080,7 @@
 28	期限	期限	NN	NN	_	26	dobj	_	_
 29	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-32
+# sent_id = gcdt_news_famine-gcdt_news_famine-32
 # text = 波罗申科在纪念活动上表示，乌克兰必须立法，如同否认纳粹屠杀犹太人将承担责任一样，那些否认乌克兰大饥荒的行为也应受到惩处，这样做能让后人牢记，苏共政权不但人为制造，更精心策划了大饥荒。
 1	波罗申科	波罗申科	NR	NR	_	6	nsubj	_	BeginSeg=Yes
 2	在	在	P	P	_	4	case	_	_
@@ -6132,7 +6136,7 @@
 52	饥荒	饥荒	NN	NN	_	49	dobj	_	_
 53	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-33
+# sent_id = gcdt_news_famine-gcdt_news_famine-33
 # text = 波罗申科9月份在纽约联合国大会发言时也强调，斯大林专制政权人为制造的大饥荒造成7百万到1千万乌克兰人丧生，他呼吁国际社会承认大饥荒是针对乌克兰人的民族灭绝行动。
 1	波罗申科	波罗申科	NR	NR	_	10	nsubj	_	BeginSeg=Yes
 2	9月份	9月份	NT	NT	_	10	nmod:tmod	_	_
@@ -6176,7 +6180,7 @@
 40	行动	行动	NN	NN	_	34	nmod:prep	_	_
 41	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-34
+# sent_id = gcdt_news_famine-gcdt_news_famine-34
 # text = 目前已经有20多个国家，美国的几个州都承认乌克兰大饥荒是民族灭绝行动。
 1	目前	目前	NT	NT	_	3	nmod:tmod	_	BeginSeg=Yes
 2	已经	已经	AD	AD	_	3	advmod	_	_
@@ -6201,7 +6205,7 @@
 21	行动	行动	NN	NN	_	14	ccomp	_	_
 22	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-35
+# sent_id = gcdt_news_famine-gcdt_news_famine-35
 # text = 乌克兰驻美国大使查伊拉说，乌克兰正积极推动美国国会通过有关决议。
 1	乌克兰	乌克兰	NR	NR	_	4	nmod	_	BeginSeg=Yes
 2	驻	驻	VV	VV	_	4	acl	_	_
@@ -6221,7 +6225,7 @@
 16	决议	决议	NN	NN	_	14	dobj	_	_
 17	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-36
+# sent_id = gcdt_news_famine-gcdt_news_famine-36
 # text = 与此同时，乌克兰总统和总理，以及其他政府高官也利用各种外交活动推动更多国家做出相应决定。
 1	与此同时	与此同时	AD	AD	_	13	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	13	punct	_	_
@@ -6249,14 +6253,14 @@
 24	决定	决定	NN	NN	_	22	dobj	_	_
 25	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-37
+# sent_id = gcdt_news_famine-gcdt_news_famine-37
 # text = 苏联噤声 俄罗斯沉默
 1	苏联	苏联	NR	NR	_	2	nsubj	_	BeginSeg=Yes
 2	噤声	噤声	VV	VV	_	0	root	_	_
 3	俄罗斯	俄罗斯	NR	NR	_	2	dobj	_	BeginSeg=Yes
 4	沉默	沉默	VV	VV	_	2	conj	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-38
+# sent_id = gcdt_news_famine-gcdt_news_famine-38
 # text = 乌克兰国家安全局今年2月公布的前苏联秘密警察的解密档案显示，苏共当局尽量对大饥荒议题噤声。
 1	乌克兰	乌克兰	NR	NR	_	3	nmod:assmod	_	BeginSeg=Yes
 2	国家	国家	NN	NN	_	3	compound:nn	_	_
@@ -6284,7 +6288,7 @@
 24	噤声	噤声	VV	VV	_	15	ccomp	_	_
 25	。	。	PU	PU	_	15	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-39
+# sent_id = gcdt_news_famine-gcdt_news_famine-39
 # text = 乌克兰克格勃负责人在1988年的一份秘密文件中说，国外反苏势力利用大饥荒对苏联从事意识形态上的破坏行动，苏联有关部门应对出国访问的文化和知识界人士事先“洗脑”，以便让他们能抵制针对苏联的负面声音。
 1	乌克兰	乌克兰	NR	NR	_	3	nmod:assmod	_	BeginSeg=Yes
 2	克格勃	克格勃	NR	NR	_	3	compound:nn	_	_
@@ -6344,7 +6348,7 @@
 56	声音	声音	NN	NN	_	51	dobj	_	_
 57	。	。	PU	PU	_	12	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-40
+# sent_id = gcdt_news_famine-gcdt_news_famine-40
 # text = 普京统治下的俄罗斯虽然当年同样也遭受过大饥荒，但俄罗斯目前对大饥荒议题基本保持沉默。
 1	普京	普京	NR	NR	_	2	nmod:assmod	_	BeginSeg=Yes
 2	统治	统治	NN	NN	_	5	nmod	_	_
@@ -6372,7 +6376,7 @@
 24	沉默	沉默	NN	NN	_	23	dobj	_	_
 25	。	。	PU	PU	_	23	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-41
+# sent_id = gcdt_news_famine-gcdt_news_famine-41
 # text = 俄罗斯甚至指责乌克兰把大饥荒议题政治化。
 1	俄罗斯	俄罗斯	NR	NR	_	3	nsubj	_	BeginSeg=Yes
 2	甚至	甚至	AD	AD	_	3	advmod	_	_
@@ -6385,7 +6389,7 @@
 9	政治化	政治化	VV	VV	_	3	ccomp	_	_
 10	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-42
+# sent_id = gcdt_news_famine-gcdt_news_famine-42
 # text = 不忘祖辈血泪历史
 1	不	不	AD	AD	_	2	neg	_	BeginSeg=Yes
 2	忘	忘	VV	VV	_	0	root	_	_
@@ -6393,7 +6397,7 @@
 4	血泪	血泪	NN	NN	_	5	compound:nn	_	_
 5	历史	历史	NN	NN	_	2	dobj	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-43
+# sent_id = gcdt_news_famine-gcdt_news_famine-43
 # text = 除了被民众推翻的亲俄罗斯的前总统亚努科维奇不太重视大饥荒议题外，乌克兰前总统库奇马，尤先科，以及现任总统波罗申科一直关注大饥荒的纪念活动。
 1	除了	除了	P	P	_	14	case	_	BeginSeg=Yes
 2	被	被	LB	LB	_	4	auxpass	_	BeginSeg=Yes
@@ -6434,7 +6438,7 @@
 37	活动	活动	NN	NN	_	32	dobj	_	_
 38	。	。	PU	PU	_	32	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-44
+# sent_id = gcdt_news_famine-gcdt_news_famine-44
 # text = 乌克兰多年前确定每年11月份的最后一个星期六是大饥荒的纪念日。
 1	乌克兰	乌克兰	NR	NR	_	5	nsubj	_	BeginSeg=Yes
 2	多	多	CD	CD	_	5	advmod:loc	_	_
@@ -6456,7 +6460,7 @@
 18	日	日	NN	NN	_	5	ccomp	_	_
 19	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-45
+# sent_id = gcdt_news_famine-gcdt_news_famine-45
 # text = 在每年的乌克兰大饥荒纪念日到来前，幸存者回忆过去，中小学生会参观有关的展览和纪念馆。
 1	在	在	P	P	_	7	case	_	BeginSeg=Yes
 2	每年	每年	JJ	JJ	_	6	amod	_	_
@@ -6484,7 +6488,7 @@
 24	纪念馆	纪念馆	NN	NN	_	19	dobj	_	_
 25	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-46
+# sent_id = gcdt_news_famine-gcdt_news_famine-46
 # text = 乌克兰今年还推出了一些新的大饥荒纪录影片。
 1	乌克兰	乌克兰	NR	NR	_	4	nsubj	_	BeginSeg=Yes
 2	今年	今年	NT	NT	_	4	nmod:tmod	_	_
@@ -6500,7 +6504,7 @@
 12	影片	影片	NN	NN	_	4	dobj	_	_
 13	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-47
+# sent_id = gcdt_news_famine-gcdt_news_famine-47
 # text = 一家乌克兰媒体说，许多乌克兰人都能讲述自己祖辈在大饥荒中所经历的血泪历史。
 1	一	一	CD	CD	_	4	nummod	_	BeginSeg=Yes
 2	家	家	M	M	_	1	mark:clf	_	_
@@ -6526,7 +6530,7 @@
 22	历史	历史	NN	NN	_	11	dobj	_	_
 23	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_news_famine-gcdt_news_famine-gcdt_news_famine-48
+# sent_id = gcdt_news_famine-gcdt_news_famine-48
 # text = 有欧洲粮仓之称的乌克兰在十月革命后的20年代和二战结束后的40年代也曾爆发过另外两场大饥荒，但30年代的饥荒规模最大。
 1	有	有	VE	VE	_	7	dep	_	BeginSeg=Yes
 2	欧洲	欧洲	NR	NR	_	3	nmod:assmod	_	_
@@ -6566,13 +6570,14 @@
 36	大	大	VA	VA	_	22	conj	_	_
 37	。	。	PU	PU	_	22	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-1
+# newdoc_id = gcdt_whow_hiking
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-1
 # text = 如何徒步旅行
 1	如何	如何	AD	AD	_	3	advmod	_	BeginSeg=Yes
 2	徒步	徒步	VV	VV	_	3	compound:vc	_	_
 3	旅行	旅行	VV	VV	_	0	root	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-2
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-2
 # text = 很少有什么事情是比到美丽的户外去徒步旅行更愉快的了。
 1	很少	很少	AD	AD	_	2	advmod	_	BeginSeg=Yes
 2	有	有	VE	VE	_	0	root	_	_
@@ -6593,7 +6598,7 @@
 17	了	了	SP	SP	_	18	discourse	_	_
 18	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-3
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-3
 # text = 太阳温暖地照耀在你的肩头，你置身于大自然之中，眼前会出现令人难以置信的景色——连小径都会成为真正的天堂。
 1	太阳	太阳	NN	NN	_	4	nsubj	_	BeginSeg=Yes
 2	温暖	温暖	VA	VA	_	4	advmod:dvp	_	_
@@ -6628,7 +6633,7 @@
 31	天堂	天堂	NN	NN	_	28	dobj	_	_
 32	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-4
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-4
 # text = 然而，如果没有做好正确的准备的话，徒步旅行也会很危险。
 1	然而	然而	AD	AD	_	16	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	16	punct	_	_
@@ -6648,7 +6653,7 @@
 16	危险	危险	VA	VA	_	0	root	_	_
 17	。	。	PU	PU	_	16	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-5
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-5
 # text = 为徒步旅行做好准备，知道一旦上路你要做什么，这些都是相当重要的。
 1	为	为	P	P	_	3	case	_	BeginSeg=Yes
 2	徒步	徒步	NN	NN	_	3	compound:nn	_	_
@@ -6672,12 +6677,12 @@
 20	的	的	SP	SP	_	19	discourse	_	_
 21	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-6
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-6
 # text = 警告：
 1	警告	警告	NN	NN	_	0	root	_	BeginSeg=Yes
 2	：	：	PU	PU	_	1	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-7
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-7
 # text = 由于新冠肺炎疫情的缘故，许多徒步路线已经关闭，以减缓疾病的传播。
 1	由于	由于	P	P	_	6	case	_	BeginSeg=Yes
 2	新冠	新冠	NR	NR	_	4	nmod:assmod	_	_
@@ -6699,7 +6704,7 @@
 18	传播	传播	NN	NN	_	15	dobj	_	_
 19	。	。	PU	PU	_	12	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-8
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-8
 # text = 上网查询你想去的远足路线是否开放，以及任何关于路线的最新资讯。
 1	上网	上网	VV	VV	_	2	compound:vc	_	BeginSeg=Yes
 2	查询	查询	VV	VV	_	0	root	_	_
@@ -6721,12 +6726,12 @@
 18	资讯	资讯	NN	NN	_	10	nmod:prep	_	_
 19	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-9
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-9
 # text = 部分1
 1	部分	部分	CD	CD	_	0	root	_	BeginSeg=Yes
 2	1	1	CD	CD	_	1	dep	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-10
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-10
 # text = 为徒步旅行做准备
 1	为	为	P	P	_	3	case	_	BeginSeg=Yes
 2	徒步	徒步	NN	NN	_	3	compound:nn	_	_
@@ -6734,7 +6739,7 @@
 4	做	做	VV	VV	_	0	root	_	_
 5	准备	准备	NN	NN	_	4	dobj	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-11
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-11
 # text = 1 购买当地旅游指南。
 1	1	1	CD	CD	_	2	dep	_	BeginSeg=Yes
 2	购买	购买	VV	VV	_	0	root	_	_
@@ -6743,7 +6748,7 @@
 5	指南	指南	NN	NN	_	2	dobj	_	_
 6	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-12
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-12
 # text = 要找到适合你的远足行程，远足旅行指南是必不可少的。
 1	要	要	VV	VV	_	2	xcomp	_	BeginSeg=Yes
 2	找到	找到	VV	VV	_	0	root	_	_
@@ -6761,7 +6766,7 @@
 14	的	的	SP	SP	_	13	discourse	_	_
 15	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-13
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-13
 # text = 你周围所有的自然景观都能在当地旅游指南中找到——从在不同季节远足时能看到的野花，到头顶飞过的鸟儿的种类。
 1	你	你	PN	PN	_	2	nmod:poss	_	BeginSeg=Yes
 2	周围	周围	NN	NN	_	6	dep	_	_
@@ -6798,7 +6803,7 @@
 33	种类	种类	NN	NN	_	14	dobj	_	_
 34	。	。	PU	PU	_	14	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-14
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-14
 # text = 你应该能在自己所在的当地书店、户外探险店、或是你所在区域中公园的游客中心买到当地远足指南。
 1	你	你	PN	PN	_	25	nsubj	_	BeginSeg=Yes
 2	应该	应该	VV	VV	_	25	aux:modal	_	_
@@ -6830,7 +6835,7 @@
 28	指南	指南	NN	NN	_	25	dobj	_	_
 29	。	。	PU	PU	_	25	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-15
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-15
 # text = 网上也能够买到。
 1	网上	网上	NN	NN	_	4	nsubj	_	BeginSeg=Yes
 2	也	也	AD	AD	_	4	advmod	_	_
@@ -6838,7 +6843,7 @@
 4	买到	买到	VV	VV	_	0	root	_	_
 5	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-16
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-16
 # text = 你也可以在网上搜索当地的徒步旅行。
 1	你	你	PN	PN	_	6	nsubj	_	BeginSeg=Yes
 2	也	也	AD	AD	_	6	advmod	_	_
@@ -6852,7 +6857,7 @@
 10	旅行	旅行	NN	NN	_	6	dobj	_	_
 11	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-17
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-17
 # text = 即使你住在像旧金山一样的中心城市，你也很可能会发现有一大堆网站详细介绍了你周边能够开展的很棒的远足。
 1	即使	即使	CS	CS	_	3	advmod	_	BeginSeg=Yes
 2	你	你	PN	PN	_	3	nsubj	_	_
@@ -6888,7 +6893,7 @@
 32	远足	远足	NN	NN	_	22	dobj	_	_
 33	。	。	PU	PU	_	16	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-18
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-18
 # text = （如果你确实住在旧金山，还是找一找马林海岬周边的吧！）
 1	（	（	PU	PU	_	9	punct	_	BeginSeg=Yes
 2	如果	如果	CS	CS	_	5	advmod	_	_
@@ -6908,12 +6913,12 @@
 16	吧！	吧！	NN	NN	_	9	dobj	_	_
 17	）	）	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-19
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-19
 # text = 专家提示
 1	专家	专家	NN	NN	_	2	nsubj	_	BeginSeg=Yes
 2	提示	提示	VV	VV	_	0	root	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-20
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-20
 # text = 尽管纸质地图作为安全防护措施很重要，但科技的发展让徒步旅行变得更轻松。
 1	尽管	尽管	CS	CS	_	9	advmod	_	BeginSeg=Yes
 2	纸质	纸质	NN	NN	_	3	compound:nn	_	_
@@ -6937,7 +6942,7 @@
 20	轻松	轻松	VA	VA	_	18	ccomp	_	_
 21	。	。	PU	PU	_	15	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-21
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-21
 # text = 徒步和背包旅行领队Thomas Churchill介绍说： “我建议尝试新的路线之前，从应用商店下载Topomaps+或类似的应用。
 1	徒步	徒步	NN	NN	_	5	conj	_	BeginSeg=Yes
 2	和	和	CC	CC	_	5	cc	_	_
@@ -6969,7 +6974,7 @@
 28	应用	应用	NN	NN	_	23	dobj	_	_
 29	。	。	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-22
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-22
 # text = 你可以通过这些应用下载任何路线的详细徒步地图，并且就算离线也能查看地图位置。”
 1	你	你	PN	PN	_	6	nsubj	_	BeginSeg=Yes
 2	可以	可以	VV	VV	_	6	aux:modal	_	_
@@ -6995,7 +7000,7 @@
 22	。	。	PU	PU	_	6	punct	_	_
 23	”	”	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-23
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-23
 # text = 2 从小型旅行开始。
 1	2	2	CD	CD	_	5	dep	_	BeginSeg=Yes
 2	从	从	P	P	_	4	case	_	_
@@ -7004,7 +7009,7 @@
 5	开始	开始	VV	VV	_	0	root	_	_
 6	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-24
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-24
 # text = 如果你第一次进行远足，你应当选一个相对简单的旅行。
 1	如果	如果	CS	CS	_	5	advmod	_	BeginSeg=Yes
 2	你	你	PN	PN	_	5	nsubj	_	_
@@ -7024,7 +7029,7 @@
 16	旅行	旅行	NN	NN	_	10	dobj	_	_
 17	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-25
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-25
 # text = 根据自己的能力，选一个距离在可控范围内的短日程旅行。
 1	根据	根据	P	P	_	4	case	_	BeginSeg=Yes
 2	自己	自己	PN	PN	_	4	nmod:assmod	_	_
@@ -7045,7 +7050,7 @@
 17	旅行	旅行	NN	NN	_	6	dobj	_	_
 18	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-26
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-26
 # text = 如果很少出门亲近大自然的话，你可能会坚持选择一段一到两公里的顺畅的旅途。
 1	如果	如果	CS	CS	_	4	advmod	_	BeginSeg=Yes
 2	很少	很少	AD	AD	_	4	advmod	_	_
@@ -7071,7 +7076,7 @@
 22	旅途	旅途	NN	NN	_	12	dobj	_	_
 23	。	。	PU	PU	_	11	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-27
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-27
 # text = 对于其他那些经常锻炼的人来说，简单的五公里往返旅程可能更符合你的风格——这完全取决于你自己。
 1	对于	对于	P	P	_	7	case	_	BeginSeg=Yes
 2	其他	其他	DT	DT	_	7	det	_	_
@@ -7102,7 +7107,7 @@
 27	自己	自己	PN	PN	_	25	dobj	_	_
 28	。	。	PU	PU	_	18	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-28
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-28
 # text = 第一次外出，只要不把自己弄得太累就好。-LSB-1-RSB-
 1	第一	第一	OD	OD	_	3	dep	_	BeginSeg=Yes
 2	次	次	M	M	_	1	mark:clf	_	_
@@ -7122,7 +7127,7 @@
 16	1	1	CD	CD	_	17	dep	_	_
 17	-RSB-	-RSB-	X	X	_	3	dep	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-29
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-29
 # text = 3 带大量水。
 1	3	3	CD	CD	_	2	dep	_	BeginSeg=Yes
 2	带	带	VV	VV	_	0	root	_	_
@@ -7130,7 +7135,7 @@
 4	水	水	NN	NN	_	2	dobj	_	_
 5	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-30
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-30
 # text = 在学习如何安全地进行徒步旅行中，很重要的一点是要带适量的水。
 1	在	在	P	P	_	6	case	_	BeginSeg=Yes
 2	学习	学习	NN	NN	_	6	nsubj	_	_
@@ -7155,7 +7160,7 @@
 21	水	水	NN	NN	_	18	dobj	_	_
 22	。	。	PU	PU	_	18	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-31
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-31
 # text = 保持水分充足相当重要，因此，在你出门远足之前，一定要喝大量的水。
 1	保持	保持	VV	VV	_	17	dep	_	BeginSeg=Yes
 2	水分	水分	NN	NN	_	1	dobj	_	_
@@ -7179,7 +7184,7 @@
 20	水	水	NN	NN	_	17	dobj	_	_
 21	。	。	PU	PU	_	17	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-32
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-32
 # text = 带上比你认为自己需要的更多的水——带过多的水比起没带够水而脱水要好多了。
 1	带上	带上	VV	VV	_	25	dep	_	BeginSeg=Yes
 2	比	比	P	P	_	3	case	_	BeginSeg=Yes
@@ -7210,7 +7215,7 @@
 27	了	了	SP	SP	_	28	discourse	_	_
 28	。	。	PU	PU	_	0	root	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-33
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-33
 # text = 告诉你一个不错的经验法则：每人每两小时需要摄入至少一升的水。-LSB-2-RSB-
 1	告诉	告诉	VV	VV	_	0	root	_	BeginSeg=Yes
 2	你	你	PN	PN	_	1	dobj	_	_
@@ -7238,7 +7243,7 @@
 24	2	2	CD	CD	_	25	dep	_	_
 25	-RSB-	-RSB-	NN	NN	_	16	dobj	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-34
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-34
 # text = 4 收拾好背包。
 1	4	4	CD	CD	_	2	dep	_	BeginSeg=Yes
 2	收拾	收拾	VV	VV	_	0	root	_	_
@@ -7246,7 +7251,7 @@
 4	背包	背包	NN	NN	_	2	dobj	_	_
 5	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-35
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-35
 # text = 根据远足的长短，你需要考虑带上不同的东西。
 1	根据	根据	P	P	_	4	case	_	BeginSeg=Yes
 2	远足	远足	NN	NN	_	4	nmod:assmod	_	_
@@ -7262,7 +7267,7 @@
 12	东西	东西	NN	NN	_	9	dobj	_	_
 13	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-36
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-36
 # text = 不过，通常来说，不论旅途的长短，你都需要带上一些能够补充能量的零食（带上什锦干果肯定不会错）、一把小刀（瑞士军刀是很好的选择）、指南针以及地图、手电筒、火柴或是打火机，以及额外的衣物（以防天气突变。）-LSB-3-RSB-
 1	不过	不过	AD	AD	_	13	advmod	_	BeginSeg=Yes
 2	，	，	PU	PU	_	13	punct	_	_
@@ -7330,7 +7335,7 @@
 64	3	3	CD	CD	_	13	dep	_	_
 65	-RSB-	-RSB-	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-37
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-37
 # text = 你也可以考虑带上急救箱、指南针、望远镜等等。
 1	你	你	PN	PN	_	4	nsubj	_	BeginSeg=Yes
 2	也	也	AD	AD	_	4	advmod	_	_
@@ -7345,7 +7350,7 @@
 11	等等	等等	ETC	ETC	_	10	etc	_	_
 12	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-38
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-38
 # text = 只要记住，不要让自己被不必要的东西压垮。
 1	只要	只要	CS	CS	_	2	advmod	_	BeginSeg=Yes
 2	记住	记住	VV	VV	_	6	dep	_	_
@@ -7362,7 +7367,7 @@
 13	压垮	压垮	VV	VV	_	6	ccomp	_	_
 14	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-39
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-39
 # text = 但是要常备水。
 1	但是	但是	AD	AD	_	3	advmod	_	BeginSeg=Yes
 2	要	要	VV	VV	_	3	xcomp	_	_
@@ -7370,7 +7375,7 @@
 4	水	水	NN	NN	_	3	dobj	_	_
 5	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-40
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-40
 # text = 如果你要在新冠肺炎期间去徒步旅行，一定要戴好口罩；只要路上有其他人同行，你就最好戴上口罩。
 1	如果	如果	CS	CS	_	10	advmod	_	BeginSeg=Yes
 2	你	你	PN	PN	_	10	nsubj	_	_
@@ -7402,7 +7407,7 @@
 28	口罩	口罩	NN	NN	_	27	dobj	_	_
 29	。	。	PU	PU	_	27	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-41
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-41
 # text = 5 避免被太阳晒伤。
 1	5	5	CD	CD	_	2	dep	_	BeginSeg=Yes
 2	避免	避免	VV	VV	_	0	root	_	_
@@ -7411,7 +7416,7 @@
 5	晒伤	晒伤	VV	VV	_	2	ccomp	_	_
 6	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-42
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-42
 # text = 除了装在包里的其他东西，你还需要带上能让你免受晒伤的物品。
 1	除了	除了	P	P	_	8	case	_	BeginSeg=Yes
 2	装	装	VV	VV	_	8	acl	_	BeginSeg=Yes
@@ -7435,7 +7440,7 @@
 20	物品	物品	NN	NN	_	13	dobj	_	BeginSeg=Yes
 21	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-43
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-43
 # text = 包括防晒霜、帽子、太阳镜。
 1	包括	包括	VV	VV	_	0	root	_	BeginSeg=Yes
 2	防晒霜	防晒霜	NN	NN	_	6	conj	_	_
@@ -7445,7 +7450,7 @@
 6	太阳镜	太阳镜	NN	NN	_	1	dobj	_	_
 7	。	。	PU	PU	_	1	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-44
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-44
 # text = 中了太阳毒或者得了皮肤癌可不是闹着玩的，所以，尽可能地让自己免受太阳的强烈辐射。
 1	中	中	VV	VV	_	20	dep	_	BeginSeg=Yes
 2	了	了	AS	AS	_	1	aux:asp	_	_
@@ -7475,7 +7480,7 @@
 26	辐射	辐射	NN	NN	_	22	dobj	_	_
 27	。	。	PU	PU	_	20	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-45
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-45
 # text = 6 穿合适的鞋。
 1	6	6	CD	CD	_	2	dep	_	BeginSeg=Yes
 2	穿	穿	VV	VV	_	0	root	_	_
@@ -7484,7 +7489,7 @@
 5	鞋	鞋	NN	NN	_	2	dobj	_	_
 6	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-46
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-46
 # text = 穿上便于走路的鞋很重要。
 1	穿上	穿上	VV	VV	_	7	dep	_	BeginSeg=Yes
 2	便于	便于	VV	VV	_	5	acl	_	BeginSeg=Yes
@@ -7495,7 +7500,7 @@
 7	重要	重要	VA	VA	_	0	root	_	_
 8	。	。	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-47
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-47
 # text = 别穿人字拖，穿系带鞋，这样能更好地支撑脚底。
 1	别	别	AD	AD	_	2	advmod	_	BeginSeg=Yes
 2	穿	穿	VV	VV	_	0	root	_	_
@@ -7513,7 +7518,7 @@
 14	脚底	脚底	NN	NN	_	13	dobj	_	_
 15	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-48
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-48
 # text = 如果可以的话，穿徒步鞋或是越野鞋——面对崎岖的地形，这些鞋是最好的选择。
 1	如果	如果	CS	CS	_	2	advmod	_	BeginSeg=Yes
 2	可以	可以	VV	VV	_	21	dep	_	_
@@ -7538,7 +7543,7 @@
 21	选择	选择	NN	NN	_	0	root	_	_
 22	。	。	PU	PU	_	21	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-49
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-49
 # text = 如果你有一双以前从来没穿过的新鞋，在出行之前，试着让它跟你的脚磨合好。
 1	如果	如果	CS	CS	_	3	advmod	_	BeginSeg=Yes
 2	你	你	PN	PN	_	3	dep	_	_
@@ -7569,7 +7574,7 @@
 27	好	好	VA	VA	_	26	advmod:rcomp	_	_
 28	。	。	PU	PU	_	18	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-50
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-50
 # text = 否则的话，你的脚上可能会被磨出讨厌的水泡。
 1	否则	否则	AD	AD	_	11	advmod	_	BeginSeg=Yes
 2	的话	的话	SP	SP	_	11	dep	_	_
@@ -7587,7 +7592,7 @@
 14	水泡	水泡	NN	NN	_	11	dobj	_	_
 15	。	。	PU	PU	_	11	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-51
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-51
 # text = 7 叫上几个朋友或是家人跟你一起。
 1	7	7	CD	CD	_	2	dep	_	BeginSeg=Yes
 2	叫上	叫上	VV	VV	_	0	root	_	_
@@ -7601,7 +7606,7 @@
 10	一起	一起	AD	AD	_	2	ccomp	_	_
 11	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-52
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-52
 # text = 初级者在能够独自出行之前，最好是抱团，或者跟有经验的远足者们在一起。
 1	初级者	初级者	NN	NN	_	10	nsubj	_	BeginSeg=Yes
 2	在	在	P	P	_	5	case	_	BeginSeg=Yes
@@ -7624,7 +7629,7 @@
 19	一起	一起	AD	AD	_	18	advmod	_	_
 20	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-53
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-53
 # text = 这是因为相比跟别人在一起，如果你一个人远足的时候发生了什么事故，你将更难获得帮助。
 1	这	这	PN	PN	_	2	nsubj	_	BeginSeg=Yes
 2	是	是	VC	VC	_	0	root	_	_
@@ -7656,7 +7661,7 @@
 28	帮助	帮助	NN	NN	_	27	dobj	_	_
 29	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-54
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-54
 # text = 计划好徒步旅行的行程后，叫上你的朋友一块儿，这不仅可以增添乐趣，也是为了安全起见。-LSB-4-RSB-
 1	计划	计划	VV	VV	_	9	dep	_	BeginSeg=Yes
 2	好	好	AD	AD	_	4	advmod	_	_
@@ -7688,7 +7693,7 @@
 28	4	4	CD	CD	_	29	dep	_	_
 29	-RSB-	-RSB-	NN	NN	_	9	dep	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-55
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-55
 # text = 如果你决定一个人远足，至少让其他人知道你要去哪儿，以及你预计什么时候回来。
 1	如果	如果	CS	CS	_	3	advmod	_	BeginSeg=Yes
 2	你	你	PN	PN	_	3	nsubj	_	_
@@ -7716,7 +7721,7 @@
 24	回来	回来	VV	VV	_	21	ccomp	_	_
 25	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-56
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-56
 # text = 告诉他们当你结束旅行后，你会联系他们。
 1	告诉	告诉	VV	VV	_	0	root	_	BeginSeg=Yes
 2	他们	他	PN	PN	_	1	dobj	_	_
@@ -7732,7 +7737,7 @@
 12	他们	他	PN	PN	_	11	dobj	_	_
 13	。	。	PU	PU	_	11	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-57
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-57
 # text = 千万别忘了回来后要联系他们，否则他们可能报警找你。
 1	千万	千万	AD	AD	_	8	advmod	_	BeginSeg=Yes
 2	别	别	AD	AD	_	3	advmod	_	_
@@ -7752,7 +7757,7 @@
 16	你	你	PN	PN	_	15	dobj	_	_
 17	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-58
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-58
 # text = 8 了解遇到紧急情况要做什么。
 1	8	8	CD	CD	_	2	dep	_	BeginSeg=Yes
 2	了解	了解	NN	NN	_	3	nsubj	_	_
@@ -7764,7 +7769,7 @@
 8	什么	什么	PN	PN	_	7	dobj	_	_
 9	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-59
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-59
 # text = 虽然你的旅程通常会进行得相当顺利，但是也要时常为未知的事物做准备。
 1	虽然	虽然	CS	CS	_	10	advmod	_	BeginSeg=Yes
 2	你	你	PN	PN	_	4	nmod:assmod	_	_
@@ -7789,7 +7794,7 @@
 21	准备	准备	NN	NN	_	20	dobj	_	_
 22	。	。	PU	PU	_	20	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-60
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-60
 # text = 要随身携带急救箱，还有手机。
 1	要	要	VV	VV	_	3	xcomp	_	BeginSeg=Yes
 2	随身	随身	AD	AD	_	3	advmod	_	_
@@ -7800,7 +7805,7 @@
 7	手机	手机	NN	NN	_	3	dobj	_	_
 8	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-61
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-61
 # text = 时刻准备好，虽然，你可能根本不会到森林里去。
 1	时刻	时刻	NN	NN	_	2	nsubj	_	BeginSeg=Yes
 2	准备	准备	VV	VV	_	0	root	_	_
@@ -7819,7 +7824,7 @@
 15	去	去	VV	VV	_	12	conj	_	_
 16	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-62
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-62
 # text = 更多关于野外生存的指导，请参见“如何在野外生存”。
 1	更多	更多	CD	CD	_	6	dep	_	BeginSeg=Yes
 2	关于	关于	P	P	_	4	case	_	_
@@ -7838,17 +7843,17 @@
 15	”	”	PU	PU	_	14	punct	_	_
 16	。	。	PU	PU	_	9	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-63
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-63
 # text = 部分2
 1	部分	部分	NN	NN	_	0	root	_	BeginSeg=Yes
 2	2	2	CD	CD	_	1	dep	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-64
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-64
 # text = 上路后
 1	上路	上路	VV	VV	_	0	root	_	BeginSeg=Yes
 2	后	后	LC	LC	_	1	case	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-65
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-65
 # text = 1 从起点标志出发。
 1	1	1	CD	CD	_	5	dep	_	BeginSeg=Yes
 2	从	从	P	P	_	4	case	_	_
@@ -7857,7 +7862,7 @@
 5	出发	出发	VV	VV	_	0	root	_	_
 6	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-66
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-66
 # text = 每条路都有一个起始标志——这个标志通常能表示出路名以及到尽头的距离（或是环路的长度。）
 1	每	每	DT	DT	_	3	det	_	BeginSeg=Yes
 2	条	条	M	M	_	1	mark:clf	_	_
@@ -7890,7 +7895,7 @@
 29	。	。	PU	PU	_	5	punct	_	_
 30	）	）	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-67
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-67
 # text = 其他像在国家公园内的那些起点标志，会有一张显示所有与你所在的路相连路径的地图，地图上还会标志出徒步旅行时需要留神的其他各种事物。
 1	其他	其他	DT	DT	_	10	det	_	BeginSeg=Yes
 2	像	像	P	P	_	10	case	_	BeginSeg=Yes
@@ -7938,7 +7943,7 @@
 44	事物	事物	NN	NN	_	33	dobj	_	_
 45	。	。	PU	PU	_	13	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-68
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-68
 # text = 如果你找不到起始路标，可能你没有在正确的位置。
 1	如果	如果	CS	CS	_	3	advmod	_	BeginSeg=Yes
 2	你	你	PN	PN	_	3	nsubj	_	_
@@ -7956,7 +7961,7 @@
 14	位置	位置	NN	NN	_	11	dobj	_	_
 15	。	。	PU	PU	_	11	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-69
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-69
 # text = 向别人打听一下方向。
 1	向	向	P	P	_	2	case	_	BeginSeg=Yes
 2	别人	别人	NN	NN	_	3	nmod:prep	_	_
@@ -7965,7 +7970,7 @@
 5	方向	方向	NN	NN	_	3	dobj	_	_
 6	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-70
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-70
 # text = 有些其他路可能没有路标——这一情况会在你的旅行指南上提到。
 1	有些	有些	DT	DT	_	3	det	_	BeginSeg=Yes
 2	其他	其他	DT	DT	_	3	det	_	_
@@ -7987,14 +7992,14 @@
 18	提到	提到	VV	VV	_	5	conj	_	_
 19	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-71
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-71
 # text = 2 留意路标。
 1	2	2	CD	CD	_	2	dep	_	BeginSeg=Yes
 2	留意	留意	VV	VV	_	0	root	_	_
 3	路标	路标	NN	NN	_	2	dobj	_	_
 4	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-72
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-72
 # text = 当你在户外远足时，势必会碰到交叉路口。
 1	当	当	P	P	_	5	case	_	BeginSeg=Yes
 2	你	你	PN	PN	_	5	nsubj	_	_
@@ -8010,7 +8015,7 @@
 12	路口	路口	NN	NN	_	10	dobj	_	_
 13	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-73
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-73
 # text = 请依照路标上标的路名前往你要去的地方。
 1	请	请	VV	VV	_	8	xcomp	_	BeginSeg=Yes
 2	依照	依照	P	P	_	7	case	_	BeginSeg=Yes
@@ -8027,7 +8032,7 @@
 13	地方	地方	NN	NN	_	8	dobj	_	BeginSeg=Yes
 14	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-74
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-74
 # text = 如果没有路标（这是比较罕见的情况），在地图上查一下，或是找找周围有没有堆石界标。
 1	如果	如果	CS	CS	_	2	advmod	_	BeginSeg=Yes
 2	没有	没有	VE	VE	_	16	dep	_	_
@@ -8056,7 +8061,7 @@
 25	界标	界标	NN	NN	_	23	dobj	_	_
 26	。	。	PU	PU	_	16	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-75
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-75
 # text = 堆石界标是用以给远足者们指引正确道路的石堆。
 1	堆石	堆石	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	界标	界标	NN	NN	_	11	nsubj	_	_
@@ -8071,7 +8076,7 @@
 11	石堆	石堆	NN	NN	_	0	root	_	BeginSeg=Yes
 12	。	。	PU	PU	_	11	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-76
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-76
 # text = 你可能会发现从路边岔开的小岔路。
 1	你	你	PN	PN	_	4	nsubj	_	BeginSeg=Yes
 2	可能	可能	AD	AD	_	4	advmod	_	_
@@ -8085,7 +8090,7 @@
 10	岔路	岔路	NN	NN	_	4	dobj	_	_
 11	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-77
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-77
 # text = 不要沿着这些岔路走——它们往往是鹿或是森林中其他生物的小道，它们会把你带到未知的地方去。
 1	不	不	AD	AD	_	6	neg	_	BeginSeg=Yes
 2	要	要	VV	VV	_	6	xcomp	_	_
@@ -8118,7 +8123,7 @@
 29	去	去	VV	VV	_	25	conj	_	_
 30	。	。	PU	PU	_	6	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-78
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-78
 # text = 公园管路员以及道路维修员通常会把倒下的树枝拖到路口，来挡住这些动物踩出的小路。
 1	公园	公园	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	管路员	管路员	NN	NN	_	5	conj	_	_
@@ -8143,7 +8148,7 @@
 21	小路	小路	NN	NN	_	16	dobj	_	BeginSeg=Yes
 22	。	。	PU	PU	_	12	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-79
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-79
 # text = 3 遵循所有标志。
 1	3	3	CD	CD	_	2	dep	_	BeginSeg=Yes
 2	遵循	遵循	VV	VV	_	0	root	_	_
@@ -8151,7 +8156,7 @@
 4	标志	标志	NN	NN	_	2	dobj	_	_
 5	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-80
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-80
 # text = 如果你看到一个写着“离开此路”的标牌——猜对了，你应该离开。
 1	如果	如果	CS	CS	_	3	advmod	_	BeginSeg=Yes
 2	你	你	PN	PN	_	3	nsubj	_	_
@@ -8176,7 +8181,7 @@
 21	离开	离开	VV	VV	_	0	root	_	_
 22	。	。	PU	PU	_	21	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-81
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-81
 # text = 这个标牌之所以在这儿，很可能是因为这一区域的植被正在恢复生长。
 1	这	这	DT	DT	_	3	det	_	BeginSeg=Yes
 2	个	个	M	M	_	1	mark:clf	_	_
@@ -8199,7 +8204,7 @@
 19	生长	生长	NN	NN	_	18	dobj	_	_
 20	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-82
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-82
 # text = 如果太多人进入这一区域而非其他道路的话，植被可能被严重破坏。-LSB-5-RSB-
 1	如果	如果	CS	CS	_	5	advmod	_	BeginSeg=Yes
 2	太	太	AD	AD	_	3	advmod	_	_
@@ -8225,7 +8230,7 @@
 22	5	5	CD	CD	_	23	dep	_	_
 23	-RSB-	-RSB-	NN	NN	_	19	dep	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-83
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-83
 # text = 你也可能看到写着不要给野生动物喂食的标志。
 1	你	你	PN	PN	_	4	nsubj	_	BeginSeg=Yes
 2	也	也	AD	AD	_	4	advmod	_	_
@@ -8243,7 +8248,7 @@
 14	标志	标志	NN	NN	_	5	dobj	_	BeginSeg=Yes
 15	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-84
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-84
 # text = 这是一个很好的建议，因为这一行为不仅可能伤到动物，还会伤到你自己。
 1	这	这	PN	PN	_	8	nsubj	_	BeginSeg=Yes
 2	是	是	VC	VC	_	8	cop	_	_
@@ -8270,7 +8275,7 @@
 23	自己	自己	PN	PN	_	21	dobj	_	_
 24	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-85
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-85
 # text = 千万不要给野生动物喂食——无论它们看起来有多可爱。
 1	千万	千万	AD	AD	_	7	advmod	_	BeginSeg=Yes
 2	不	不	AD	AD	_	7	neg	_	_
@@ -8288,7 +8293,7 @@
 14	可爱	可爱	VA	VA	_	12	ccomp	_	_
 15	。	。	PU	PU	_	7	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-86
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-86
 # text = 4 休息一下然后补充水分。
 1	4	4	CD	CD	_	2	dep	_	BeginSeg=Yes
 2	休息	休息	VV	VV	_	0	root	_	_
@@ -8298,7 +8303,7 @@
 6	水分	水分	NN	NN	_	5	dobj	_	_
 7	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-87
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-87
 # text = 徒步旅行不是比赛，而是一次可以根据你自己的速度来调整的活动。
 1	徒步	徒步	NN	NN	_	2	compound:nn	_	BeginSeg=Yes
 2	旅行	旅行	NN	NN	_	5	nsubj	_	_
@@ -8322,7 +8327,7 @@
 20	活动	活动	NN	NN	_	5	conj	_	BeginSeg=Yes
 21	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-88
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-88
 # text = 如果你觉得累了，别担心，放慢速度吧。
 1	如果	如果	CS	CS	_	3	advmod	_	BeginSeg=Yes
 2	你	你	PN	PN	_	3	nsubj	_	_
@@ -8338,7 +8343,7 @@
 12	吧	吧	SP	SP	_	10	discourse	_	_
 13	。	。	PU	PU	_	8	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-89
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-89
 # text = 无论何时，当你觉得旅行中需要喝水或是坐下来休息时，一定就要这么做。-LSB-6-RSB-
 1	无论	无论	AD	AD	_	21	advmod	_	BeginSeg=Yes
 2	何时	何时	AD	AD	_	21	dep	_	_
@@ -8366,7 +8371,7 @@
 24	6	6	CD	CD	_	21	dep	_	_
 25	-RSB-	-RSB-	PU	PU	_	21	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-90
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-90
 # text = 5 留心可能出现在脚底下的小动物。
 1	5	5	CD	CD	_	2	dep	_	BeginSeg=Yes
 2	留心	留心	NN	NN	_	4	nsubj	_	_
@@ -8380,7 +8385,7 @@
 10	动物	动物	NN	NN	_	4	dobj	_	_
 11	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-91
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-91
 # text = 要知道，在你徒步旅行的过程中，你会经过许许多多不同生物的家——小到最小的虫子，大到熊。
 1	要	要	VV	VV	_	2	xcomp	_	BeginSeg=Yes
 2	知道	知道	VV	VV	_	0	root	_	_
@@ -8414,7 +8419,7 @@
 30	熊	熊	NN	NN	_	29	dobj	_	_
 31	。	。	PU	PU	_	2	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-92
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-92
 # text = 永远不要试图接近或者跟野生动物进行互动，因为——毕竟它们是野生的啊。
 1	永远	永远	AD	AD	_	4	advmod	_	BeginSeg=Yes
 2	不	不	AD	AD	_	4	neg	_	_
@@ -8438,7 +8443,7 @@
 20	啊	啊	SP	SP	_	14	discourse	_	_
 21	。	。	PU	PU	_	4	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-93
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-93
 # text = 尤其要小心蛇。
 1	尤其	尤其	AD	AD	_	3	advmod	_	BeginSeg=Yes
 2	要	要	VV	VV	_	3	xcomp	_	_
@@ -8446,7 +8451,7 @@
 4	蛇	蛇	NN	NN	_	3	dobj	_	_
 5	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-94
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-94
 # text = 当走在岩石嶙峋的地方时，要小心，这是常见的蛇群居住地——踩到蛇可从来不是什么愉快的经历。
 1	当	当	P	P	_	2	case	_	BeginSeg=Yes
 2	走	走	VV	VV	_	11	nmod:prep	_	_
@@ -8479,7 +8484,7 @@
 29	经历	经历	NN	NN	_	18	conj	_	_
 30	。	。	PU	PU	_	11	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-95
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-95
 # text = 6 只留下脚印，只带走照片。
 1	6	6	CD	CD	_	3	nsubj	_	BeginSeg=Yes
 2	只	只	M	M	_	1	mark:clf	_	_
@@ -8491,7 +8496,7 @@
 8	照片	照片	NN	NN	_	7	dobj	_	_
 9	。	。	PU	PU	_	3	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-96
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-96
 # text = 这是我们年轻时就被教导的话，现今它仍是正确的。
 1	这	这	PN	PN	_	10	nsubj	_	BeginSeg=Yes
 2	是	是	VC	VC	_	10	cop	_	_
@@ -8512,7 +8517,7 @@
 17	的	的	SP	SP	_	16	discourse	_	_
 18	。	。	PU	PU	_	10	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-97
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-97
 # text = 荒野是一个必须被尊重的美丽的地方。
 1	荒野	荒野	NN	NN	_	11	nsubj	_	BeginSeg=Yes
 2	是	是	VC	VC	_	11	cop	_	_
@@ -8527,7 +8532,7 @@
 11	地方	地方	NN	NN	_	0	root	_	_
 12	。	。	PU	PU	_	11	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-98
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-98
 # text = 不要把垃圾丢在地上，也不要让爆破般的音乐或是声嘶力竭的说话声打破荒野的宁静。
 1	不	不	AD	AD	_	5	neg	_	BeginSeg=Yes
 2	要	要	VV	VV	_	5	xcomp	_	_
@@ -8555,7 +8560,7 @@
 24	宁静	宁静	NN	NN	_	21	dobj	_	_
 25	。	。	PU	PU	_	5	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-99
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-99
 # text = 当你离开时，也不要带走这里的石头，植物或是动物——如果你这样做了，你会扰乱你周边美丽的生态系统。
 1	当	当	P	P	_	3	case	_	BeginSeg=Yes
 2	你	你	PN	PN	_	3	nsubj	_	_
@@ -8591,7 +8596,7 @@
 32	系统	系统	NN	NN	_	26	dobj	_	_
 33	。	。	PU	PU	_	26	punct	_	_
 
-# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-gcdt_whow_hiking-100
+# sent_id = gcdt_whow_hiking-gcdt_whow_hiking-100
 # text = 要成为一名真正的徒步旅行者，必须尊重自然。-LSB-7-RSB-
 1	要	要	VV	VV	_	2	xcomp	_	BeginSeg=Yes
 2	成为	成为	VV	VV	_	0	root	_	_

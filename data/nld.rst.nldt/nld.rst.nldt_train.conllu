@@ -1,4 +1,4 @@
-# newdoc id = AD01_Andre
+# newdoc_id = AD01_Andre
 # sent_id = AD01_Andre-1
 # text = Verleidelijk is het wel .
 1	Verleidelijk	verleidelijk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	_	BeginSeg=Yes
@@ -342,7 +342,7 @@
 7	beperkt	beperken	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	_	_
 8	.	.	PUNCT	LET	_	7	punct	_	_
 
-# newdoc id = AD02_Atkins
+# newdoc_id = AD02_Atkins
 # sent_id = AD02_Atkins-1
 # text = Nog betere smaken , nog meer keuze en de beste ingrediënten met het beste resultaat voor je figuur Atkins is vernieuwd , verbeterd en hoe !
 1	Nog	nog	ADV	BW	_	3	amod	_	BeginSeg=Yes
@@ -888,7 +888,7 @@
 7	Albert	Albert	PROPN	SPEC|deeleigen	_	3	nmod	_	_
 8	Heijn	Heijn	PROPN	SPEC|deeleigen	_	7	flat	_	_
 
-# newdoc id = AD03_Campina
+# newdoc_id = AD03_Campina
 # sent_id = AD03_Campina-1
 # text = Maak elke dag kans op een kookworkshop met Crème Culinair van Campina .
 1	Maak	maken	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -1285,7 +1285,7 @@
 12	Heijn	Heijn	PROPN	SPEC|deeleigen	_	11	flat	_	_
 13	.	.	PUNCT	LET	_	2	punct	_	_
 
-# newdoc id = AD04_BOSE
+# newdoc_id = AD04_BOSE
 # sent_id = AD04_BOSE-1
 # text = Hightech kan eenvoudig zijn .
 1	Hightech	hightech	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	nsubj	_	BeginSeg=Yes
@@ -1661,7 +1661,7 @@
 13	bezoek	bezoek	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	11	conj	_	_
 14	www.bose321.nl	www.bose321.nl	NUM	TW|hoofd|vrij	_	13	appos	_	_
 
-# newdoc id = AD05_Ford
+# newdoc_id = AD05_Ford
 # sent_id = AD05_Ford-1
 # text = Nu met 4.450 , voordeel .
 1	Nu	nu	ADV	BW	_	0	root	_	BeginSeg=Yes
@@ -1933,7 +1933,7 @@
 12	komen	komen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	6	acl	_	_
 13	.	.	PUNCT	LET	_	1	punct	_	_
 
-# newdoc id = AD06_Triodos
+# newdoc_id = AD06_Triodos
 # sent_id = AD06_Triodos-1
 # text = Geld maakt gelukkig
 1	Geld	geld	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	nsubj	_	BeginSeg=Yes
@@ -2208,7 +2208,7 @@
 2	doen	doen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	0	root	_	_
 3	!	!	PUNCT	LET	_	2	punct	_	_
 
-# newdoc id = AD07_ASN
+# newdoc_id = AD07_ASN
 # sent_id = AD07_ASN-1
 # text = Rente tot 3,5% * plus € 10,- wereldwinkel cadeaubon Nieuw !
 1	Rente	rente	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	_	BeginSeg=Yes
@@ -2548,7 +2548,7 @@
 13	toepassing	toepassing	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	_	_
 14	.	.	PUNCT	LET	_	13	punct	_	_
 
-# newdoc id = AD08_ABN_AMRO
+# newdoc_id = AD08_ABN_AMRO
 # sent_id = AD08_ABN_AMRO-1
 # text = Met de Buitenland Hypotheek van ABN AMRO hebt u het beste van twee werelden Alsof u nu al thuis bent in Spanje
 1	Met	met	ADP	VZ|init	_	3	case	_	BeginSeg=Yes
@@ -2743,7 +2743,7 @@
 6	op	op	ADP	VZ|init	_	7	case	_	_
 7	www.abnamro.nl/buitenlandhypotheek	www.abnamro.nl/buitenlandhypotheek	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	obl	_	_
 
-# newdoc id = AD09_Robijn
+# newdoc_id = AD09_Robijn
 # sent_id = AD09_Robijn-1
 # text = Robijn Crème wasverzachter zoveel meer dan alleen verwennerij !
 1	Robijn	robijn	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	_	BeginSeg=Yes
@@ -3121,7 +3121,7 @@
 15	opnieuw	opnieuw	ADV	BW	_	10	advmod	_	_
 16	!	!	PUNCT	LET	_	1	punct	_	_
 
-# newdoc id = AD10_DeBoed
+# newdoc_id = AD10_DeBoed
 # sent_id = AD10_DeBoed-1
 # text = Maïsscharreleieren van de Boed ?
 1	Maïsscharreleieren	maïsscharreleier	NOUN	N|soort|mv|basis	Number=Plur	0	root	_	BeginSeg=Yes
@@ -3337,7 +3337,7 @@
 14	Fairfood	Fairfood	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	10	nmod	_	_
 15	.	.	PUNCT	LET	_	1	punct	_	_
 
-# newdoc id = AD11_NRC_e-paper
+# newdoc_id = AD11_NRC_e-paper
 # sent_id = AD11_NRC_e-paper-1
 # text = NRC Handelsblad verschijnt voortaan waar u verschijnt
 1	NRC	NRC	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	nsubj	_	BeginSeg=Yes
@@ -3700,7 +3700,7 @@
 39	,	,	PUNCT	LET	_	40	punct	_	_
 40	Mobipocket	Mobipocket	PROPN	N|eigen|ev|basis|genus|stan	Gender=Com,Neut|Number=Sing	36	conj	_	_
 
-# newdoc id = AD12_African_holidays
+# newdoc_id = AD12_African_holidays
 # sent_id = AD12_African_holidays-1
 # text = Safari in Afrika
 1	Safari	Safari	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Neut|Number=Sing	0	root	_	BeginSeg=Yes
@@ -3937,7 +3937,7 @@
 11	op	op	ADP	VZ|init	_	12	case	_	_
 12	www.africanholidays.nl	www.africanholidays.nl	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	obl	_	_
 
-# newdoc id = AD13_Arke
+# newdoc_id = AD13_Arke
 # sent_id = AD13_Arke-1
 # text = LIVE THE FESTIVAL LOVE THE PEOPLE HONG KONG LIVE IT .
 1	LIVE	LIVE	PROPN	SPEC|deeleigen	_	0	root	_	BeginSeg=Yes
@@ -4317,7 +4317,7 @@
 16	Tourism	Tourism	PROPN	SPEC|deeleigen	_	15	flat	_	_
 17	Board	Board	PROPN	SPEC|deeleigen	_	15	flat	_	_
 
-# newdoc id = AD14_CarpeDiem
+# newdoc_id = AD14_CarpeDiem
 # sent_id = AD14_CarpeDiem-1
 # text = CARPE DIEM 100 % NATUURLIJK & goed voor je weerstand Carpe Diem Kombucha is 100 % natuurlijk , goed voor de weerstand en bovenal een heerlijke gezonde frisdrank voor tussendoor , bij het ontbijt , de lunch of het diner .
 1	CARPE	CARPE	PROPN	SPEC|deeleigen	_	16	nsubj	_	BeginSeg=Yes
@@ -4484,7 +4484,7 @@
 2	lekker	lekker	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	_	_
 3	.	.	PUNCT	LET	_	2	punct	_	_
 
-# newdoc id = EE01_Zon
+# newdoc_id = EE01_Zon
 # sent_id = EE01_Zon-1
 # text = De Zon
 1	De	de	DET	LID|bep|stan|rest	Definite=Def	0	root	_	BeginSeg=Yes
@@ -4852,7 +4852,7 @@
 10	zien	zien	VERB	WW|inf|vrij|zonder	VerbForm=Inf	0	root	_	_
 11	.	.	PUNCT	LET	_	10	punct	_	_
 
-# newdoc id = EE02_Mercurius
+# newdoc_id = EE02_Mercurius
 # sent_id = EE02_Mercurius-1
 # text = Mercurius Mercurius is de binnenste planeet in het zonnestelsel .
 1	Mercurius	Mercurius	PROPN	SPEC|deeleigen	_	6	nsubj	_	BeginSeg=Yes
@@ -5227,7 +5227,7 @@
 18	ontstaan	ontstaan	VERB	WW|inf|vrij|zonder	VerbForm=Inf	6	advcl	_	_
 19	.	.	PUNCT	LET	_	7	punct	_	_
 
-# newdoc id = EE03_Venus
+# newdoc_id = EE03_Venus
 # sent_id = EE03_Venus-1
 # text = Venus Van alle planeten is Venus de meest nabije buur van onze Aarde .
 1	Venus	Venus	PROPN	SPEC|deeleigen	_	10	nsubj	_	BeginSeg=Yes
@@ -5649,7 +5649,7 @@
 22	klein	klein	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	11	xcomp	_	_
 23	.	.	PUNCT	LET	_	11	punct	_	_
 
-# newdoc id = EE04_Saturnus
+# newdoc_id = EE04_Saturnus
 # sent_id = EE04_Saturnus-1
 # text = Saturnus
 1	Saturnus	Saturnus	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	_	BeginSeg=Yes
@@ -6093,7 +6093,7 @@
 13	en	en	CCONJ	VG|neven	_	14	cc	_	_
 14	II.	II.	PROPN	SPEC|deeleigen	_	11	conj	_	_
 
-# newdoc id = EE05_Jupiter
+# newdoc_id = EE05_Jupiter
 # sent_id = EE05_Jupiter-1
 # text = Jupiter Jupiter is veruit de grootste en zwaarste planeet in ons zonnestelsel ;
 1	Jupiter	Jupiter	PROPN	SPEC|deeleigen	_	9	nsubj	_	BeginSeg=Yes
@@ -6689,7 +6689,7 @@
 21	bestaan	bestaan	VERB	WW|inf|vrij|zonder	VerbForm=Inf	0	root	_	_
 22	.	.	PUNCT	LET	_	21	punct	_	_
 
-# newdoc id = EE06_Pluto
+# newdoc_id = EE06_Pluto
 # sent_id = EE06_Pluto-1
 # text = Pluto Pluto werd in 1930 ontdekt door de Amerikaan Clyde Tombaugh en was tot augustus 2006 de negende en kleinste planeet in ons zonnestelsel .
 1	Pluto	Pluto	PROPN	SPEC|deeleigen	_	6	nsubj:pass	_	BeginSeg=Yes
@@ -7209,7 +7209,7 @@
 23	ingevangen	invangen	VERB	WW|vd|vrij|zonder	VerbForm=Part	18	conj	_	_
 24	.	.	PUNCT	LET	_	5	punct	_	_
 
-# newdoc id = EE07_Eris
+# newdoc_id = EE07_Eris
 # sent_id = EE07_Eris-1
 # text = Eris Eris is de grootste dwergplaneet van ons zonnestelsel .
 1	Eris	Eris	PROPN	SPEC|deeleigen	_	6	nsubj	_	BeginSeg=Yes
@@ -7506,7 +7506,7 @@
 21	)	)	PUNCT	LET	_	16	punct	_	_
 22	.	.	PUNCT	LET	_	4	punct	_	_
 
-# newdoc id = EE08_Oortwolk
+# newdoc_id = EE08_Oortwolk
 # sent_id = EE08_Oortwolk-1
 # text = Oortwolk De Oortwolk is een grote wolk met miljarden kometen rondom ons zonnestelsel ( inclusief de Kuipergordel ) die zich uitstrekt tot ongeveer een kwart van de afstand tussen de zon en de dichtstbijzijnde ster .
 1	Oortwolk	oortwolk	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	nsubj	_	BeginSeg=Yes
@@ -7899,7 +7899,7 @@
 9	gezien	zien	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	_	_
 10	.	.	PUNCT	LET	_	9	punct	_	_
 
-# newdoc id = EE09_Planetaire_nevels
+# newdoc_id = EE09_Planetaire_nevels
 # sent_id = EE09_Planetaire_nevels-1
 # text = Planetaire nevels Planetaire nevels zijn gaswolken die schitterend oplichten aan de hemel .
 1	Planetaire	planetair	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	2	amod	_	BeginSeg=Yes
@@ -8341,7 +8341,7 @@
 23	weggeblazen	wegblazen	VERB	WW|vd|vrij|zonder	VerbForm=Part	14	advcl	_	_
 24	.	.	PUNCT	LET	_	2	punct	_	_
 
-# newdoc id = EE10_Phobos
+# newdoc_id = EE10_Phobos
 # sent_id = EE10_Phobos-1
 # text = Phobos ( Marsmaan ) Phobos is de grootste van de twee manen van Mars : Deimos en Phobos .
 1	Phobos	Phobos	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	8	nsubj	_	BeginSeg=Yes
@@ -8690,7 +8690,7 @@
 7	zijn	zijn	VERB	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 8	.	.	PUNCT	LET	_	2	punct	_	_
 
-# newdoc id = EE11_Zwarte_gaten
+# newdoc_id = EE11_Zwarte_gaten
 # sent_id = EE11_Zwarte_gaten-1
 # text = Zwarte gaten
 1	Zwarte	zwart	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	2	amod	_	BeginSeg=Yes
@@ -9071,7 +9071,7 @@
 12	duidelijk	duidelijk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	_	_
 13	.	.	PUNCT	LET	_	12	punct	_	_
 
-# newdoc id = EE12_Rhea
+# newdoc_id = EE12_Rhea
 # sent_id = EE12_Rhea-1
 # text = Rhea ( Saturnusmaan ) Rhea is de op één na grootste maan van Saturnus .
 1	Rhea	Rhea	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	12	nsubj	_	BeginSeg=Yes
@@ -9406,7 +9406,7 @@
 27	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	24	cop	_	_
 28	.	.	PUNCT	LET	_	3	punct	_	_
 
-# newdoc id = EE13_Kosmische_straling
+# newdoc_id = EE13_Kosmische_straling
 # sent_id = EE13_Kosmische_straling-1
 # text = Kosmische straling Kosmische straling is de verzamelnaam voor allerlei ( geladen ) deeltjes die op de aardatmosfeer botsen .
 1	Kosmische	Kosmisch	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	2	amod	_	BeginSeg=Yes
@@ -9871,7 +9871,7 @@
 10	lichaam	lichaam	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	obl	_	_
 11	.	.	PUNCT	LET	_	3	punct	_	_
 
-# newdoc id = EE14_Planetaire_nevels_B
+# newdoc_id = EE14_Planetaire_nevels_B
 # sent_id = EE14_Planetaire_nevels_B-1
 # text = Planetaire nevel Planetaire nevels behoren tot de groep lichtende nevels .
 1	Planetaire	planetair	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	2	amod	_	BeginSeg=Yes
@@ -10388,7 +10388,7 @@
 7	verhit	verhitten	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	_	_
 8	.	.	PUNCT	LET	_	7	punct	_	_
 
-# newdoc id = FL01_Dierenbescherming
+# newdoc_id = FL01_Dierenbescherming
 # sent_id = FL01_Dierenbescherming-1
 # text = Drie dagen non-stop in de volle zon , met kans op verstikking !
 1	Drie	drie	NUM	TW|hoofd|prenom|stan	_	2	nummod	_	BeginSeg=Yes
@@ -10708,7 +10708,7 @@
 4	bedankt	bedanken	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	!	!	PUNCT	LET	_	4	punct	_	_
 
-# newdoc id = FL02_Cliniclowns
+# newdoc_id = FL02_Cliniclowns
 # sent_id = FL02_Cliniclowns-1
 # text = Voor 2,50 laat u zieke kinderen hun tranen even vergeten .
 1	Voor	voor	ADP	VZ|init	_	2	case	_	BeginSeg=Yes
@@ -11005,7 +11005,7 @@
 12	vergeten	vergeten	VERB	WW|inf|vrij|zonder	VerbForm=Inf	2	ccomp	_	_
 13	.	.	PUNCT	LET	_	2	punct	_	_
 
-# newdoc id = FL03_Rode_kruis
+# newdoc_id = FL03_Rode_kruis
 # sent_id = FL03_Rode_kruis-1
 # text = Juist na een ramp is goede gezondheidszorg zo hard nodig !
 1	Juist	juist	ADV	BW	_	4	amod	_	BeginSeg=Yes
@@ -11412,7 +11412,7 @@
 7	in	in	ADP	VZ|fin	_	1	compound:prt	_	_
 8	!	!	PUNCT	LET	_	1	punct	_	_
 
-# newdoc id = FL04_Diabetes
+# newdoc_id = FL04_Diabetes
 # sent_id = FL04_Diabetes-1
 # text = Help diabetes te stoppen en u helpt ook andere ziekten voorkomen .
 1	Help	helpen	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -11803,7 +11803,7 @@
 8	stoppen	stoppen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	1	advcl	_	_
 9	.	.	PUNCT	LET	_	1	punct	_	_
 
-# newdoc id = FL05_Oxfam
+# newdoc_id = FL05_Oxfam
 # sent_id = FL05_Oxfam-1
 # text = Help Hamida in haar strijd tegen het water
 1	Help	Help	PROPN	SPEC|deeleigen	_	0	root	_	BeginSeg=Yes
@@ -12178,7 +12178,7 @@
 17	bieden	bieden	VERB	WW|inf|vrij|zonder	VerbForm=Inf	9	conj	_	_
 18	.	.	PUNCT	LET	_	9	punct	_	_
 
-# newdoc id = FL06_Revalidatie
+# newdoc_id = FL06_Revalidatie
 # sent_id = FL06_Revalidatie-1
 # text = Vera wil graag samen spelen en u kunt haar helpen !
 1	Vera	Vera	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nsubj	_	BeginSeg=Yes
@@ -12646,7 +12646,7 @@
 3	wel	wel	ADV	BW	_	2	amod	_	_
 4	.	.	PUNCT	LET	_	2	punct	_	_
 
-# newdoc id = FL07_Vluchtelingenwerk
+# newdoc_id = FL07_Vluchtelingenwerk
 # sent_id = FL07_Vluchtelingenwerk-1
 # text = Vluchten en alles achterlaten , kunt u het zich voorstellen ?
 1	Vluchten	Vlucht	NOUN	N|soort|mv|basis	Number=Plur	10	obj	_	BeginSeg=Yes
@@ -12995,7 +12995,7 @@
 5	dank	dank	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	case	_	_
 6	.	.	PUNCT	LET	_	2	punct	_	_
 
-# newdoc id = FL08_Milieudefensie
+# newdoc_id = FL08_Milieudefensie
 # sent_id = FL08_Milieudefensie-1
 # text = Het drama achter goedkoop vlees Stop het verdwijnen van unieke natuur en dieren voor ons veevoer
 1	Het	het	DET	LID|bep|stan|evon	Definite=Def	2	det	_	BeginSeg=Yes
@@ -13359,7 +13359,7 @@
 20	thuis	thuis	ADV	BW	_	11	compound:prt	_	_
 21	!	!	PUNCT	LET	_	11	punct	_	_
 
-# newdoc id = FL09_Jantje_beton
+# newdoc_id = FL09_Jantje_beton
 # sent_id = FL09_Jantje_beton-1
 # text = Tien tegen één dat u het jongetje op de envelop meteen herkende .
 1	Tien	tien	NUM	TW|hoofd|vrij	_	0	root	_	BeginSeg=Yes
@@ -13727,7 +13727,7 @@
 4	dank	danken	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 5	,	,	PUNCT	LET	_	1	punct	_	_
 
-# newdoc id = FL10_Solidaridad
+# newdoc_id = FL10_Solidaridad
 # sent_id = FL10_Solidaridad-1
 # text = Inkomen uit koffie voor mensen in Oost-Congo
 1	Inkomen	Inkomen	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	0	root	_	BeginSeg=Yes
@@ -14098,7 +14098,7 @@
 11	jaar	jaar	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	9	nmod	_	_
 12	.	.	PUNCT	LET	_	7	punct	_	_
 
-# newdoc id = FL11_Amref
+# newdoc_id = FL11_Amref
 # sent_id = FL11_Amref-1
 # text = Help ons de malaria-epidemie in Afrika te stoppen
 1	Help	helpen	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -14662,7 +14662,7 @@
 20	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	19	cop	_	_
 21	.	.	PUNCT	LET	_	1	punct	_	_
 
-# newdoc id = FL12_Brandwonden
+# newdoc_id = FL12_Brandwonden
 # sent_id = FL12_Brandwonden-1
 # text = STEUN DE STRIJD TEGEN LITTEKENS !
 1	STEUN	sten	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -15064,7 +15064,7 @@
 19	steunen	steunen	VERB	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 20	.	.	PUNCT	LET	_	3	punct	_	_
 
-# newdoc id = FL13_Unicef
+# newdoc_id = FL13_Unicef
 # sent_id = FL13_Unicef-1
 # text = Vorig jaar heeft Unicef veel bereikt voor kinderen overal ter wereld .
 1	Vorig	vorig	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	2	amod	_	BeginSeg=Yes
@@ -15365,7 +15365,7 @@
 12	hulpmiddelen	hulpmiddel	NOUN	N|soort|mv|basis	Number=Plur	9	nmod	_	_
 13	.	.	PUNCT	LET	_	6	punct	_	_
 
-# newdoc id = FL14_Dark_and_light
+# newdoc_id = FL14_Dark_and_light
 # sent_id = FL14_Dark_and_light-1
 # text = Geef voor een staaroperatie
 1	Geef	geven	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -15756,7 +15756,7 @@
 5	rekenen	rekenen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	0	root	_	_
 6	?	?	PUNCT	LET	_	5	punct	_	_
 
-# newdoc id = PSN01_Saturnus_ringen
+# newdoc_id = PSN01_Saturnus_ringen
 # sent_id = PSN01_Saturnus_ringen-1
 # text = Hoe zijn de ringen van Saturnus ontstaan ?
 1	Hoe	hoe	ADV	BW	_	7	advmod	_	BeginSeg=Yes
@@ -16178,7 +16178,7 @@
 9	.	.	PUNCT	LET	_	8	punct	_	_
 10	"	"	PUNCT	LET	_	8	punct	_	_
 
-# newdoc id = PSN02_Waterdamp
+# newdoc_id = PSN02_Waterdamp
 # sent_id = PSN02_Waterdamp-1
 # text = Waterdamp in atmosfeer van een koolstofster gevonden Wetenschappers hebben waterdamp in de atmosfeer van een grote koolstofster gevonden .
 1	Waterdamp	waterdamp	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	18	nsubj	_	BeginSeg=Yes
@@ -16549,7 +16549,7 @@
 29	gevormd	vormen	VERB	WW|vd|vrij|zonder	VerbForm=Part	20	acl:relcl	_	_
 30	.	.	PUNCT	LET	_	3	punct	_	_
 
-# newdoc id = PSN03_Zwarte_gaten
+# newdoc_id = PSN03_Zwarte_gaten
 # sent_id = PSN03_Zwarte_gaten-1
 # text = Bewijzen zwarte gaten het bestaan van donkere materie ?
 1	Bewijzen	Bewijzen	VERB	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -16943,7 +16943,7 @@
 12	.	.	PUNCT	LET	_	2	punct	_	_
 13	"	"	PUNCT	LET	_	2	punct	_	_
 
-# newdoc id = PSN04_Superaarde
+# newdoc_id = PSN04_Superaarde
 # sent_id = PSN04_Superaarde-1
 # text = Twee planeten en mogelijk een superaarde ontdekt Wetenschappers hebben met behulp van NASA's Kepler Space Telescope twee nieuwe planeten ontdekt die rondom dezelfde ster draaien .
 1	Twee	twee	NUM	TW|hoofd|prenom|stan	_	2	nummod	_	BeginSeg=Yes
@@ -17325,7 +17325,7 @@
 20	planeten	planeet	NOUN	N|soort|mv|basis	Number=Plur	11	conj	_	_
 21	.	.	PUNCT	LET	_	2	punct	_	_
 
-# newdoc id = PSN05_Inslag_op_Jupiter
+# newdoc_id = PSN05_Inslag_op_Jupiter
 # sent_id = PSN05_Inslag_op_Jupiter-1
 # text = Wéér inslag op Jupiter Amateur-astronomen zagen vrijdag voor de derde keer in dertien maanden tijd een komeet of asteroïde op Jupiter inslaan .
 1	Wéér	wéér	ADV	BW	_	2	amod	_	BeginSeg=Yes
@@ -17614,7 +17614,7 @@
 12	terecht	terecht	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	_	_
 13	.	.	PUNCT	LET	_	12	punct	_	_
 
-# newdoc id = PSN06_Zonnestelsel_ouder
+# newdoc_id = PSN06_Zonnestelsel_ouder
 # sent_id = PSN06_Zonnestelsel_ouder-1
 # text = Zonnestelsel is ietsje ouder dan gedacht
 1	Zonnestelsel	zonnestelsel	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	nsubj	_	BeginSeg=Yes
@@ -17981,7 +17981,7 @@
 13	Allende-meteoriet	Allende-meteoriet	PROPN	N|eigen|ev|basis|genus|stan	Gender=Com,Neut|Number=Sing	10	nmod	_	_
 14	.	.	PUNCT	LET	_	7	punct	_	_
 
-# newdoc id = PSN07_Trojaan
+# newdoc_id = PSN07_Trojaan
 # sent_id = PSN07_Trojaan-1
 # text = Astronomen ontdekken Trojaan bij Neptunus Wetenschappers hebben nabij Neptunus een Trojaan ontdekt .
 1	Astronomen	astronoom	NOUN	N|soort|mv|basis	Number=Plur	2	nsubj	_	BeginSeg=Yes
@@ -18290,7 +18290,7 @@
 14	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	13	cop	_	_
 15	.	.	PUNCT	LET	_	5	punct	_	_
 
-# newdoc id = PSN08_PC_neutronenster
+# newdoc_id = PSN08_PC_neutronenster
 # sent_id = PSN08_PC_neutronenster-1
 # text = Thuis-PC ontdekt neutronenster
 1	Thuis-PC	Thuis-PC	PROPN	N|eigen|ev|basis|genus|stan	Gender=Com,Neut|Number=Sing	2	nsubj	_	BeginSeg=Yes
@@ -18607,7 +18607,7 @@
 13	versneld	versnellen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	_	_
 14	.	.	PUNCT	LET	_	13	punct	_	_
 
-# newdoc id = PSN09_Asteroide_bedreigt_aarde
+# newdoc_id = PSN09_Asteroide_bedreigt_aarde
 # sent_id = PSN09_Asteroide_bedreigt_aarde-1
 # text = Asteroïde bedreigt aarde in 2182
 1	Asteroïde	asteroïde	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nsubj	_	BeginSeg=Yes
@@ -18967,7 +18967,7 @@
 7	geblazen	blazen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	_	_
 8	!	!	PUNCT	LET	_	7	punct	_	_
 
-# newdoc id = PSN10_Melkweg
+# newdoc_id = PSN10_Melkweg
 # sent_id = PSN10_Melkweg-1
 # text = Zoef! :
 1	Zoef!	Zoef!	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	_	BeginSeg=Yes
@@ -19376,7 +19376,7 @@
 28	helpen	helpen	VERB	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	25	conj	_	_
 29	.	.	PUNCT	LET	_	3	punct	_	_
 
-# newdoc id = PSN11_Utrecht_supernova
+# newdoc_id = PSN11_Utrecht_supernova
 # sent_id = PSN11_Utrecht_supernova-1
 # text = Utrechtse wetenschappers reconstrueren supernova Astronomen van de Universiteit Utrecht slaagden erin om de vorming van een 450 jaar oude supernova te reconstrueren .
 1	Utrechtse	Utrechts	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	2	amod	_	BeginSeg=Yes
@@ -19785,7 +19785,7 @@
 9	.	.	PUNCT	LET	_	4	punct	_	_
 10	"	"	PUNCT	LET	_	4	punct	_	_
 
-# newdoc id = PSN12_Gevaarlijke_asteroiden
+# newdoc_id = PSN12_Gevaarlijke_asteroiden
 # sent_id = PSN12_Gevaarlijke_asteroiden-1
 # text = WISE ontdekt 95 nieuwe gevaarlijke asteroïden Miljoenen micrometeoren bombarderen de aarde dagelijks , maar ze verbranden voordat ze een spoor achterlaten in de atmosfeer .
 1	WISE	WISE	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	nsubj	_	BeginSeg=Yes
@@ -20220,7 +20220,7 @@
 16	worden	worden	AUX	WW|inf|vrij|zonder	VerbForm=Inf	14	aux:pass	_	_
 17	.	.	PUNCT	LET	_	14	punct	_	_
 
-# newdoc id = PSN13_Jongste_vulkaan
+# newdoc_id = PSN13_Jongste_vulkaan
 # sent_id = PSN13_Jongste_vulkaan-1
 # text = Jongste vulkaan op Mercurius gevonden
 1	Jongste	jong	ADJ	ADJ|prenom|sup|met-e|stan	Degree=Sup	2	amod	_	BeginSeg=Yes
@@ -20729,7 +20729,7 @@
 10	prijsgeven	prijsgeven	VERB	WW|inf|vrij|zonder	VerbForm=Inf	9	xcomp	_	_
 11	.	.	PUNCT	LET	_	4	punct	_	_
 
-# newdoc id = PSN14_Kepler
+# newdoc_id = PSN14_Kepler
 # sent_id = PSN14_Kepler-1
 # text = Kepler ontdekt honderden planeten
 1	Kepler	Kepler	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nsubj	_	BeginSeg=Yes

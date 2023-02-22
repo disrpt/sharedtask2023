@@ -1,4 +1,4 @@
-# newdoc id = maz-14172
+# newdoc_id = maz-14172
 1	Der	_	_	_	_	_	_	_	BeginSeg=Yes
 2	dritte	_	_	_	_	_	_	_	_
 3	Kandidat	_	_	_	_	_	_	_	_
@@ -198,7 +198,7 @@
 197	Gesicht	_	_	_	_	_	_	_	_
 198	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-8586
+# newdoc_id = maz-8586
 1	Spendenjagd	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Ein	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Hilfstransport	_	_	_	_	_	_	_	_
@@ -403,7 +403,7 @@
 202	hilft	_	_	_	_	_	_	_	_
 203	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-9538
+# newdoc_id = maz-9538
 1	Reise	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ins	_	_	_	_	_	_	_	_
 3	Ungewisse	_	_	_	_	_	_	_	_
@@ -600,7 +600,7 @@
 194	Haus	_	_	_	_	_	_	_	_
 195	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-2611
+# newdoc_id = maz-2611
 1	Uneinsichtig	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Im	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Streit	_	_	_	_	_	_	_	_
@@ -771,7 +771,7 @@
 168	nicht	_	_	_	_	_	_	_	_
 169	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-13758
+# newdoc_id = maz-13758
 1	Keine	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Garantie	_	_	_	_	_	_	_	_
 3	Euphorische	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -971,7 +971,7 @@
 197	bleiben	_	_	_	_	_	_	_	_
 198	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-3277
+# newdoc_id = maz-3277
 1	Für	_	_	_	_	_	_	_	BeginSeg=Yes
 2	und	_	_	_	_	_	_	_	_
 3	Wider	_	_	_	_	_	_	_	_
@@ -1175,7 +1175,7 @@
 201	nichts	_	_	_	_	_	_	_	_
 202	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14072
+# newdoc_id = maz-14072
 1	Schlammspritzer	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Dass	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Wahlen	_	_	_	_	_	_	_	_
@@ -1361,7 +1361,7 @@
 183	Ego	_	_	_	_	_	_	_	_
 184	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18914
+# newdoc_id = maz-18914
 1	Alarmsignal	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Mit	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Helga	_	_	_	_	_	_	_	_
@@ -1573,7 +1573,7 @@
 209	bringen	_	_	_	_	_	_	_	_
 210	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-19012
+# newdoc_id = maz-19012
 1	Schnee	_	_	_	_	_	_	_	BeginSeg=Yes
 2	zu	_	_	_	_	_	_	_	_
 3	Heiligabend	_	_	_	_	_	_	_	_
@@ -1787,7 +1787,7 @@
 211	gehört	_	_	_	_	_	_	_	_
 212	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-9782
+# newdoc_id = maz-9782
 1	Nicht	_	_	_	_	_	_	_	BeginSeg=Yes
 2	mehr	_	_	_	_	_	_	_	_
 3	so	_	_	_	_	_	_	_	_
@@ -1978,7 +1978,7 @@
 188	ist	_	_	_	_	_	_	_	_
 189	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18454
+# newdoc_id = maz-18454
 1	Bürger-Entscheid	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Soll	_	_	_	_	_	_	_	BeginSeg=Yes
 3	das	_	_	_	_	_	_	_	_
@@ -2204,7 +2204,7 @@
 223	akzeptieren	_	_	_	_	_	_	_	_
 224	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18480
+# newdoc_id = maz-18480
 1	Anders	_	_	_	_	_	_	_	BeginSeg=Yes
 2	als	_	_	_	_	_	_	_	_
 3	gedacht	_	_	_	_	_	_	_	_
@@ -2398,7 +2398,7 @@
 191	Wermutstropfen	_	_	_	_	_	_	_	_
 192	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-2669
+# newdoc_id = maz-2669
 1	Gejagt	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Wer	_	_	_	_	_	_	_	BeginSeg=Yes
 3	es	_	_	_	_	_	_	_	_
@@ -2584,7 +2584,7 @@
 183	gejagt	_	_	_	_	_	_	_	_
 184	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-16360
+# newdoc_id = maz-16360
 1	Schätze	_	_	_	_	_	_	_	BeginSeg=Yes
 2	gehoben	_	_	_	_	_	_	_	_
 3	Als	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -2772,7 +2772,7 @@
 185	überwunden	_	_	_	_	_	_	_	_
 186	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14384
+# newdoc_id = maz-14384
 1	Nostalgie	_	_	_	_	_	_	_	BeginSeg=Yes
 2	und	_	_	_	_	_	_	_	_
 3	frische	_	_	_	_	_	_	_	_
@@ -2986,7 +2986,7 @@
 211	ab	_	_	_	_	_	_	_	_
 212	?	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-19074
+# newdoc_id = maz-19074
 1	Punktsieg	_	_	_	_	_	_	_	BeginSeg=Yes
 2	für	_	_	_	_	_	_	_	_
 3	Arafat	_	_	_	_	_	_	_	_
@@ -3153,7 +3153,7 @@
 164	Schachzug	_	_	_	_	_	_	_	_
 165	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14055
+# newdoc_id = maz-14055
 1	Zwei	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Wahrheiten	_	_	_	_	_	_	_	_
 3	Man	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -3333,7 +3333,7 @@
 177	haben	_	_	_	_	_	_	_	_
 178	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-17242
+# newdoc_id = maz-17242
 1	Alle	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Wetter	_	_	_	_	_	_	_	_
 3	!	_	_	_	_	_	_	_	_
@@ -3529,7 +3529,7 @@
 193	Jette	_	_	_	_	_	_	_	_
 194	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18171
+# newdoc_id = maz-18171
 1	Sündensuche	_	_	_	_	_	_	_	BeginSeg=Yes
 2	im	_	_	_	_	_	_	_	_
 3	Hinterhof	_	_	_	_	_	_	_	_
@@ -3726,7 +3726,7 @@
 194	würde	_	_	_	_	_	_	_	_
 195	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-12510
+# newdoc_id = maz-12510
 1	Wunsch	_	_	_	_	_	_	_	BeginSeg=Yes
 2	nach	_	_	_	_	_	_	_	_
 3	Frieden	_	_	_	_	_	_	_	_
@@ -3916,7 +3916,7 @@
 187	sein	_	_	_	_	_	_	_	_
 188	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-12383
+# newdoc_id = maz-12383
 1	Aber	_	_	_	_	_	_	_	BeginSeg=Yes
 2	doch	_	_	_	_	_	_	_	_
 3	nicht	_	_	_	_	_	_	_	_
@@ -4126,7 +4126,7 @@
 207	öffnen	_	_	_	_	_	_	_	_
 208	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-10503
+# newdoc_id = maz-10503
 1	System	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Der	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Rausschmiss	_	_	_	_	_	_	_	_
@@ -4325,7 +4325,7 @@
 196	worden	_	_	_	_	_	_	_	_
 197	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18945
+# newdoc_id = maz-18945
 1	Radfahrer	_	_	_	_	_	_	_	BeginSeg=Yes
 2	zählen	_	_	_	_	_	_	_	_
 3	nicht	_	_	_	_	_	_	_	_
@@ -4527,7 +4527,7 @@
 199	Steuern	_	_	_	_	_	_	_	_
 200	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-10175
+# newdoc_id = maz-10175
 1	Allianz	_	_	_	_	_	_	_	BeginSeg=Yes
 2	mit	_	_	_	_	_	_	_	_
 3	Fragezeichen	_	_	_	_	_	_	_	_
@@ -4736,7 +4736,7 @@
 206	Spiel	_	_	_	_	_	_	_	_
 207	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-13311
+# newdoc_id = maz-13311
 1	Spaß	_	_	_	_	_	_	_	BeginSeg=Yes
 2	in	_	_	_	_	_	_	_	_
 3	der	_	_	_	_	_	_	_	_
@@ -4896,7 +4896,7 @@
 157	angibt	_	_	_	_	_	_	_	_
 158	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-10207
+# newdoc_id = maz-10207
 1	Alles	_	_	_	_	_	_	_	BeginSeg=Yes
 2	beim	_	_	_	_	_	_	_	_
 3	Alten	_	_	_	_	_	_	_	_
@@ -5090,7 +5090,7 @@
 191	verbinden	_	_	_	_	_	_	_	_
 192	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-8361
+# newdoc_id = maz-8361
 1	Schäubles	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Unschuld	_	_	_	_	_	_	_	_
 3	Nun	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -5281,7 +5281,7 @@
 188	sitzen	_	_	_	_	_	_	_	_
 189	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-9650
+# newdoc_id = maz-9650
 1	Wichtige	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Botschaft	_	_	_	_	_	_	_	_
 3	Lange	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -5434,7 +5434,7 @@
 150	werden	_	_	_	_	_	_	_	_
 151	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-9335
+# newdoc_id = maz-9335
 1	Unökonomisches	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Angebot	_	_	_	_	_	_	_	_
 3	Die	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -5630,7 +5630,7 @@
 193	hätte	_	_	_	_	_	_	_	_
 194	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-9852
+# newdoc_id = maz-9852
 1	Wendefehler	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Heranwachsende	_	_	_	_	_	_	_	BeginSeg=Yes
 3	haben	_	_	_	_	_	_	_	_
@@ -5824,7 +5824,7 @@
 191	weitere	_	_	_	_	_	_	_	_
 192	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14792
+# newdoc_id = maz-14792
 1	Böse	_	_	_	_	_	_	_	BeginSeg=Yes
 2	,	_	_	_	_	_	_	_	_
 3	die	_	_	_	_	_	_	_	_
@@ -6012,7 +6012,7 @@
 185	stattfindet	_	_	_	_	_	_	_	_
 186	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-12666
+# newdoc_id = maz-12666
 1	Spatz	_	_	_	_	_	_	_	BeginSeg=Yes
 2	in	_	_	_	_	_	_	_	_
 3	der	_	_	_	_	_	_	_	_
@@ -6216,7 +6216,7 @@
 201	da	_	_	_	_	_	_	_	_
 202	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-13015
+# newdoc_id = maz-13015
 1	Gigantischer	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Coup	_	_	_	_	_	_	_	_
 3	Auch	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -6429,7 +6429,7 @@
 210	ist	_	_	_	_	_	_	_	_
 211	...	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18160
+# newdoc_id = maz-18160
 1	Alarmsignal	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Es	_	_	_	_	_	_	_	BeginSeg=Yes
 3	brodelt	_	_	_	_	_	_	_	_
@@ -6620,7 +6620,7 @@
 188	anzumelden	_	_	_	_	_	_	_	_
 189	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-19295
+# newdoc_id = maz-19295
 1	K-Frage	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Angenommen	_	_	_	_	_	_	_	BeginSeg=Yes
 3	,	_	_	_	_	_	_	_	_
@@ -6767,7 +6767,7 @@
 144	Autorität	_	_	_	_	_	_	_	_
 145	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-1757
+# newdoc_id = maz-1757
 1	Politisches	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Signal	_	_	_	_	_	_	_	_
 3	Derzeit	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -6962,7 +6962,7 @@
 192	sein	_	_	_	_	_	_	_	_
 193	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-17953
+# newdoc_id = maz-17953
 1	Spähen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	,	_	_	_	_	_	_	_	_
 3	nicht	_	_	_	_	_	_	_	_
@@ -7166,7 +7166,7 @@
 201	Spannungsfeld	_	_	_	_	_	_	_	_
 202	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-3110
+# newdoc_id = maz-3110
 1	Am	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Wasser	_	_	_	_	_	_	_	_
 3	Dass	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -7374,7 +7374,7 @@
 205	etwa	_	_	_	_	_	_	_	_
 206	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-7969
+# newdoc_id = maz-7969
 1	Schwierige	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Geburt	_	_	_	_	_	_	_	_
 3	Die	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -7544,7 +7544,7 @@
 167	passiert	_	_	_	_	_	_	_	_
 168	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-15702
+# newdoc_id = maz-15702
 1	Eigentlich	_	_	_	_	_	_	_	BeginSeg=Yes
 2	fehlt	_	_	_	_	_	_	_	_
 3	ja	_	_	_	_	_	_	_	_
@@ -7718,7 +7718,7 @@
 171	wird	_	_	_	_	_	_	_	_
 172	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14841
+# newdoc_id = maz-14841
 1	Auf	_	_	_	_	_	_	_	BeginSeg=Yes
 2	und	_	_	_	_	_	_	_	_
 3	Ab	_	_	_	_	_	_	_	_
@@ -7899,7 +7899,7 @@
 178	umlegen	_	_	_	_	_	_	_	_
 179	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-10110
+# newdoc_id = maz-10110
 1	Zukunftsinvestitionen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Wie	_	_	_	_	_	_	_	BeginSeg=Yes
 3	schwierig	_	_	_	_	_	_	_	_
@@ -8091,7 +8091,7 @@
 189	werden	_	_	_	_	_	_	_	_
 190	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14654
+# newdoc_id = maz-14654
 1	Herz-Dame	_	_	_	_	_	_	_	BeginSeg=Yes
 2	sticht	_	_	_	_	_	_	_	_
 3	Ein	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -8285,7 +8285,7 @@
 191	wurde	_	_	_	_	_	_	_	_
 192	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-11766
+# newdoc_id = maz-11766
 1	Füllhorn	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Vergeblich	_	_	_	_	_	_	_	BeginSeg=Yes
 3	hat	_	_	_	_	_	_	_	_
@@ -8475,7 +8475,7 @@
 187	hat	_	_	_	_	_	_	_	_
 188	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-10205
+# newdoc_id = maz-10205
 1	Keine	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Autoritäten	_	_	_	_	_	_	_	_
 3	Unter	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -8658,7 +8658,7 @@
 180	besitzen	_	_	_	_	_	_	_	_
 181	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-16590
+# newdoc_id = maz-16590
 1	Von	_	_	_	_	_	_	_	BeginSeg=Yes
 2	wegen	_	_	_	_	_	_	_	_
 3	Förderung	_	_	_	_	_	_	_	_
@@ -8823,7 +8823,7 @@
 162	mehr	_	_	_	_	_	_	_	_
 163	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-12473
+# newdoc_id = maz-12473
 1	Verlorenes	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Vertrauen	_	_	_	_	_	_	_	_
 3	Deutschland	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -8978,7 +8978,7 @@
 152	hat	_	_	_	_	_	_	_	_
 153	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-7690
+# newdoc_id = maz-7690
 1	Zurück	_	_	_	_	_	_	_	BeginSeg=Yes
 2	zur	_	_	_	_	_	_	_	_
 3	Heimatwurst	_	_	_	_	_	_	_	_
@@ -9161,7 +9161,7 @@
 180	gehabt	_	_	_	_	_	_	_	_
 181	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18750
+# newdoc_id = maz-18750
 1	Nicht	_	_	_	_	_	_	_	BeginSeg=Yes
 2	vergessen	_	_	_	_	_	_	_	_
 3	!	_	_	_	_	_	_	_	_
@@ -9351,7 +9351,7 @@
 187	Fest	_	_	_	_	_	_	_	_
 188	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-11507
+# newdoc_id = maz-11507
 1	Bauernregeln	_	_	_	_	_	_	_	BeginSeg=Yes
 2	sind	_	_	_	_	_	_	_	_
 3	passé	_	_	_	_	_	_	_	_
@@ -9539,7 +9539,7 @@
 185	Fachwissen	_	_	_	_	_	_	_	_
 186	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-9884
+# newdoc_id = maz-9884
 1	Dilemma	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Verrat	_	_	_	_	_	_	_	BeginSeg=Yes
 3	,	_	_	_	_	_	_	_	_
@@ -9787,7 +9787,7 @@
 245	Oberrechnungskammer	_	_	_	_	_	_	_	_
 246	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-17539
+# newdoc_id = maz-17539
 1	Gewissensfrage	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Schwerer	_	_	_	_	_	_	_	BeginSeg=Yes
 3	hätten	_	_	_	_	_	_	_	_
@@ -9966,7 +9966,7 @@
 176	haben	_	_	_	_	_	_	_	_
 177	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-8727
+# newdoc_id = maz-8727
 1	Ausrutscher	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Es	_	_	_	_	_	_	_	BeginSeg=Yes
 3	ist	_	_	_	_	_	_	_	_
@@ -10169,7 +10169,7 @@
 200	blamiert	_	_	_	_	_	_	_	_
 201	...	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-15609
+# newdoc_id = maz-15609
 1	Aufheben	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Die	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Blankenfelder	_	_	_	_	_	_	_	_
@@ -10369,7 +10369,7 @@
 197	Jahrhundert	_	_	_	_	_	_	_	_
 198	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-7071
+# newdoc_id = maz-7071
 1	Alles	_	_	_	_	_	_	_	BeginSeg=Yes
 2	hübsch	_	_	_	_	_	_	_	_
 3	vertraulich	_	_	_	_	_	_	_	_
@@ -10551,7 +10551,7 @@
 179	vertraulich	_	_	_	_	_	_	_	_
 180	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-9725
+# newdoc_id = maz-9725
 1	Ernstfall	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Der	_	_	_	_	_	_	_	BeginSeg=Yes
 3	rot-grünen	_	_	_	_	_	_	_	_
@@ -10703,7 +10703,7 @@
 149	suchen	_	_	_	_	_	_	_	_
 150	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-17698
+# newdoc_id = maz-17698
 1	Letzte	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Bastion	_	_	_	_	_	_	_	_
 3	Amerikaner	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -10910,7 +10910,7 @@
 204	lassen	_	_	_	_	_	_	_	_
 205	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-9207
+# newdoc_id = maz-9207
 1	Fachliche	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Leistung	_	_	_	_	_	_	_	_
 3	Heute	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -11078,7 +11078,7 @@
 165	näherbringt	_	_	_	_	_	_	_	_
 166	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14881
+# newdoc_id = maz-14881
 1	Schildbürger	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Lange	_	_	_	_	_	_	_	BeginSeg=Yes
 3	geplant	_	_	_	_	_	_	_	_
@@ -11252,7 +11252,7 @@
 171	hatten	_	_	_	_	_	_	_	_
 172	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18712
+# newdoc_id = maz-18712
 1	Ein	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Fels	_	_	_	_	_	_	_	_
 3	Es	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -11456,7 +11456,7 @@
 201	Bedürfnisse	_	_	_	_	_	_	_	_
 202	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-13507
+# newdoc_id = maz-13507
 1	Politiker	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Auch	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Politik	_	_	_	_	_	_	_	_
@@ -11660,7 +11660,7 @@
 201	Menschliche	_	_	_	_	_	_	_	BeginSeg=Yes
 202	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14047
+# newdoc_id = maz-14047
 1	Zuschlag	_	_	_	_	_	_	_	BeginSeg=Yes
 2	für	_	_	_	_	_	_	_	_
 3	den	_	_	_	_	_	_	_	_
@@ -11839,7 +11839,7 @@
 176	haben	_	_	_	_	_	_	_	_
 177	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-19442
+# newdoc_id = maz-19442
 1	Briefkästen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	trockenlegen	_	_	_	_	_	_	_	_
 3	Heißer	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -12031,7 +12031,7 @@
 189	zuzufügen	_	_	_	_	_	_	_	_
 190	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-1453
+# newdoc_id = maz-1453
 1	Zeit	_	_	_	_	_	_	_	BeginSeg=Yes
 2	für	_	_	_	_	_	_	_	_
 3	Frieden	_	_	_	_	_	_	_	_
@@ -12235,7 +12235,7 @@
 201	lassen	_	_	_	_	_	_	_	_
 202	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-8134
+# newdoc_id = maz-8134
 1	Ernst	_	_	_	_	_	_	_	BeginSeg=Yes
 2	nehmen	_	_	_	_	_	_	_	_
 3	So	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -12445,7 +12445,7 @@
 207	Scheidung	_	_	_	_	_	_	_	_
 208	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-11279
+# newdoc_id = maz-11279
 1	Kompliziertes	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Erbe	_	_	_	_	_	_	_	_
 3	Das	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -12648,7 +12648,7 @@
 200	kann	_	_	_	_	_	_	_	_
 201	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-10423
+# newdoc_id = maz-10423
 1	Toter	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Weg	_	_	_	_	_	_	_	_
 3	Die	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -12839,7 +12839,7 @@
 188	funktionieren	_	_	_	_	_	_	_	_
 189	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-16177
+# newdoc_id = maz-16177
 1	Auf	_	_	_	_	_	_	_	BeginSeg=Yes
 2	dem	_	_	_	_	_	_	_	_
 3	Totenbett	_	_	_	_	_	_	_	_
@@ -13011,7 +13011,7 @@
 169	ausstellt	_	_	_	_	_	_	_	_
 170	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-8665
+# newdoc_id = maz-8665
 1	Ganz	_	_	_	_	_	_	_	BeginSeg=Yes
 2	schön	_	_	_	_	_	_	_	_
 3	mutig	_	_	_	_	_	_	_	_
@@ -13206,7 +13206,7 @@
 192	werden	_	_	_	_	_	_	_	_
 193	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18912
+# newdoc_id = maz-18912
 1	Engelsgedanken	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Als	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Franz	_	_	_	_	_	_	_	_
@@ -13413,7 +13413,7 @@
 204	machen	_	_	_	_	_	_	_	_
 205	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-19436
+# newdoc_id = maz-19436
 1	Taktik	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Die	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Berliner	_	_	_	_	_	_	_	_
@@ -13617,7 +13617,7 @@
 201	richtig	_	_	_	_	_	_	_	_
 202	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-17673
+# newdoc_id = maz-17673
 1	Unbestechliche	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Zeugen	_	_	_	_	_	_	_	_
 3	Die	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -13807,7 +13807,7 @@
 187	schwer	_	_	_	_	_	_	_	_
 188	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-17664
+# newdoc_id = maz-17664
 1	Noch	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Zeit	_	_	_	_	_	_	_	_
 3	So	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -14012,7 +14012,7 @@
 202	.	_	_	_	_	_	_	_	_
 203	"	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-16987
+# newdoc_id = maz-16987
 1	Umgedacht	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Wie	_	_	_	_	_	_	_	BeginSeg=Yes
 3	schnell	_	_	_	_	_	_	_	_
@@ -14196,7 +14196,7 @@
 181	glauben	_	_	_	_	_	_	_	_
 182	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-11670
+# newdoc_id = maz-11670
 1	Tränen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Tränen	_	_	_	_	_	_	_	BeginSeg=Yes
 3	flossen	_	_	_	_	_	_	_	_
@@ -14391,7 +14391,7 @@
 192	Kind	_	_	_	_	_	_	_	_
 193	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18377
+# newdoc_id = maz-18377
 1	Offene	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Fragen	_	_	_	_	_	_	_	_
 3	Die	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -14580,7 +14580,7 @@
 186	Verbandsversammlung	_	_	_	_	_	_	_	_
 187	?	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-11544
+# newdoc_id = maz-11544
 1	Erfolgsverwöhnt	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Erneut	_	_	_	_	_	_	_	BeginSeg=Yes
 3	sorgt	_	_	_	_	_	_	_	_
@@ -14753,7 +14753,7 @@
 170	Verbraucher	_	_	_	_	_	_	_	_
 171	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-8509
+# newdoc_id = maz-8509
 1	Barbies	_	_	_	_	_	_	_	BeginSeg=Yes
 2	im	_	_	_	_	_	_	_	_
 3	Laubsack	_	_	_	_	_	_	_	_
@@ -14952,7 +14952,7 @@
 196	sind	_	_	_	_	_	_	_	_
 197	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-7053
+# newdoc_id = maz-7053
 1	Unangenehm	_	_	_	_	_	_	_	BeginSeg=Yes
 2	aber	_	_	_	_	_	_	_	_
 3	fair	_	_	_	_	_	_	_	_
@@ -15144,7 +15144,7 @@
 189	ist	_	_	_	_	_	_	_	_
 190	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-9521
+# newdoc_id = maz-9521
 1	Posse	_	_	_	_	_	_	_	BeginSeg=Yes
 2	um	_	_	_	_	_	_	_	_
 3	Bosse	_	_	_	_	_	_	_	_
@@ -15335,7 +15335,7 @@
 188	"	_	_	_	_	_	_	_	_
 189	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-1818
+# newdoc_id = maz-1818
 1	Naive	_	_	_	_	_	_	_	BeginSeg=Yes
 2	PDS	_	_	_	_	_	_	_	_
 3	Die	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -15490,7 +15490,7 @@
 152	wird	_	_	_	_	_	_	_	_
 153	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-7220
+# newdoc_id = maz-7220
 1	Vielleicht	_	_	_	_	_	_	_	BeginSeg=Yes
 2	geht	_	_	_	_	_	_	_	_
 3	's	_	_	_	_	_	_	_	_
@@ -15666,7 +15666,7 @@
 173	Bündnis	_	_	_	_	_	_	_	_
 174	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-10652
+# newdoc_id = maz-10652
 1	Zu	_	_	_	_	_	_	_	BeginSeg=Yes
 2	kurz	_	_	_	_	_	_	_	_
 3	gedacht	_	_	_	_	_	_	_	_
@@ -15836,7 +15836,7 @@
 167	wird	_	_	_	_	_	_	_	_
 168	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-12084
+# newdoc_id = maz-12084
 1	"	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Schmierentheater	_	_	_	_	_	_	_	_
 3	"	_	_	_	_	_	_	_	_
@@ -16044,7 +16044,7 @@
 205	lassen	_	_	_	_	_	_	_	_
 206	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-15209
+# newdoc_id = maz-15209
 1	Diener	_	_	_	_	_	_	_	BeginSeg=Yes
 2	vieler	_	_	_	_	_	_	_	_
 3	Herren	_	_	_	_	_	_	_	_
@@ -16239,7 +16239,7 @@
 192	beschwert	_	_	_	_	_	_	_	_
 193	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-12976
+# newdoc_id = maz-12976
 1	Normal-Krise	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Umweltminister	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Jürgen	_	_	_	_	_	_	_	_
@@ -16392,7 +16392,7 @@
 150	nichts	_	_	_	_	_	_	_	_
 151	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-17254
+# newdoc_id = maz-17254
 1	Morgenluft	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Die	_	_	_	_	_	_	_	BeginSeg=Yes
 3	jüngste	_	_	_	_	_	_	_	_
@@ -16579,7 +16579,7 @@
 184	haben	_	_	_	_	_	_	_	_
 185	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-17091
+# newdoc_id = maz-17091
 1	Nach	_	_	_	_	_	_	_	BeginSeg=Yes
 2	dem	_	_	_	_	_	_	_	_
 3	großen	_	_	_	_	_	_	_	_
@@ -16760,7 +16760,7 @@
 178	aufgenommen	_	_	_	_	_	_	_	_
 179	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-16250
+# newdoc_id = maz-16250
 1	Wie	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Blücher	_	_	_	_	_	_	_	_
 3	Angriff	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -16962,7 +16962,7 @@
 199	nimmt	_	_	_	_	_	_	_	_
 200	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-16153
+# newdoc_id = maz-16153
 1	Alles	_	_	_	_	_	_	_	BeginSeg=Yes
 2	offen	_	_	_	_	_	_	_	_
 3	In	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -17115,7 +17115,7 @@
 150	Sternen	_	_	_	_	_	_	_	_
 151	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-8563
+# newdoc_id = maz-8563
 1	Wohltäter	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Durch	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Arbeit	_	_	_	_	_	_	_	_
@@ -17319,7 +17319,7 @@
 201	taten	_	_	_	_	_	_	_	_
 202	Gutes	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-19501
+# newdoc_id = maz-19501
 1	Es	_	_	_	_	_	_	_	BeginSeg=Yes
 2	bleibt	_	_	_	_	_	_	_	_
 3	spannend	_	_	_	_	_	_	_	_
@@ -17508,7 +17508,7 @@
 186	"	_	_	_	_	_	_	_	_
 187	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-13915
+# newdoc_id = maz-13915
 1	Nagelprobe	_	_	_	_	_	_	_	BeginSeg=Yes
 2	37	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Millionen	_	_	_	_	_	_	_	_
@@ -17706,7 +17706,7 @@
 195	ließe	_	_	_	_	_	_	_	_
 196	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-9891
+# newdoc_id = maz-9891
 1	Durchhalten	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Manchmal	_	_	_	_	_	_	_	BeginSeg=Yes
 3	sind	_	_	_	_	_	_	_	_
@@ -17895,7 +17895,7 @@
 186	werden	_	_	_	_	_	_	_	_
 187	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14813
+# newdoc_id = maz-14813
 1	Knebelvertrag	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Eigentlich	_	_	_	_	_	_	_	BeginSeg=Yes
 3	können	_	_	_	_	_	_	_	_
@@ -18075,7 +18075,7 @@
 177	lassen	_	_	_	_	_	_	_	_
 178	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-12576
+# newdoc_id = maz-12576
 1	Defizit	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Bisher	_	_	_	_	_	_	_	BeginSeg=Yes
 3	war	_	_	_	_	_	_	_	_
@@ -18267,7 +18267,7 @@
 189	hat	_	_	_	_	_	_	_	_
 190	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18006
+# newdoc_id = maz-18006
 1	Muffensausen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Fast	_	_	_	_	_	_	_	BeginSeg=Yes
 3	möchte	_	_	_	_	_	_	_	_
@@ -18476,7 +18476,7 @@
 206	davonschwimmen	_	_	_	_	_	_	_	_
 207	...	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-11318
+# newdoc_id = maz-11318
 1	So	_	_	_	_	_	_	_	BeginSeg=Yes
 2	nicht	_	_	_	_	_	_	_	_
 3	noch	_	_	_	_	_	_	_	_
@@ -18672,7 +18672,7 @@
 193	weiterzuleiten	_	_	_	_	_	_	_	_
 194	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-11916
+# newdoc_id = maz-11916
 1	Steuer	_	_	_	_	_	_	_	BeginSeg=Yes
 2	frei	_	_	_	_	_	_	_	_
 3	!	_	_	_	_	_	_	_	_
@@ -18872,7 +18872,7 @@
 197	bekommen	_	_	_	_	_	_	_	_
 198	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14071
+# newdoc_id = maz-14071
 1	Sie	_	_	_	_	_	_	_	BeginSeg=Yes
 2	bleiben	_	_	_	_	_	_	_	_
 3	Wittstocker	_	_	_	_	_	_	_	_
@@ -19054,7 +19054,7 @@
 179	Hause	_	_	_	_	_	_	_	_
 180	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-8288
+# newdoc_id = maz-8288
 1	In	_	_	_	_	_	_	_	BeginSeg=Yes
 2	der	_	_	_	_	_	_	_	_
 3	Favoritenrolle	_	_	_	_	_	_	_	_
@@ -19230,7 +19230,7 @@
 173	machen	_	_	_	_	_	_	_	_
 174	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18333
+# newdoc_id = maz-18333
 1	Lebensader	_	_	_	_	_	_	_	BeginSeg=Yes
 2	gedeiht	_	_	_	_	_	_	_	_
 3	Luckenwalde	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -19423,7 +19423,7 @@
 190	kann	_	_	_	_	_	_	_	_
 191	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-13125
+# newdoc_id = maz-13125
 1	Die	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Wahrheit	_	_	_	_	_	_	_	_
 3	Der	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -19628,7 +19628,7 @@
 202	nicht	_	_	_	_	_	_	_	_
 203	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-12188
+# newdoc_id = maz-12188
 1	Weitsicht	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Die	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Idee	_	_	_	_	_	_	_	_
@@ -19827,7 +19827,7 @@
 196	entgegen	_	_	_	_	_	_	_	_
 197	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-15155
+# newdoc_id = maz-15155
 1	WG-tauglich	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Wohngemeinschaften	_	_	_	_	_	_	_	BeginSeg=Yes
 3	sind	_	_	_	_	_	_	_	_
@@ -20035,7 +20035,7 @@
 205	auch	_	_	_	_	_	_	_	_
 206	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14422
+# newdoc_id = maz-14422
 1	Was	_	_	_	_	_	_	_	BeginSeg=Yes
 2	wirklich	_	_	_	_	_	_	_	_
 3	zählt	_	_	_	_	_	_	_	_
@@ -20240,7 +20240,7 @@
 202	kann	_	_	_	_	_	_	_	_
 203	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-1423
+# newdoc_id = maz-1423
 1	Zum	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Angewöhnen	_	_	_	_	_	_	_	_
 3	Die	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -20427,7 +20427,7 @@
 184	geraten	_	_	_	_	_	_	_	_
 185	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-8838
+# newdoc_id = maz-8838
 1	Euro-Cash	_	_	_	_	_	_	_	BeginSeg=Yes
 2	for	_	_	_	_	_	_	_	_
 3	Kids	_	_	_	_	_	_	_	_
@@ -20619,7 +20619,7 @@
 189	Förderung	_	_	_	_	_	_	_	_
 190	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-19372
+# newdoc_id = maz-19372
 1	Alles	_	_	_	_	_	_	_	BeginSeg=Yes
 2	wie	_	_	_	_	_	_	_	_
 3	gehabt	_	_	_	_	_	_	_	_
@@ -20829,7 +20829,7 @@
 207	Tisch	_	_	_	_	_	_	_	_
 208	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-17300
+# newdoc_id = maz-17300
 1	Wette	_	_	_	_	_	_	_	BeginSeg=Yes
 2	verloren	_	_	_	_	_	_	_	_
 3	Jeder	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -21016,7 +21016,7 @@
 184	muss	_	_	_	_	_	_	_	_
 185	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-19150
+# newdoc_id = maz-19150
 1	Traurige	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Geschichte	_	_	_	_	_	_	_	_
 3	Das	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -21208,7 +21208,7 @@
 189	beidem	_	_	_	_	_	_	_	_
 190	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-00001
+# newdoc_id = maz-00001
 1	Auf	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Eis	_	_	_	_	_	_	_	_
 3	gelegt	_	_	_	_	_	_	_	_
@@ -21406,7 +21406,7 @@
 195	Bildung	_	_	_	_	_	_	_	_
 196	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-15347
+# newdoc_id = maz-15347
 1	Unterschiede	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Auch	_	_	_	_	_	_	_	BeginSeg=Yes
 3	bei	_	_	_	_	_	_	_	_
@@ -21612,7 +21612,7 @@
 203	ist	_	_	_	_	_	_	_	_
 204	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-7967
+# newdoc_id = maz-7967
 1	Strausberg	_	_	_	_	_	_	_	BeginSeg=Yes
 2	siegt	_	_	_	_	_	_	_	_
 3	Die	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -21797,7 +21797,7 @@
 182	Sie	_	_	_	_	_	_	_	_
 183	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-10575
+# newdoc_id = maz-10575
 1	Keine	_	_	_	_	_	_	_	BeginSeg=Yes
 2	schlechte	_	_	_	_	_	_	_	_
 3	Wahl	_	_	_	_	_	_	_	_
@@ -22015,7 +22015,7 @@
 215	haben	_	_	_	_	_	_	_	_
 216	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-2609
+# newdoc_id = maz-2609
 1	Einsteins	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Lorbeeren	_	_	_	_	_	_	_	_
 3	Unter	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -22190,7 +22190,7 @@
 172	abgeben	_	_	_	_	_	_	_	_
 173	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-8981
+# newdoc_id = maz-8981
 1	Überfällig	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Frischluftfans	_	_	_	_	_	_	_	BeginSeg=Yes
 3	ist	_	_	_	_	_	_	_	_
@@ -22381,7 +22381,7 @@
 188	auslösen	_	_	_	_	_	_	_	_
 189	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14399
+# newdoc_id = maz-14399
 1	Aufstand	_	_	_	_	_	_	_	BeginSeg=Yes
 2	der	_	_	_	_	_	_	_	_
 3	Vegetarier	_	_	_	_	_	_	_	_
@@ -22554,7 +22554,7 @@
 170	wollten	_	_	_	_	_	_	_	_
 171	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-15970
+# newdoc_id = maz-15970
 1	Weihnachtsmann	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Völler	_	_	_	_	_	_	_	_
 3	Ja	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -22724,7 +22724,7 @@
 167	Weihnachten	_	_	_	_	_	_	_	_
 168	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-16294
+# newdoc_id = maz-16294
 1	Ein	_	_	_	_	_	_	_	BeginSeg=Yes
 2	bisschen	_	_	_	_	_	_	_	_
 3	dafür	_	_	_	_	_	_	_	_
@@ -22921,7 +22921,7 @@
 194	aufzuarbeiten	_	_	_	_	_	_	_	_
 195	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-00002
+# newdoc_id = maz-00002
 1	Das	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Büchergeld	_	_	_	_	_	_	_	_
 3	Die	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -23077,7 +23077,7 @@
 153	wird	_	_	_	_	_	_	_	_
 154	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-3080
+# newdoc_id = maz-3080
 1	Falsche	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Bilder	_	_	_	_	_	_	_	_
 3	Das	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -23270,7 +23270,7 @@
 190	zurechtgerückt	_	_	_	_	_	_	_	_
 191	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-9612
+# newdoc_id = maz-9612
 1	Alle	_	_	_	_	_	_	_	BeginSeg=Yes
 2	sind	_	_	_	_	_	_	_	_
 3	es	_	_	_	_	_	_	_	_
@@ -23458,7 +23458,7 @@
 185	offen	_	_	_	_	_	_	_	_
 186	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-13946
+# newdoc_id = maz-13946
 1	Notsignale	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Die	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Oranienburger	_	_	_	_	_	_	_	_
@@ -23644,7 +23644,7 @@
 183	funktionieren	_	_	_	_	_	_	_	_
 184	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14853
+# newdoc_id = maz-14853
 1	Ein	_	_	_	_	_	_	_	BeginSeg=Yes
 2	schöner	_	_	_	_	_	_	_	_
 3	Start	_	_	_	_	_	_	_	_
@@ -23835,7 +23835,7 @@
 188	.	_	_	_	_	_	_	_	_
 189	"	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-14590
+# newdoc_id = maz-14590
 1	Verpasste	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Chance	_	_	_	_	_	_	_	_
 3	Heute	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -23984,7 +23984,7 @@
 146	Chance	_	_	_	_	_	_	_	_
 147	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-16353
+# newdoc_id = maz-16353
 1	Wohlfühl-Aroma	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Kräftig	_	_	_	_	_	_	_	BeginSeg=Yes
 3	spucken	_	_	_	_	_	_	_	_
@@ -24193,7 +24193,7 @@
 206	Rundum	_	_	_	_	_	_	_	BeginSeg=Yes
 207	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-11177
+# newdoc_id = maz-11177
 1	Kühlen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Kopf	_	_	_	_	_	_	_	_
 3	bewahren	_	_	_	_	_	_	_	_
@@ -24381,7 +24381,7 @@
 185	steht	_	_	_	_	_	_	_	_
 186	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-1679
+# newdoc_id = maz-1679
 1	Stadtkern	_	_	_	_	_	_	_	BeginSeg=Yes
 2	aufwerten	_	_	_	_	_	_	_	_
 3	Im	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -24563,7 +24563,7 @@
 179	machen	_	_	_	_	_	_	_	_
 180	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-2316
+# newdoc_id = maz-2316
 1	Ungefährlicher	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Verkauf	_	_	_	_	_	_	_	_
 3	Fast	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -24755,7 +24755,7 @@
 189	büßen	_	_	_	_	_	_	_	_
 190	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-17706
+# newdoc_id = maz-17706
 1	Zwiespältig	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Christian	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Gildes	_	_	_	_	_	_	_	_
@@ -24965,7 +24965,7 @@
 207	nicht	_	_	_	_	_	_	_	_
 208	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-3073
+# newdoc_id = maz-3073
 1	Ä(E)hrenvoll	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Während	_	_	_	_	_	_	_	BeginSeg=Yes
 3	der	_	_	_	_	_	_	_	_
@@ -25193,7 +25193,7 @@
 225	gebührt	_	_	_	_	_	_	_	_
 226	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-17062
+# newdoc_id = maz-17062
 1	Ehrgeizig	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Die	_	_	_	_	_	_	_	BeginSeg=Yes
 3	nächste	_	_	_	_	_	_	_	_
@@ -25381,7 +25381,7 @@
 185	machen	_	_	_	_	_	_	_	_
 186	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-13153
+# newdoc_id = maz-13153
 1	Nachahmenswert	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Integration	_	_	_	_	_	_	_	BeginSeg=Yes
 3	ist	_	_	_	_	_	_	_	_
@@ -25562,7 +25562,7 @@
 178	Unterstützung	_	_	_	_	_	_	_	_
 179	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-10902
+# newdoc_id = maz-10902
 1	In	_	_	_	_	_	_	_	BeginSeg=Yes
 2	die	_	_	_	_	_	_	_	_
 3	Offensive	_	_	_	_	_	_	_	_
@@ -25756,7 +25756,7 @@
 191	geschlüpft	_	_	_	_	_	_	_	_
 192	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-11735
+# newdoc_id = maz-11735
 1	Frei	_	_	_	_	_	_	_	BeginSeg=Yes
 2	und	_	_	_	_	_	_	_	_
 3	unbehelligt	_	_	_	_	_	_	_	_
@@ -25935,7 +25935,7 @@
 176	hoffentlich	_	_	_	_	_	_	_	BeginSeg=Yes
 177	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-18354
+# newdoc_id = maz-18354
 1	Des	_	_	_	_	_	_	_	BeginSeg=Yes
 2	einen	_	_	_	_	_	_	_	_
 3	Freud	_	_	_	_	_	_	_	_
@@ -26129,7 +26129,7 @@
 191	Leid	_	_	_	_	_	_	_	_
 192	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-11280
+# newdoc_id = maz-11280
 1	Kurzsichtig	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Containerplätze	_	_	_	_	_	_	_	BeginSeg=Yes
 3	sind	_	_	_	_	_	_	_	_
@@ -26328,7 +26328,7 @@
 196	Container	_	_	_	_	_	_	_	_
 197	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-11299
+# newdoc_id = maz-11299
 1	Feigenblatt	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Die	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Jugendlichen	_	_	_	_	_	_	_	_
@@ -26542,7 +26542,7 @@
 211	Abwesenheit	_	_	_	_	_	_	_	_
 212	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-15545
+# newdoc_id = maz-15545
 1	Nicht	_	_	_	_	_	_	_	BeginSeg=Yes
 2	so	_	_	_	_	_	_	_	_
 3	schnell	_	_	_	_	_	_	_	_
@@ -26731,7 +26731,7 @@
 186	richten	_	_	_	_	_	_	_	_
 187	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-15734
+# newdoc_id = maz-15734
 1	Unübersichtlich	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Wer	_	_	_	_	_	_	_	BeginSeg=Yes
 3	vom	_	_	_	_	_	_	_	_
@@ -26937,7 +26937,7 @@
 203	sein	_	_	_	_	_	_	_	_
 204	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-10374
+# newdoc_id = maz-10374
 1	Fürchtet	_	_	_	_	_	_	_	BeginSeg=Yes
 2	euch	_	_	_	_	_	_	_	_
 3	nicht	_	_	_	_	_	_	_	_

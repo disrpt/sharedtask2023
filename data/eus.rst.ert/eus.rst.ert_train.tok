@@ -1,4 +1,4 @@
-# newdoc id = GMB0002
+# newdoc_id = GMB0002
 1	Burezur	_	_	_	_	_	_	_	BeginSeg=Yes
 2	kanpoko	_	_	_	_	_	_	_	_
 3	lesio	_	_	_	_	_	_	_	_
@@ -46,7 +46,7 @@
 45	goiztiarrak	_	_	_	_	_	_	_	_
 46	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0202
+# newdoc_id = GMB0202
 1	Erigarritasuna	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eta	_	_	_	_	_	_	_	_
 3	tolerantzia	_	_	_	_	_	_	_	_
@@ -226,7 +226,7 @@
 177	dagoenik	_	_	_	_	_	_	_	_
 178	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0203
+# newdoc_id = GMB0203
 1	Haur-oinaren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	neurri	_	_	_	_	_	_	_	_
 3	antropometrikoen	_	_	_	_	_	_	_	_
@@ -394,7 +394,7 @@
 165	ditu	_	_	_	_	_	_	_	_
 166	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0204
+# newdoc_id = GMB0204
 1	Haur-oinaren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	neurri	_	_	_	_	_	_	_	_
 3	antropometrikoen	_	_	_	_	_	_	_	_
@@ -563,7 +563,7 @@
 166	da	_	_	_	_	_	_	_	_
 167	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0301
+# newdoc_id = GMB0301
 1	Estomatitis	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Aftosa	_	_	_	_	_	_	_	_
 3	Recurrente	_	_	_	_	_	_	_	_
@@ -632,7 +632,7 @@
 66	ditugu	_	_	_	_	_	_	_	_
 67	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0302
+# newdoc_id = GMB0302
 1	Haur-oinaren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	neurri	_	_	_	_	_	_	_	_
 3	antropometrikoen	_	_	_	_	_	_	_	_
@@ -802,7 +802,7 @@
 167	da	_	_	_	_	_	_	_	_
 168	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0401
+# newdoc_id = GMB0401
 1	Galdakaoko	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Ospitaleko	_	_	_	_	_	_	_	_
 3	larrialdi	_	_	_	_	_	_	_	_
@@ -921,7 +921,7 @@
 116	gehiengoa	_	_	_	_	_	_	_	_
 117	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0402
+# newdoc_id = GMB0402
 1	Korrelazio	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ekografikoa	_	_	_	_	_	_	_	_
 3	eta	_	_	_	_	_	_	_	_
@@ -1135,7 +1135,7 @@
 211	bezala	_	_	_	_	_	_	_	_
 212	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0501
+# newdoc_id = GMB0501
 1	Garapen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	azkarreko	_	_	_	_	_	_	_	_
 3	dementzia	_	_	_	_	_	_	_	_
@@ -1296,7 +1296,7 @@
 158	hipoxikoa	_	_	_	_	_	_	_	_
 159	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0503
+# newdoc_id = GMB0503
 1	Whipple	_	_	_	_	_	_	_	BeginSeg=Yes
 2	gaixotasunaren	_	_	_	_	_	_	_	_
 3	ezohiko	_	_	_	_	_	_	_	_
@@ -1375,7 +1375,7 @@
 76	da	_	_	_	_	_	_	_	_
 77	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0504
+# newdoc_id = GMB0504
 1	Iktusean	_	_	_	_	_	_	_	BeginSeg=Yes
 2	atentzioa	_	_	_	_	_	_	_	_
 3	eta	_	_	_	_	_	_	_	_
@@ -1540,7 +1540,7 @@
 162	du	_	_	_	_	_	_	_	_
 163	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0601
+# newdoc_id = GMB0601
 1	Oin	_	_	_	_	_	_	_	BeginSeg=Yes
 2	malguaren	_	_	_	_	_	_	_	_
 3	tratamendua	_	_	_	_	_	_	_	_
@@ -1723,7 +1723,7 @@
 180	ere	_	_	_	_	_	_	_	_
 181	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0701
+# newdoc_id = GMB0701
 1	Larritasunezko	_	_	_	_	_	_	_	BeginSeg=Yes
 2	irizpide	_	_	_	_	_	_	_	_
 3	psikosomatikoak	_	_	_	_	_	_	_	_
@@ -1832,7 +1832,7 @@
 106	dizkigute	_	_	_	_	_	_	_	_
 107	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0702
+# newdoc_id = GMB0702
 1	"	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Basal	_	_	_	_	_	_	_	_
 3	like	_	_	_	_	_	_	_	_
@@ -2149,7 +2149,7 @@
 314	da	_	_	_	_	_	_	_	_
 315	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GMB0802
+# newdoc_id = GMB0802
 1	Belauneko	_	_	_	_	_	_	_	BeginSeg=Yes
 2	protesiaren	_	_	_	_	_	_	_	_
 3	infekzioa	_	_	_	_	_	_	_	_
@@ -2275,7 +2275,7 @@
 123	ditugu	_	_	_	_	_	_	_	_
 124	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF01
+# newdoc_id = INF01
 1	Hedapen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Semantikoa	_	_	_	_	_	_	_	_
 3	Informazioaren	_	_	_	_	_	_	_	_
@@ -2444,7 +2444,7 @@
 166	ere	_	_	_	_	_	_	_	_
 167	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF02
+# newdoc_id = INF02
 1	Weba	_	_	_	_	_	_	_	BeginSeg=Yes
 2	euskarazko	_	_	_	_	_	_	_	_
 3	corpus	_	_	_	_	_	_	_	_
@@ -2601,7 +2601,7 @@
 154	dira	_	_	_	_	_	_	_	_
 155	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF03
+# newdoc_id = INF03
 1	Euskararako	_	_	_	_	_	_	_	BeginSeg=Yes
 2	koma-zuzentzaile	_	_	_	_	_	_	_	_
 3	automatiko	_	_	_	_	_	_	_	_
@@ -2683,7 +2683,7 @@
 79	honek	_	_	_	_	_	_	_	_
 80	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF04
+# newdoc_id = INF04
 1	Ikaste-domeinuaren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	sorkuntza	_	_	_	_	_	_	_	_
 3	erdiautomatikoa	_	_	_	_	_	_	_	_
@@ -2744,7 +2744,7 @@
 58	da	_	_	_	_	_	_	_	_
 59	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF05
+# newdoc_id = INF05
 1	Datuen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	bistaratzea	_	_	_	_	_	_	_	_
 3	estatistika	_	_	_	_	_	_	_	_
@@ -2889,7 +2889,7 @@
 142	dinamikoei	_	_	_	_	_	_	_	_
 143	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF07
+# newdoc_id = INF07
 1	J48Consolidated	_	_	_	_	_	_	_	BeginSeg=Yes
 2	WEKA	_	_	_	_	_	_	_	_
 3	paketea	_	_	_	_	_	_	_	_
@@ -2993,7 +2993,7 @@
 101	hauetan	_	_	_	_	_	_	_	_
 102	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF08
+# newdoc_id = INF08
 1	LSAren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	oinarri	_	_	_	_	_	_	_	_
 3	matematikoa	_	_	_	_	_	_	_	_
@@ -3080,7 +3080,7 @@
 84	gaude	_	_	_	_	_	_	_	_
 85	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF09
+# newdoc_id = INF09
 1	Ortografia-erroreak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eta	_	_	_	_	_	_	_	_
 3	konpetentzia	_	_	_	_	_	_	_	_
@@ -3227,7 +3227,7 @@
 144	baztertzeko	_	_	_	_	_	_	_	_
 145	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF10
+# newdoc_id = INF10
 1	Datuen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	birlaginketa	_	_	_	_	_	_	_	_
 3	adimentsua	_	_	_	_	_	_	_	_
@@ -3326,7 +3326,7 @@
 96	jarraiki	_	_	_	_	_	_	_	_
 97	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF12
+# newdoc_id = INF12
 1	Erantzunen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	kalifikazio	_	_	_	_	_	_	_	_
 3	automatikorako	_	_	_	_	_	_	_	_
@@ -3396,7 +3396,7 @@
 67	ditugu	_	_	_	_	_	_	_	_
 68	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF14
+# newdoc_id = INF14
 1	Wikipedia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eta	_	_	_	_	_	_	_	_
 3	itzulpen	_	_	_	_	_	_	_	_
@@ -3510,7 +3510,7 @@
 111	hobetuz	_	_	_	_	_	_	_	_
 112	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF15
+# newdoc_id = INF15
 1	Informatika	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Ingeniaritzan	_	_	_	_	_	_	_	_
 3	emakumezko	_	_	_	_	_	_	_	_
@@ -3633,7 +3633,7 @@
 120	emaitzak	_	_	_	_	_	_	_	_
 121	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF17
+# newdoc_id = INF17
 1	Euskararako	_	_	_	_	_	_	_	BeginSeg=Yes
 2	analizatzaile	_	_	_	_	_	_	_	_
 3	sintaktiko	_	_	_	_	_	_	_	_
@@ -3705,7 +3705,7 @@
 69	dira	_	_	_	_	_	_	_	_
 70	.	_	_	_	_	_	_	_	_
 
-# newdoc id = INF19
+# newdoc_id = INF19
 1	Euskararako	_	_	_	_	_	_	_	BeginSeg=Yes
 2	koma-zuzentzaile	_	_	_	_	_	_	_	_
 3	automatiko	_	_	_	_	_	_	_	_
@@ -3787,7 +3787,7 @@
 79	honek	_	_	_	_	_	_	_	_
 80	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB0
+# newdoc_id = LAB0
 1	GIZA-GORPUTZA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ETA	_	_	_	_	_	_	_	_
 3	ELIKAGAIAK	_	_	_	_	_	_	_	_
@@ -3934,7 +3934,7 @@
 144	deritze	_	_	_	_	_	_	_	_
 145	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB10
+# newdoc_id = LAB10
 1	ERBIA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Erbiaren	_	_	_	_	_	_	_	BeginSeg=Yes
 3	lagunik	_	_	_	_	_	_	_	_
@@ -4105,7 +4105,7 @@
 168	ditzake	_	_	_	_	_	_	_	_
 169	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB11
+# newdoc_id = LAB11
 1	Zer	_	_	_	_	_	_	_	BeginSeg=Yes
 2	da	_	_	_	_	_	_	_	_
 3	espezie	_	_	_	_	_	_	_	_
@@ -4368,7 +4368,7 @@
 260	ekosistemarako	_	_	_	_	_	_	_	_
 261	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB13
+# newdoc_id = LAB13
 1	Landareen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	bidez	_	_	_	_	_	_	_	_
 3	ura	_	_	_	_	_	_	_	_
@@ -4548,7 +4548,7 @@
 177	dituzte	_	_	_	_	_	_	_	_
 178	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB14
+# newdoc_id = LAB14
 1	Urola	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ibaia	_	_	_	_	_	_	_	_
 3	garbitzeko	_	_	_	_	_	_	_	_
@@ -4761,7 +4761,7 @@
 210	"	_	_	_	_	_	_	_	_
 211	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB15
+# newdoc_id = LAB15
 1	Erleen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	dohain	_	_	_	_	_	_	_	_
 3	ezezaguna	_	_	_	_	_	_	_	_
@@ -4947,7 +4947,7 @@
 183	ere	_	_	_	_	_	_	_	_
 184	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB16
+# newdoc_id = LAB16
 1	Ezin	_	_	_	_	_	_	_	BeginSeg=Yes
 2	dut	_	_	_	_	_	_	_	_
 3	neure	_	_	_	_	_	_	_	_
@@ -5075,7 +5075,7 @@
 125	eginez	_	_	_	_	_	_	_	_
 126	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB17
+# newdoc_id = LAB17
 1	Lurra	_	_	_	_	_	_	_	BeginSeg=Yes
 2	gaixo	_	_	_	_	_	_	_	_
 3	dago	_	_	_	_	_	_	_	_
@@ -5230,7 +5230,7 @@
 152	adibidez	_	_	_	_	_	_	_	_
 153	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB18
+# newdoc_id = LAB18
 1	Landare	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ugari	_	_	_	_	_	_	_	_
 3	galtzeko	_	_	_	_	_	_	_	_
@@ -5568,7 +5568,7 @@
 335	die	_	_	_	_	_	_	_	_
 336	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB19
+# newdoc_id = LAB19
 1	HAZI	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ZEURE	_	_	_	_	_	_	_	_
 3	ZUHAITZAREKIN	_	_	_	_	_	_	_	_
@@ -5991,7 +5991,7 @@
 420	animatu	_	_	_	_	_	_	_	_
 421	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB2
+# newdoc_id = LAB2
 1	ELIKAGAI	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ENERGETIKOAK	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
@@ -6286,7 +6286,7 @@
 292	landare-jatorrikoak	_	_	_	_	_	_	_	_
 293	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB20
+# newdoc_id = LAB20
 1	Aitonaren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	antzera	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
@@ -6519,7 +6519,7 @@
 230	zuhaitza	_	_	_	_	_	_	_	_
 231	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB3
+# newdoc_id = LAB3
 1	ELIKAGAI	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ERREGULATZAILEAK	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
@@ -6890,7 +6890,7 @@
 368	dezakegu	_	_	_	_	_	_	_	_
 369	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB4
+# newdoc_id = LAB4
 1	Lurraren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	itxura	_	_	_	_	_	_	_	_
 3	aldatzen	_	_	_	_	_	_	_	_
@@ -6945,7 +6945,7 @@
 52	dutenak	_	_	_	_	_	_	_	_
 53	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB5
+# newdoc_id = LAB5
 1	Lur	_	_	_	_	_	_	_	BeginSeg=Yes
 2	planeta	_	_	_	_	_	_	_	_
 3	hainbat	_	_	_	_	_	_	_	_
@@ -7054,7 +7054,7 @@
 106	da	_	_	_	_	_	_	_	_
 107	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB6
+# newdoc_id = LAB6
 1	Lurrikarak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	edo	_	_	_	_	_	_	_	_
 3	seismoak	_	_	_	_	_	_	_	_
@@ -7174,7 +7174,7 @@
 117	dira	_	_	_	_	_	_	_	_
 118	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB7
+# newdoc_id = LAB7
 1	Lurrak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	euri	_	_	_	_	_	_	_	_
 3	guztia	_	_	_	_	_	_	_	_
@@ -7259,7 +7259,7 @@
 82	ditu	_	_	_	_	_	_	_	_
 83	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB8
+# newdoc_id = LAB8
 1	eta	_	_	_	_	_	_	_	BeginSeg=Yes
 2	poliki-poliki	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -7344,7 +7344,7 @@
 82	hondartzak	_	_	_	_	_	_	_	_
 83	.	_	_	_	_	_	_	_	_
 
-# newdoc id = LAB9
+# newdoc_id = LAB9
 1	Horrek	_	_	_	_	_	_	_	BeginSeg=Yes
 2	nabarmen	_	_	_	_	_	_	_	_
 3	aldatu	_	_	_	_	_	_	_	_
@@ -7390,7 +7390,7 @@
 43	du	_	_	_	_	_	_	_	_
 44	.	_	_	_	_	_	_	_	_
 
-# newdoc id = MIS10
+# newdoc_id = MIS10
 1	ALDIZKARIAK	_	_	_	_	_	_	_	BeginSeg=Yes
 2	.	_	_	_	_	_	_	_	_
 3	'	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -7534,7 +7534,7 @@
 141	da	_	_	_	_	_	_	_	_
 142	.	_	_	_	_	_	_	_	_
 
-# newdoc id = MIS11
+# newdoc_id = MIS11
 1	Egunkaria-mundua	_	_	_	_	_	_	_	BeginSeg=Yes
 2	(	_	_	_	_	_	_	_	_
 3	2000/08/02	_	_	_	_	_	_	_	_
@@ -7781,7 +7781,7 @@
 244	du	_	_	_	_	_	_	_	_
 245	.	_	_	_	_	_	_	_	_
 
-# newdoc id = MIS2
+# newdoc_id = MIS2
 1	JAINKO	_	_	_	_	_	_	_	BeginSeg=Yes
 2	TXIKIA	_	_	_	_	_	_	_	_
 3	Maiteegia	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -8614,7 +8614,7 @@
 830	batean	_	_	_	_	_	_	_	_
 831	.	_	_	_	_	_	_	_	_
 
-# newdoc id = MIS3
+# newdoc_id = MIS3
 1	Itsas	_	_	_	_	_	_	_	BeginSeg=Yes
 2	mailak	_	_	_	_	_	_	_	_
 3	gora	_	_	_	_	_	_	_	_
@@ -8770,7 +8770,7 @@
 153	b	_	_	_	_	_	_	_	_
 154	.	_	_	_	_	_	_	_	_
 
-# newdoc id = MIS4
+# newdoc_id = MIS4
 1	Iruinetik	_	_	_	_	_	_	_	BeginSeg=Yes
 2	emitituko	_	_	_	_	_	_	_	_
 3	da	_	_	_	_	_	_	_	_
@@ -9038,7 +9038,7 @@
 265	ikusteko	_	_	_	_	_	_	_	_
 266	.	_	_	_	_	_	_	_	_
 
-# newdoc id = MIS5
+# newdoc_id = MIS5
 1	Egunkaria-politika	_	_	_	_	_	_	_	BeginSeg=Yes
 2	(	_	_	_	_	_	_	_	_
 3	2000/08/02	_	_	_	_	_	_	_	_
@@ -9168,7 +9168,7 @@
 127	zuen	_	_	_	_	_	_	_	_
 128	.	_	_	_	_	_	_	_	_
 
-# newdoc id = MIS7
+# newdoc_id = MIS7
 1	ARANTXA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ITURBE	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
@@ -9263,7 +9263,7 @@
 92	da	_	_	_	_	_	_	_	_
 93	.	_	_	_	_	_	_	_	_
 
-# newdoc id = MIS8
+# newdoc_id = MIS8
 1	ARRAUNKETA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	.	_	_	_	_	_	_	_	_
 3	Santurtziko	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -9366,7 +9366,7 @@
 100	hartzen	_	_	_	_	_	_	_	_
 101	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA02
+# newdoc_id = OSA02
 1	Errenina-angiotentsina	_	_	_	_	_	_	_	BeginSeg=Yes
 2	sistema	_	_	_	_	_	_	_	_
 3	eta	_	_	_	_	_	_	_	_
@@ -9609,7 +9609,7 @@
 240	dira	_	_	_	_	_	_	_	_
 241	.	_	_	_	_	_	_	_	BeginSeg=Yes
 
-# newdoc id = OSA04
+# newdoc_id = OSA04
 1	GSK-3ren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	menpe	_	_	_	_	_	_	_	_
 3	dauden	_	_	_	_	_	_	_	_
@@ -9973,7 +9973,7 @@
 361	du	_	_	_	_	_	_	_	_
 362	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA05
+# newdoc_id = OSA05
 1	XBP1	_	_	_	_	_	_	_	BeginSeg=Yes
 2	MRNA-ren	_	_	_	_	_	_	_	_
 3	bidaia	_	_	_	_	_	_	_	_
@@ -10364,7 +10364,7 @@
 388	dugu	_	_	_	_	_	_	_	_
 389	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA06
+# newdoc_id = OSA06
 1	Endokannabinoideak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	nerbio	_	_	_	_	_	_	_	_
 3	sisteman	_	_	_	_	_	_	_	_
@@ -10627,7 +10627,7 @@
 260	patologian	_	_	_	_	_	_	_	_
 261	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA07
+# newdoc_id = OSA07
 1	Endokannabinoide	_	_	_	_	_	_	_	BeginSeg=Yes
 2	sistema	_	_	_	_	_	_	_	_
 3	eta	_	_	_	_	_	_	_	_
@@ -10825,7 +10825,7 @@
 195	atzeman	_	_	_	_	_	_	_	_
 196	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA09
+# newdoc_id = OSA09
 1	Kannabinoideen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	efektua	_	_	_	_	_	_	_	_
 3	oozitoen	_	_	_	_	_	_	_	_
@@ -11141,7 +11141,7 @@
 313	gara	_	_	_	_	_	_	_	_
 314	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA10
+# newdoc_id = OSA10
 1	b-amiloideak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	b1-integrinaren	_	_	_	_	_	_	_	_
 3	bidez	_	_	_	_	_	_	_	_
@@ -11453,7 +11453,7 @@
 309	Alzheimerrean	_	_	_	_	_	_	_	_
 310	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA11
+# newdoc_id = OSA11
 1	Ikerketa	_	_	_	_	_	_	_	BeginSeg=Yes
 2	funtzionalak	_	_	_	_	_	_	_	_
 3	eritasun	_	_	_	_	_	_	_	_
@@ -11804,7 +11804,7 @@
 348	aldiz	_	_	_	_	_	_	_	_
 349	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA12
+# newdoc_id = OSA12
 1	Sistema	_	_	_	_	_	_	_	BeginSeg=Yes
 2	opioidearen	_	_	_	_	_	_	_	_
 3	bidezko	_	_	_	_	_	_	_	_
@@ -12031,7 +12031,7 @@
 224	ere	_	_	_	_	_	_	_	_
 225	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA14
+# newdoc_id = OSA14
 1	Garaterm	_	_	_	_	_	_	_	BeginSeg=Yes
 2	proiektua	_	_	_	_	_	_	_	_
 3	:	_	_	_	_	_	_	_	_
@@ -12445,7 +12445,7 @@
 411	esker	_	_	_	_	_	_	_	_
 412	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA15
+# newdoc_id = OSA15
 1	Bakterioen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	diguanilato	_	_	_	_	_	_	_	_
 3	ziklasen	_	_	_	_	_	_	_	_
@@ -12621,7 +12621,7 @@
 173	izateko	_	_	_	_	_	_	_	_
 174	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA18
+# newdoc_id = OSA18
 1	Hipoxia-iskemiaren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eragina	_	_	_	_	_	_	_	_
 3	arratoien	_	_	_	_	_	_	_	_
@@ -12966,7 +12966,7 @@
 342	izateko	_	_	_	_	_	_	_	_
 343	.	_	_	_	_	_	_	_	_
 
-# newdoc id = OSA19
+# newdoc_id = OSA19
 1	LIFE	_	_	_	_	_	_	_	BeginSeg=Yes
 2	REGEN	_	_	_	_	_	_	_	_
 3	FARMING	_	_	_	_	_	_	_	_
@@ -13324,7 +13324,7 @@
 355	jakiteko	_	_	_	_	_	_	_	_
 356	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTAIZ01
+# newdoc_id = SENTAIZ01
 1	Andraizea	_	_	_	_	_	_	_	BeginSeg=Yes
 2	/	_	_	_	_	_	_	_	_
 3	Irati	_	_	_	_	_	_	_	_
@@ -13547,7 +13547,7 @@
 220	opari	_	_	_	_	_	_	_	_
 221	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTAIZ02
+# newdoc_id = SENTAIZ02
 1	Zangotraba	_	_	_	_	_	_	_	BeginSeg=Yes
 2	/	_	_	_	_	_	_	_	_
 3	Juan	_	_	_	_	_	_	_	_
@@ -13777,7 +13777,7 @@
 227	berean	_	_	_	_	_	_	_	_
 228	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTAIZ03
+# newdoc_id = SENTAIZ03
 1	Sacamantecas	_	_	_	_	_	_	_	BeginSeg=Yes
 2	nuen	_	_	_	_	_	_	_	_
 3	aita	_	_	_	_	_	_	_	_
@@ -14039,7 +14039,7 @@
 259	daiteke	_	_	_	_	_	_	_	_
 260	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTARG01
+# newdoc_id = SENTARG01
 1	Jon	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Miranderen	_	_	_	_	_	_	_	_
 3	gutunak	_	_	_	_	_	_	_	_
@@ -14388,7 +14388,7 @@
 346	moduan	_	_	_	_	_	_	_	_
 347	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTARG02
+# newdoc_id = SENTARG02
 1	Alter	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ero	_	_	_	_	_	_	_	_
 3	/	_	_	_	_	_	_	_	_
@@ -14788,7 +14788,7 @@
 397	gomendagarria	_	_	_	_	_	_	_	_
 398	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTARG03
+# newdoc_id = SENTARG03
 1	Pendrive	_	_	_	_	_	_	_	BeginSeg=Yes
 2	/	_	_	_	_	_	_	_	_
 3	Arrate	_	_	_	_	_	_	_	_
@@ -15178,7 +15178,7 @@
 387	Pendrive	_	_	_	_	_	_	_	_
 388	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTARG05
+# newdoc_id = SENTARG05
 1	Xabaltx	_	_	_	_	_	_	_	BeginSeg=Yes
 2	/	_	_	_	_	_	_	_	_
 3	Xabaltx	_	_	_	_	_	_	_	_
@@ -15601,7 +15601,7 @@
 420	modukoa	_	_	_	_	_	_	_	_
 421	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTARG08
+# newdoc_id = SENTARG08
 1	Birjinak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	/	_	_	_	_	_	_	_	_
 3	Irene	_	_	_	_	_	_	_	_
@@ -16024,7 +16024,7 @@
 420	dizuet	_	_	_	_	_	_	_	_
 421	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTBER01
+# newdoc_id = SENTBER01
 1	60	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ordu	_	_	_	_	_	_	_	_
 3	Zoologikoan	_	_	_	_	_	_	_	_
@@ -16620,7 +16620,7 @@
 593	nahiko	_	_	_	_	_	_	_	_
 594	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTBER02
+# newdoc_id = SENTBER02
 1	Odol	_	_	_	_	_	_	_	BeginSeg=Yes
 2	mamituak	_	_	_	_	_	_	_	_
 3	/	_	_	_	_	_	_	_	_
@@ -17096,7 +17096,7 @@
 473	gaituelako	_	_	_	_	_	_	_	_
 474	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTBER04
+# newdoc_id = SENTBER04
 1	Pendrive	_	_	_	_	_	_	_	BeginSeg=Yes
 2	/	_	_	_	_	_	_	_	_
 3	Arrate	_	_	_	_	_	_	_	_
@@ -17700,7 +17700,7 @@
 601	ikusgarria	_	_	_	_	_	_	_	_
 602	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTBER05
+# newdoc_id = SENTBER05
 1	Paradisu	_	_	_	_	_	_	_	BeginSeg=Yes
 2	zinemak	_	_	_	_	_	_	_	_
 3	/	_	_	_	_	_	_	_	_
@@ -18070,7 +18070,7 @@
 367	emana	_	_	_	_	_	_	_	_
 368	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTCOR01
+# newdoc_id = SENTCOR01
 1	Kapital	_	_	_	_	_	_	_	BeginSeg=Yes
 2	publikoa	_	_	_	_	_	_	_	_
 3	/	_	_	_	_	_	_	_	_
@@ -18376,7 +18376,7 @@
 303	"	_	_	_	_	_	_	_	_
 304	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTCOR02
+# newdoc_id = SENTCOR02
 1	Odol	_	_	_	_	_	_	_	BeginSeg=Yes
 2	mamituak	_	_	_	_	_	_	_	_
 3	/	_	_	_	_	_	_	_	_
@@ -18662,7 +18662,7 @@
 283	dirudi	_	_	_	_	_	_	_	_
 284	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTDEI01
+# newdoc_id = SENTDEI01
 1	Erraiak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	/	_	_	_	_	_	_	_	_
 3	Danele	_	_	_	_	_	_	_	_
@@ -19129,7 +19129,7 @@
 464	ere	_	_	_	_	_	_	_	_
 465	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTEIB01
+# newdoc_id = SENTEIB01
 1	Sargori	_	_	_	_	_	_	_	BeginSeg=Yes
 2	/	_	_	_	_	_	_	_	_
 3	Pello	_	_	_	_	_	_	_	_
@@ -19363,7 +19363,7 @@
 231	horregatik	_	_	_	_	_	_	_	_
 232	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTFAR01
+# newdoc_id = SENTFAR01
 1	Gure	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Jerusalem	_	_	_	_	_	_	_	_
 3	galdua	_	_	_	_	_	_	_	_
@@ -19517,7 +19517,7 @@
 151	semeari	_	_	_	_	_	_	_	_
 152	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTGAR01
+# newdoc_id = SENTGAR01
 1	Argiaren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	erreinua	_	_	_	_	_	_	_	_
 3	/	_	_	_	_	_	_	_	_
@@ -20011,7 +20011,7 @@
 491	erreinua	_	_	_	_	_	_	_	_
 492	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTHIR01
+# newdoc_id = SENTHIR01
 1	Alkasoroko	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Benta	_	_	_	_	_	_	_	_
 3	/	_	_	_	_	_	_	_	_
@@ -20368,7 +20368,7 @@
 354	dizkizuna	_	_	_	_	_	_	_	_
 355	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTIRU01
+# newdoc_id = SENTIRU01
 1	Sargori	_	_	_	_	_	_	_	BeginSeg=Yes
 2	/	_	_	_	_	_	_	_	_
 3	Pello	_	_	_	_	_	_	_	_
@@ -20723,7 +20723,7 @@
 352	ere	_	_	_	_	_	_	_	_
 353	.	_	_	_	_	_	_	_	_
 
-# newdoc id = SENTPUT02
+# newdoc_id = SENTPUT02
 1	Odolbildua	_	_	_	_	_	_	_	BeginSeg=Yes
 2	/	_	_	_	_	_	_	_	_
 3	Josu	_	_	_	_	_	_	_	_
@@ -21156,7 +21156,7 @@
 430	!	_	_	_	_	_	_	_	_
 431	!	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM18
+# newdoc_id = TERM18
 1	Zientzia-arloko	_	_	_	_	_	_	_	BeginSeg=Yes
 2	terminologiaren	_	_	_	_	_	_	_	_
 3	normalizazio-joera	_	_	_	_	_	_	_	_
@@ -21361,7 +21361,7 @@
 202	aurretik	_	_	_	_	_	_	_	_
 203	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM19
+# newdoc_id = TERM19
 1	Terminologia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	normalizatzeak	_	_	_	_	_	_	_	_
 3	gizartean	_	_	_	_	_	_	_	_
@@ -21686,7 +21686,7 @@
 322	izateko	_	_	_	_	_	_	_	_
 323	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM23
+# newdoc_id = TERM23
 1	Irlanderaren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	bidezko	_	_	_	_	_	_	_	_
 3	hezkuntza	_	_	_	_	_	_	_	_
@@ -21941,7 +21941,7 @@
 252	ditugu	_	_	_	_	_	_	_	_
 253	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM30
+# newdoc_id = TERM30
 1	Terminologia-kudeaketa	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eta	_	_	_	_	_	_	_	_
 3	ezagutza-prozesaketa	_	_	_	_	_	_	_	_
@@ -22557,7 +22557,7 @@
 613	bestetik	_	_	_	_	_	_	_	_
 614	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM32
+# newdoc_id = TERM32
 1	Txinerarako	_	_	_	_	_	_	_	BeginSeg=Yes
 2	terminologia-eraikitzaile	_	_	_	_	_	_	_	_
 3	automatizatua	_	_	_	_	_	_	_	_
@@ -22828,7 +22828,7 @@
 268	dezaten	_	_	_	_	_	_	_	_
 269	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM34
+# newdoc_id = TERM34
 1	Argumentu-harremana	_	_	_	_	_	_	_	BeginSeg=Yes
 2	/	_	_	_	_	_	_	_	_
 3	eremu-harremana	_	_	_	_	_	_	_	_
@@ -23604,7 +23604,7 @@
 773	da	_	_	_	_	_	_	_	_
 774	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM39
+# newdoc_id = TERM39
 1	Lanbide-Heziketarako	_	_	_	_	_	_	_	BeginSeg=Yes
 2	baliabide	_	_	_	_	_	_	_	_
 3	terminologikoak	_	_	_	_	_	_	_	_
@@ -23806,7 +23806,7 @@
 199	ditugu	_	_	_	_	_	_	_	_
 200	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM40
+# newdoc_id = TERM40
 1	Informatika	_	_	_	_	_	_	_	BeginSeg=Yes
 2	juridikoko	_	_	_	_	_	_	_	_
 3	sistema	_	_	_	_	_	_	_	_
@@ -23926,7 +23926,7 @@
 117	duena	_	_	_	_	_	_	_	_
 118	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM48
+# newdoc_id = TERM48
 1	Terminologiaren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eta	_	_	_	_	_	_	_	_
 3	itzulpengintzaren	_	_	_	_	_	_	_	_
@@ -24244,7 +24244,7 @@
 315	gainean	_	_	_	_	_	_	_	_
 316	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM49
+# newdoc_id = TERM49
 1	Doppler	_	_	_	_	_	_	_	BeginSeg=Yes
 2	efektua	_	_	_	_	_	_	_	_
 3	eta	_	_	_	_	_	_	_	_
@@ -24446,7 +24446,7 @@
 199	dugula	_	_	_	_	_	_	_	_
 200	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM50
+# newdoc_id = TERM50
 1	Euskarak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	,	_	_	_	_	_	_	_	_
 3	katalanak	_	_	_	_	_	_	_	_
@@ -25000,7 +25000,7 @@
 551	baditugu	_	_	_	_	_	_	_	_
 552	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM51
+# newdoc_id = TERM51
 1	Toponimoen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	normalizazio	_	_	_	_	_	_	_	_
 3	lanetan	_	_	_	_	_	_	_	_
@@ -25644,7 +25644,7 @@
 641	iradokizunak	_	_	_	_	_	_	_	_
 642	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF11
+# newdoc_id = ZTF11
 1	Jatorri	_	_	_	_	_	_	_	BeginSeg=Yes
 2	elektronikoko	_	_	_	_	_	_	_	_
 3	fenomenoak	_	_	_	_	_	_	_	_
@@ -26078,7 +26078,7 @@
 431	dira	_	_	_	_	_	_	_	_
 432	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF12
+# newdoc_id = ZTF12
 1	Micro	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eta	_	_	_	_	_	_	_	_
 3	nanoposizionamentu	_	_	_	_	_	_	_	_
@@ -26482,7 +26482,7 @@
 401	datza	_	_	_	_	_	_	_	_
 402	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF13
+# newdoc_id = ZTF13
 1	RF	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eta	_	_	_	_	_	_	_	_
 3	mikrouhinak	_	_	_	_	_	_	_	_
@@ -26872,7 +26872,7 @@
 387	garapena	_	_	_	_	_	_	_	_
 388	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF14
+# newdoc_id = ZTF14
 1	Tektonika	_	_	_	_	_	_	_	BeginSeg=Yes
 2	,	_	_	_	_	_	_	_	_
 3	sedimentazio	_	_	_	_	_	_	_	_
@@ -27287,7 +27287,7 @@
 412	)	_	_	_	_	_	_	_	_
 413	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF16
+# newdoc_id = ZTF16
 1	Funtzio	_	_	_	_	_	_	_	BeginSeg=Yes
 2	askotako	_	_	_	_	_	_	_	_
 3	sistemak	_	_	_	_	_	_	_	_
@@ -27713,7 +27713,7 @@
 423	du	_	_	_	_	_	_	_	_
 424	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF17
+# newdoc_id = ZTF17
 1	Nanopartikulak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eta	_	_	_	_	_	_	_	_
 3	material	_	_	_	_	_	_	_	_
@@ -28162,7 +28162,7 @@
 446	dugu	_	_	_	_	_	_	_	_
 447	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF18
+# newdoc_id = ZTF18
 1	Energiarako	_	_	_	_	_	_	_	BeginSeg=Yes
 2	materialak	_	_	_	_	_	_	_	_
 3	:	_	_	_	_	_	_	_	_
@@ -28500,7 +28500,7 @@
 335	du	_	_	_	_	_	_	_	_
 336	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF2
+# newdoc_id = ZTF2
 1	Disrupzio	_	_	_	_	_	_	_	BeginSeg=Yes
 2	endokrinoa	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
@@ -28977,7 +28977,7 @@
 474	muskuiluetan	_	_	_	_	_	_	_	_
 475	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF20
+# newdoc_id = ZTF20
 1	Candida	_	_	_	_	_	_	_	BeginSeg=Yes
 2	albicans-en	_	_	_	_	_	_	_	_
 3	karakterizazio	_	_	_	_	_	_	_	_
@@ -29192,7 +29192,7 @@
 212	tratamendua	_	_	_	_	_	_	_	_
 213	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF3
+# newdoc_id = ZTF3
 1	Ingurumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	toxikogenomika	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
@@ -29582,7 +29582,7 @@
 387	)	_	_	_	_	_	_	_	_
 388	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF6
+# newdoc_id = ZTF6
 1	Huntington	_	_	_	_	_	_	_	BeginSeg=Yes
 2	gaixotasunaren	_	_	_	_	_	_	_	_
 3	agerpen	_	_	_	_	_	_	_	_
@@ -29926,7 +29926,7 @@
 341	da	_	_	_	_	_	_	_	_
 342	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF7
+# newdoc_id = ZTF7
 1	Genomika	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eta	_	_	_	_	_	_	_	_
 3	animalien	_	_	_	_	_	_	_	_
@@ -30176,7 +30176,7 @@
 247	da	_	_	_	_	_	_	_	_
 248	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF8
+# newdoc_id = ZTF8
 1	Genetika	_	_	_	_	_	_	_	BeginSeg=Yes
 2	eta	_	_	_	_	_	_	_	_
 3	ingurugiroaren	_	_	_	_	_	_	_	_
@@ -30565,7 +30565,7 @@
 386	baitu	_	_	_	_	_	_	_	_
 387	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ZTF9
+# newdoc_id = ZTF9
 1	Nanopartikula	_	_	_	_	_	_	_	BeginSeg=Yes
 2	magnetikoak	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_

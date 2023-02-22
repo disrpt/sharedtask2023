@@ -1,4 +1,4 @@
-# newdoc id = pilot20
+# newdoc_id = pilot20
 # sent_id = pilot20-1
 # speaker = Kittles
 # text = do we start
@@ -3388,7 +3388,7 @@
 2	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	1:obj	_
 3	!	!	PUNCT	.	_	1	punct	1:punct	_
 
-# newdoc id = s1-league3-game4
+# newdoc_id = s1-league3-game4
 # sent_id = s1-league3-game4-1
 # speaker = inca
 # text = good luck
@@ -3643,7 +3643,7 @@
 2	yuo	yuo	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	obj	1:obj	_
 3	later	later	ADV	RB	Degree=Pos	1	advmod	1:advmod	_
 
-# newdoc id = s1-league3-game5
+# newdoc_id = s1-league3-game5
 # sent_id = s1-league3-game5-1
 # speaker = Gaeilgeoir
 # text = hi
@@ -4805,7 +4805,7 @@
 # text = bravo
 1	bravo	bravo	PROPN	NNP	Number=Sing	0	root	0:root	BeginSeg=Yes
 
-# newdoc id = s2-league8-game2
+# newdoc_id = s2-league8-game2
 # sent_id = s2-league8-game2-1
 # speaker = Pantechnic
 # text = Can we delay just a couple of minutes ?
@@ -4898,7 +4898,7 @@
 4	another	another	DET	DT	_	5	det	5:det	_
 5	update	update	NOUN	NN	Number=Sing	3	obj	3:obj	_
 
-# newdoc id = s2-leagueM-game2
+# newdoc_id = s2-leagueM-game2
 # sent_id = s2-leagueM-game2-1
 # speaker = dmm
 # text = but I thought I should just get the game ready early !
@@ -7765,7 +7765,7 @@
 2	worries	worry	NOUN	NNS	Number=Plur	0	root	0:root	_
 3	!	!	PUNCT	.	_	2	punct	2:punct	_
 
-# newdoc id = s2-practice3
+# newdoc_id = s2-practice3
 # sent_id = s2-practice3-1
 # speaker = Kersti
 # text = anyone got a spare wheat or wood ?

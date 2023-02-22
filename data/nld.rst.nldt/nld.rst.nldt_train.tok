@@ -1,4 +1,4 @@
-# newdoc id = AD01_Andre
+# newdoc_id = AD01_Andre
 1	Verleidelijk	_	_	_	_	_	_	_	BeginSeg=Yes
 2	is	_	_	_	_	_	_	_	_
 3	het	_	_	_	_	_	_	_	_
@@ -271,7 +271,7 @@
 270	beperkt	_	_	_	_	_	_	_	_
 271	.	_	_	_	_	_	_	_	_
 
-# newdoc id = AD02_Atkins
+# newdoc_id = AD02_Atkins
 1	Nog	_	_	_	_	_	_	_	BeginSeg=Yes
 2	betere	_	_	_	_	_	_	_	_
 3	smaken	_	_	_	_	_	_	_	_
@@ -722,7 +722,7 @@
 448	Albert	_	_	_	_	_	_	_	_
 449	Heijn	_	_	_	_	_	_	_	_
 
-# newdoc id = AD03_Campina
+# newdoc_id = AD03_Campina
 1	Maak	_	_	_	_	_	_	_	BeginSeg=Yes
 2	elke	_	_	_	_	_	_	_	_
 3	dag	_	_	_	_	_	_	_	_
@@ -1054,7 +1054,7 @@
 329	Heijn	_	_	_	_	_	_	_	_
 330	.	_	_	_	_	_	_	_	_
 
-# newdoc id = AD04_BOSE
+# newdoc_id = AD04_BOSE
 1	Hightech	_	_	_	_	_	_	_	BeginSeg=Yes
 2	kan	_	_	_	_	_	_	_	_
 3	eenvoudig	_	_	_	_	_	_	_	_
@@ -1368,7 +1368,7 @@
 311	bezoek	_	_	_	_	_	_	_	_
 312	www.bose321.nl	_	_	_	_	_	_	_	_
 
-# newdoc id = AD05_Ford
+# newdoc_id = AD05_Ford
 1	Nu	_	_	_	_	_	_	_	BeginSeg=Yes
 2	met	_	_	_	_	_	_	_	_
 3	4.450	_	_	_	_	_	_	_	_
@@ -1584,7 +1584,7 @@
 213	komen	_	_	_	_	_	_	_	_
 214	.	_	_	_	_	_	_	_	_
 
-# newdoc id = AD06_Triodos
+# newdoc_id = AD06_Triodos
 1	Geld	_	_	_	_	_	_	_	BeginSeg=Yes
 2	maakt	_	_	_	_	_	_	_	_
 3	gelukkig	_	_	_	_	_	_	_	_
@@ -1815,7 +1815,7 @@
 228	doen	_	_	_	_	_	_	_	_
 229	!	_	_	_	_	_	_	_	_
 
-# newdoc id = AD07_ASN
+# newdoc_id = AD07_ASN
 1	Rente	_	_	_	_	_	_	_	BeginSeg=Yes
 2	tot	_	_	_	_	_	_	_	_
 3	3,5%	_	_	_	_	_	_	_	_
@@ -2078,7 +2078,7 @@
 260	toepassing	_	_	_	_	_	_	_	_
 261	.	_	_	_	_	_	_	_	_
 
-# newdoc id = AD08_ABN_AMRO
+# newdoc_id = AD08_ABN_AMRO
 1	Met	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	Buitenland	_	_	_	_	_	_	_	_
@@ -2238,7 +2238,7 @@
 157	op	_	_	_	_	_	_	_	_
 158	www.abnamro.nl/buitenlandhypotheek	_	_	_	_	_	_	_	_
 
-# newdoc id = AD09_Robijn
+# newdoc_id = AD09_Robijn
 1	Robijn	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Crème	_	_	_	_	_	_	_	_
 3	wasverzachter	_	_	_	_	_	_	_	_
@@ -2545,7 +2545,7 @@
 304	opnieuw	_	_	_	_	_	_	_	_
 305	!	_	_	_	_	_	_	_	_
 
-# newdoc id = AD10_DeBoed
+# newdoc_id = AD10_DeBoed
 1	Maïsscharreleieren	_	_	_	_	_	_	_	BeginSeg=Yes
 2	van	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -2720,7 +2720,7 @@
 172	Fairfood	_	_	_	_	_	_	_	_
 173	.	_	_	_	_	_	_	_	_
 
-# newdoc id = AD11_NRC_e-paper
+# newdoc_id = AD11_NRC_e-paper
 1	NRC	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Handelsblad	_	_	_	_	_	_	_	_
 3	verschijnt	_	_	_	_	_	_	_	_
@@ -3030,7 +3030,7 @@
 307	,	_	_	_	_	_	_	_	_
 308	Mobipocket	_	_	_	_	_	_	_	_
 
-# newdoc id = AD12_African_holidays
+# newdoc_id = AD12_African_holidays
 1	Safari	_	_	_	_	_	_	_	BeginSeg=Yes
 2	in	_	_	_	_	_	_	_	_
 3	Afrika	_	_	_	_	_	_	_	_
@@ -3232,7 +3232,7 @@
 199	op	_	_	_	_	_	_	_	_
 200	www.africanholidays.nl	_	_	_	_	_	_	_	_
 
-# newdoc id = AD13_Arke
+# newdoc_id = AD13_Arke
 1	LIVE	_	_	_	_	_	_	_	BeginSeg=Yes
 2	THE	_	_	_	_	_	_	_	_
 3	FESTIVAL	_	_	_	_	_	_	_	_
@@ -3553,7 +3553,7 @@
 318	Tourism	_	_	_	_	_	_	_	_
 319	Board	_	_	_	_	_	_	_	_
 
-# newdoc id = AD14_CarpeDiem
+# newdoc_id = AD14_CarpeDiem
 1	CARPE	_	_	_	_	_	_	_	BeginSeg=Yes
 2	DIEM	_	_	_	_	_	_	_	_
 3	100	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -3697,7 +3697,7 @@
 141	lekker	_	_	_	_	_	_	_	_
 142	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE01_Zon
+# newdoc_id = EE01_Zon
 1	De	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Zon	_	_	_	_	_	_	_	_
 3	De	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -4015,7 +4015,7 @@
 315	zien	_	_	_	_	_	_	_	_
 316	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE02_Mercurius
+# newdoc_id = EE02_Mercurius
 1	Mercurius	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Mercurius	_	_	_	_	_	_	_	BeginSeg=Yes
 3	is	_	_	_	_	_	_	_	_
@@ -4340,7 +4340,7 @@
 322	ontstaan	_	_	_	_	_	_	_	_
 323	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE03_Venus
+# newdoc_id = EE03_Venus
 1	Venus	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Van	_	_	_	_	_	_	_	BeginSeg=Yes
 3	alle	_	_	_	_	_	_	_	_
@@ -4703,7 +4703,7 @@
 360	klein	_	_	_	_	_	_	_	_
 361	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE04_Saturnus
+# newdoc_id = EE04_Saturnus
 1	Saturnus	_	_	_	_	_	_	_	BeginSeg=Yes
 2	De	_	_	_	_	_	_	_	BeginSeg=Yes
 3	ring	_	_	_	_	_	_	_	_
@@ -5088,7 +5088,7 @@
 382	en	_	_	_	_	_	_	_	_
 383	II.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE05_Jupiter
+# newdoc_id = EE05_Jupiter
 1	Jupiter	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Jupiter	_	_	_	_	_	_	_	BeginSeg=Yes
 3	is	_	_	_	_	_	_	_	_
@@ -5604,7 +5604,7 @@
 513	bestaan	_	_	_	_	_	_	_	_
 514	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE06_Pluto
+# newdoc_id = EE06_Pluto
 1	Pluto	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Pluto	_	_	_	_	_	_	_	BeginSeg=Yes
 3	werd	_	_	_	_	_	_	_	_
@@ -6053,7 +6053,7 @@
 446	ingevangen	_	_	_	_	_	_	_	_
 447	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE07_Eris
+# newdoc_id = EE07_Eris
 1	Eris	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Eris	_	_	_	_	_	_	_	BeginSeg=Yes
 3	is	_	_	_	_	_	_	_	_
@@ -6306,7 +6306,7 @@
 250	)	_	_	_	_	_	_	_	_
 251	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE08_Oortwolk
+# newdoc_id = EE08_Oortwolk
 1	Oortwolk	_	_	_	_	_	_	_	BeginSeg=Yes
 2	De	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Oortwolk	_	_	_	_	_	_	_	_
@@ -6655,7 +6655,7 @@
 346	gezien	_	_	_	_	_	_	_	_
 347	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE09_Planetaire_nevels
+# newdoc_id = EE09_Planetaire_nevels
 1	Planetaire	_	_	_	_	_	_	_	BeginSeg=Yes
 2	nevels	_	_	_	_	_	_	_	_
 3	Planetaire	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -7035,7 +7035,7 @@
 377	weggeblazen	_	_	_	_	_	_	_	_
 378	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE10_Phobos
+# newdoc_id = EE10_Phobos
 1	Phobos	_	_	_	_	_	_	_	BeginSeg=Yes
 2	(	_	_	_	_	_	_	_	_
 3	Marsmaan	_	_	_	_	_	_	_	_
@@ -7343,7 +7343,7 @@
 305	zijn	_	_	_	_	_	_	_	_
 306	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE11_Zwarte_gaten
+# newdoc_id = EE11_Zwarte_gaten
 1	Zwarte	_	_	_	_	_	_	_	BeginSeg=Yes
 2	gaten	_	_	_	_	_	_	_	_
 3	Als	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -7674,7 +7674,7 @@
 328	duidelijk	_	_	_	_	_	_	_	_
 329	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE12_Rhea
+# newdoc_id = EE12_Rhea
 1	Rhea	_	_	_	_	_	_	_	BeginSeg=Yes
 2	(	_	_	_	_	_	_	_	_
 3	Saturnusmaan	_	_	_	_	_	_	_	_
@@ -7968,7 +7968,7 @@
 291	was	_	_	_	_	_	_	_	_
 292	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE13_Kosmische_straling
+# newdoc_id = EE13_Kosmische_straling
 1	Kosmische	_	_	_	_	_	_	_	BeginSeg=Yes
 2	straling	_	_	_	_	_	_	_	_
 3	Kosmische	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -8365,7 +8365,7 @@
 394	lichaam	_	_	_	_	_	_	_	_
 395	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE14_Planetaire_nevels_B
+# newdoc_id = EE14_Planetaire_nevels_B
 1	Planetaire	_	_	_	_	_	_	_	BeginSeg=Yes
 2	nevel	_	_	_	_	_	_	_	_
 3	Planetaire	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -8781,7 +8781,7 @@
 413	verhit	_	_	_	_	_	_	_	_
 414	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FL01_Dierenbescherming
+# newdoc_id = FL01_Dierenbescherming
 1	Drie	_	_	_	_	_	_	_	BeginSeg=Yes
 2	dagen	_	_	_	_	_	_	_	_
 3	non-stop	_	_	_	_	_	_	_	_
@@ -9039,7 +9039,7 @@
 255	bedankt	_	_	_	_	_	_	_	_
 256	!	_	_	_	_	_	_	_	_
 
-# newdoc id = FL02_Cliniclowns
+# newdoc_id = FL02_Cliniclowns
 1	Voor	_	_	_	_	_	_	_	BeginSeg=Yes
 2	2,50	_	_	_	_	_	_	_	_
 3	laat	_	_	_	_	_	_	_	_
@@ -9286,7 +9286,7 @@
 244	vergeten	_	_	_	_	_	_	_	_
 245	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FL03_Rode_kruis
+# newdoc_id = FL03_Rode_kruis
 1	Juist	_	_	_	_	_	_	_	BeginSeg=Yes
 2	na	_	_	_	_	_	_	_	_
 3	een	_	_	_	_	_	_	_	_
@@ -9625,7 +9625,7 @@
 336	in	_	_	_	_	_	_	_	_
 337	!	_	_	_	_	_	_	_	_
 
-# newdoc id = FL04_Diabetes
+# newdoc_id = FL04_Diabetes
 1	Help	_	_	_	_	_	_	_	BeginSeg=Yes
 2	diabetes	_	_	_	_	_	_	_	_
 3	te	_	_	_	_	_	_	_	_
@@ -9945,7 +9945,7 @@
 317	stoppen	_	_	_	_	_	_	_	_
 318	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FL05_Oxfam
+# newdoc_id = FL05_Oxfam
 1	Help	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Hamida	_	_	_	_	_	_	_	_
 3	in	_	_	_	_	_	_	_	_
@@ -10252,7 +10252,7 @@
 304	bieden	_	_	_	_	_	_	_	_
 305	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FL06_Revalidatie
+# newdoc_id = FL06_Revalidatie
 1	Vera	_	_	_	_	_	_	_	BeginSeg=Yes
 2	wil	_	_	_	_	_	_	_	_
 3	graag	_	_	_	_	_	_	_	_
@@ -10640,7 +10640,7 @@
 385	wel	_	_	_	_	_	_	_	_
 386	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FL07_Vluchtelingenwerk
+# newdoc_id = FL07_Vluchtelingenwerk
 1	Vluchten	_	_	_	_	_	_	_	BeginSeg=Yes
 2	en	_	_	_	_	_	_	_	_
 3	alles	_	_	_	_	_	_	_	_
@@ -10918,7 +10918,7 @@
 275	dank	_	_	_	_	_	_	_	_
 276	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FL08_Milieudefensie
+# newdoc_id = FL08_Milieudefensie
 1	Het	_	_	_	_	_	_	_	BeginSeg=Yes
 2	drama	_	_	_	_	_	_	_	_
 3	achter	_	_	_	_	_	_	_	_
@@ -11223,7 +11223,7 @@
 302	thuis	_	_	_	_	_	_	_	_
 303	!	_	_	_	_	_	_	_	_
 
-# newdoc id = FL09_Jantje_beton
+# newdoc_id = FL09_Jantje_beton
 1	Tien	_	_	_	_	_	_	_	BeginSeg=Yes
 2	tegen	_	_	_	_	_	_	_	_
 3	één	_	_	_	_	_	_	_	_
@@ -11514,7 +11514,7 @@
 288	dank	_	_	_	_	_	_	_	_
 289	,	_	_	_	_	_	_	_	_
 
-# newdoc id = FL10_Solidaridad
+# newdoc_id = FL10_Solidaridad
 1	Inkomen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	uit	_	_	_	_	_	_	_	_
 3	koffie	_	_	_	_	_	_	_	_
@@ -11814,7 +11814,7 @@
 297	jaar	_	_	_	_	_	_	_	_
 298	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FL11_Amref
+# newdoc_id = FL11_Amref
 1	Help	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ons	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -12292,7 +12292,7 @@
 475	is	_	_	_	_	_	_	_	_
 476	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FL12_Brandwonden
+# newdoc_id = FL12_Brandwonden
 1	STEUN	_	_	_	_	_	_	_	BeginSeg=Yes
 2	DE	_	_	_	_	_	_	_	_
 3	STRIJD	_	_	_	_	_	_	_	_
@@ -12620,7 +12620,7 @@
 325	steunen	_	_	_	_	_	_	_	_
 326	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FL13_Unicef
+# newdoc_id = FL13_Unicef
 1	Vorig	_	_	_	_	_	_	_	BeginSeg=Yes
 2	jaar	_	_	_	_	_	_	_	_
 3	heeft	_	_	_	_	_	_	_	_
@@ -12862,7 +12862,7 @@
 239	hulpmiddelen	_	_	_	_	_	_	_	_
 240	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FL14_Dark_and_light
+# newdoc_id = FL14_Dark_and_light
 1	Geef	_	_	_	_	_	_	_	BeginSeg=Yes
 2	voor	_	_	_	_	_	_	_	_
 3	een	_	_	_	_	_	_	_	_
@@ -13176,7 +13176,7 @@
 311	rekenen	_	_	_	_	_	_	_	_
 312	?	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN01_Saturnus_ringen
+# newdoc_id = PSN01_Saturnus_ringen
 1	Hoe	_	_	_	_	_	_	_	BeginSeg=Yes
 2	zijn	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -13524,7 +13524,7 @@
 345	.	_	_	_	_	_	_	_	_
 346	"	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN02_Waterdamp
+# newdoc_id = PSN02_Waterdamp
 1	Waterdamp	_	_	_	_	_	_	_	BeginSeg=Yes
 2	in	_	_	_	_	_	_	_	_
 3	atmosfeer	_	_	_	_	_	_	_	_
@@ -13842,7 +13842,7 @@
 315	gevormd	_	_	_	_	_	_	_	_
 316	.	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN03_Zwarte_gaten
+# newdoc_id = PSN03_Zwarte_gaten
 1	Bewijzen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	zwarte	_	_	_	_	_	_	_	_
 3	gaten	_	_	_	_	_	_	_	_
@@ -14174,7 +14174,7 @@
 329	.	_	_	_	_	_	_	_	_
 330	"	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN04_Superaarde
+# newdoc_id = PSN04_Superaarde
 1	Twee	_	_	_	_	_	_	_	BeginSeg=Yes
 2	planeten	_	_	_	_	_	_	_	_
 3	en	_	_	_	_	_	_	_	_
@@ -14497,7 +14497,7 @@
 320	planeten	_	_	_	_	_	_	_	_
 321	.	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN05_Inslag_op_Jupiter
+# newdoc_id = PSN05_Inslag_op_Jupiter
 1	Wéér	_	_	_	_	_	_	_	BeginSeg=Yes
 2	inslag	_	_	_	_	_	_	_	_
 3	op	_	_	_	_	_	_	_	_
@@ -14742,7 +14742,7 @@
 242	terecht	_	_	_	_	_	_	_	_
 243	.	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN06_Zonnestelsel_ouder
+# newdoc_id = PSN06_Zonnestelsel_ouder
 1	Zonnestelsel	_	_	_	_	_	_	_	BeginSeg=Yes
 2	is	_	_	_	_	_	_	_	_
 3	ietsje	_	_	_	_	_	_	_	_
@@ -15050,7 +15050,7 @@
 305	Allende-meteoriet	_	_	_	_	_	_	_	_
 306	.	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN07_Trojaan
+# newdoc_id = PSN07_Trojaan
 1	Astronomen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ontdekken	_	_	_	_	_	_	_	_
 3	Trojaan	_	_	_	_	_	_	_	_
@@ -15303,7 +15303,7 @@
 250	was	_	_	_	_	_	_	_	_
 251	.	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN08_PC_neutronenster
+# newdoc_id = PSN08_PC_neutronenster
 1	Thuis-PC	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ontdekt	_	_	_	_	_	_	_	_
 3	neutronenster	_	_	_	_	_	_	_	_
@@ -15567,7 +15567,7 @@
 261	versneld	_	_	_	_	_	_	_	_
 262	.	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN09_Asteroide_bedreigt_aarde
+# newdoc_id = PSN09_Asteroide_bedreigt_aarde
 1	Asteroïde	_	_	_	_	_	_	_	BeginSeg=Yes
 2	bedreigt	_	_	_	_	_	_	_	_
 3	aarde	_	_	_	_	_	_	_	_
@@ -15865,7 +15865,7 @@
 295	geblazen	_	_	_	_	_	_	_	_
 296	!	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN10_Melkweg
+# newdoc_id = PSN10_Melkweg
 1	Zoef!	_	_	_	_	_	_	_	BeginSeg=Yes
 2	:	_	_	_	_	_	_	_	_
 3	ster	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -16212,7 +16212,7 @@
 344	helpen	_	_	_	_	_	_	_	_
 345	.	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN11_Utrecht_supernova
+# newdoc_id = PSN11_Utrecht_supernova
 1	Utrechtse	_	_	_	_	_	_	_	BeginSeg=Yes
 2	wetenschappers	_	_	_	_	_	_	_	_
 3	reconstrueren	_	_	_	_	_	_	_	_
@@ -16562,7 +16562,7 @@
 347	.	_	_	_	_	_	_	_	_
 348	"	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN12_Gevaarlijke_asteroiden
+# newdoc_id = PSN12_Gevaarlijke_asteroiden
 1	WISE	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ontdekt	_	_	_	_	_	_	_	_
 3	95	_	_	_	_	_	_	_	_
@@ -16947,7 +16947,7 @@
 382	worden	_	_	_	_	_	_	_	_
 383	.	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN13_Jongste_vulkaan
+# newdoc_id = PSN13_Jongste_vulkaan
 1	Jongste	_	_	_	_	_	_	_	BeginSeg=Yes
 2	vulkaan	_	_	_	_	_	_	_	_
 3	op	_	_	_	_	_	_	_	_
@@ -17373,7 +17373,7 @@
 423	prijsgeven	_	_	_	_	_	_	_	_
 424	.	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN14_Kepler
+# newdoc_id = PSN14_Kepler
 1	Kepler	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ontdekt	_	_	_	_	_	_	_	_
 3	honderden	_	_	_	_	_	_	_	_

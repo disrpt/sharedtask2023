@@ -1,4 +1,4 @@
-# newdoc id = BMCS_ESP1-GS
+# newdoc_id = BMCS_ESP1-GS
 1	Sección	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Cultural	_	_	_	_	_	_	_	_
 3	del	_	_	_	_	_	_	_	_
@@ -299,7 +299,7 @@
 298	)	_	_	_	_	_	_	_	_
 299	.	_	_	_	_	_	_	_	_
 
-# newdoc id = BMCS_ESP2-GS
+# newdoc_id = BMCS_ESP2-GS
 1	PROFESORES	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Y	_	_	_	_	_	_	_	_
 3	MÉTODOS	_	_	_	_	_	_	_	_
@@ -526,7 +526,7 @@
 224	divertido	_	_	_	_	_	_	_	_
 225	.	_	_	_	_	_	_	_	_
 
-# newdoc id = BMCS_ESP3-GS
+# newdoc_id = BMCS_ESP3-GS
 1	TIPOS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	DE	_	_	_	_	_	_	_	_
 3	CURSOS	_	_	_	_	_	_	_	_
@@ -824,7 +824,7 @@
 295	español	_	_	_	_	_	_	_	_
 296	.	_	_	_	_	_	_	_	_
 
-# newdoc id = CCICE_ESP-GS
+# newdoc_id = CCICE_ESP-GS
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Tesoro	_	_	_	_	_	_	_	_
 3	intentará	_	_	_	_	_	_	_	_
@@ -965,7 +965,7 @@
 138	emisiones	_	_	_	_	_	_	_	_
 139	.	_	_	_	_	_	_	_	_
 
-# newdoc id = CCICE_ESP1-GS
+# newdoc_id = CCICE_ESP1-GS
 1	Norteamérica	_	_	_	_	_	_	_	BeginSeg=Yes
 2	se	_	_	_	_	_	_	_	_
 3	convierte	_	_	_	_	_	_	_	_
@@ -1135,7 +1135,7 @@
 167	lapso	_	_	_	_	_	_	_	_
 168	.	_	_	_	_	_	_	_	_
 
-# newdoc id = CCICE_ESP2-GS
+# newdoc_id = CCICE_ESP2-GS
 1	España	_	_	_	_	_	_	_	BeginSeg=Yes
 2	se	_	_	_	_	_	_	_	_
 3	convierte	_	_	_	_	_	_	_	_
@@ -1325,7 +1325,7 @@
 187	)	_	_	_	_	_	_	_	_
 188	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_ESP1-GS
+# newdoc_id = EEP_ESP1-GS
 1	Empresa	_	_	_	_	_	_	_	BeginSeg=Yes
 2	española	_	_	_	_	_	_	_	_
 3	Aritex	_	_	_	_	_	_	_	_
@@ -1427,7 +1427,7 @@
 99	Shanghai	_	_	_	_	_	_	_	_
 100	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_ESP2-GS
+# newdoc_id = EEP_ESP2-GS
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	embajador	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -1705,7 +1705,7 @@
 275	:	_	_	_	_	_	_	_	_
 276	https://www.salvadordalimuseum.cn/	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_ESP3-GS
+# newdoc_id = EEP_ESP3-GS
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Secretaria	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -2007,7 +2007,7 @@
 299	respectivamente	_	_	_	_	_	_	_	_
 300	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_ESP4-GS
+# newdoc_id = EEP_ESP4-GS
 1	Celebración	_	_	_	_	_	_	_	BeginSeg=Yes
 2	II	_	_	_	_	_	_	_	_
 3	Foro	_	_	_	_	_	_	_	_
@@ -2274,7 +2274,7 @@
 264	Madrid	_	_	_	_	_	_	_	_
 265	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_ESP5-GS
+# newdoc_id = EEP_ESP5-GS
 1	I	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Foro	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -2418,7 +2418,7 @@
 141	otros	_	_	_	_	_	_	_	_
 142	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_ESP6-GS
+# newdoc_id = EEP_ESP6-GS
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	fotógrafa	_	_	_	_	_	_	_	_
 3	española	_	_	_	_	_	_	_	_
@@ -2638,7 +2638,7 @@
 217	Pekín	_	_	_	_	_	_	_	_
 218	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FICB_ESP1-GS
+# newdoc_id = FICB_ESP1-GS
 1	Visita	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	los	_	_	_	_	_	_	_	_
@@ -2780,7 +2780,7 @@
 139	académicos	_	_	_	_	_	_	_	_
 140	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FICB_ESP2-GS
+# newdoc_id = FICB_ESP2-GS
 1	Formación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	profesores	_	_	_	_	_	_	_	_
@@ -3046,7 +3046,7 @@
 263	FICB	_	_	_	_	_	_	_	_
 264	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FICB_ESP3-GS
+# newdoc_id = FICB_ESP3-GS
 1	Celebración	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	Concurso	_	_	_	_	_	_	_	_
@@ -3169,7 +3169,7 @@
 120	Barcelona	_	_	_	_	_	_	_	_
 121	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ICEG_ESP1-GS
+# newdoc_id = ICEG_ESP1-GS
 1	Presentación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	El	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Instituto	_	_	_	_	_	_	_	_
@@ -3630,7 +3630,7 @@
 458	organización	_	_	_	_	_	_	_	_
 459	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ICEG_ESP2-GS
+# newdoc_id = ICEG_ESP2-GS
 1	Talleres	_	_	_	_	_	_	_	BeginSeg=Yes
 2	La	_	_	_	_	_	_	_	BeginSeg=Yes
 3	difusión	_	_	_	_	_	_	_	_
@@ -3755,7 +3755,7 @@
 122	Granada	_	_	_	_	_	_	_	_
 123	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ICP_ESP1-GS
+# newdoc_id = ICP_ESP1-GS
 1	Presentación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	institucional	_	_	_	_	_	_	_	_
 3	El	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -3954,7 +3954,7 @@
 196	latinoamericanas	_	_	_	_	_	_	_	_
 197	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ICP_ESP2-GS
+# newdoc_id = ICP_ESP2-GS
 1	Exposición	_	_	_	_	_	_	_	BeginSeg=Yes
 2	:	_	_	_	_	_	_	_	_
 3	¿	_	_	_	_	_	_	_	_
@@ -4446,7 +4446,7 @@
 489	otras	_	_	_	_	_	_	_	_
 490	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ICP_ESP3-GS
+# newdoc_id = ICP_ESP3-GS
 1	Actividades	_	_	_	_	_	_	_	BeginSeg=Yes
 2	culturales	_	_	_	_	_	_	_	_
 3	Además	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -4717,7 +4717,7 @@
 268	cult1pek@cervantes	_	_	_	_	_	_	_	_
 269	.es	_	_	_	_	_	_	_	_
 
-# newdoc id = ICP_ESP4-GS
+# newdoc_id = ICP_ESP4-GS
 1	Trabaja	_	_	_	_	_	_	_	BeginSeg=Yes
 2	en	_	_	_	_	_	_	_	_
 3	español	_	_	_	_	_	_	_	_
@@ -4926,7 +4926,7 @@
 206	10	_	_	_	_	_	_	_	_
 207	58799670	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM18_ESP-GS
+# newdoc_id = TERM18_ESP-GS
 1	Tendencias	_	_	_	_	_	_	_	BeginSeg=Yes
 2	generales	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -5242,7 +5242,7 @@
 313	estructural	_	_	_	_	_	_	_	_
 314	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM19_ESP-GS
+# newdoc_id = TERM19_ESP-GS
 1	Dimensión	_	_	_	_	_	_	_	BeginSeg=Yes
 2	social	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -5601,7 +5601,7 @@
 356	actual	_	_	_	_	_	_	_	_
 357	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM23_ESP-GS
+# newdoc_id = TERM23_ESP-GS
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	creación	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -5937,7 +5937,7 @@
 333	irlandés	_	_	_	_	_	_	_	_
 334	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM25_ESP-GS
+# newdoc_id = TERM25_ESP-GS
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	terminología	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -6207,7 +6207,7 @@
 267	discurso	_	_	_	_	_	_	_	_
 268	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM28_ESP-GS
+# newdoc_id = TERM28_ESP-GS
 1	Metodología	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	vaciado	_	_	_	_	_	_	_	_
@@ -6563,7 +6563,7 @@
 353	metodología	_	_	_	_	_	_	_	_
 354	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM29_ESP-GS
+# newdoc_id = TERM29_ESP-GS
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	diseño	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
@@ -6778,7 +6778,7 @@
 212	resultados	_	_	_	_	_	_	_	_
 213	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM30_ESP-GS
+# newdoc_id = TERM30_ESP-GS
 1	Gestión	_	_	_	_	_	_	_	BeginSeg=Yes
 2	terminológica	_	_	_	_	_	_	_	_
 3	y	_	_	_	_	_	_	_	_
@@ -7644,7 +7644,7 @@
 863	otra	_	_	_	_	_	_	_	_
 864	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM31_ESP-GS
+# newdoc_id = TERM31_ESP-GS
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	vaciado	_	_	_	_	_	_	_	_
 3	terminológico	_	_	_	_	_	_	_	_
@@ -8389,7 +8389,7 @@
 742	decisivo	_	_	_	_	_	_	_	_
 743	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM32_ESP-GS
+# newdoc_id = TERM32_ESP-GS
 1	Un	_	_	_	_	_	_	_	BeginSeg=Yes
 2	constructor	_	_	_	_	_	_	_	_
 3	terminológico	_	_	_	_	_	_	_	_
@@ -8779,7 +8779,7 @@
 387	escoger	_	_	_	_	_	_	_	_
 388	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM34_ESP-GS
+# newdoc_id = TERM34_ESP-GS
 1	Relación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	argumento	_	_	_	_	_	_	_	_
@@ -9889,7 +9889,7 @@
 1107	vecinas	_	_	_	_	_	_	_	_
 1108	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM38_ESP-GS
+# newdoc_id = TERM38_ESP-GS
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	neología	_	_	_	_	_	_	_	_
 3	contrarreloj	_	_	_	_	_	_	_	_

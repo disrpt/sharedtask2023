@@ -1,4 +1,4 @@
-# newdoc id = etemad002
+# newdoc_id = etemad002
 # sent_id = etemad002-1
 # text = آثار نظامیگنجوی تواناییهای منحصربهفردی دارد که فراتر از مرزهای فرهنگیای میرود که آن را تولید کرده است و میتواند با مخاطبان مختلف در جهان با سنجهها و سلیقههای متفاوت گفتوگو کند و بدین سبب است که نظامی یکی از پنج سخنسرای بزرگ ایران و یکی از سرایندگان بزرگ ادبیات جهان است .
 1	آثار	اثر	NOUN	N_PL	Number=Plur	5	nsubj	_	BeginSeg=Yes
@@ -655,7 +655,7 @@
 75	باشند	بود#باش	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	74	aux	_	_
 76	.	.	PUNCT	DELM	_	20	punct	_	_
 
-# newdoc id = etemad003
+# newdoc_id = etemad003
 # sent_id = etemad003-1
 # text = طرح شفافیت آرای نمایندگان از طرف دوست ما جناب آقای فتحی مطرح شد .
 1	طرح	طرح	NOUN	N_SING	Number=Sing	12	nsubj	_	BeginSeg=Yes
@@ -1265,7 +1265,7 @@
 33	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	22	ccomp	_	_
 34	.	.	PUNCT	DELM	_	2	punct	_	_
 
-# newdoc id = etemad004
+# newdoc_id = etemad004
 # sent_id = etemad004-1
 # text = اقتصاد هر کشوری برای کارکرد مناسب نیازمند نهادهای مختلف است و اقتصاد ایران نیز از این موضوع مستثنی نیست .
 1	اقتصاد	اقتصاد	NOUN	N_SING	Number=Sing	7	nsubj	_	BeginSeg=Yes
@@ -2012,7 +2012,7 @@
 29	ندارد	داشت#دار	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	7	conj	_	_
 30	.	.	PUNCT	DELM	_	6	punct	_	_
 
-# newdoc id = etemad005
+# newdoc_id = etemad005
 # sent_id = etemad005-1
 # text = نرخ ارز تحتتاثیر عوامل مختلفی قرار دارد که بدون دقت در آنها نمیتوانیم شرایط بازار و تغییرات یا التهابات ارزی را بررسی کنیم .
 1	نرخ	نرخ	NOUN	N_SING	Number=Sing	7	nsubj	_	BeginSeg=Yes
@@ -2478,7 +2478,7 @@
 19	بود	بود#باش	AUX	V_PA	Number=Sing|Person=3|Tense=Past	18	cop	_	_
 20	.	.	PUNCT	DELM	_	18	punct	_	_
 
-# newdoc id = etemad006
+# newdoc_id = etemad006
 # sent_id = etemad006-1
 # text = من منتقد رفتارها و برخوردهای خشن با دختران و زنان هستم و به نظرم اینگونه برخوردها باعث نمیشود که زنان به حجاب روی بیاورند .
 1	من	من	PRON	PRO	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	BeginSeg=Yes
@@ -3288,7 +3288,7 @@
 64	زد	زد#زن	VERB	V_PA	Number=Sing|Person=3|Tense=Past	47	conj	_	_
 65	.	.	PUNCT	DELM	_	14	punct	_	_
 
-# newdoc id = etemad010
+# newdoc_id = etemad010
 # sent_id = etemad010-1
 # text = باید مبارزه با پولشویی را به عنوان یک فرصت پاس بداریم ؛ روشن است که این اتفاق نفع اقتصاد ایران است ؛ مبارزه با پولشویی ، مبارزه با پولهای کثیف ، قاچاق کالا و ارز ، مواد مخدر و … این مبارزه باید در دستور کار تمام حاکمیت قرار گیرد .
 1	باید	بایست#باید	AUX	V_AUX	VerbForm=Inf	11	aux	_	BeginSeg=Yes
@@ -3829,7 +3829,7 @@
 30	میشوند	کرد#کن	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	24	conj	_	_
 31	.	.	PUNCT	DELM	_	24	punct	_	_
 
-# newdoc id = etemad011
+# newdoc_id = etemad011
 # sent_id = etemad011-1
 # text = شهرداری پایتخت در جهان یکی از نهادهای بسیار مهم و دارای ابعادی فرهنگی ، اجتماعی ، اقتصادی و به سبب ماموریتهایش دارای جنبههایی سیاسی است .
 1	شهرداری	شهرداری	NOUN	N_SING	Number=Sing	5	nsubj	_	BeginSeg=Yes
@@ -4316,7 +4316,7 @@
 19	کند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 20	.	.	PUNCT	DELM	_	19	punct	_	_
 
-# newdoc id = etemad012
+# newdoc_id = etemad012
 # sent_id = etemad012-1
 # text = مذاکره یکی از اصول جدی ، کم هزینه و مهم ترین راهبرد بین دولتها و قدرتها برای پیشبرد منافع ملی شان است .
 1	مذاکره	مذاکره	NOUN	N_SING	Number=Sing	22	nsubj	_	BeginSeg=Yes
@@ -4727,7 +4727,7 @@
 23	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	20	cop	_	_
 24	.	.	PUNCT	DELM	_	14	punct	_	_
 
-# newdoc id = etemad013
+# newdoc_id = etemad013
 # sent_id = etemad013-1
 # text = آقای جهانگیری یکی از امتیازات ویژه دولت بود اما آقای رییس جمهور آنچنان که شایسته و بایسته است از این ظرفیت بهره گیری نکرد .
 1	آقای	آقا	NOUN	N_SING	Number=Sing	3	nsubj	_	BeginSeg=Yes
@@ -4995,7 +4995,7 @@
 19	کند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	8	ccomp	_	_
 20	.	.	PUNCT	DELM	_	8	punct	_	_
 
-# newdoc id = etemad014
+# newdoc_id = etemad014
 # sent_id = etemad014-1
 # text = علاقهمندی نهادهای مختلف به تاسیس بانک غیر قابل درک است .
 1	علاقهمندی	علاقهمندی	NOUN	N_SING	Number=Sing	8	nsubj	_	BeginSeg=Yes
@@ -5379,7 +5379,7 @@
 9	نشود	کرد#کن	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	8	cop	_	_
 10	.	.	PUNCT	DELM	_	1	punct	_	_
 
-# newdoc id = etemad015
+# newdoc_id = etemad015
 # sent_id = etemad015-1
 # text = مایکل کوهن ؛ فردی که روزگاری وکیل شخصی و کارچاق کن غول مسکن نیویورکی بود ، در برابر دیدگان اعضای کمیته نظارت مجلس نمایندگان و دیدگان بهت زده میلیونها تن در داخل و خارج از امریکا که به صفحه تلویزیونهای خود خیره مانده بودند ، سنگین ترین اتهامات ممکن را به رییس جمهوری امریکا وارد کرد .
 1	مایکل	مایکل	NOUN	N_SING	Number=Sing	56	nsubj	_	BeginSeg=Yes
@@ -5819,7 +5819,7 @@
 23	درهانوی	درهانوی	NOUN	N_PL	Number=Plur	22	nmod:poss	_	_
 24	.	.	PUNCT	DELM	_	8	punct	_	_
 
-# newdoc id = etemad016
+# newdoc_id = etemad016
 # sent_id = etemad016-1
 # text = متشکل شدن را در دنیا به عنوان یکی از مهمترین ابزارهای طبقه کارگر میشناسند و بقیه هم بر همین عقیده هستند که یکی از ابزارهای مهم برای کارگران داشتن تشکل مقتدر است .
 1	متشکل	متشکل	ADJ	ADJ	Degree=Pos	2	compound:lvc	_	BeginSeg=Yes
@@ -6379,7 +6379,7 @@
 68	کند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	55	conj	_	_
 69	.	.	PUNCT	DELM	_	8	punct	_	_
 
-# newdoc id = etemad017
+# newdoc_id = etemad017
 # sent_id = etemad017-1
 # text = بنیاد مستضعفان از نظر تشکیلات و نوع مدیریت در زمره هلدینگهای اقتصادی است که در دو دهه اول بعد از انقلاب اسلامی خودش را ورای قوانین بانک مرکزی و وزارت اقتصاد میدانست و به گزارش دادن قایل نبود .
 1	بنیاد	بنیاد	NOUN	N_SING	Number=Sing	13	nsubj	_	BeginSeg=Yes
@@ -6723,7 +6723,7 @@
 26	بردارند	بر#داشت#دار	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	20	conj	_	_
 27	.	.	PUNCT	DELM	_	3	punct	_	_
 
-# newdoc id = etemad018
+# newdoc_id = etemad018
 # sent_id = etemad018-1
 # text = چرایی دنبال کردن بحث عفو عمومی مساله مهمی است که اگر مخالفان به آن توجه کنند از میزان مخالفت شان کاسته خواهد شد .
 1	چرایی	چرایی	NOUN	N_SING	Number=Sing	7	nsubj	_	BeginSeg=Yes
@@ -7077,7 +7077,7 @@
 22	نکردهاند	کرد#کن	VERB	V_PP	Number=Plur|Person=3|Polarity=Neg|VerbForm=Part	14	conj	_	_
 23	.	.	PUNCT	DELM	_	8	punct	_	_
 
-# newdoc id = etemad019
+# newdoc_id = etemad019
 # sent_id = etemad019-1
 # text = قانون اساسی جمهوری اسلامی به حق برگزاری تجمعات و راهپیماییهای اعتراضی از سوی مردم تاکید کرده است اما با وجود این که این مساله جزومطالبات مردم بود ، معطل ماند .
 1	قانون	قانون	NOUN	N_SING	Number=Sing	16	nsubj	_	BeginSeg=Yes
@@ -7490,7 +7490,7 @@
 9	بگیرد	گرفت#گیر	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	3	ccomp	_	_
 10	.	.	PUNCT	DELM	_	3	punct	_	_
 
-# newdoc id = etemad020
+# newdoc_id = etemad020
 # sent_id = etemad020-1
 # text = بعد از اظهارنظرهای مختلف و متفاوت در مورد دوچرخه سواری بانوان ، بالاخره دیروز سخنگوی قوه قضاییه در اظهارنظری رسمی اعلام کرد که دوچرخه سواری بانوان از منظر قانونی مشکلی ندارد ؛ اعلام نظری که به نوعی میتواند فصل الخطابی برای مناقشه عجیب « دوچرخه سواری بانوان » باشد .
 1	بعد	بعد	ADV	ADV_TIME	Case=Tem	22	advmod	_	BeginSeg=Yes
@@ -7984,7 +7984,7 @@
 71	کنند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	55	ccomp	_	_
 72	.	.	PUNCT	DELM	_	2	punct	_	_
 
-# newdoc id = etemad021
+# newdoc_id = etemad021
 # sent_id = etemad021-1
 # text = انصراف دو خریدار بزرگ چینی خبر شوکه کننده برای فعالان حوزه انرژی نیست ، سیاستهای فروش نفت در دوران تحریم دستخوش تغییرات گسترده شده است .
 1	انصراف	انصراف	NOUN	N_SING	Number=Sing	6	nsubj	_	BeginSeg=Yes
@@ -8400,7 +8400,7 @@
 40	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	39	aux	_	_
 41	.	.	PUNCT	DELM	_	5	punct	_	_
 
-# newdoc id = etemad022
+# newdoc_id = etemad022
 # sent_id = etemad022-1
 # text = « مشق شب » ابزاری ارتباطی بین دانش آموز ، والدین و اولیای مدرسه بوده است .
 1	«	«	PUNCT	DELM	_	5	punct	_	BeginSeg=Yes
@@ -9090,7 +9090,7 @@
 36	نشوند	نشوند	AUX	V_SUB	Mood=Sub|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	35	cop	_	_
 37	.	.	PUNCT	DELM	_	7	punct	_	_
 
-# newdoc id = etemad025
+# newdoc_id = etemad025
 # sent_id = etemad025-1
 # text = مردمان جنوب در جنگ هشت ساله به شیوههای مختلف به زندگی شان ادامه دادند و مرارتهای بسیاری را از سر گذراندند ، یاد گرفتهاند که در برابر حوادث و مشکلات به توان خودشان نگاه کنند .
 1	مردمان	مردم	NOUN	N_PL	Number=Plur	14	nsubj	_	BeginSeg=Yes
@@ -9692,7 +9692,7 @@
 21	میگیرند	_	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	15	conj	_	_
 22	.	.	PUNCT	DELM	_	15	punct	_	_
 
-# newdoc id = etemad026
+# newdoc_id = etemad026
 # sent_id = etemad026-1
 # text = به صورت بدیهی در هر سازمان و وزارتخانه ای ، مجموعهای اسناد و اطلاعات سری ، محرمانه و طبقه بندی شده وجود دارد .
 1	به	به	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -10070,7 +10070,7 @@
 76	شود	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	75	aux:pass	_	_
 77	.	.	PUNCT	DELM	_	45	punct	_	_
 
-# newdoc id = etemad028
+# newdoc_id = etemad028
 # sent_id = etemad028-1
 # text = تنگه هرمز یکی از مهم ترین مسیرهای عبور نفت محسوب میشود و تا امروز ایران به عنوان کشوری که در شمال این تنگه قرار دارد همواره از عبور و مرور نفتکشها و کشتیهای تجاری محافظت کرده است به طوری که امروز این مسیر به عنوان یکی از امن ترین مسیرها بوده که البته این امر مرهون زحمات مرزداران هوایی و دریایی ایرانی است .
 1	تنگه	تنگه	NOUN	N_SING	Number=Sing	10	nsubj	_	BeginSeg=Yes
@@ -10559,7 +10559,7 @@
 21	دارد	داشت#دار	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	8	ccomp	_	_
 22	.	.	PUNCT	DELM	_	8	punct	_	_
 
-# newdoc id = etemad030
+# newdoc_id = etemad030
 # sent_id = etemad030-1
 # text = سال ۶۰ و زمانی که مسوولیت رادیو و تلویزیون به من واگذار شد ، به دلیل وابستگی این سازمان به نظام شاهنشاهی و پیش از انقلاب ، تسویه نیروی بسیاری در آن صورت گرفته بود .
 1	سال	سال	NOUN	N_SING	Number=Sing	34	advmod	_	BeginSeg=Yes
@@ -10952,7 +10952,7 @@
 16	کند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 17	.	.	PUNCT	DELM	_	16	punct	_	_
 
-# newdoc id = etemad031
+# newdoc_id = etemad031
 # sent_id = etemad031-1
 # text = بانک مرکزی در دوره اخیر مدیریت خود ، سیاستهایی را اتخاذ کرده است تا شرایط بحران بانکی را کنترل کند ؛ سیاستهایی که برای افزایش سرمایه در نظر گرفته شد توانست نسبت کفایت سرمایه به بدهی بانکها را در چند بانک بهبود بخشد و این انتظار ایجاد شود که در بقیه بانکها هم منتظر بهبود شرایط باشیم .
 1	بانک	بانک	NOUN	N_SING	Number=Sing	12	nsubj	_	BeginSeg=Yes
@@ -11371,7 +11371,7 @@
 27	شود	کرد#کن	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	26	cop	_	_
 28	.	.	PUNCT	DELM	_	26	punct	_	_
 
-# newdoc id = etemad032
+# newdoc_id = etemad032
 # sent_id = etemad032-1
 # text = رواج پولشویی در ایران و بسیاری کشورهای دیگر موضوعی غیرقابل انکار است و اتفاقا به دلیل این که پولشویی ، پدیدهای شایع و رایج بوده ، مجالس گذشته نیز در این رابطه قانونگذاری کرده اند .
 1	رواج	رواج	NOUN	N_SING	Number=Sing	11	nsubj	_	BeginSeg=Yes
@@ -12159,7 +12159,7 @@
 36	ببرند	برد#بر	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	27	ccomp	_	_
 37	.	.	PUNCT	DELM	_	25	punct	_	_
 
-# newdoc id = etemad033
+# newdoc_id = etemad033
 # sent_id = etemad033-1
 # text = دیروز مجلس ، روز نسبتا پرسروصدایی را پشت سر گذاشت .
 1	دیروز	دیروز	ADV	ADV_TIME	Case=Tem	10	advmod	_	BeginSeg=Yes
@@ -12600,7 +12600,7 @@
 39	نمیکنند	کرد#کن	VERB	V_PRS	Number=Plur|Person=3|Polarity=Neg|Tense=Pres	31	conj	_	_
 40	.	.	PUNCT	DELM	_	2	punct	_	_
 
-# newdoc id = etemad034
+# newdoc_id = etemad034
 # sent_id = etemad034-1
 # text = سفر رییسجمهور به هند را میتوان گامی مهم در مسیر پیچیده و پر چالش مدیریت روابط دو کشور بر شمرد .
 1	سفر	سفر	NOUN	N_SING	Number=Sing	20	obj	_	BeginSeg=Yes
@@ -13338,7 +13338,7 @@
 10	خم	خم	ADJ	ADJ	Degree=Pos	8	conj	_	_
 11	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	8	punct	_	_
 
-# newdoc id = etemad035
+# newdoc_id = etemad035
 # sent_id = etemad035-1
 # text = چند سال است که قرار بر این شده تا سازمان نظام ورزشی تاسیس شود .
 1	چند	چند	ADJ	ADJ	Degree=Pos	2	amod	_	BeginSeg=Yes
@@ -13762,7 +13762,7 @@
 13	نیست	هست	AUX	V_PRS	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	7	cop	_	_
 14	.	.	PUNCT	DELM	_	3	punct	_	_
 
-# newdoc id = etemad037
+# newdoc_id = etemad037
 # sent_id = etemad037-1
 # text = حسین شاه حسینی یکی از چهرههای فعال ، سرشناس و تاثیرگذار جبهه ملی بود .
 1	حسین	حسین	NOUN	N_SING	Number=Sing	4	nsubj	_	BeginSeg=Yes
@@ -14057,7 +14057,7 @@
 17	ماند	ماند#مان	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	_
 18	.	.	PUNCT	DELM	_	17	punct	_	_
 
-# newdoc id = etemad038
+# newdoc_id = etemad038
 # sent_id = etemad038-1
 # text = در خبرها آمده است « در صورت تصویب نمایندگان مجلس شورای اسلامی ، قیمت بنزین ۱۵۰۰ تومان میشود که اگر با پیشنهاد شهرداری تهران مبنی بر برقراری نرخ ۱۵ درصد عوارض بنزین مازاد بر وضع موجود در شهر تهران موافقت شود ، قیمت نهایی بنزین در تهران ۱۶۵۰ تومان خواهد شد . » من از یک طرف موافق با تصویب و اجرای این طرح هستم ، اما این موافقت مشروط است .
 1	در	در	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -14702,7 +14702,7 @@
 15	ببینیم	دید#بین	VERB	V_SUB	Mood=Sub|Number=Plur|Person=1|Tense=Pres	8	conj	_	_
 16	.	.	PUNCT	DELM	_	3	punct	_	_
 
-# newdoc id = etemad042
+# newdoc_id = etemad042
 # sent_id = etemad042-1
 # text = اوایل دهه ۴۰ وقتی سیاستگذاران وقت تصمیم به ادغام برخی وزارتخانهها گرفتند وزارت اقتصاد را از دارایی جدا کردند و با ادغام وزارتخانههای صنایع و معادن ، بازرگانی و بخش گمرک وزارت جدیدالتاسیس اقتصاد را شکل دادند .
 1	اوایل	اول	NOUN	N_PL	Number=Plur	12	nsubj	_	BeginSeg=Yes
@@ -15258,7 +15258,7 @@
 31	ایران	ایران	NOUN	N_SING	Number=Sing	30	nmod:poss	_	_
 32	.	.	PUNCT	DELM	_	16	punct	_	_
 
-# newdoc id = etemad043
+# newdoc_id = etemad043
 # sent_id = etemad043-1
 # text = مطالعات کمی و کیفی درباره فقر کاری پرهزینه و تعهدآور برای دولتهاست .
 1	مطالعات	مطالعه	NOUN	N_PL	Number=Plur	7	nsubj	_	BeginSeg=Yes
@@ -15871,7 +15871,7 @@
 36	ببیند	دید#بین	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	18	conj	_	_
 37	.	.	PUNCT	DELM	_	5	punct	_	_
 
-# newdoc id = etemad044
+# newdoc_id = etemad044
 # sent_id = etemad044-1
 # text = چند روز پیش سالروز نخستین مرگ ناشی از تصادف با خودرو در ایران بود .
 1	چند	چند	ADJ	ADJ	Degree=Pos	2	amod	_	BeginSeg=Yes
@@ -16855,7 +16855,7 @@
 27	باشد	بود#باش	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	26	cop	_	_
 28	.	.	PUNCT	DELM	_	2	punct	_	_
 
-# newdoc id = etemad045
+# newdoc_id = etemad045
 # sent_id = etemad045-1
 # text = شاید اغراق نباشد که گفته شود ، بیکاری یکی از چند مساله مهم و اصلی کشور است و برخی نیز معتقدند نخستین مساله است .
 1	شاید	شاید	ADV	ADV	_	2	advmod	_	BeginSeg=Yes
@@ -17748,7 +17748,7 @@
 53	هست	هست	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	29	ccomp	_	_
 54	.	.	PUNCT	DELM	_	4	punct	_	_
 
-# newdoc id = etemad046
+# newdoc_id = etemad046
 # sent_id = etemad046-1
 # text = این روزها فصل امتحانات دانشجویان است ، از این رو تعدادی از نمایندگان مجلس در نامهای خواستار آزادی دانشجویان به ویژه دانشجویان دختر شدند .
 1	این	این	DET	DET	_	2	det	_	BeginSeg=Yes
@@ -17965,7 +17965,7 @@
 22	نباشیم	نباشیم	AUX	V_SUB	Mood=Sub|Number=Plur|Person=1|Polarity=Neg|Tense=Pres	21	cop	_	_
 23	.	.	PUNCT	DELM	_	1	punct	_	_
 
-# newdoc id = etemad047
+# newdoc_id = etemad047
 # sent_id = etemad047-1
 # text = این روزها شمال و جنوب ، شرق و غرب و مرکز کشور به نحوی درگیر حوادث طبیعی هستند .
 1	این	این	DET	DET	_	2	det	_	BeginSeg=Yes
@@ -18750,7 +18750,7 @@
 40	نمیشود	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	39	aux:pass	_	_
 41	.	.	PUNCT	DELM	_	3	punct	_	_
 
-# newdoc id = etemad048
+# newdoc_id = etemad048
 # sent_id = etemad048-1
 # text = آن مقدار از برنامههای آقای رییس جمهور که روز سه شنبه ، به عنوان برنامههای دولت دوازدهم از تریبون مجلس قرایت شد ، مثلا در حوزه اقتصاد یا روابط خارجی کشور ، امیدوارکننده بود .
 1	آن	آن	DET	DET	_	2	det	_	BeginSeg=Yes
@@ -19451,7 +19451,7 @@
 13	شود	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	12	aux:pass	_	_
 14	.	.	PUNCT	DELM	_	3	punct	_	_
 
-# newdoc id = etemad049
+# newdoc_id = etemad049
 # sent_id = etemad049-1
 # text = پیشرفت روابط معمول میان بانکهای ایرانی و بانکهای خارجی ، پس از برجام همچنان با مانع تراشی ایالات متحده مواجه بوده و در نتیجه سرعت کافی را نداشته است .
 1	پیشرفت	پیشرفت	NOUN	N_SING	Number=Sing	20	nsubj	_	BeginSeg=Yes
@@ -19805,7 +19805,7 @@
 39	باشد	بود#باش	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	21	cop	_	_
 40	.	.	PUNCT	DELM	_	21	punct	_	_
 
-# newdoc id = etemad050
+# newdoc_id = etemad050
 # sent_id = etemad050-1
 # text = برابر اصل ١٢۴ قانون اساسی رییس جمهور میتواند برای انجام وظایف قانونی اش معاونانی داشته باشد .
 1	برابر	برابر	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -20306,7 +20306,7 @@
 48	دارد	داشت#دار	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	17	advcl	_	_
 49	.	.	PUNCT	DELM	_	17	punct	_	_
 
-# newdoc id = etemad051
+# newdoc_id = etemad051
 # sent_id = etemad051-1
 # text = آتش سوزی و فروریختن ساختمان پلاسکو مستقل از خسارات انسانی و روانی آن که به نسبت سنگین بود ، به ویژه آنکه تعدادی از آتش نشانهای جان برکف نیز در این راه شهید شدند ، یک وجه دیگری نیز دارد که باید مورد توجه قرار گیرد و با سرعت و در صورت نیاز با برقراری برخی اختیارات لازم ، رسیدگی شود .
 1	آتش	آتش	NOUN	N_SING	Number=Sing	33	nsubj	_	BeginSeg=Yes
@@ -20968,7 +20968,7 @@
 47	کند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	16	conj	_	_
 48	.	.	PUNCT	DELM	_	5	punct	_	_
 
-# newdoc id = etemad052
+# newdoc_id = etemad052
 # sent_id = etemad052-1
 # text = طبیعی است که زندگی امروزی بشر پا به پای تحولات تکنولوژیک پیش میرود و سبب میشود تا مردم گام به گام زندگی خود را با این تکنولوژی هماهنگ کنند ، از این رو و با استفاده از تکنولوژیهای جدید ، سازوکارهای جدیدی در جامعه شکل میگیرد ، حالا این ساز و کارها میتواند از درون ساختار دولت و مدیریت جامعه شکل بگیرد یا شیوه زندگی مردم و فعالیتهای اقتصادی ، فرهنگی و اقتصادی آنها حتی فعالیت آموزشی و حقوق شهروندی و در نتیجه به این شکل گسترش یابد .
 1	طبیعی	طبیعی	ADJ	ADJ	Degree=Pos	0	root	_	BeginSeg=Yes
@@ -21506,7 +21506,7 @@
 56	برسند	رسید#رس	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	51	conj	_	_
 57	.	.	PUNCT	DELM	_	19	punct	_	_
 
-# newdoc id = etemad053
+# newdoc_id = etemad053
 # sent_id = etemad053-1
 # text = بخشی از کودکان با عنوان « کودکان در شرایط دشوار » شناخته میشوند .
 1	بخشی	بخش	NOUN	N_SING	Number=Sing	12	nsubj:pass	_	BeginSeg=Yes
@@ -22157,7 +22157,7 @@
 31	باشیم	بود#باش	VERB	V_SUB	Mood=Sub|Number=Plur|Person=1|Tense=Pres	30	aux	_	_
 32	.	.	PUNCT	DELM	_	3	punct	_	_
 
-# newdoc id = etemad054
+# newdoc_id = etemad054
 # sent_id = etemad054-1
 # text = دو سال پیش ایران خودرو ، سواری جدیدی به نام دنا را به بازار عرضه کرد .
 1	دو	دو	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -22984,7 +22984,7 @@
 28	بماند	ماند#مان	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	19	ccomp	_	_
 29	.	.	PUNCT	DELM	_	2	punct	_	_
 
-# newdoc id = etemad055
+# newdoc_id = etemad055
 # sent_id = etemad055-1
 # text = نزدیک به ۹ سال است که از اتفاقات انتخابات ۸۸ میگذرد اما هنوز ماجراهایی که در آن سال رخ داد ادامه دارد و گاهی صحبتی یا خبری باب جدیدی از آن اتفاقات را باز میکند و جلوهای دیگر از آنچه ۹ سال پیش رخ داد ، نشان میدهد .
 1	نزدیک	نزدیک	ADP	P	_	4	case	_	BeginSeg=Yes
@@ -23427,7 +23427,7 @@
 56	پذیرد	پذیرفت#پذیر	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	29	ccomp	_	_
 57	.	.	PUNCT	DELM	_	5	punct	_	_
 
-# newdoc id = etemad057
+# newdoc_id = etemad057
 # sent_id = etemad057-1
 # text = شرکت دخانیات ایران یکی از بنگاههای اقتصادی بزرگ کشور است که به لحاظ جایگاه اقتصادی ، اجتماعی و حتی سیاسی همواره در کشور خبرساز بوده است .
 1	شرکت	شرکت	NOUN	N_SING	Number=Sing	4	nsubj	_	BeginSeg=Yes
@@ -23718,7 +23718,7 @@
 122	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	121	aux	_	_
 123	.	.	PUNCT	DELM	_	76	punct	_	_
 
-# newdoc id = etemad059
+# newdoc_id = etemad059
 # sent_id = etemad059-1
 # text = کوروش نریمانی همچنان در شگفت است چرا نمایشنامههایی که قبلا اجرای عمومی شدهاند و در جشنواره تیاتر فجر به صحنه رفتهاند ، نمیتوانند از سد مجوز بگذرند و منتشر شوند .
 1	کوروش	کوروش	NOUN	N_SING	Number=Sing	6	nsubj	_	BeginSeg=Yes
@@ -24337,7 +24337,7 @@
 8	.	.	PUNCT	DELM	_	7	punct	_	_
 9	»	»	PUNCT	DELM	_	7	punct	_	_
 
-# newdoc id = irantransportation
+# newdoc_id = irantransportation
 # sent_id = irantransportation-1
 # text = اگر در یک کشور صنعتی پیشرفته ، مثلا ژاپن ، وزارت مسکن با راه سازی ادغام می شود دلیل آن کوچک بودن مساحت کشور ، تراکم ساختمانی و جمعیتی زیاد ، شمار بسیار زیاد واحدهای تولیدی ، سطح بسیار بالای تولید و تجارت و دلایل مشابه دیگر است که موجب می شود نیاز و برنامه و عملیات اجرایی برای سکونت و شهرنشینی با برنامه ریزی و نیاز و اجرا برای راه و حمل ونقل جاده ای و ریلی درهم آمیزد .
 1	اگر	اگر	SCONJ	CON	_	14	mark	_	BeginSeg=Yes
@@ -25139,7 +25139,7 @@
 23	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	19	cop	_	_
 24	.	.	PUNCT	DELM	_	19	punct	_	_
 
-# newdoc id = meidan004
+# newdoc_id = meidan004
 # sent_id = meidan004-1
 # text = متصرفان زمینهای پناهگاه حیاتوحش میانکاله ادعا میکنند که از زمان اصلاحات ارضی در بهمن ماه سال ۱۳۴۱ اسناد مشاع در اختیار دارند .
 1	متصرفان	متصرف	NOUN	N_PL	Number=Plur	7	nsubj	_	BeginSeg=Yes
@@ -25541,7 +25541,7 @@
 29	کردهاند	کرد#کن	VERB	V_PP	Number=Plur|Person=3|VerbForm=Part	9	conj	_	_
 30	.	.	PUNCT	DELM	_	29	punct	_	_
 
-# newdoc id = meidan006
+# newdoc_id = meidan006
 # sent_id = meidan006-1
 # text = رییس دفتر حسن روحانی میگوید « برای اعلام تعطیلی ادارات ، میزان آلودگی باید از حدی بیشتر باشد » .
 1	رییس	رییس	NOUN	N_SING	Number=Sing	5	nsubj	_	BeginSeg=Yes
@@ -25779,7 +25779,7 @@
 30	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	29	aux	_	_
 31	.	.	PUNCT	DELM	_	6	punct	_	_
 
-# newdoc id = meidan007
+# newdoc_id = meidan007
 # sent_id = meidan007-1
 # text = شورای شهر تهران در جلسه روز گذشته خود ، با طرح صیانت از باغات مخالفت کرد .
 1	شورای	شورا	NOUN	N_SING	Number=Sing	16	nsubj	_	BeginSeg=Yes
@@ -26136,7 +26136,7 @@
 51	نماید	نمود#نما	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	37	conj	_	_
 52	.	.	PUNCT	DELM	_	9	punct	_	_
 
-# newdoc id = meidan008
+# newdoc_id = meidan008
 # sent_id = meidan008-1
 # text = حسین فلاح جوشقانی معاون وزیر ارتباطات و رییس سازمان تنظیم مقررات و ارتباطات رادیویی میگوید در خصوص رایگان بودن پیامک رمز دوم پویا تاکنون مذاکرهای با بانک مرکزی انجام نشده است .
 1	حسین	حسین	NOUN	N_SING	Number=Sing	15	nsubj	_	BeginSeg=Yes
@@ -26390,7 +26390,7 @@
 33	مییابد	آمد#آ	VERB	V_PRS	Mood=Sub|Number=Sing|Person=3|Tense=Pres	23	ccomp	_	_
 34	.	.	PUNCT	DELM	_	23	punct	_	_
 
-# newdoc id = meidan009
+# newdoc_id = meidan009
 # sent_id = meidan009-1
 # text = معاون پیشگیری و درمان مرکز درمان سازمان بهزیستی کشور مسیولان وزارت بهداشت را زیر سوال برده و گفته « بیمارانی که مبتلا به ایدز هستند برای درمان سایر بیماریهایشان نظیر بیماریهای قلبی ، داخلی ، جراحیها و . . در هیچ دانشگاه علوم پزشکی و بیمارستانی پذیرش نمیشوند » .
 1	معاون	معاون	NOUN	N_SING	Number=Sing	16	nsubj	_	BeginSeg=Yes
@@ -26785,7 +26785,7 @@
 52	»	»	PUNCT	DELM	_	34	punct	_	_
 53	.	.	PUNCT	DELM	_	19	punct	_	_
 
-# newdoc id = meidan011
+# newdoc_id = meidan011
 # sent_id = meidan011-1
 # text = همسایه معروف ورزشگاه شهید وطنی قایمشهر که در برنامه نود هم به او پرداخته شد ، از فوتبال دیدن با دوستانش و در همسایگی کوتاه نیامد .
 1	همسایه	همسایه	NOUN	N_SING	Number=Sing	26	nsubj	_	BeginSeg=Yes
@@ -26985,7 +26985,7 @@
 20	.	.	PUNCT	DELM	_	4	punct	_	_
 21	»	»	PUNCT	DELM	_	4	punct	_	_
 
-# newdoc id = meidan012
+# newdoc_id = meidan012
 # sent_id = meidan012-1
 # text = رییس سازمان غذا و دارو از کاهش پنج درصدی یارانه دارو در بودجه سال ۹۶ خبر داد و مدعی شد این کاهش ۵ درصدی تاثیر زیادی در ادامه حمایت دولت از بیماران نخواهد داشت و این رقم با صرفهجویی جبران میشود .
 1	رییس	رییس	NOUN	N_SING	Number=Sing	17	nsubj	_	BeginSeg=Yes
@@ -27206,7 +27206,7 @@
 26	میشود	کرد#کن	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	25	cop	_	_
 27	.	.	PUNCT	DELM	_	25	punct	_	_
 
-# newdoc id = meidan013
+# newdoc_id = meidan013
 # sent_id = meidan013-1
 # text = دبیر کارگروه مدیریت پسماند استان تهران خبر داده روزانه ۴۰۰ مترمکعب شیرابه زبالهها در مرکز دفن زباله « آرادکوه » در جنوب تهران تولید میشود .
 1	دبیر	دبیر	NOUN	N_SING	Number=Sing	8	nsubj	_	BeginSeg=Yes
@@ -27414,7 +27414,7 @@
 72	ند	هست	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	65	ccomp	_	_
 73	.	.	PUNCT	DELM	_	6	punct	_	_
 
-# newdoc id = meidan014
+# newdoc_id = meidan014
 # sent_id = meidan014-1
 # text = هرکیلوگرم پرتقال صادراتی برای بازارهای بینالمللی هزار و ۳۰۳ تومان عرضه شده است ، درحالیکه براساس آمار بانک مرکزی جمهوری اسلامی ایران ، از متوسط قیمت خردهفروشی مواد خوراکی در تهران در بازه زمانی هفته منتهی به مهر ، امسال پرتقال کیلویی بیش از هفت هزار و ۴۰۰ تومان در سطح شهر فروخته شده است .
 1	هرکیلوگرم	هرکیلوگرم	NOUN	N_SING	Number=Sing	2	det	_	BeginSeg=Yes
@@ -27664,7 +27664,7 @@
 96	.	.	PUNCT	DELM	_	94	punct	_	_
 97	»	»	PUNCT	DELM	_	14	punct	_	_
 
-# newdoc id = meidan016
+# newdoc_id = meidan016
 # sent_id = meidan016-1
 # text = موج کمسابقه گرما استان سیستانوبلوچستان را فراگرفته اما در این میان زیرساختهای مناسب شبکه برق و آب وجود ندارد ، بسیاری از روستاها شبکه آبرسانی ندارند و تعرفه برق بسیار بالاست .
 1	موج	موج	NOUN	N_SING	Number=Sing	7	nsubj	_	BeginSeg=Yes
@@ -27888,7 +27888,7 @@
 11	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	10	aux	_	_
 12	.	.	PUNCT	DELM	_	10	punct	_	_
 
-# newdoc id = meidan017
+# newdoc_id = meidan017
 # sent_id = meidan017-1
 # text = یک پژوهشگر ارشد جامعهشناسی جنایی با اشاره به اینکه بهداشت روانی جامعه دچار تزلزل شده است ، گفته خونبازی در دختران دبیرستانی افزایش چشمگیری یافته است .
 1	یک	یک	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -28155,7 +28155,7 @@
 18	دارد	داشت#دار	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	_
 19	.	.	PUNCT	DELM	_	18	punct	_	_
 
-# newdoc id = meidan018
+# newdoc_id = meidan018
 # sent_id = meidan018-1
 # text = رییس انجمن زغالسنگ ایران با اعلام اینکه معادن زغال سنگ ایمنی لازم را ندارند ، نسبت به تکرار حادثه یورت هشدار داده است .
 1	رییس	رییس	NOUN	N_SING	Number=Sing	14	nsubj	_	BeginSeg=Yes
@@ -28390,7 +28390,7 @@
 25	میکنند	کرد#کن	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	0	root	_	_
 26	.	.	PUNCT	DELM	_	25	punct	_	_
 
-# newdoc id = meidan019
+# newdoc_id = meidan019
 # sent_id = meidan019-1
 # text = به گفته برخی معدنچیان معدن یورت ، باتری به باتریکردن لوکوموتیو داخل معدن علت انفجار نبوده چراکه این لوکوموتیو پیدا شده و کاملا سالم است .
 1	به	به	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -28667,7 +28667,7 @@
 35	دهند	داد#ده	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	28	ccomp	_	_
 36	.	.	PUNCT	DELM	_	21	punct	_	_
 
-# newdoc id = meidan020
+# newdoc_id = meidan020
 # sent_id = meidan020-1
 # text = نسبت دانشآموزان مدارس غیردولتی به کل دانشآموزان ایران در عرض ۲۵ سال بیش از ۱۰۰ برابر شده است ؛ در شرایطی که در سال ۱۳۷۰ از هر ۱۰۰۰ دانشآموز تقریبا ۱ نفر در مدارس غیردولتی تحصیل میکرد ، در سال ۱۳۹۴ این رقم به ۱۰۴ دانشآموز و سال گذشته به ۱۱۵ دانشآموز رسیده است .
 1	نسبت	نسبت	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -28918,7 +28918,7 @@
 46	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	45	cop	_	_
 47	.	.	PUNCT	DELM	_	14	punct	_	_
 
-# newdoc id = meidan021
+# newdoc_id = meidan021
 # sent_id = meidan021-1
 # text = معاون آبخیزداری سازمان جنگلها میگوید « سفرههای آب زیرزمینی در ۳۳۵ دشت کشور بیلان منفی دارند و در هشت دشت کشور در حالت فوق بحرانی قرار گرفتهاند و در مجموع تمامی این موارد زنگ خطری برای بیابانی شدن کشور بهشمار میروند » .
 1	معاون	معاون	NOUN	N_SING	Number=Sing	5	nsubj	_	BeginSeg=Yes
@@ -29114,7 +29114,7 @@
 18	شدهاند	کرد#کن	VERB	V_PP	Number=Plur|Person=3|VerbForm=Part	5	ccomp	_	_
 19	.	.	PUNCT	DELM	_	2	punct	_	_
 
-# newdoc id = meidan022
+# newdoc_id = meidan022
 # sent_id = meidan022-1
 # text = مردم آبادان در اعتراض به عدم دسترسی به آب شرب در مقابل اداره آب این شهر تجمع کردند .
 1	مردم	مردم	NOUN	N_SING	Number=Sing	18	nsubj	_	BeginSeg=Yes
@@ -29367,7 +29367,7 @@
 14	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	13	aux	_	_
 15	.	.	PUNCT	DELM	_	1	punct	_	_
 
-# newdoc id = meidan023
+# newdoc_id = meidan023
 # sent_id = meidan023-1
 # text = یک مادر به همراه فرزندش در خراسان رضوی برای پرداخت هزینه یک میلیون و ۲۰۰هزار تومانی بیمارستان گرو گرفته شدهاند .
 1	یک	یک	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -29579,7 +29579,7 @@
 90	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	89	aux	_	_
 91	.	.	PUNCT	DELM	_	63	punct	_	_
 
-# newdoc id = meidan024
+# newdoc_id = meidan024
 # sent_id = meidan024-1
 # text = سخنگوی سازمان هواپیمایی کشوری گفته بهدلیل بالا بودن قیمت بلیت هواپیماها « هماکنون ۲ تا ۲/۵ درصد مردم ایران از سیستم حمل و نقل هوایی استفاده میکنند » .
 1	سخنگوی	سخنگو	NOUN	N_SING	Number=Sing	5	nsubj	_	BeginSeg=Yes
@@ -29846,7 +29846,7 @@
 46	نیست	هست	VERB	V_PRS	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	31	conj	_	_
 47	.	.	PUNCT	DELM	_	10	punct	_	_
 
-# newdoc id = meidan026
+# newdoc_id = meidan026
 # sent_id = meidan026-1
 # text = معاون توسعه سازمان نظام پرستاری ضمن انتقاد از « پزشکمداری » در نظام سلامت ایران گفته بهدلیل کمبود پرستار فقط ۵۰ درصد از نیاز درمانی بیماران مورد رسیدگی قرار میگیرد و « این یعنی مردم تا حد مرگ و میر خسارت میبینند » .
 1	معاون	معاون	NOUN	N_SING	Number=Sing	16	nsubj	_	BeginSeg=Yes
@@ -30182,7 +30182,7 @@
 51	»	»	PUNCT	DELM	_	38	punct	_	_
 52	.	.	PUNCT	DELM	_	10	punct	_	_
 
-# newdoc id = meidan027
+# newdoc_id = meidan027
 # sent_id = meidan027-1
 # text = انوشیروان محسنی بندپی ، استاندار تهران ، در جلسه ساماندهی کودکان کار ، با اشاره به شیوع کرونا در کشور اعلام کرده است که « ساماندهی کودکان کار باید به شکل ضربتی و با سرعت بیشتری در این شرایط انجام شود » .
 1	انوشیروان	انوشیرو	NOUN	N_SING	Number=Sing	22	nsubj	_	BeginSeg=Yes
@@ -30445,7 +30445,7 @@
 43	زدهاند	زد#زان	VERB	V_PP	Number=Plur|Person=3|VerbForm=Part	25	ccomp	_	_
 44	.	.	PUNCT	DELM	_	25	punct	_	_
 
-# newdoc id = meidan028
+# newdoc_id = meidan028
 # sent_id = meidan028-1
 # text = شهرداری و بنیاد مستضعفان با هم به توافق رسیدهاند که پارکینگ پروانه را به پلاسکو تحویل دهند تا در اختیار مراجعهکنندگان آنها قرار بگیرد .
 1	شهرداری	شهرداری	NOUN	N_SING	Number=Sing	9	nsubj	_	BeginSeg=Yes
@@ -30667,7 +30667,7 @@
 19	شود	کرد#کن	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	18	cop	_	_
 20	.	.	PUNCT	DELM	_	4	punct	_	_
 
-# newdoc id = meidan029
+# newdoc_id = meidan029
 # sent_id = meidan029-1
 # text = یک شرکت مشاور برای شرکت در مسابقه طراحی ساختمان پلاسکو دعوت شده است اما این شرکت مشاور در نامهای به دلیل « عدم رعایت مصوبه شورایعالی و عدم ثبت مسابقه در دبیرخانه مسابقات معماری و شهرسازی » از شرکت در این مسابقه انصراف داده است .
 1	یک	یک	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -30943,7 +30943,7 @@
 28	داشت	داشت#دار	VERB	V_PA	Number=Sing|Person=3|Tense=Past	15	advcl	_	_
 29	.	.	PUNCT	DELM	_	7	punct	_	_
 
-# newdoc id = meidan030
+# newdoc_id = meidan030
 # sent_id = meidan030-1
 # text = با بالا رفتن قیمت کاغذ ، رییس سازمان پژوهش و برنامهریزی آموزشی از احتمال تغییر ابعاد کتابهای درسی خبر داد .
 1	با	با	ADP	P	_	3	case	_	BeginSeg=Yes
@@ -31210,7 +31210,7 @@
 21	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	20	aux	_	_
 22	.	.	PUNCT	DELM	_	7	punct	_	_
 
-# newdoc id = meidan031
+# newdoc_id = meidan031
 # sent_id = meidan031-1
 # text = نشت نفت از بخاری یک مدرسه کانکسی در استان بوشهر را به آتش کشید .
 1	نشت	نشت	NOUN	N_SING	Number=Sing	14	nsubj	_	BeginSeg=Yes
@@ -31507,7 +31507,7 @@
 20	هستند	هست	AUX	V_PRS	Number=Plur|Person=3|Tense=Pres	16	cop	_	_
 21	.	.	PUNCT	DELM	_	16	punct	_	_
 
-# newdoc id = meidan032
+# newdoc_id = meidan032
 # sent_id = meidan032-1
 # text = یکی از کارشناسان تامین اجتماعی میگوید « بعد از اجرای طرح تحول سلامت تحقیقاتی انجام شده و به لحاظ آماری بررسیهایی انجام شده که نشان میدهد ، تعداد خانوادههایی که در حوزه درمان مشکل دارند ، علیرغم تبلیغات فراوان روی این طرح افزایش پیدا کرده است .
 1	یکی	یک	NUM	NUM	NumType=Card	6	nsubj	_	BeginSeg=Yes
@@ -31893,7 +31893,7 @@
 23	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	22	aux	_	_
 24	.	.	PUNCT	DELM	_	4	punct	_	_
 
-# newdoc id = meidan033
+# newdoc_id = meidan033
 # sent_id = meidan033-1
 # text = رییس سازمان تعزیرات حکومتی در یک برنامه تلویزیونی گفته « مافیای ثروت و قدرت در بخشهای اجرایی و حاکمیتی تنیده شده است که هر مسیولی بخواهد در مقابل آن بایستد به سختی میتواند دوام بیاورد » .
 1	رییس	رییس	NOUN	N_SING	Number=Sing	9	nsubj	_	BeginSeg=Yes
@@ -32239,7 +32239,7 @@
 99	بود	بود#باش	VERB	V_PA	Number=Sing|Person=3|Tense=Past	98	aux	_	_
 100	.	.	PUNCT	DELM	_	16	punct	_	_
 
-# newdoc id = meidan034
+# newdoc_id = meidan034
 # sent_id = meidan034-1
 # text = خبرگزاری ایسنا در گزارشی به بررسی وضعیت ایران در زمینه پیوستن به کنوانسیون « منع شکنجه » پرداخته و از جمله به مرگ ستار بهشتی و زهرا کاظمی در دوران بازداشت و جنایت کهریزک اشاره کرده است ؛ اصل ۳۸ قانون اساسی به صراحت شکنجه را ممنوع کرده است ، اما ایران به کنوانسیون « منع شکنجه » نپیوسته است .
 1	خبرگزاری	خبرگزاری	NOUN	N_SING	Number=Sing	18	nsubj	_	BeginSeg=Yes
@@ -32706,7 +32706,7 @@
 18	نرسید	نرسید	VERB	V_PA	Number=Sing|Person=3|Polarity=Neg|Tense=Past	10	conj	_	_
 19	.	.	PUNCT	DELM	_	10	punct	_	_
 
-# newdoc id = meidan036
+# newdoc_id = meidan036
 # sent_id = meidan036-1
 # text = در آستانه روز کارگر ، علی اکبری ، کارگر خدماتی شرکت داروپخش اقدام به خودکشی کرده است .
 1	در	در	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -32978,7 +32978,7 @@
 29	دارد	داشت#دار	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	12	conj	_	_
 30	.	.	PUNCT	DELM	_	12	punct	_	_
 
-# newdoc id = meidan037
+# newdoc_id = meidan037
 # sent_id = meidan037-1
 # text = وزیر آموزش و پرورش میگوید این وزارتخانه در راستای طرحهای اشتغالزایی مدارس ، پیشنهاد ایجاد مغازه در فضای حیاط مدارس را داده است تا با این طرح جدید محلی برای کسب درآمد مدارس دولتی فراهم شود .
 1	وزیر	وزیر	NOUN	N_SING	Number=Sing	5	nsubj	_	BeginSeg=Yes
@@ -33349,7 +33349,7 @@
 55	میکند	دید#کن	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	34	ccomp	_	_
 56	.	.	PUNCT	DELM	_	11	punct	_	_
 
-# newdoc id = meidan038
+# newdoc_id = meidan038
 # sent_id = meidan038-1
 # text = رییس سازمان سیما ، منظر و فضای سبز شهری شیراز در نامهای مجوز قطع سه درخت سرو را اعلام کرده است .
 1	رییس	رییس	NOUN	N_SING	Number=Sing	20	nsubj	_	BeginSeg=Yes
@@ -33559,7 +33559,7 @@
 28	داشت	داشت#دار	VERB	V_PA	Number=Sing|Person=3|Tense=Past	19	ccomp	_	_
 29	.	.	PUNCT	DELM	_	19	punct	_	_
 
-# newdoc id = meidan039
+# newdoc_id = meidan039
 # sent_id = meidan039-1
 # text = بنابر آمار خطاهای پزشکی که توسط سازمان پزشکی قانونی اعلام شده ، بهطور میانگین هر روز هشت مورد خطای پزشکی از سوی پزشکی قانونی به تایید میرسد .
 1	بنابر	بنابر	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -33867,7 +33867,7 @@
 27	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	26	aux	_	_
 28	.	.	PUNCT	DELM	_	8	punct	_	_
 
-# newdoc id = meidan040
+# newdoc_id = meidan040
 # sent_id = meidan040-1
 # text = دمای شهرهای مختلف خوزستان به بالای ۵۰ درجه سانتی گراد رسیده است ، اما کارگران باید همچون شرایط عادی به کار خود ادامه دهند .
 1	دمای	دمای	NOUN	N_SING	Number=Sing	11	nsubj	_	BeginSeg=Yes
@@ -34066,7 +34066,7 @@
 13	شد	کرد#کن	AUX	V_PA	Number=Sing|Person=3|Tense=Past	6	cop	_	_
 14	.	.	PUNCT	DELM	_	6	punct	_	_
 
-# newdoc id = meidan041
+# newdoc_id = meidan041
 # sent_id = meidan041-1
 # text = دانشگاه فرهنگیان ، وابسته به وزارت آموزش و پرورش ، علیه معلولان و بیماران تبعیض اعمال میکند و کسانی که سلامت کامل جسمی نداشته باشند نمیتوانند در این دانشگاه تحصیل کنند .
 1	دانشگاه	دانشگاه	NOUN	N_SING	Number=Sing	17	nsubj	_	BeginSeg=Yes
@@ -34221,7 +34221,7 @@
 47	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	40	cop	_	_
 48	.	.	PUNCT	DELM	_	14	punct	_	_
 
-# newdoc id = meidan042
+# newdoc_id = meidan042
 # sent_id = meidan042-1
 # text = معاون صید و بنادر ماهیگیری سازمان شیلات ایران اعلام کرد : از آنجایی که طرف مقابل ، دولت رسمی سومالی نیست ، روند آزادسازی صیادان دربند به کندی پیش میرود .
 1	معاون	معاون	NOUN	N_SING	Number=Sing	10	nsubj	_	BeginSeg=Yes
@@ -34459,7 +34459,7 @@
 37	میکند	دید#کن	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	32	conj	_	_
 38	.	.	PUNCT	DELM	_	16	punct	_	_
 
-# newdoc id = meidan043
+# newdoc_id = meidan043
 # sent_id = meidan043-1
 # text = دولت یازدهم قصد دارد با تصویب برنامه ششم توسعه ، اداره بیمارستان های دولتی را به شرکت های غیر دولتی واگذار کند .
 1	دولت	دولت	NOUN	N_SING	Number=Sing	4	nsubj	_	BeginSeg=Yes
@@ -34757,7 +34757,7 @@
 20	اند	هست	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	19	aux	_	_
 21	.	.	PUNCT	DELM	_	9	punct	_	_
 
-# newdoc id = meidan044
+# newdoc_id = meidan044
 # sent_id = meidan044-1
 # text = معاون اقتصادی وزارت کار به تازگی پیشنهاد تعیین حداقل دستمزد به صورت منطقهای را در شورای عالی کار مطرح کرده که این موضوع با واکنش منفی فعالان کارگری مواجه شده است .
 1	معاون	معاون	NOUN	N_SING	Number=Sing	20	nsubj	_	BeginSeg=Yes
@@ -35011,7 +35011,7 @@
 25	کند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	13	ccomp	_	_
 26	.	.	PUNCT	DELM	_	4	punct	_	_
 
-# newdoc id = meidan045
+# newdoc_id = meidan045
 # sent_id = meidan045-1
 # text = رییس موسسه مطالعات و تحقیقات اجتماعی دانشگاه تهران ، گفته نگاه سرمایهداری در اداره شهرها باعث دوقطبیشدن شهرهای بزرگ شده به گونهای که فقرا جرات پا گذاشتن به مناطق عیاننشین را ندارند .
 1	رییس	رییس	NOUN	N_SING	Number=Sing	16	nsubj	_	BeginSeg=Yes
@@ -35253,7 +35253,7 @@
 35	کنند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	25	ccomp	_	_
 36	.	.	PUNCT	DELM	_	7	punct	_	_
 
-# newdoc id = meidan046
+# newdoc_id = meidan046
 # sent_id = meidan046-1
 # text = یک حقوقدان میگوید طرح کارورزی دولت با تکلیف قانونی که از سوی مجلس برای اشتغالزایی در قانون برنامه ششم توسعه گنجانده شده است تعارض دارد و ضروری است تا مجلس نظر خود را در این مورد ارایه کند .
 1	یک	یک	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -35530,7 +35530,7 @@
 46	میشود	کرد#کن	AUX	V_PRS	Mood=Sub|Number=Sing|Person=3|Tense=Pres	45	cop	_	_
 47	.	.	PUNCT	DELM	_	2	punct	_	_
 
-# newdoc id = meidan047
+# newdoc_id = meidan047
 # sent_id = meidan047-1
 # text = دولت فرانسه نشان لژیون دونور که افتخارآمیزترین نشان این کشور محسوب میشود را به شاهزاده محمد بن نایف ولیعهد و وزیر کشور عربستان سعودی اهدا کرد .
 1	دولت	دولت	NOUN	N_SING	Number=Sing	26	nsubj	_	BeginSeg=Yes
@@ -35668,7 +35668,7 @@
 31	زد	زد#زن	VERB	V_PA	Number=Sing|Person=3|Tense=Past	4	ccomp	_	_
 32	.	.	PUNCT	DELM	_	4	punct	_	_
 
-# newdoc id = shargh002
+# newdoc_id = shargh002
 # sent_id = shargh002-1
 # text = امیرکبیر ، یکی از سیاست مداران نمونه ایران ، پیش از دوران صدراعظمی ، پنج سال را در عثمانی با دولت آن کشور و دولتهای روس و انگلیس مشغول مذاکره بود .
 1	امیرکبیر	امیرکبیر	NOUN	N_SING	Number=Sing	29	nsubj	_	BeginSeg=Yes
@@ -36213,7 +36213,7 @@
 25	ماند	ماند#مان	VERB	V_PA	Number=Sing|Person=3|Tense=Past	19	ccomp	_	_
 26	.	.	PUNCT	DELM	_	19	punct	_	_
 
-# newdoc id = shargh003
+# newdoc_id = shargh003
 # sent_id = shargh003-1
 # text = در روزهای اخیر مطالب بسیاری درباره حذف چهار صفر از پول ملی از سوی نهادهای رسمی و شبکههای اجتماعی مطرح شده است .
 1	در	در	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -37002,7 +37002,7 @@
 44	باشند	بود#باش	AUX	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	36	cop	_	_
 45	.	.	PUNCT	DELM	_	4	punct	_	_
 
-# newdoc id = shargh004
+# newdoc_id = shargh004
 # sent_id = shargh004-1
 # text = قانوننویسی و قانونگذاری در ایران نیازمند نقدهای جدی و بنیادین است .
 1	قانوننویسی	قانوننویسی	NOUN	N_SING	Number=Sing	6	nsubj	_	BeginSeg=Yes
@@ -37894,7 +37894,7 @@
 30	میافکند	آمد#آ	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	27	ccomp	_	_
 31	.	.	PUNCT	DELM	_	6	punct	_	_
 
-# newdoc id = shargh005
+# newdoc_id = shargh005
 # sent_id = shargh005-1
 # text = افزایش قیمت بنزین برای بخش سهمیهای آن ، ۵۰ درصد است و برای بخش غیرسهمیهای ۳۰۰ درصد ؛ صرف نظر از شیوه تصمیم گیری و نوع کار کارشناسی ، تصمیمی است که در فاز اجرایی قرار گرفته است .
 1	افزایش	افزایش	NOUN	N_SING	Number=Sing	10	nsubj	_	BeginSeg=Yes
@@ -38714,7 +38714,7 @@
 41	شود	کرد#کن	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	40	cop	_	_
 42	.	.	PUNCT	DELM	_	40	punct	_	_
 
-# newdoc id = shargh006
+# newdoc_id = shargh006
 # sent_id = shargh006-1
 # text = درباره بازتاب خبر کودک آزاری و رفتار خلاف اخلاق معاون یک دبیرستان پسرانه تهران در فضای مجازی چند نکته مهم شایان توجه است .
 1	درباره	درباره	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -39507,7 +39507,7 @@
 73	بگیرد	گرفت#گیر	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	64	ccomp	_	_
 74	.	.	PUNCT	DELM	_	53	punct	_	_
 
-# newdoc id = shargh007
+# newdoc_id = shargh007
 # sent_id = shargh007-1
 # text = هم زمان با هفته کارگر ، موضوع حمایت از کالای ایرانی به یکی از محورهای سخنرانی مقامات عالی کشور تبدیل شده است .
 1	هم	هم	CCONJ	CON	_	20	cc	_	BeginSeg=Yes
@@ -39965,7 +39965,7 @@
 26	شد	کرد#کن	AUX	V_PA	Number=Sing|Person=3|Tense=Past	24	cop	_	_
 27	.	.	PUNCT	DELM	_	10	punct	_	_
 
-# newdoc id = shargh008
+# newdoc_id = shargh008
 # sent_id = shargh008-1
 # text = ١١۰ سال پس از مشروطیت ، ایران همچنان مهد دموکراسی خاورمیانه است .
 1	١١۰	١١۰	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -40539,7 +40539,7 @@
 28	برداریم	برداشت#دار	VERB	V_SUB	Mood=Sub|Number=Plur|Person=1|Tense=Pres	1	ccomp	_	_
 29	.	.	PUNCT	DELM	_	1	punct	_	_
 
-# newdoc id = shargh009
+# newdoc_id = shargh009
 # sent_id = shargh009-1
 # text = در خبرها آمده بود مجلس به دنبال اصلاح قانون « ممنوعیت به کارگیری بازنشستگان » است که در آن برخی سمتها از این منع استثنا شده بودند و همین مسیله بستری فراهم کرده بود که بسیاری از مدیران سالمند ، همچنان به فعالیت ادامه بدهند .
 1	در	در	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -41256,7 +41256,7 @@
 36	شوند	کرد#کن	AUX	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	30	cop	_	_
 37	.	.	PUNCT	DELM	_	5	punct	_	_
 
-# newdoc id = shargh010
+# newdoc_id = shargh010
 # sent_id = shargh010-1
 # text = شورای اسلامی شهر تهران در بد وضعیتی قرار دارد ؛ انتخاب دوباره شهردار !
 1	شورای	شورا	NOUN	N_SING	Number=Sing	9	nsubj	_	BeginSeg=Yes
@@ -41907,7 +41907,7 @@
 25	بود	بود#باش	AUX	V_PA	Number=Sing|Person=3|Tense=Past	14	cop	_	_
 26	.	.	PUNCT	DELM	_	10	punct	_	_
 
-# newdoc id = shargh011
+# newdoc_id = shargh011
 # sent_id = shargh011-1
 # text = نقد اصلاحات و اصلاح طلبان با این که تکرار مکررات است ، اما جنبه استراتژیک پیدا کرده است .
 1	نقد	نقد	NOUN	N_SING	Number=Sing	9	nsubj	_	BeginSeg=Yes
@@ -42789,7 +42789,7 @@
 16	دارند	داشت#دار	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	2	conj	_	_
 17	.	.	PUNCT	DELM	_	2	punct	_	_
 
-# newdoc id = shargh012
+# newdoc_id = shargh012
 # sent_id = shargh012-1
 # text = سالهاست مقاله آی اس آی میزان و مبنای ارزیابی و اعتبارسنجی و ملاک هویت جامعه علمی کشور شده است ؛ همه چیز از جذب و پذیرش گرفته تا تبدیل وضعیت استخدامی ، ارتقا ، گرنت و . . . بر اساس آن سنجیده میشود .
 1-2	سالهاست	_	_	_	_	_	_	_	_
@@ -43628,7 +43628,7 @@
 38	اندیشمندان	اندیشمندان	NOUN	N_PL	Number=Plur	36	conj	_	_
 39	.	.	PUNCT	DELM	_	1	punct	_	_
 
-# newdoc id = shargh013
+# newdoc_id = shargh013
 # sent_id = shargh013-1
 # text = سعودیها در کنار سایر اقدامات مخرب علیه ایران ، نیم نگاهی به ایتلافهای نفتی جدید برای فشار بر منابع درآمدی ایران دارند .
 1	سعودیها	سعودی	NOUN	N_PL	Number=Plur	22	nsubj	_	BeginSeg=Yes
@@ -44306,7 +44306,7 @@
 36	دهد	داد#ده	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	30	conj	_	_
 37	.	.	PUNCT	DELM	_	30	punct	_	_
 
-# newdoc id = shargh014
+# newdoc_id = shargh014
 # sent_id = shargh014-1
 # text = خبر ، باورنکردنی است ؛ جان بولتون معروف ، مشاور امنیت ملی امروز ترامپ ، قمه را از رو بسته و پیشاپیش به دیوان کیفری بین المللی لاهه و قضات آن اعلام کرده است که آنها و آرای شان را به قول جوانان امروزی « عمرا » به رسمیت نمی شناسد .
 1	خبر	خبر	NOUN	N_SING	Number=Sing	3	nsubj	_	BeginSeg=Yes
@@ -44927,7 +44927,7 @@
 41	ببالند	بود#بال	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	33	conj	_	_
 42	.	.	PUNCT	DELM	_	6	punct	_	_
 
-# newdoc id = shargh015
+# newdoc_id = shargh015
 # sent_id = shargh015-1
 # text = بیش از ٢۰ روز است که بخش وسیعی از کشورمان زیر فشار سنگین سیل سهمگین گرفتار شده است و مردم این مناطق به مصیبتی بزرگ رسیده اند ؛ مصیبتی که رفع خسارت هایش ماهها و سالها فرصت میطلبد ، آن هم به شرطی که اولویت همه مسیولان باشد .
 1	بیش	بیش	ADJ	ADJ_CMPR	Degree=Cmp	3	advmod	_	BeginSeg=Yes
@@ -45365,7 +45365,7 @@
 20	شوند	کرد#کن	AUX	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	19	cop	_	_
 21	.	.	PUNCT	DELM	_	18	punct	_	_
 
-# newdoc id = shargh016
+# newdoc_id = shargh016
 # sent_id = shargh016-1
 # text = زلزله ۵/۲ ریشتری تهران ، بیش از ساختمانها و سازههای تهران ، دلهای تهرانیها را لرزانده است .
 1	زلزله	زلزله	NOUN	N_SING	Number=Sing	16	nsubj	_	BeginSeg=Yes
@@ -46194,7 +46194,7 @@
 5	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	4	cop	_	_
 6	.	.	PUNCT	DELM	_	4	punct	_	_
 
-# newdoc id = shargh017
+# newdoc_id = shargh017
 # sent_id = shargh017-1
 # text = علنی بودن جلسههای مجلس شورای اسلامی به معنای این است که مذاکرات و وقایع آن در صحن ، باید به اطلاع عموم برسد .
 1	علنی	علنی	ADJ	ADJ	Degree=Pos	2	compound:lvc	_	BeginSeg=Yes
@@ -46762,7 +46762,7 @@
 70	نشود	کرد#کن	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	69	cop	_	_
 71	.	.	PUNCT	DELM	_	29	punct	_	_
 
-# newdoc id = shargh018
+# newdoc_id = shargh018
 # sent_id = shargh018-1
 # text = برای یک مدیر موفق دانشگاهی که به عنوان گزینه پیشنهادی وزارت علوم مطرح میشود ، شناخت دقیق و درست از فضای علمی ، دانشگاهی و دانشجویی و نیز اشراف کامل بر وضعیت موجود در حوزه آموزش ، پژوهش و فناوری ، یک ضرورت اساسی و انکارناپذیر به شمار میآید ، ازاین رو به عنوان فردی که دکتر منصور غلامی را سالهای سال در طول تدریس در دانشکدههای کشاورزی ایران میشناسم ؛ باید یادآوری کنم گزینه پیشنهادی رییس جمهور برای تصدی وزارت علوم ، فردی بسیار مودب و متین است که ١٢ سال رییس دانشگاه بوده و در بیشتر کمیسیونهای آموزش عالی حضور داشته است و به همین دلیل به شرایط و وضعیت آموزش عالی اشراف کامل دارد و از گزینههای مناسب برای وزارت علوم است که اگر رای اعتماد بگیرد ، امیدوارم در این شرایط خاص دانشگاه ، موفق باشد .
 1	برای	برای	ADP	P	_	3	case	_	BeginSeg=Yes
@@ -47211,7 +47211,7 @@
 43	باشد	بود#باش	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	42	aux	_	_
 44	.	.	PUNCT	DELM	_	7	punct	_	_
 
-# newdoc id = shargh019
+# newdoc_id = shargh019
 # sent_id = shargh019-1
 # text = تاثیر کلان شهر تهران بر مدیریت شهری در سراسر کشور و ملی بودن جایگاه شهردار تهران بر کسی پوشیده نیست .
 1	تاثیر	تاثیر	NOUN	N_SING	Number=Sing	19	nsubj	_	BeginSeg=Yes
@@ -47788,7 +47788,7 @@
 31	داشت	داشت#دار	VERB	V_PA	Number=Sing|Person=3|Tense=Past	12	conj	_	_
 32	.	.	PUNCT	DELM	_	12	punct	_	_
 
-# newdoc id = shargh020
+# newdoc_id = shargh020
 # sent_id = shargh020-1
 # text = امنیت پروازهای هوایی مسیلهای بود که در دهه ۸۰ میلادی بارها از سوی آمریکا در منطقه خلیج فارس خدشهدار شد و جان انسانهای بی گناه را به مخاطره انداخت .
 1	امنیت	امنیت	NOUN	N_SING	Number=Sing	2	nsubj	_	BeginSeg=Yes
@@ -48355,7 +48355,7 @@
 51	برنتابند	_	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	31	conj	_	_
 52	.	.	PUNCT	DELM	_	3	punct	_	_
 
-# newdoc id = shargh021
+# newdoc_id = shargh021
 # sent_id = shargh021-1
 # text = نزدیک به نیم قرن است که مسلمانان روهینگیا مقیم میانمار هستند .
 1	نزدیک	نزدیک	ADP	P	_	4	case	_	BeginSeg=Yes
@@ -49178,7 +49178,7 @@
 65	دهد	داد#ده	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	42	ccomp	_	_
 66	.	.	PUNCT	DELM	_	22	punct	_	_
 
-# newdoc id = shargh023
+# newdoc_id = shargh023
 # sent_id = shargh023-1
 # text = صاحب نظران درباره علل افزایش نرخ ارز ، دیدگاههای مختلفی دارند ، اما درباره یک نکته تقریبا اتفاق نظر دارند ؛ تقاضای مردم عادی که بر اثر التهابات روانی ، سراغ خرید ارز رفتهاند ، از ۵۰ تا ۱۰۰ میلیون دلار فراتر نمی رود .
 1	صاحب	صاحب	NOUN	N_SING	Number=Sing	11	nsubj	_	BeginSeg=Yes
@@ -49971,7 +49971,7 @@
 15	کنند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	0	root	_	_
 16	.	.	PUNCT	DELM	_	15	punct	_	_
 
-# newdoc id = shargh024
+# newdoc_id = shargh024
 # sent_id = shargh024-1
 # text = حداقل دستمزد ، کمترین رقمی است که نیروی کار با آن به بازسازی فردی میپردازد .
 1	حداقل	حداقل	ADV	ADV	_	5	advmod	_	BeginSeg=Yes
@@ -50423,7 +50423,7 @@
 33	گرفته	گرفت#گیر	VERB	V_PP	Number=Sing|Person=3|VerbForm=Part	30	ccomp	_	_
 34	.	.	PUNCT	DELM	_	14	punct	_	_
 
-# newdoc id = shargh027
+# newdoc_id = shargh027
 # sent_id = shargh027-1
 # text = نکته اول : ماجرای اخیر کودتا در ترکیه در کنار دیگر بحثها ، کودتای السیسی در مصر را به یاد میآورد .
 1	نکته	نکته	NOUN	N_SING	Number=Sing	0	root	_	BeginSeg=Yes
@@ -50834,7 +50834,7 @@
 7	ماندلابخواند	خونداخت#مان	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	1	ccomp	_	_
 8	.	.	PUNCT	DELM	_	1	punct	_	_
 
-# newdoc id = shargh028
+# newdoc_id = shargh028
 # sent_id = shargh028-1
 # text = سو استفاده سیاسی از رویدادی که همه ایرانیان در غم آن شریک و سهیم هستند ، از سوی هر جریان یا نهادی که باشد ، مصداق فرصت طلبی غیر اخلاقی است .
 1	سو	سو	NOUN	N_SING	Number=Sing	26	nsubj	_	BeginSeg=Yes
@@ -51766,7 +51766,7 @@
 23	شود	کرد#کن	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	22	cop	_	_
 24	.	.	PUNCT	DELM	_	2	punct	_	_
 
-# newdoc id = shargh029
+# newdoc_id = shargh029
 # sent_id = shargh029-1
 # text = این روزها داعش تبدیل به محملی شده که هر کشور و گروهی خود را پشت مبارزه با آن پنهان کند و در این زمینه طلبکار جهان شوند که ما در حال مبارزه با تروریسم و داعش هستیم ، حتی اگر زمانی خودشان نقش محوری در شکل گیری چنین هیولایی داشته باشند .
 1	این	این	DET	DET	_	2	det	_	BeginSeg=Yes
@@ -52650,7 +52650,7 @@
 61	دادند	داد#ده	VERB	V_PA	Number=Plur|Person=3|Tense=Past	52	ccomp	_	_
 62	.	.	PUNCT	DELM	_	21	punct	_	_
 
-# newdoc id = shargh030
+# newdoc_id = shargh030
 # sent_id = shargh030-1
 # text = موضوع احتمال کسری ١۷هزارمیلیارتومانی یارانهها قبلا به عنوان معضل ناکافی بودن منابع پرداختشده ، بارها از سوی اقتصاددانان عنوان شده بود ‪ .
 1	موضوع	موضوع	NOUN	N_SING	Number=Sing	19	nsubj	_	BeginSeg=Yes
@@ -53183,7 +53183,7 @@
 34	نمیشد	کرد#کن	AUX	V_PA	Number=Sing|Person=3|Polarity=Neg|Tense=Past	33	cop	_	_
 35	.	.	PUNCT	DELM	_	10	punct	_	_
 
-# newdoc id = shargh032
+# newdoc_id = shargh032
 # sent_id = shargh032-1
 # text = انتخابات ریاست جمهوری آمریکا به پایان رسید .
 1	انتخابات	انتخابات	NOUN	N_PL	Number=Plur	7	nsubj	_	BeginSeg=Yes
@@ -53865,7 +53865,7 @@
 26	بود	بود#باش	AUX	V_PA	Number=Sing|Person=3|Tense=Past	17	cop	_	_
 27	.	.	PUNCT	DELM	_	17	punct	_	_
 
-# newdoc id = shargh034
+# newdoc_id = shargh034
 # sent_id = shargh034-1
 # text = دولت در تصمیم جدیدی به خیال خود قیمت گذاری خودرو را آزاد کرده است اما مساله این است که دولت به هیچ وجه دخالت خود را حذف نکرده و نمیکند .
 1	دولت	دولت	NOUN	N_SING	Number=Sing	13	nsubj	_	BeginSeg=Yes
@@ -54248,7 +54248,7 @@
 37	کنند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	20	conj	_	_
 38	.	.	PUNCT	DELM	_	11	punct	_	_
 
-# newdoc id = shargh035
+# newdoc_id = shargh035
 # sent_id = shargh035-1
 # text = پس از شروع بهار عربی در منطقه خاورمیانه بسیاری از کشورها در برابر آن ایستادگی کردند .
 1	پس	پس	ADV	ADV_TIME	Case=Tem	16	advmod	_	BeginSeg=Yes
@@ -54601,7 +54601,7 @@
 22	کند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 23	.	.	PUNCT	DELM	_	22	punct	_	_
 
-# newdoc id = shargh036
+# newdoc_id = shargh036
 # sent_id = shargh036-1
 # text = حمله اسراییل به سوریه با اظهارنظرهای متفاوت پیچیده شده ، و نبودن خبر دقیق و منبع مستقل و همچنین واکنش نشان ندادن اسراییل ارزیابی در مورد این موضوع را دشوار کرده است .
 1	حمله	حمله	NOUN	N_SING	Number=Sing	8	nsubj	_	BeginSeg=Yes
@@ -55007,7 +55007,7 @@
 34	میکند	دید#کن	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	15	conj	_	_
 35	.	.	PUNCT	DELM	_	15	punct	_	_
 
-# newdoc id = shargh037
+# newdoc_id = shargh037
 # sent_id = shargh037-1
 # text = افزایش تقاضا برای ورود به کارشناسیارشد در سالهای اخیر یک افزایش غیرمعمول است چرا که بررسی تجربه کشورهای مشابه کشور ما نشان میدهد که این افزایش تا حد بسیار زیادی غیرکارشناسی است .
 1	افزایش	افزایش	NOUN	N_SING	Number=Sing	11	nsubj	_	BeginSeg=Yes
@@ -55438,7 +55438,7 @@
 29	میشود	کرد#کن	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	22	cop	_	_
 30	.	.	PUNCT	DELM	_	15	punct	_	_
 
-# newdoc id = shargh038
+# newdoc_id = shargh038
 # sent_id = shargh038-1
 # text = ماجرای دستگیری نیکلا سارکوزی ، رییس جمهور سابق فرانسه و همسرش کارلا برونی به اتهام تلاش برای خروج اموال خود از این کشور برای فرار از مالیات ، خبری تکان دهنده است .
 1	ماجرای	ماجرا	NOUN	N_SING	Number=Sing	6	nsubj	_	BeginSeg=Yes
@@ -56059,7 +56059,7 @@
 21	میگیرد	_	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	9	ccomp	_	_
 22	.	.	PUNCT	DELM	_	9	punct	_	_
 
-# newdoc id = shargh039
+# newdoc_id = shargh039
 # sent_id = shargh039-1
 # text = حضور رضا پهلوی ولیعهد سابق ایران در تلویزیون رسمی دولتی چین ، اسباب تکدرخاطر بسیاری از مسوولان و دولتمردان ما را فراهم ساخته ؛ زیرا به تعبیر سفارت ایران در چین ، این اقدام « کم سابقه و معنادار » و نوعی « مداخله در امور داخلی ایران » تلقی می شود .
 1	حضور	حضور	NOUN	N_SING	Number=Sing	23	nsubj	_	BeginSeg=Yes
@@ -56488,7 +56488,7 @@
 16	کند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 17	.	.	PUNCT	DELM	_	16	punct	_	_
 
-# newdoc id = shargh040
+# newdoc_id = shargh040
 # sent_id = shargh040-1
 # text = محققان یک گام دیگر به تعیین سن دقیق یایسگی در زنان نزدیک تر شدند .
 1	محققان	محقق	NOUN	N_PL	Number=Plur	13	nsubj	_	BeginSeg=Yes
@@ -56926,7 +56926,7 @@
 31	باشد	بود#باش	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	30	cop	_	_
 32	.	.	PUNCT	DELM	_	30	punct	_	_
 
-# newdoc id = shargh041
+# newdoc_id = shargh041
 # sent_id = shargh041-1
 # text = تحولات اوکراین به نوعی رویارویی روسیه با غرب است .
 1	تحولات	تحول	NOUN	N_PL	Number=Plur	9	nsubj	_	BeginSeg=Yes

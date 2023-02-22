@@ -1,4 +1,4 @@
-# newdoc id = maz-5144
+# newdoc_id = maz-5144
 1	In	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Sorge	_	_	_	_	_	_	_	_
 3	Schon	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -189,7 +189,7 @@
 188	angewiesen	_	_	_	_	_	_	_	_
 189	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-6165
+# newdoc_id = maz-6165
 1	Aktionskreise	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Am	_	_	_	_	_	_	_	BeginSeg=Yes
 3	liebsten	_	_	_	_	_	_	_	_
@@ -393,7 +393,7 @@
 201	liegen	_	_	_	_	_	_	_	_
 202	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-6488
+# newdoc_id = maz-6488
 1	Da	_	_	_	_	_	_	_	BeginSeg=Yes
 2	fehlt	_	_	_	_	_	_	_	_
 3	noch	_	_	_	_	_	_	_	_
@@ -601,7 +601,7 @@
 205	nötig	_	_	_	_	_	_	_	_
 206	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-5873
+# newdoc_id = maz-5873
 1	Ungemütliche	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Jahreszeit	_	_	_	_	_	_	_	_
 3	Jetzt	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -795,7 +795,7 @@
 191	verhängnisvoll	_	_	_	_	_	_	_	_
 192	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-6539
+# newdoc_id = maz-6539
 1	Riesenstaatsmann	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Alles	_	_	_	_	_	_	_	BeginSeg=Yes
 3	hängt	_	_	_	_	_	_	_	_
@@ -970,7 +970,7 @@
 172	verspielen	_	_	_	_	_	_	_	_
 173	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-5932
+# newdoc_id = maz-5932
 1	Das	_	_	_	_	_	_	_	BeginSeg=Yes
 2	kleinere	_	_	_	_	_	_	_	_
 3	Übel	_	_	_	_	_	_	_	_
@@ -1156,7 +1156,7 @@
 183	Übel	_	_	_	_	_	_	_	_
 184	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-6918
+# newdoc_id = maz-6918
 1	Natürliche	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Rückeroberung	_	_	_	_	_	_	_	_
 3	Der	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -1333,7 +1333,7 @@
 174	da	_	_	_	_	_	_	_	_
 175	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-5709
+# newdoc_id = maz-5709
 1	Bucklig	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Davon	_	_	_	_	_	_	_	BeginSeg=Yes
 3	können	_	_	_	_	_	_	_	_
@@ -1515,7 +1515,7 @@
 179	unbezahlbar	_	_	_	_	_	_	_	_
 180	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-6993
+# newdoc_id = maz-6993
 1	Drei	_	_	_	_	_	_	_	BeginSeg=Yes
 2	leere	_	_	_	_	_	_	_	_
 3	Kassen	_	_	_	_	_	_	_	_
@@ -1686,7 +1686,7 @@
 168	angebracht	_	_	_	_	_	_	_	_
 169	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-5715
+# newdoc_id = maz-5715
 1	Glückliche	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Hühner	_	_	_	_	_	_	_	_
 3	Um	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -1846,7 +1846,7 @@
 157	Eiern	_	_	_	_	_	_	_	_
 158	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-5297
+# newdoc_id = maz-5297
 1	Siamesische	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Zwillinge	_	_	_	_	_	_	_	_
 3	Die	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -2016,7 +2016,7 @@
 167	hat	_	_	_	_	_	_	_	_
 168	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-6046
+# newdoc_id = maz-6046
 1	Veronas	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Tränen	_	_	_	_	_	_	_	_
 3	Seit	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -2161,7 +2161,7 @@
 142	überlegen	_	_	_	_	_	_	_	_
 143	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-5701
+# newdoc_id = maz-5701
 1	Am	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Boden	_	_	_	_	_	_	_	_
 3	Die	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -2353,7 +2353,7 @@
 189	Westeuropa	_	_	_	_	_	_	_	_
 190	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-5876
+# newdoc_id = maz-5876
 1	Einmalig	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Unvorstellbar	_	_	_	_	_	_	_	BeginSeg=Yes
 3	,	_	_	_	_	_	_	_	_
@@ -2554,7 +2554,7 @@
 198	Verabredung	_	_	_	_	_	_	_	_
 199	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-6159
+# newdoc_id = maz-6159
 1	Unverständlicher	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Streit	_	_	_	_	_	_	_	_
 3	um	_	_	_	_	_	_	_	_
@@ -2792,7 +2792,7 @@
 235	sind	_	_	_	_	_	_	_	_
 236	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-6728
+# newdoc_id = maz-6728
 1	Ansturm	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Das	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Schulmuseum	_	_	_	_	_	_	_	_
@@ -2973,7 +2973,7 @@
 178	machen	_	_	_	_	_	_	_	_
 179	.	_	_	_	_	_	_	_	_
 
-# newdoc id = maz-6193
+# newdoc_id = maz-6193
 1	Honigsüße	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Nachricht	_	_	_	_	_	_	_	_
 3	Sollte	_	_	_	_	_	_	_	BeginSeg=Yes

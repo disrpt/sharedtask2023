@@ -1,4 +1,4 @@
-# newdoc id = GUM_academic_exposure
+# newdoc_id = GUM_academic_exposure
 1	Introduction	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Research	_	_	_	_	_	_	_	BeginSeg=Yes
 3	on	_	_	_	_	_	_	_	_
@@ -964,7 +964,7 @@
 963	]	_	_	_	_	_	_	_	_
 964	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_academic_librarians
+# newdoc_id = GUM_academic_librarians
 1	Digital	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Humanities	_	_	_	_	_	_	_	_
 3	Clinics	_	_	_	_	_	_	_	_
@@ -1778,7 +1778,7 @@
 809	contexts	_	_	_	_	_	_	_	_
 810	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_bio_byron
+# newdoc_id = GUM_bio_byron
 1	Education	_	_	_	_	_	_	_	BeginSeg=Yes
 2	and	_	_	_	_	_	_	_	_
 3	early	_	_	_	_	_	_	_	_
@@ -2531,7 +2531,7 @@
 745	life	_	_	_	_	_	_	_	_
 746	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_bio_emperor
+# newdoc_id = GUM_bio_emperor
 1	Emperor	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Norton	_	_	_	_	_	_	_	_
 3	Joshua	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -3498,7 +3498,7 @@
 961	Congress	_	_	_	_	_	_	_	_
 962	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_conversation_grounded
+# newdoc_id = GUM_conversation_grounded
 1-2	What'd	_	_	_	_	_	_	_	_|BeginSeg=Yes
 1	What	_	_	_	_	_	_	_	_
 2	'd	_	_	_	_	_	_	_	_
@@ -4816,7 +4816,7 @@
 1246	down	_	_	_	_	_	_	_	_
 1247	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_conversation_risk
+# newdoc_id = GUM_conversation_risk
 1	We	_	_	_	_	_	_	_	BeginSeg=Yes
 2	need	_	_	_	_	_	_	_	_
 3	a	_	_	_	_	_	_	_	_
@@ -5802,7 +5802,7 @@
 943	tired	_	_	_	_	_	_	_	_
 944	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_fiction_beast
+# newdoc_id = GUM_fiction_beast
 1	The	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Beast	_	_	_	_	_	_	_	_
 3	I	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -6838,7 +6838,7 @@
 1029	eaves	_	_	_	_	_	_	_	_
 1030	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_fiction_lunre
+# newdoc_id = GUM_fiction_lunre
 1	Chapter	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Two	_	_	_	_	_	_	_	_
 3	:	_	_	_	_	_	_	_	_
@@ -7606,7 +7606,7 @@
 760	there	_	_	_	_	_	_	_	_
 761	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_interview_cyclone
+# newdoc_id = GUM_interview_cyclone
 1	Wikinews	_	_	_	_	_	_	_	BeginSeg=Yes
 2	interviews	_	_	_	_	_	_	_	_
 3	meteorological	_	_	_	_	_	_	_	_
@@ -8478,7 +8478,7 @@
 865	this	_	_	_	_	_	_	_	_
 866	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_interview_gaming
+# newdoc_id = GUM_interview_gaming
 1	Wikinews	_	_	_	_	_	_	_	BeginSeg=Yes
 2	interviews	_	_	_	_	_	_	_	_
 3	Mario	_	_	_	_	_	_	_	_
@@ -9215,7 +9215,7 @@
 718	Yeah	_	_	_	_	_	_	_	_
 719	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_news_homeopathic
+# newdoc_id = GUM_news_homeopathic
 1	Parents	_	_	_	_	_	_	_	BeginSeg=Yes
 2	prosecuted	_	_	_	_	_	_	_	_
 3	after	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -9874,7 +9874,7 @@
 648	condition	_	_	_	_	_	_	_	_
 649	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_news_iodine
+# newdoc_id = GUM_news_iodine
 1	Australian	_	_	_	_	_	_	_	BeginSeg=Yes
 2	children	_	_	_	_	_	_	_	_
 3	suffering	_	_	_	_	_	_	_	_
@@ -10967,7 +10967,7 @@
 1070	.	_	_	_	_	_	_	_	_
 1071	"	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_reddit_macroeconomics
+# newdoc_id = GUM_reddit_macroeconomics
 1	____	_	_	_	_	_	_	_	BeginSeg=Yes
 2	_	_	_	_	_	_	_	_	_
 3	__	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -12124,7 +12124,7 @@
 1140	___________	_	_	_	_	_	_	_	_
 1141	_	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_reddit_pandas
+# newdoc_id = GUM_reddit_pandas
 1	______	_	_	_	_	_	_	_	BeginSeg=Yes
 2	___	_	_	_	_	_	_	_	_
 3	___	_	_	_	_	_	_	_	_
@@ -12750,7 +12750,7 @@
 613	____	_	_	_	_	_	_	_	_
 614	_	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_speech_impeachment
+# newdoc_id = GUM_speech_impeachment
 1	Madam	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Speaker	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -13856,7 +13856,7 @@
 1100	truth	_	_	_	_	_	_	_	_
 1101	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_speech_inauguration
+# newdoc_id = GUM_speech_inauguration
 1	Senator	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Hatfield	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -14747,7 +14747,7 @@
 884	world	_	_	_	_	_	_	_	_
 885	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_textbook_governments
+# newdoc_id = GUM_textbook_governments
 1	1.1	_	_	_	_	_	_	_	BeginSeg=Yes
 2	What	_	_	_	_	_	_	_	_
 3	is	_	_	_	_	_	_	_	_
@@ -15699,7 +15699,7 @@
 944	world	_	_	_	_	_	_	_	_
 945	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_textbook_labor
+# newdoc_id = GUM_textbook_labor
 1	Why	_	_	_	_	_	_	_	BeginSeg=Yes
 2	the	_	_	_	_	_	_	_	_
 3	Division	_	_	_	_	_	_	_	_
@@ -16344,7 +16344,7 @@
 642	scarcity	_	_	_	_	_	_	_	_
 643	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_vlog_portland
+# newdoc_id = GUM_vlog_portland
 1	Hi	_	_	_	_	_	_	_	BeginSeg=Yes
 2	everyone	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -17473,7 +17473,7 @@
 1096	seriously	_	_	_	_	_	_	_	_
 1097	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_vlog_radiology
+# newdoc_id = GUM_vlog_radiology
 1-2	What's	_	_	_	_	_	_	_	_|BeginSeg=Yes
 1	What	_	_	_	_	_	_	_	_
 2	's	_	_	_	_	_	_	_	_
@@ -18465,7 +18465,7 @@
 942	now	_	_	_	_	_	_	_	_
 943	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_voyage_athens
+# newdoc_id = GUM_voyage_athens
 1	Athens	_	_	_	_	_	_	_	BeginSeg=Yes
 2	(	_	_	_	_	_	_	_	BeginSeg=Yes
 3	Greek	_	_	_	_	_	_	_	_
@@ -19501,7 +19501,7 @@
 1020	basin	_	_	_	_	_	_	_	_
 1021	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_voyage_coron
+# newdoc_id = GUM_voyage_coron
 1	Coron	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Coron	_	_	_	_	_	_	_	BeginSeg=Yes
 3	is	_	_	_	_	_	_	_	_
@@ -20085,7 +20085,7 @@
 581	today	_	_	_	_	_	_	_	_
 582	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_whow_joke
+# newdoc_id = GUM_whow_joke
 1	How	_	_	_	_	_	_	_	BeginSeg=Yes
 2	to	_	_	_	_	_	_	_	_
 3	Tell	_	_	_	_	_	_	_	_
@@ -21128,7 +21128,7 @@
 1020	audience	_	_	_	_	_	_	_	_
 1021	.	_	_	_	_	_	_	_	_
 
-# newdoc id = GUM_whow_overalls
+# newdoc_id = GUM_whow_overalls
 1	How	_	_	_	_	_	_	_	BeginSeg=Yes
 2	to	_	_	_	_	_	_	_	_
 3	Wash	_	_	_	_	_	_	_	_

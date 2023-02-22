@@ -1,4 +1,4 @@
-# newdoc id = as00014
+# newdoc_id = as00014
 1	Materia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	y	_	_	_	_	_	_	_	_
 3	energía	_	_	_	_	_	_	_	_
@@ -76,7 +76,7 @@
 75	Phantom	_	_	_	_	_	_	_	_
 76	.	_	_	_	_	_	_	_	_
 
-# newdoc id = as00015
+# newdoc_id = as00015
 1	NIVELES	_	_	_	_	_	_	_	BeginSeg=Yes
 2	GRAVITATORIOS	_	_	_	_	_	_	_	_
 3	A	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -150,7 +150,7 @@
 71	planetario	_	_	_	_	_	_	_	_
 72	.	_	_	_	_	_	_	_	_
 
-# newdoc id = de00002
+# newdoc_id = de00002
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	aplicación	_	_	_	_	_	_	_	_
 3	del	_	_	_	_	_	_	_	_
@@ -310,7 +310,7 @@
 157	garantizados	_	_	_	_	_	_	_	_
 158	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00013
+# newdoc_id = ec00013
 1	Resumen	_	_	_	_	_	_	_	BeginSeg=Yes
 2	El	_	_	_	_	_	_	_	BeginSeg=Yes
 3	propósito	_	_	_	_	_	_	_	_
@@ -556,7 +556,7 @@
 243	MEI	_	_	_	_	_	_	_	_
 244	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ec00014
+# newdoc_id = ec00014
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	trabajo	_	_	_	_	_	_	_	_
 3	analiza	_	_	_	_	_	_	_	_
@@ -722,7 +722,7 @@
 163	empleo	_	_	_	_	_	_	_	_
 164	.	_	_	_	_	_	_	_	_
 
-# newdoc id = in00002
+# newdoc_id = in00002
 1	Las	_	_	_	_	_	_	_	BeginSeg=Yes
 2	estructuras	_	_	_	_	_	_	_	_
 3	con	_	_	_	_	_	_	_	_
@@ -976,7 +976,7 @@
 251	frecuencia	_	_	_	_	_	_	_	_
 252	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00037
+# newdoc_id = li00037
 1	Un	_	_	_	_	_	_	_	BeginSeg=Yes
 2	constructor	_	_	_	_	_	_	_	_
 3	terminológico	_	_	_	_	_	_	_	_
@@ -1366,7 +1366,7 @@
 387	escoger	_	_	_	_	_	_	_	_
 388	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00038
+# newdoc_id = li00038
 1	Relación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	argumento	_	_	_	_	_	_	_	_
@@ -2471,7 +2471,7 @@
 1102	vecinas	_	_	_	_	_	_	_	_
 1103	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00039
+# newdoc_id = li00039
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	neología	_	_	_	_	_	_	_	_
 3	contrarreloj	_	_	_	_	_	_	_	_
@@ -2897,7 +2897,7 @@
 423	efímeras	_	_	_	_	_	_	_	_
 424	?	_	_	_	_	_	_	_	_
 
-# newdoc id = li00040
+# newdoc_id = li00040
 1	Provisión	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	herramientas	_	_	_	_	_	_	_	_
@@ -3126,7 +3126,7 @@
 226	proyecto	_	_	_	_	_	_	_	_
 227	.	_	_	_	_	_	_	_	_
 
-# newdoc id = li00041
+# newdoc_id = li00041
 1	Aportes	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	Tesauro	_	_	_	_	_	_	_	_
@@ -3274,7 +3274,7 @@
 145	jurídico	_	_	_	_	_	_	_	_
 146	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00063b
+# newdoc_id = ma00063b
 1	Detección	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	mezclas	_	_	_	_	_	_	_	_
@@ -3329,7 +3329,7 @@
 52	poblaciones	_	_	_	_	_	_	_	_
 53	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00064b
+# newdoc_id = ma00064b
 1	Teoremas	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	tipo	_	_	_	_	_	_	_	_
@@ -3449,7 +3449,7 @@
 117	perturbaciones	_	_	_	_	_	_	_	_
 118	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00065b
+# newdoc_id = ma00065b
 1	Un	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Método	_	_	_	_	_	_	_	_
 3	Conservativo	_	_	_	_	_	_	_	_
@@ -3585,7 +3585,7 @@
 133	extendidas	_	_	_	_	_	_	_	_
 134	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00066b
+# newdoc_id = ma00066b
 1	Convergencia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	no	_	_	_	_	_	_	_	_
 3	tangencial	_	_	_	_	_	_	_	_
@@ -3665,7 +3665,7 @@
 77	Poisson-Hermite	_	_	_	_	_	_	_	_
 78	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00067b
+# newdoc_id = ma00067b
 1	Sobre	_	_	_	_	_	_	_	BeginSeg=Yes
 2	un	_	_	_	_	_	_	_	_
 3	teorema	_	_	_	_	_	_	_	_
@@ -3778,7 +3778,7 @@
 110	contexto	_	_	_	_	_	_	_	_
 111	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00068b
+# newdoc_id = ma00068b
 1	Integración	_	_	_	_	_	_	_	BeginSeg=Yes
 2	y	_	_	_	_	_	_	_	_
 3	Derivación	_	_	_	_	_	_	_	_
@@ -3865,7 +3865,7 @@
 84	Jacobi	_	_	_	_	_	_	_	_
 85	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00069b
+# newdoc_id = ma00069b
 1	Extensión	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	funciones	_	_	_	_	_	_	_	_
@@ -3944,7 +3944,7 @@
 76	medible	_	_	_	_	_	_	_	_
 77	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ma00070b
+# newdoc_id = ma00070b
 1	Los	_	_	_	_	_	_	_	BeginSeg=Yes
 2	teoremas	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -4030,7 +4030,7 @@
 83	Kato	_	_	_	_	_	_	_	_
 84	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00025
+# newdoc_id = me00025
 1	Criterios	_	_	_	_	_	_	_	BeginSeg=Yes
 2	psicosomáticos	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -4156,7 +4156,7 @@
 123	proceso	_	_	_	_	_	_	_	_
 124	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00026
+# newdoc_id = me00026
 1	Infección	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Protésica	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -4337,7 +4337,7 @@
 178	obtenidos	_	_	_	_	_	_	_	_
 179	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00027
+# newdoc_id = me00027
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	fenotipo	_	_	_	_	_	_	_	_
 3	tumoral	_	_	_	_	_	_	_	_
@@ -4716,7 +4716,7 @@
 376	biológica	_	_	_	_	_	_	_	_
 377	.	_	_	_	_	_	_	_	_
 
-# newdoc id = me00028
+# newdoc_id = me00028
 1	Incidencia	_	_	_	_	_	_	_	BeginSeg=Yes
 2	real	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -5128,7 +5128,7 @@
 409	tamaño	_	_	_	_	_	_	_	_
 410	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00024b
+# newdoc_id = ps00024b
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	importancia	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -5262,7 +5262,7 @@
 131	VIH	_	_	_	_	_	_	_	_
 132	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00025b
+# newdoc_id = ps00025b
 1	La	_	_	_	_	_	_	_	BeginSeg=Yes
 2	diferenciación	_	_	_	_	_	_	_	_
 3	del	_	_	_	_	_	_	_	_
@@ -5496,7 +5496,7 @@
 231	violentados	_	_	_	_	_	_	_	_
 232	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00026b
+# newdoc_id = ps00026b
 1	Diferenciación	_	_	_	_	_	_	_	BeginSeg=Yes
 2	en	_	_	_	_	_	_	_	_
 3	mujeres	_	_	_	_	_	_	_	_
@@ -5676,7 +5676,7 @@
 177	conceptual	_	_	_	_	_	_	_	_
 178	.	_	_	_	_	_	_	_	_
 
-# newdoc id = ps00027b
+# newdoc_id = ps00027b
 1	Valoración	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	la	_	_	_	_	_	_	_	_
@@ -5837,7 +5837,7 @@
 158	2006	_	_	_	_	_	_	_	_
 159	)	_	_	_	_	_	_	_	_
 
-# newdoc id = se00032b
+# newdoc_id = se00032b
 1	BACTERIAS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Neisseria	_	_	_	_	_	_	_	BeginSeg=Yes
 3	gonorrhoeae	_	_	_	_	_	_	_	_
@@ -6296,7 +6296,7 @@
 456	infección	_	_	_	_	_	_	_	_
 457	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00033b
+# newdoc_id = se00033b
 1	BACTERIAS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Treponema	_	_	_	_	_	_	_	BeginSeg=Yes
 3	pallidum	_	_	_	_	_	_	_	_
@@ -6799,7 +6799,7 @@
 500	post-infección	_	_	_	_	_	_	_	_
 501	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00034
+# newdoc_id = se00034
 1	VIRUS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Herpes	_	_	_	_	_	_	_	BeginSeg=Yes
 3	2	_	_	_	_	_	_	_	_
@@ -7153,7 +7153,7 @@
 351	famciclovir	_	_	_	_	_	_	_	_
 352	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00035
+# newdoc_id = se00035
 1	BACTERIAS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Clamydia	_	_	_	_	_	_	_	BeginSeg=Yes
 3	trachomatis	_	_	_	_	_	_	_	_
@@ -7359,7 +7359,7 @@
 203	genital	_	_	_	_	_	_	_	_
 204	.	_	_	_	_	_	_	_	_
 
-# newdoc id = se00036
+# newdoc_id = se00036
 1	PARASITOS	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Tricomonas	_	_	_	_	_	_	_	BeginSeg=Yes
 3	vaginalis	_	_	_	_	_	_	_	_

@@ -1,4 +1,4 @@
-# newdoc id = AD15_AA_properties
+# newdoc_id = AD15_AA_properties
 # sent_id = AD15_AA_properties-1
 # text = Vastgoed : vast en zeker
 1	Vastgoed	Vastgoed	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	parataxis	_	BeginSeg=Yes
@@ -302,7 +302,7 @@
 16	Dubai	Dubai	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	14	nmod	_	_
 17	!	!	PUNCT	LET	_	1	punct	_	_
 
-# newdoc id = AD16_Bifiene
+# newdoc_id = AD16_Bifiene
 # sent_id = AD16_Bifiene-1
 # text = Hou je darmen in beweging met Bifiene !
 1	Hou	houden	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -626,7 +626,7 @@
 21	dikke	dik	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	22	amod	_	_
 22	darm.	darm.	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	advcl	_	_
 
-# newdoc id = AD17_BlueBand
+# newdoc_id = AD17_BlueBand
 # sent_id = AD17_BlueBand-1
 # text = Welke hoort er niet bij ?
 1	Welke	welk	PRON	VNW|vb|det|stan|nom|met-e|zonder-n	PronType=Int	2	nsubj	_	BeginSeg=Yes
@@ -909,7 +909,7 @@
 12	eten	eten	VERB	WW|inf|vrij|zonder	VerbForm=Inf	7	conj	_	_
 13	.	.	PUNCT	LET	_	7	punct	_	_
 
-# newdoc id = EE15_Amalthea
+# newdoc_id = EE15_Amalthea
 # sent_id = EE15_Amalthea-1
 # text = Amalthea ( Jupitermaan ) Amalthea is de derde maan van Jupiter .
 1	Amalthea	amalthea	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	nsubj	_	BeginSeg=Yes
@@ -1324,7 +1324,7 @@
 21	Jupiter	Jupiter	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	19	nmod	_	_
 22	.	.	PUNCT	LET	_	4	punct	_	_
 
-# newdoc id = EE16_Epimetheus
+# newdoc_id = EE16_Epimetheus
 # sent_id = EE16_Epimetheus-1
 # text = Epimetheus ( Saturnusmaan ) Epimetheus is een maan van Saturnus , ontdekt door Richard Walker in 1966 .
 1	Epimetheus	Epimetheus	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	nsubj	_	BeginSeg=Yes
@@ -1738,7 +1738,7 @@
 4	gezien	zien	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	_	_
 5	)	)	PUNCT	LET	_	4	punct	_	_
 
-# newdoc id = EE17_Hyperion
+# newdoc_id = EE17_Hyperion
 # sent_id = EE17_Hyperion-1
 # text = Hyperion ( Saturnusmaan ) Hyperion is een maan van Saturnus , ontdekt door Bond en Lassell in 1848 .
 1	Hyperion	Hyperion	PROPN	N|eigen|ev|basis|genus|stan	Gender=Com,Neut|Number=Sing	8	nsubj	_	BeginSeg=Yes
@@ -2176,7 +2176,7 @@
 44	halfrond	halfrond	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	40	conj	_	_
 45	.	.	PUNCT	LET	_	8	punct	_	_
 
-# newdoc id = FL15_MS_research
+# newdoc_id = FL15_MS_research
 # sent_id = FL15_MS_research-1
 # text = Wat komt er in u op als u aan Holland denkt ?
 1	Wat	wat	PRON	VNW|vb|pron|stan|vol|3o|ev	Person=3|PronType=Int	2	nsubj	_	BeginSeg=Yes
@@ -2548,7 +2548,7 @@
 8	brief	brief	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nmod	_	_
 9	!	!	PUNCT	LET	_	1	punct	_	_
 
-# newdoc id = FL16_Slachtofferhulp
+# newdoc_id = FL16_Slachtofferhulp
 # sent_id = FL16_Slachtofferhulp-1
 # text = Een op de vijf vrouwen slachtoffer van partnergeweld
 1	Een	een	NUM	TW|hoofd|vrij|zonder-n	_	0	root	_	BeginSeg=Yes
@@ -3001,7 +3001,7 @@
 9	details	detail	NOUN	N|soort|mv|basis	Number=Plur	6	obj	_	_
 10	.	.	PUNCT	LET	_	6	punct	_	_
 
-# newdoc id = FL17_Habitat
+# newdoc_id = FL17_Habitat
 # sent_id = FL17_Habitat-1
 # text = Bouw je mee ?
 1	Bouw	bouwen	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -3409,7 +3409,7 @@
 8	achterkant	achterkant	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	obl	_	_
 9	!	!	PUNCT	LET	_	2	punct	_	_
 
-# newdoc id = PSN15_Aarde_maan_jonger
+# newdoc_id = PSN15_Aarde_maan_jonger
 # sent_id = PSN15_Aarde_maan_jonger-1
 # text = Aarde en maan zijn jonger Nieuw onderzoek wijst uit dat de aarde en de maan jonger zijn dan gedacht .
 1	Aarde	aarde	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	nsubj	_	BeginSeg=Yes
@@ -3822,7 +3822,7 @@
 20	wolfraam	wolfraam	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	18	obl	_	_
 21	.	.	PUNCT	LET	_	4	punct	_	_
 
-# newdoc id = PSN16_Dwergplaneten
+# newdoc_id = PSN16_Dwergplaneten
 # sent_id = PSN16_Dwergplaneten-1
 # text = Meer dwergplaneten in de Kuipergordel ?
 1	Meer	veel	DET	VNW|onbep|grad|stan|prenom|zonder|agr|comp	_	2	det	_	BeginSeg=Yes
@@ -4187,7 +4187,7 @@
 12	Pluto	Pluto	PROPN	N|eigen|ev|basis|genus|stan	Gender=Neut|Number=Sing	10	nmod	_	_
 13	.	.	PUNCT	LET	_	3	punct	_	_
 
-# newdoc id = PSN17_Neptunus_at_een_planeet
+# newdoc_id = PSN17_Neptunus_at_een_planeet
 # sent_id = PSN17_Neptunus_at_een_planeet-1
 # text = Neptunus at waarschijnlijk een planeet Neptunus heeft mogelijk ooit een superaarde opgegeten .
 1	Neptunus	Neptunus	PROPN	SPEC|deeleigen	_	12	nsubj	_	BeginSeg=Yes

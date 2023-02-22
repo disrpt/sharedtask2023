@@ -1,4 +1,4 @@
-# newdoc id = 00006131
+# newdoc_id = 00006131
 # sent_id = 00006131-1
 # text = ________ _____ ____ _____ _
 1	________	kanal	NOUN	Noun	Case=Nom|Number=Plur|Person=3	3	nsubj	_	_
@@ -2719,7 +2719,7 @@
 31	__________	uzan	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Past	15	conj	_	SpaceAfter=No
 32	_	_	PUNCT	Punc	_	31	punct	_	_
 
-# newdoc id = 00020212
+# newdoc_id = 00020212
 # sent_id = 00020212-1
 # text = ______ ______ ______ _______ ______ ______ ____ ___ _________
 1	______	Sidika	ADJ	Adj	_	2	amod	_	_
@@ -6183,7 +6183,7 @@
 30	____	_	PUNCT	Punc	_	29	punct	_	SpaceAfter=No
 31	_	_	PUNCT	Punc	_	29	punct	_	_
 
-# newdoc id = 00026231
+# newdoc_id = 00026231
 # sent_id = 00026231-1
 # text = ____ ________ _________ ___ _____ _
 1	____	_	ADJ	Adj	_	2	nmod:poss	_	_
@@ -9025,7 +9025,7 @@
 10	__________	geliş	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Voice=Cau	0	root	_	SpaceAfter=No
 11	_	_	PUNCT	Punc	_	10	punct	_	_
 
-# newdoc id = 00033223
+# newdoc_id = 00033223
 # sent_id = 00033223-1
 # text = ________ _____ ______ ___ _____ _____ ____ _____ _____ ______
 1	________	Sesler	NOUN	Noun	Case=Loc|Number=Plur|Person=3	7	obl	_	_
@@ -12659,7 +12659,7 @@
 7	_____	git	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	4	conj	_	SpaceAfter=No
 8	_	_	PUNCT	Punc	_	7	punct	_	_
 
-# newdoc id = 00048220
+# newdoc_id = 00048220
 # sent_id = 00048220-1
 # text = __________ ___ ______ ____ ____ ___ _______ _______ ___________
 1-2	__________	_	_	_	_	_	_	_	_
@@ -15785,7 +15785,7 @@
 17	______	uç	VERB	Verb	Aspect=Perf|Mood=Opt|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	9	conj	_	SpaceAfter=No
 18	_	_	PUNCT	Punc	_	17	punct	_	_
 
-# newdoc id = 00050220
+# newdoc_id = 00050220
 # sent_id = 00050220-1
 # text = _______ _______ _____ _______ _________ _____ ____ __ _____ ______ ____________ ______ _________ ___________ __________ ___ ________
 1	_______	*LOWER*	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	_
@@ -18828,7 +18828,7 @@
 # text = _
 1	_	_	PUNCT	Punc	_	0	root	_	_
 
-# newdoc id = 00062211
+# newdoc_id = 00062211
 # sent_id = 00062211-1
 # text = _____ ______ ____ _____ _____ ____ _____ _____ _______ ____ ___ __________ _________ _____ ____ _______ __ _____ ___ ____ __ _______ _______ _ _____ ___ ________ _____ ______ ______ ___ ________ _____ ______ _____ ______ __ ______ __________ ___ ___ _____ _____ ______ _______ ____ ___________ _____ ___________ _______ _____ ___ ______ ____ ____________ ______________ ______ _________________ _______ ______ _________ _______ __________ __________ ______ __ ___________ ________ ___________ __________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nmod	_	_
@@ -21564,7 +21564,7 @@
 14	_________	geç	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Past	13	compound	_	SpaceAfter=No
 15	_	_	PUNCT	Punc	_	13	punct	_	_
 
-# newdoc id = 00077111
+# newdoc_id = 00077111
 # sent_id = 00077111-1
 # text = _______ _________ _____ ______ ____ ____ ___________ __________ ___ ___ _________ _________ ___________ _________ ___ _______ _______ _______ _______ ______ _________ ___________
 1	_______	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	_
@@ -24621,7 +24621,7 @@
 8	____	ben	PRON	Pers	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	SpaceAfter=No
 9	__	_	PUNCT	Punc	_	7	punct	_	_
 
-# newdoc id = 10070000
+# newdoc_id = 10070000
 # sent_id = 10070000-1
 # text = _____ ______ _____ ___________ __________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
@@ -27342,7 +27342,7 @@
 11	____	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 12	_	_	PUNCT	Punc	_	11	punct	_	_
 
-# newdoc id = 10170000
+# newdoc_id = 10170000
 # sent_id = 10170000-1
 # text = _____ _______ ______ ________________ _____ __________ _______ ___________ ________ ______ _________ ______ _____ ____ __________ ____ _________ _______________ ______ _______ _____ ______ ___ ______ __________ __ ________ __________ ___ _______ _____ _______ _______ _____ ________ ____ _______ ______ ______ _______ ___ ________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	11	nsubj	_	_
@@ -30016,7 +30016,7 @@
 21	___________	sağla	VERB	Verb	Aspect=Perf|Evident=Nfh|Mood=Gen|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 22	_	_	PUNCT	Punc	_	21	punct	_	_
 
-# newdoc id = 10180000
+# newdoc_id = 10180000
 # sent_id = 10180000-1
 # text = _____ ________ __ ________ ________ __________ ________ __________ _____ _______ _____ ________ ____ _______ __________ _____________ ________________ ________ _______ ___________ ______ ____________ ______________ ______ ____ ______
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	nsubj	_	_
@@ -32789,7 +32789,7 @@
 14	_______	süre	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
 15	_	_	PUNCT	Punc	_	14	punct	_	_
 
-# newdoc id = 10270000
+# newdoc_id = 10270000
 # sent_id = 10270000-1
 # text = _____ _______ _____ ____ _______ _____ _______ ___________ ____ __ __ ____ ______ ____________ ______ _____ _____ _____ _________ _______ ____________ ______ _____ __ _____________ ___ ___________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nmod:poss	_	_
@@ -35828,7 +35828,7 @@
 32	________	söyle	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
 33	_	_	PUNCT	Punc	_	32	punct	_	_
 
-# newdoc id = 10370000
+# newdoc_id = 10370000
 # sent_id = 10370000-1
 # text = _____ ________ _____ ___________ _________ __________ ______ _______ ________ ________ _____ ______________ ______ _________ _______ _________ ______ _________ _________ ___ __ ___ ________ _______ __________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	27	nmod:poss	_	_
@@ -38930,7 +38930,7 @@
 22	_________	kendi	PRON	Reflex	Case=Acc|Number=Plur|Number[psor]=Plur|Person=1|Person[psor]=1|Reflex=Yes	21	obj	_	SpaceAfter=No
 23	_	_	PUNCT	Punc	_	21	punct	_	_
 
-# newdoc id = 10580000
+# newdoc_id = 10580000
 # sent_id = 10580000-1
 # text = _____ ___ ______ ____ _____________ ________ __ __________ _______ ________ ________ __________ _
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nmod:poss	_	_
@@ -41412,7 +41412,7 @@
 11	_________	öğren	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass	0	root	_	SpaceAfter=No
 12	_	_	PUNCT	Punc	_	11	punct	_	_
 
-# newdoc id = 10680000
+# newdoc_id = 10680000
 # sent_id = 10680000-1
 # text = _____ _________ _____ __ ________ _____ _____________ ___ ____ ______ ___________ ______ __ _______ ____ _____ _______ __________ __ _______ ________________ ___________ ________ ______ ________ ________ ______ _________ ______ ______ _________ _____________ ___________ _______ _________ _____ _____ __ _________ _______________ ________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	11	nmod:poss	_	_
@@ -44290,7 +44290,7 @@
 11	_______	gerek	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
 12	___	_	PUNCT	Punc	_	11	punct	_	_
 
-# newdoc id = 20260000
+# newdoc_id = 20260000
 # sent_id = 20260000-1
 # text = _____ ____ ___________ ______________ ________ ______ ______ ___ ___ ______ _____ __________ _______ _____ __ _____ ______ ___________ _____ ___________ ___ ________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	_
@@ -49890,7 +49890,7 @@
 13	_____	gel	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 14	_	_	PUNCT	Punc	_	13	punct	_	_
 
-# newdoc id = 20360000
+# newdoc_id = 20360000
 # sent_id = 20360000-1
 # text = _____ ____ _____ _____________ ___________ ________ _____ ___ _____ _______ _______
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	11	nsubj	_	_
@@ -53093,7 +53093,7 @@
 26	_______	gir	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
 27	_	_	PUNCT	Punc	_	26	punct	_	_
 
-# newdoc id = 20460000
+# newdoc_id = 20460000
 # sent_id = 20460000-1
 # text = _____ _________ __________ _______ _______ _____ _____________ ___________ ___ ________ __ _______ _____________ ______ ________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
@@ -55977,7 +55977,7 @@
 25	___________	çıkar	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|Voice=Pass	0	root	_	SpaceAfter=No
 26	_	_	PUNCT	Punc	_	25	punct	_	_
 
-# newdoc id = 20560000
+# newdoc_id = 20560000
 # sent_id = 20560000-1
 # text = _____ _____________ _____ ______ ___________ __________ _______ _____ __________ _______ ________ ___________ ________ ______ ____ ______ ___ ______ _____ ___________ ___________ ________ _____ ___________ ________ _______ ______ ________ _________ ________ ________ _____________ ________________ _____ ________ ________ ________ _________ _______ ____ _____ _______ _____ ________ _____ _____ ______________ _____ _________ ____ _______ ___________ _____ ____________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	41	nmod:poss	_	_

@@ -1,4 +1,4 @@
-# newdoc id = BMCS_ESP4-GS
+# newdoc_id = BMCS_ESP4-GS
 1	Cursos	curso	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	preparación	preparación	NOUN	NOUN	Gender=Fem|Number=Sing	1	nmod	_	_
@@ -197,7 +197,7 @@
 34	útiles	útil	ADJ	ADJ	Number=Plur	31	obj	_	_
 35	.	.	PUNCT	PUNCT	PunctType=Peri	14	punct	_	_
 
-# newdoc id = CCICE_ESP4-GS
+# newdoc_id = CCICE_ESP4-GS
 1	BBVA	BBVA	PROPN	PROPN	_	3	nsubj	_	BeginSeg=Yes
 2	Portugal	Portugal	PROPN	PROPN	_	1	flat	_	_
 3	cierra	cerrar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -414,7 +414,7 @@
 32	millones	millón	NOUN	NOUN	Gender=Masc|Number=Plur	12	conj	_	_
 33	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = EEP_ESP7-GS
+# newdoc_id = EEP_ESP7-GS
 1	6ª	6ª	NOUN	NOUN	AdvType=Tim	0	root	_	BeginSeg=Yes
 2	EDICIÓN	edición	NOUN	NOUN	Gender=Fem|Number=Sing	1	appos	_	_
 3	ESPAÑA	ESPAÑA	PROPN	PROPN	_	2	appos	_	_
@@ -766,7 +766,7 @@
 80	2014	2014	NOUN	NOUN	AdvType=Tim	77	appos	_	_
 81	)	)	PUNCT	PUNCT	PunctSide=Fin|PunctType=Brck	77	punct	_	_
 
-# newdoc id = FCEC_ESP1-GS
+# newdoc_id = FCEC_ESP1-GS
 1	Carta	Carta	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	bienvenida	bienvenida	NOUN	NOUN	Gender=Fem|Number=Sing	1	nmod	_	_
@@ -1262,7 +1262,7 @@
 5	Consejo	Consejo	PROPN	PROPN	_	4	flat	_	_
 6	España-China	España-China	PROPN	PROPN	_	4	flat	_	_
 
-# newdoc id = FICB_ESP4-GS
+# newdoc_id = FICB_ESP4-GS
 1	Exposición	Exposición	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	fotos	foto	NOUN	NOUN	Gender=Fem|Number=Plur	1	nmod	_	_
@@ -1449,7 +1449,7 @@
 72	,	,	PUNCT	PUNCT	PunctType=Comm	73	punct	_	_
 73	S.L.	S.L.	PROPN	PROPN	_	69	flat	_	_
 
-# newdoc id = ICP_ESP5-GS
+# newdoc_id = ICP_ESP5-GS
 1	Cursos	curso	NOUN	NOUN	Gender=Masc|Number=Plur	14	nsubj	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	español	español	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -1663,7 +1663,7 @@
 27	conciertos	concierto	NOUN	NOUN	Gender=Masc|Number=Plur	21	conj	_	_
 28	...	...	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
 
-# newdoc id = ICP_ESP6-GS
+# newdoc_id = ICP_ESP6-GS
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	Instituto	Instituto	PROPN	PROPN	_	0	root	_	_
 3	Cervantes	Cervantes	PROPN	PROPN	_	2	flat	_	_
@@ -2172,7 +2172,7 @@
 48	país	país	NOUN	NOUN	Gender=Masc|Number=Sing	46	nmod	_	_
 49	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = TERM39_ESP-GS
+# newdoc_id = TERM39_ESP-GS
 1	Provisión	provisión	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	herramientas	herramienta	NOUN	NOUN	Gender=Fem|Number=Plur	1	nmod	_	_
@@ -2376,7 +2376,7 @@
 24	proyecto	proyecto	NOUN	NOUN	Gender=Masc|Number=Sing	22	obl	_	_
 25	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = TERM40_ESP-GS
+# newdoc_id = TERM40_ESP-GS
 1	Aportes	aporte	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	del	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	Tesauro	Tesauro	PROPN	PROPN	_	1	nmod	_	_

@@ -1,4 +1,4 @@
-# newdoc id = AD15_AA_properties
+# newdoc_id = AD15_AA_properties
 1	Vastgoed	_	_	_	_	_	_	_	BeginSeg=Yes
 2	:	_	_	_	_	_	_	_	_
 3	vast	_	_	_	_	_	_	_	_
@@ -240,7 +240,7 @@
 239	Dubai	_	_	_	_	_	_	_	_
 240	!	_	_	_	_	_	_	_	_
 
-# newdoc id = AD16_Bifiene
+# newdoc_id = AD16_Bifiene
 1	Hou	_	_	_	_	_	_	_	BeginSeg=Yes
 2	je	_	_	_	_	_	_	_	_
 3	darmen	_	_	_	_	_	_	_	_
@@ -505,7 +505,7 @@
 262	dikke	_	_	_	_	_	_	_	_
 263	darm.	_	_	_	_	_	_	_	_
 
-# newdoc id = AD17_BlueBand
+# newdoc_id = AD17_BlueBand
 1	Welke	_	_	_	_	_	_	_	BeginSeg=Yes
 2	hoort	_	_	_	_	_	_	_	_
 3	er	_	_	_	_	_	_	_	_
@@ -726,7 +726,7 @@
 218	eten	_	_	_	_	_	_	_	_
 219	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE15_Amalthea
+# newdoc_id = EE15_Amalthea
 1	Amalthea	_	_	_	_	_	_	_	BeginSeg=Yes
 2	(	_	_	_	_	_	_	_	_
 3	Jupitermaan	_	_	_	_	_	_	_	_
@@ -1091,7 +1091,7 @@
 362	Jupiter	_	_	_	_	_	_	_	_
 363	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EE16_Epimetheus
+# newdoc_id = EE16_Epimetheus
 1	Epimetheus	_	_	_	_	_	_	_	BeginSeg=Yes
 2	(	_	_	_	_	_	_	_	_
 3	Saturnusmaan	_	_	_	_	_	_	_	_
@@ -1449,7 +1449,7 @@
 355	gezien	_	_	_	_	_	_	_	_
 356	)	_	_	_	_	_	_	_	_
 
-# newdoc id = EE17_Hyperion
+# newdoc_id = EE17_Hyperion
 1	Hyperion	_	_	_	_	_	_	_	BeginSeg=Yes
 2	(	_	_	_	_	_	_	_	_
 3	Saturnusmaan	_	_	_	_	_	_	_	_
@@ -1840,7 +1840,7 @@
 388	halfrond	_	_	_	_	_	_	_	_
 389	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FL15_MS_research
+# newdoc_id = FL15_MS_research
 1	Wat	_	_	_	_	_	_	_	BeginSeg=Yes
 2	komt	_	_	_	_	_	_	_	_
 3	er	_	_	_	_	_	_	_	_
@@ -2141,7 +2141,7 @@
 298	brief	_	_	_	_	_	_	_	_
 299	!	_	_	_	_	_	_	_	_
 
-# newdoc id = FL16_Slachtofferhulp
+# newdoc_id = FL16_Slachtofferhulp
 1	Een	_	_	_	_	_	_	_	BeginSeg=Yes
 2	op	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -2517,7 +2517,7 @@
 373	details	_	_	_	_	_	_	_	_
 374	.	_	_	_	_	_	_	_	_
 
-# newdoc id = FL17_Habitat
+# newdoc_id = FL17_Habitat
 1	Bouw	_	_	_	_	_	_	_	BeginSeg=Yes
 2	je	_	_	_	_	_	_	_	_
 3	mee	_	_	_	_	_	_	_	_
@@ -2848,7 +2848,7 @@
 328	achterkant	_	_	_	_	_	_	_	_
 329	!	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN15_Aarde_maan_jonger
+# newdoc_id = PSN15_Aarde_maan_jonger
 1	Aarde	_	_	_	_	_	_	_	BeginSeg=Yes
 2	en	_	_	_	_	_	_	_	_
 3	maan	_	_	_	_	_	_	_	_
@@ -3196,7 +3196,7 @@
 345	wolfraam	_	_	_	_	_	_	_	_
 346	.	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN16_Dwergplaneten
+# newdoc_id = PSN16_Dwergplaneten
 1	Meer	_	_	_	_	_	_	_	BeginSeg=Yes
 2	dwergplaneten	_	_	_	_	_	_	_	_
 3	in	_	_	_	_	_	_	_	_
@@ -3496,7 +3496,7 @@
 297	Pluto	_	_	_	_	_	_	_	_
 298	.	_	_	_	_	_	_	_	_
 
-# newdoc id = PSN17_Neptunus_at_een_planeet
+# newdoc_id = PSN17_Neptunus_at_een_planeet
 1	Neptunus	_	_	_	_	_	_	_	BeginSeg=Yes
 2	at	_	_	_	_	_	_	_	_
 3	waarschijnlijk	_	_	_	_	_	_	_	_

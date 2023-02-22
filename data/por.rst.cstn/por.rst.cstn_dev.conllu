@@ -1,4 +1,4 @@
-# newdoc id = D1_C13_Folha_07-08-2010_07h21
+# newdoc_id = D1_C13_Folha_07-08-2010_07h21
 # sent_id = D1_C13_Folha_07-08-2010_07h21-1
 # text = Quinze voluntários da ONG francesa Ação Contra a Fome ( ACF ) foram assassinados no nordeste do Sri Lanka , informou hoje um porta-voz da organização .
 1	Quinze	quinze	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -435,7 +435,7 @@
 49	civil	civil	ADJ	ADJ	Gender=Fem|Number=Sing	48	amod	_	_
 50	.	.	PUNCT	PUNCT	_	18	punct	_
 
-# newdoc id = D1_C25_Folha_16-07-2007_07h50
+# newdoc_id = D1_C25_Folha_16-07-2007_07h50
 # sent_id = D1_C25_Folha_16-07-2007_07h50-1
 # text = Como em 2004 , Argentina e Brasil fizeram a final da Copa América .
 1	Como	como	ADP	ADP	_	3	case	_	BeginSeg=Yes
@@ -1288,7 +1288,7 @@
 16	33	33	NUM	NUM	NumType=Card	14	nmod	_	_
 17	.	.	PUNCT	PUNCT	_	12	punct	_
 
-# newdoc id = D1_C36_Folha
+# newdoc_id = D1_C36_Folha
 # sent_id = D1_C36_Folha-1
 # text = O senador Antonio Carlos Magalhães ( DEM-BA ) morreu às 11h40 de hoje , aos 79 anos , em São Paulo , em decorrência de falência de múltiplos órgãos secundária à insuficiência cardíaca .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -1753,7 +1753,7 @@
 19	1989	1989	NUM	NUM	NumType=Card	17	obl	_	_
 20	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D2_C13_Estadao_07-08-2006_02h52
+# newdoc_id = D2_C13_Estadao_07-08-2006_02h52
 # sent_id = D2_C13_Estadao_07-08-2006_02h52-1
 # text = Quinze voluntários da ONG francesa Ação Contra a Fome ( ACF ) foram assassinados no nordeste do Sri Lanka .
 1	Quinze	quinze	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -2181,7 +2181,7 @@
 49	civil	civil	ADJ	ADJ	Gender=Fem|Number=Sing	48	amod	_	_
 50	.	.	PUNCT	PUNCT	_	18	punct	_
 
-# newdoc id = D2_C14_Estadao_21-08-2006_10h15
+# newdoc_id = D2_C14_Estadao_21-08-2006_10h15
 # sent_id = D2_C14_Estadao_21-08-2006_10h15-1
 # text = O ministro da Saúde egípcio , Hatem El-Gabaly , informou nesta segunda-feira que 57 pessoas morreram e 128 ficaram feridas no choque entre dois trens de passageiros no delta do Nilo , ao norte do Cairo .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -2561,7 +2561,7 @@
 47	oficiais	oficial	ADJ	ADJ	Gender=Masc|Number=Plur	46	amod	_	_
 48	.	.	PUNCT	PUNCT	_	11	punct	_
 
-# newdoc id = D2_C22_Estadao_24-07-2007_08h58
+# newdoc_id = D2_C22_Estadao_24-07-2007_08h58
 # sent_id = D2_C22_Estadao_24-07-2007_08h58-1
 # text = Aeroporto de Congonhas continuava fechado para pousos na manhã desta terça-feira , 24 , por conta do nevoeiro que cobria a região sul de São Paulo , e metade dos vôos programados entre 6 e 8 horas foram cancelados .
 1	Aeroporto	Aeroporto	PROPN	PROPN	Gender=Masc|Number=Sing	4	nsubj	_	BeginSeg=Yes
@@ -3132,7 +3132,7 @@
 29	segunda-feira	segunda-feira	NOUN	NOUN	Gender=Fem|Number=Sing	27	nmod	_	_
 30	.	.	PUNCT	PUNCT	_	15	punct	_
 
-# newdoc id = D3_C13_GPovo_07-08-2006_09h28
+# newdoc_id = D3_C13_GPovo_07-08-2006_09h28
 # sent_id = D3_C13_GPovo_07-08-2006_09h28-1
 # text = Quinze funcionários locais de uma organização de caridade francesa no Sri Lanka foram encontrados mortos na cidade de Muttur , no norte do país .
 1	Quinze	quinze	NUM	NUM	NumType=Card	2	nummod	_	BeginSeg=Yes
@@ -3658,7 +3658,7 @@
 27	décadas	década	NOUN	NOUN	Gender=Fem|Number=Plur	25	obj	_	_
 28	.	.	PUNCT	PUNCT	_	8	punct	_
 
-# newdoc id = D3_C14_OGlobo_21-08-2006_07h40
+# newdoc_id = D3_C14_OGlobo_21-08-2006_07h40
 # sent_id = D3_C14_OGlobo_21-08-2006_07h40-1
 # text = Uma colisão entre dois trens de passageiros provocou a morte de pelo menos 80 pessoas e deixou 165 feridas .
 1	Uma	um	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -4067,7 +4067,7 @@
 47	oficiais	oficial	ADJ	ADJ	Gender=Masc|Number=Plur	46	amod	_	_
 48	.	.	PUNCT	PUNCT	_	11	punct	_
 
-# newdoc id = D3_C36_OGlobo
+# newdoc_id = D3_C36_OGlobo
 # sent_id = D3_C36_OGlobo-1
 # text = Foi confirmada às 11h40m desta sexta-feira a morte do senador Antônio Carlos Magalhães ( DEM-BA ) , de 79 anos .
 1	Foi	ser	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	BeginSeg=Yes
@@ -4528,7 +4528,7 @@
 13	Incor	Incor	PROPN	PROPN	Gender=Masc|Number=Sing	5	obl	_	_
 14	.	.	PUNCT	PUNCT	_	5	punct	_
 
-# newdoc id = D4_C14_JB
+# newdoc_id = D4_C14_JB
 # sent_id = D4_C14_JB-1
 # text = Pelo menos 80 pessoas morreram e mais de 165 ficaram feridas nesta segunda-feira após a colisão de dois trens de passageiros no delta do Nilo , ao norte do Cairo , informaram fontes policiais e médicas .
 1-2	Pelo	_	_	_	_	_	_	_	_
@@ -4791,7 +4791,7 @@
 44	oficiais	oficial	ADJ	ADJ	Gender=Masc|Number=Plur	43	amod	_	_
 45	.	.	PUNCT	PUNCT	_	11	punct	_
 
-# newdoc id = D4_C25_JB
+# newdoc_id = D4_C25_JB
 # sent_id = D4_C25_JB-1
 # text = Foi um domingo especial e inesquecível para o esporte brasileiro .
 1	Foi	ser	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	BeginSeg=Yes
@@ -5539,7 +5539,7 @@
 20	suficiente	suficiente	NOUN	NOUN	Gender=Masc|Number=Sing	15	advcl	_	_
 21	.	.	PUNCT	PUNCT	_	15	punct	_
 
-# newdoc id = D4_C36_JB
+# newdoc_id = D4_C36_JB
 # sent_id = D4_C36_JB-1
 # text = Presença constante na cena política brasileira nas últimas quatro décadas , o senador Antonio Carlos Magalhães ( DEM-BA ) morreu na manhã desta sexta-feira , em São Paulo , vítima de insuficiência cardíaca .
 1	Presença	presença	NOUN	NOUN	Gender=Fem|Number=Sing	22	obl	_	BeginSeg=Yes
@@ -6678,7 +6678,7 @@
 18	”	o	ADJ	ADJ	Gender=Fem|Number=Sing	17	amod	_	_
 19	.	.	PUNCT	PUNCT	_	15	punct	_
 
-# newdoc id = D5_C22_GPovo_24-07-2007_08h51
+# newdoc_id = D5_C22_GPovo_24-07-2007_08h51
 # sent_id = D5_C22_GPovo_24-07-2007_08h51-1
 # text = Quase metade dos vôos previstos para decolar na manhã desta terça-feira ( 24 ) no Aeroporto de Congonhas , na Zona Sul de São Paulo , foi cancelada , de acordo com informações da Infraero .
 1	Quase	quase	ADV	ADV	_	2	advmod	_	BeginSeg=Yes
@@ -7085,7 +7085,7 @@
 16	dia	dia	NOUN	NOUN	Gender=Masc|Number=Sing	13	nmod	_	_
 17	.	.	PUNCT	PUNCT	_	3	punct	_
 
-# newdoc id = D5_C25_GPovo_17-07-2007
+# newdoc_id = D5_C25_GPovo_17-07-2007
 # sent_id = D5_C25_GPovo_17-07-2007-1
 # text = Para a surpresa da maioria , a Seleção Brasileira apresentou um futebol de alto nível e com propriedade aplicou uma goleada de 3 a 0 na Argentina para conquistar o título da Copa América de 2007 .
 1	Para	para	ADP	ADP	_	3	case	_	BeginSeg=Yes

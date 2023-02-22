@@ -1,4 +1,4 @@
-# newdoc id = BMCS_ESP1-GS
+# newdoc_id = BMCS_ESP1-GS
 1	Sección	Sección	PROPN	PROPN	_	0	root	_	BeginSeg=Yes
 2	Cultural	Cultural	PROPN	PROPN	_	1	flat	_	_
 3	del	del	ADP	ADP	AdpType=Preppron	4	case	_	_
@@ -308,7 +308,7 @@
 20	)	)	PUNCT	PUNCT	PunctSide=Fin|PunctType=Brck	16	punct	_	_
 21	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = BMCS_ESP2-GS
+# newdoc_id = BMCS_ESP2-GS
 1	PROFESORES	profesor	NOUN	NOUN	Gender=Masc|Number=Plur	8	nsubj	_	BeginSeg=Yes
 2	Y	y	CCONJ	CCONJ	_	3	cc	_	_
 3	MÉTODOS	método	NOUN	NOUN	Gender=Masc|Number=Plur	1	conj	_	_
@@ -543,7 +543,7 @@
 43	divertido	divertido	ADJ	ADJ	Gender=Masc|Number=Sing|VerbForm=Part	40	conj	_	_
 44	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
 
-# newdoc id = BMCS_ESP3-GS
+# newdoc_id = BMCS_ESP3-GS
 1	TIPOS	tipo	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	DE	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	CURSOS	curso	NOUN	NOUN	Gender=Masc|Number=Plur	1	nmod	_	_
@@ -851,7 +851,7 @@
 25	español	español	NOUN	NOUN	Gender=Masc|Number=Sing	23	obj	_	_
 26	.	.	PUNCT	PUNCT	PunctType=Peri	14	punct	_	_
 
-# newdoc id = CCICE_ESP-GS
+# newdoc_id = CCICE_ESP-GS
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	Tesoro	Tesoro	PROPN	PROPN	_	3	nsubj	_	_
 3	intentará	intentar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -997,7 +997,7 @@
 13	emisiones	emisión	NOUN	NOUN	Gender=Fem|Number=Plur	8	obl	_	_
 14	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
 
-# newdoc id = CCICE_ESP1-GS
+# newdoc_id = CCICE_ESP1-GS
 1	Norteamérica	Norteamérica	PROPN	PROPN	_	3	nsubj	_	BeginSeg=Yes
 2	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	obj	_	_
 3	convierte	convertir	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1172,7 +1172,7 @@
 16	lapso	lapso	NOUN	NOUN	Gender=Masc|Number=Sing	11	obl	_	_
 17	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
 
-# newdoc id = CCICE_ESP2-GS
+# newdoc_id = CCICE_ESP2-GS
 1	España	España	PROPN	PROPN	_	3	nsubj	_	BeginSeg=Yes
 2	se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	obj	_	_
 3	convierte	convertir	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1366,7 +1366,7 @@
 53	)	)	PUNCT	PUNCT	PunctSide=Fin|PunctType=Brck	50	punct	_	_
 54	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
 
-# newdoc id = EEP_ESP1-GS
+# newdoc_id = EEP_ESP1-GS
 1	Empresa	Empresa	NOUN	NOUN	Gender=Fem|Number=Sing	4	nsubj	_	BeginSeg=Yes
 2	española	español	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
 3	Aritex	Aritex	PROPN	PROPN	_	1	appos	_	_
@@ -1472,7 +1472,7 @@
 8	Shanghai	Shanghai	PROPN	PROPN	_	6	nmod	_	_
 9	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = EEP_ESP2-GS
+# newdoc_id = EEP_ESP2-GS
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	embajador	embajador	NOUN	NOUN	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -1757,7 +1757,7 @@
 15	:	:	PUNCT	PUNCT	PunctType=Colo	16	punct	_	_
 16	https://www.salvadordalimuseum.cn/	https://www.salvadordalimuseum.cn/	NOUN	NOUN	Number=Sing	4	obl	_	_
 
-# newdoc id = EEP_ESP3-GS
+# newdoc_id = EEP_ESP3-GS
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	Secretaria	Secretaria	PROPN	PROPN	_	12	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -2066,7 +2066,7 @@
 55	respectivamente	respectivamente	ADV	ADV	_	53	advmod	_	_
 56	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
 
-# newdoc id = EEP_ESP4-GS
+# newdoc_id = EEP_ESP4-GS
 1	Celebración	Celebración	PROPN	PROPN	_	19	nsubj	_	BeginSeg=Yes
 2	II	II	PROPN	PROPN	_	1	flat	_	_
 3	Foro	Foro	PROPN	PROPN	_	1	flat	_	_
@@ -2338,7 +2338,7 @@
 41	Madrid	Madrid	PROPN	PROPN	_	26	obl	_	_
 42	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = EEP_ESP5-GS
+# newdoc_id = EEP_ESP5-GS
 1	I	I	CCONJ	CCONJ	_	0	root	_	BeginSeg=Yes
 2	Foro	Foro	PROPN	PROPN	_	1	flat	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -2486,7 +2486,7 @@
 43	otros	otro	PRON	PRON	Gender=Masc|Number=Plur|PronType=Ind	30	nmod	_	_
 44	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
 
-# newdoc id = EEP_ESP6-GS
+# newdoc_id = EEP_ESP6-GS
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	fotógrafa	fotógrafa	NOUN	NOUN	Gender=Fem|Number=Sing	6	nsubj	_	_
 3	española	español	ADJ	ADJ	Gender=Fem|Number=Sing	2	amod	_	_
@@ -2712,7 +2712,7 @@
 22	Pekín	Pekín	PROPN	PROPN	_	16	nmod	_	_
 23	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = FICB_ESP1-GS
+# newdoc_id = FICB_ESP1-GS
 1	Visita	visita	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	los	el	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
@@ -2857,7 +2857,7 @@
 34	académicos	académico	ADJ	ADJ	Gender=Masc|Number=Plur	32	conj	_	_
 35	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = FICB_ESP2-GS
+# newdoc_id = FICB_ESP2-GS
 1	Formación	Formación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	profesores	profesor	NOUN	NOUN	Gender=Masc|Number=Plur	1	nmod	_	_
@@ -3131,7 +3131,7 @@
 14	FICB	FICB	PROPN	PROPN	_	10	conj	_	_
 15	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = FICB_ESP3-GS
+# newdoc_id = FICB_ESP3-GS
 1	Celebración	celebración	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	del	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	Concurso	Concurso	PROPN	PROPN	_	1	nmod	_	_
@@ -3257,7 +3257,7 @@
 52	Barcelona	Barcelona	PROPN	PROPN	_	48	flat	_	_
 53	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
 
-# newdoc id = ICEG_ESP1-GS
+# newdoc_id = ICEG_ESP1-GS
 1	Presentación	presentación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -3730,7 +3730,7 @@
 34	organización	organización	NOUN	NOUN	Gender=Fem|Number=Sing	32	conj	_	_
 35	.	.	PUNCT	PUNCT	PunctType=Peri	13	punct	_	_
 
-# newdoc id = ICEG_ESP2-GS
+# newdoc_id = ICEG_ESP2-GS
 1	Talleres	taller	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -3860,7 +3860,7 @@
 23	Granada	Granada	PROPN	PROPN	_	21	flat	_	_
 24	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ICP_ESP1-GS
+# newdoc_id = ICP_ESP1-GS
 1	Presentación	presentación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	institucional	institucional	ADJ	ADJ	Number=Sing	1	amod	_	_
 
@@ -4065,7 +4065,7 @@
 22	latinoamericanas	latinoamericano	ADJ	ADJ	Gender=Fem|Number=Plur	20	conj	_	_
 23	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ICP_ESP2-GS
+# newdoc_id = ICP_ESP2-GS
 1	Exposición	Exposición	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	:	:	PUNCT	PUNCT	PunctType=Colo	4	punct	_	_
 3	¿	¿	PUNCT	PUNCT	PunctSide=Ini|PunctType=Qest	4	punct	_	_
@@ -4574,7 +4574,7 @@
 24	otras	otro	PRON	PRON	Gender=Fem|Number=Plur|PronType=Ind	17	nmod	_	_
 25	.	.	PUNCT	PUNCT	PunctType=Peri	15	punct	_	_
 
-# newdoc id = ICP_ESP3-GS
+# newdoc_id = ICP_ESP3-GS
 1	Actividades	Actividades	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	culturales	cultural	ADJ	ADJ	Number=Plur	1	amod	_	_
 
@@ -4853,7 +4853,7 @@
 42	cult1pek@cervantes	cultépekocervantes	ADJ	ADJ	Number=Plur	41	amod	_	_
 43	.es	.es	PUNCT	PUNCT	PunctType=Peri	22	punct	_	_
 
-# newdoc id = ICP_ESP4-GS
+# newdoc_id = ICP_ESP4-GS
 1	Trabaja	trabajar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
 2	en	en	ADP	ADP	AdpType=Prep	3	case	_	_
 3	español	español	NOUN	NOUN	Gender=Masc|Number=Sing	1	obl	_	_
@@ -5070,7 +5070,7 @@
 57	10	10	NUM	NUM	NumForm=Digit|NumType=Card	56	nummod	_	_
 58	58799670	58799670	NUM	NUM	NumForm=Digit|NumType=Card	56	appos	_	_
 
-# newdoc id = TERM18_ESP-GS
+# newdoc_id = TERM18_ESP-GS
 1	Tendencias	tendencia	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	generales	general	ADJ	ADJ	Number=Plur	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -5394,7 +5394,7 @@
 51	estructural	estructural	ADJ	ADJ	Number=Sing	50	amod	_	_
 52	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = TERM19_ESP-GS
+# newdoc_id = TERM19_ESP-GS
 1	Dimensión	dimensión	NOUN	NOUN	Gender=Fem|Number=Sing	12	nsubj	_	BeginSeg=Yes
 2	social	social	ADJ	ADJ	Number=Sing	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -5760,7 +5760,7 @@
 49	actual	actual	ADJ	ADJ	Number=Sing	48	amod	_	_
 50	.	.	PUNCT	PUNCT	PunctType=Peri	19	punct	_	_
 
-# newdoc id = TERM23_ESP-GS
+# newdoc_id = TERM23_ESP-GS
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	creación	creación	NOUN	NOUN	Gender=Fem|Number=Sing	21	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -6107,7 +6107,7 @@
 19	irlandés	irlandés	NOUN	NOUN	Gender=Masc|Number=Sing	16	nmod	_	_
 20	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = TERM25_ESP-GS
+# newdoc_id = TERM25_ESP-GS
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	terminología	terminología	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	,	,	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
@@ -6382,7 +6382,7 @@
 51	discurso	discurso	NOUN	NOUN	Gender=Masc|Number=Sing	48	nmod	_	_
 52	.	.	PUNCT	PUNCT	PunctType=Peri	17	punct	_	_
 
-# newdoc id = TERM28_ESP-GS
+# newdoc_id = TERM28_ESP-GS
 1	Metodología	metodología	NOUN	NOUN	Gender=Fem|Number=Sing	16	nsubj	_	BeginSeg=Yes
 2	del	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	vaciado	vaciar	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -6746,7 +6746,7 @@
 24	metodología	metodología	NOUN	NOUN	Gender=Fem|Number=Sing	17	obl	_	_
 25	.	.	PUNCT	PUNCT	PunctType=Peri	17	punct	_	_
 
-# newdoc id = TERM29_ESP-GS
+# newdoc_id = TERM29_ESP-GS
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	diseño	diseño	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 3	y	y	CCONJ	CCONJ	_	5	cc	_	_
@@ -6964,7 +6964,7 @@
 63	resultados	resultado	NOUN	NOUN	Gender=Masc|Number=Plur	60	nmod	_	_
 64	.	.	PUNCT	PUNCT	PunctType=Peri	20	punct	_	_
 
-# newdoc id = TERM30_ESP-GS
+# newdoc_id = TERM30_ESP-GS
 1	Gestión	Gestión	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	terminológica	terminológico	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
 3	y	y	CCONJ	CCONJ	_	4	cc	_	_
@@ -7851,7 +7851,7 @@
 31	otra	otro	PRON	PRON	Gender=Fem|Number=Sing|PronType=Ind	28	nmod	_	_
 32	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = TERM31_ESP-GS
+# newdoc_id = TERM31_ESP-GS
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	vaciado	vaciar	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 3	terminológico	terminológico	ADJ	ADJ	Gender=Masc|Number=Sing	2	amod	_	_
@@ -8627,7 +8627,7 @@
 19	decisivo	decisivo	ADJ	ADJ	Gender=Masc|Number=Sing	18	obj	_	_
 20	.	.	PUNCT	PUNCT	PunctType=Peri	18	punct	_	_
 
-# newdoc id = TERM32_ESP-GS
+# newdoc_id = TERM32_ESP-GS
 1	Un	uno	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	constructor	constructor	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 3	terminológico	terminológico	ADJ	ADJ	Gender=Masc|Number=Sing	2	amod	_	_
@@ -9028,7 +9028,7 @@
 14	escoger	escoger	VERB	VERB	VerbForm=Inf	5	acl	_	_
 15	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = TERM34_ESP-GS
+# newdoc_id = TERM34_ESP-GS
 1	Relación	relación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	argumento	argumento	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -10170,7 +10170,7 @@
 34	vecinas	vecino	ADJ	ADJ	Gender=Fem|Number=Plur	33	amod	_	_
 35	.	.	PUNCT	PUNCT	PunctType=Peri	9	punct	_	_
 
-# newdoc id = TERM38_ESP-GS
+# newdoc_id = TERM38_ESP-GS
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	neología	neología	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	contrarreloj	contrarreloj	NOUN	NOUN	Gender=Fem|Number=Sing	2	nmod	_	_

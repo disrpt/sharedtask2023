@@ -1,4 +1,4 @@
-# newdoc id = D1_C13_Folha_07-08-2010_07h21
+# newdoc_id = D1_C13_Folha_07-08-2010_07h21
 1	Quinze	_	_	_	_	_	_	_	BeginSeg=Yes
 2	voluntários	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -406,7 +406,7 @@
 375	civil	_	_	_	_	_	_	_	_
 376	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C25_Folha_16-07-2007_07h50
+# newdoc_id = D1_C25_Folha_16-07-2007_07h50
 1	Como	_	_	_	_	_	_	_	BeginSeg=Yes
 2	em	_	_	_	_	_	_	_	_
 3	2004	_	_	_	_	_	_	_	_
@@ -1146,7 +1146,7 @@
 689	33	_	_	_	_	_	_	_	_
 690	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C36_Folha
+# newdoc_id = D1_C36_Folha
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	senador	_	_	_	_	_	_	_	_
 3	Antonio	_	_	_	_	_	_	_	_
@@ -1558,7 +1558,7 @@
 382	1989	_	_	_	_	_	_	_	_
 383	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C13_Estadao_07-08-2006_02h52
+# newdoc_id = D2_C13_Estadao_07-08-2006_02h52
 1	Quinze	_	_	_	_	_	_	_	BeginSeg=Yes
 2	voluntários	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -1957,7 +1957,7 @@
 367	civil	_	_	_	_	_	_	_	_
 368	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C14_Estadao_21-08-2006_10h15
+# newdoc_id = D2_C14_Estadao_21-08-2006_10h15
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ministro	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -2311,7 +2311,7 @@
 320	oficiais	_	_	_	_	_	_	_	_
 321	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C22_Estadao_24-07-2007_08h58
+# newdoc_id = D2_C22_Estadao_24-07-2007_08h58
 1	Aeroporto	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	Congonhas	_	_	_	_	_	_	_	_
@@ -2838,7 +2838,7 @@
 481	segunda-feira	_	_	_	_	_	_	_	_
 482	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C13_GPovo_07-08-2006_09h28
+# newdoc_id = D3_C13_GPovo_07-08-2006_09h28
 1	Quinze	_	_	_	_	_	_	_	BeginSeg=Yes
 2	funcionários	_	_	_	_	_	_	_	_
 3	locais	_	_	_	_	_	_	_	_
@@ -3314,7 +3314,7 @@
 436	décadas	_	_	_	_	_	_	_	_
 437	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C14_OGlobo_21-08-2006_07h40
+# newdoc_id = D3_C14_OGlobo_21-08-2006_07h40
 1	Uma	_	_	_	_	_	_	_	BeginSeg=Yes
 2	colisão	_	_	_	_	_	_	_	_
 3	entre	_	_	_	_	_	_	_	_
@@ -3694,7 +3694,7 @@
 346	oficiais	_	_	_	_	_	_	_	_
 347	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C36_OGlobo
+# newdoc_id = D3_C36_OGlobo
 1	Foi	_	_	_	_	_	_	_	BeginSeg=Yes
 2	confirmada	_	_	_	_	_	_	_	_
 3-4	às	_	_	_	_	_	_	_	_
@@ -4096,7 +4096,7 @@
 366	Incor	_	_	_	_	_	_	_	_
 367	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C14_JB
+# newdoc_id = D4_C14_JB
 1-2	Pelo	_	_	_	_	_	_	_	_
 1	Por	_	_	_	_	_	_	_	BeginSeg=Yes
 2	o	_	_	_	_	_	_	_	_
@@ -4345,7 +4345,7 @@
 229	oficiais	_	_	_	_	_	_	_	_
 230	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C25_JB
+# newdoc_id = D4_C25_JB
 1	Foi	_	_	_	_	_	_	_	BeginSeg=Yes
 2	um	_	_	_	_	_	_	_	_
 3	domingo	_	_	_	_	_	_	_	_
@@ -5016,7 +5016,7 @@
 615	suficiente	_	_	_	_	_	_	_	_
 616	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C36_JB
+# newdoc_id = D4_C36_JB
 1	Presença	_	_	_	_	_	_	_	BeginSeg=Yes
 2	constante	_	_	_	_	_	_	_	_
 3-4	na	_	_	_	_	_	_	_	_
@@ -6039,7 +6039,7 @@
 947	”	_	_	_	_	_	_	_	_
 948	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D5_C22_GPovo_24-07-2007_08h51
+# newdoc_id = D5_C22_GPovo_24-07-2007_08h51
 1	Quase	_	_	_	_	_	_	_	BeginSeg=Yes
 2	metade	_	_	_	_	_	_	_	_
 3-4	dos	_	_	_	_	_	_	_	_
@@ -6396,7 +6396,7 @@
 332	dia	_	_	_	_	_	_	_	_
 333	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D5_C25_GPovo_17-07-2007
+# newdoc_id = D5_C25_GPovo_17-07-2007
 1	Para	_	_	_	_	_	_	_	BeginSeg=Yes
 2	a	_	_	_	_	_	_	_	_
 3	surpresa	_	_	_	_	_	_	_	_

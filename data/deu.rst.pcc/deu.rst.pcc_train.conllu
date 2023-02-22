@@ -1,4 +1,4 @@
-# newdoc id = maz-00001
+# newdoc_id = maz-00001
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 00001
 # meta::date = 30.10.2002
@@ -231,7 +231,7 @@
 10	Bildung	Bildung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	Entity=19-pp-simple-defnp-ref-other-unambig)
 11	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-00002
+# newdoc_id = maz-00002
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 00002
 # meta::date = 12./13.10.2002
@@ -420,7 +420,7 @@
 23	wird	werden	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	22	aux:pass	_	_
 24	.	.	PUNCT	$.	_	16	punct	_	_
 
-# newdoc id = maz-10110
+# newdoc_id = maz-10110
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 10110
 # meta::date = 12.11.2001
@@ -637,7 +637,7 @@
 10	werden	werden	VERB	VAFIN	Mood=Ind|VerbForm=Inf|Voice=Pass	9	aux:pass	_	_
 11	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-10175
+# newdoc_id = maz-10175
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 10175
 # meta::date = 12.11.2001
@@ -873,7 +873,7 @@
 13	Spiel	Spiel	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	5	obl	_	_
 14	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-10205
+# newdoc_id = maz-10205
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 10205
 # meta::date = 12.11.2001
@@ -1083,7 +1083,7 @@
 13	besitzen	besitzen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	csubj	_	_
 14	.	.	PUNCT	$.	_	1	punct	_	_
 
-# newdoc id = maz-10207
+# newdoc_id = maz-10207
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 10207
 # meta::date = 12.11.2001
@@ -1306,7 +1306,7 @@
 20	verbinden	verbinden	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	csubj:pass	_	_
 21	.	.	PUNCT	$.	_	1	punct	_	_
 
-# newdoc id = maz-10374
+# newdoc_id = maz-10374
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 10374
 # meta::date = 13.11.2001
@@ -1507,7 +1507,7 @@
 3	nicht	nicht	ADV	PTKNEG	Polarity=Neg	1	advmod	_	_
 4	!	!	PUNCT	$.	_	1	punct	_	_
 
-# newdoc id = maz-10423
+# newdoc_id = maz-10423
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 10423
 # meta::date = 13.11.2001
@@ -1727,7 +1727,7 @@
 26	funktionieren	funktionieren	VERB	VVINF	VerbForm=Inf	0	root	_	_
 27	.	.	PUNCT	$.	_	26	punct	_	_
 
-# newdoc id = maz-10503
+# newdoc_id = maz-10503
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 10503
 # meta::date = 13.11.2001
@@ -1955,7 +1955,7 @@
 13	worden	werden	VERB	VAPP	VerbForm=Part|Voice=Pass	12	aux:pass	_	_
 14	.	.	PUNCT	$.	_	12	punct	_	_
 
-# newdoc id = maz-10575
+# newdoc_id = maz-10575
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 10575
 # meta::date = 14.11.2001
@@ -2204,7 +2204,7 @@
 19	haben	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
 20	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-10652
+# newdoc_id = maz-10652
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 10652
 # meta::date = 14.11.2001
@@ -2403,7 +2403,7 @@
 14	wird	werden	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	aux:pass	_	_
 15	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-10902
+# newdoc_id = maz-10902
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 10902
 # meta::date = 15.11.2001
@@ -2624,7 +2624,7 @@
 11	geschlüpft	schlüpfen	VERB	VVPP	VerbForm=Part	0	root	_	_
 12	.	.	PUNCT	$.	_	11	punct	_	_
 
-# newdoc id = maz-11177
+# newdoc_id = maz-11177
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 11177
 # meta::date = 16.11.2001
@@ -2847,7 +2847,7 @@
 15	steht	stehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 16	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-11279
+# newdoc_id = maz-11279
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 11279
 # meta::date = 16.11.2001
@@ -3079,7 +3079,7 @@
 21	kann	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
 22	.	.	PUNCT	$.	_	6	punct	_	_
 
-# newdoc id = maz-11280
+# newdoc_id = maz-11280
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 11280
 # meta::date = 16.11.2001
@@ -3305,7 +3305,7 @@
 34	Container	Container	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	32	nmod	_	Entity=28-np-complex-defnp-not_specified-other-unambig)29-pp-simple-defnp-new-other-unambig)
 35	.	.	PUNCT	$.	_	7	punct	_	_
 
-# newdoc id = maz-11299
+# newdoc_id = maz-11299
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 11299
 # meta::date = 16.11.2001
@@ -3558,7 +3558,7 @@
 6	Abwesenheit	Abwesenheit	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	_
 7	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-11318
+# newdoc_id = maz-11318
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 11318
 # meta::date = 16.11.2001
@@ -3793,7 +3793,7 @@
 20	weiterzuleiten	weiterzuleiten	VERB	VVIZU	VerbForm=Inf	8	xcomp	_	_
 21	.	.	PUNCT	$.	_	1	punct	_	_
 
-# newdoc id = maz-11507
+# newdoc_id = maz-11507
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 11507
 # meta::date = 17.11.2001
@@ -4010,7 +4010,7 @@
 11	Fachwissen	Fachwisse	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	9	nmod	_	_
 12	.	.	PUNCT	$.	_	9	punct	_	_
 
-# newdoc id = maz-11544
+# newdoc_id = maz-11544
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 11544
 # meta::date = 17.11.2001
@@ -4214,7 +4214,7 @@
 15	Verbraucher	Verbraucher	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	11	conj	_	_
 16	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-11670
+# newdoc_id = maz-11670
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 11670
 # meta::date = 19.11.2001
@@ -4438,7 +4438,7 @@
 34	Kind	Kind	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	27	conj	_	Entity=24-np-complex-defnp-new-other-unambig)25-np-simple-defnp-new-other-unambig)
 35	.	.	PUNCT	$.	_	8	punct	_	_
 
-# newdoc id = maz-11735
+# newdoc_id = maz-11735
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 11735
 # meta::date = 19.11.2001
@@ -4646,7 +4646,7 @@
 20	hoffentlich	hoffentlich	ADV	ADJD	_	18	advmod	_	BeginSeg=Yes
 21	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-11766
+# newdoc_id = maz-11766
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 11766
 # meta::date = 19.11.2001
@@ -4869,7 +4869,7 @@
 17	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 18	.	.	PUNCT	$.	_	8	punct	_	_
 
-# newdoc id = maz-11916
+# newdoc_id = maz-11916
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 11916
 # meta::date = 20.11.2001
@@ -5098,7 +5098,7 @@
 9	bekommen	bekommen	VERB	VVINF	VerbForm=Part	4	acl	_	Entity=22-np-complex-pds-ref-other-unambig)
 10	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-12084
+# newdoc_id = maz-12084
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 12084
 # meta::date = 21.11.2001
@@ -5341,7 +5341,7 @@
 24	lassen	lassen	VERB	VVINF	VerbForm=Inf	15	advcl	_	Entity=18-np-complex-defnp-ref-dirobj-unambig)
 25	.	.	PUNCT	$.	_	10	punct	_	_
 
-# newdoc id = maz-12188
+# newdoc_id = maz-12188
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 12188
 # meta::date = 21.11.2001
@@ -5569,7 +5569,7 @@
 22	entgegen	entgegen	ADP	PTKVZ	_	13	compound:prt	_	_
 23	.	.	PUNCT	$.	_	13	punct	_	_
 
-# newdoc id = maz-12383
+# newdoc_id = maz-12383
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 12383
 # meta::date = 22.11.2001
@@ -5808,7 +5808,7 @@
 41	öffnen	öffnen	VERB	VVINF	VerbForm=Inf	30	conj	_	_
 42	.	.	PUNCT	$.	_	41	punct	_	_
 
-# newdoc id = maz-12473
+# newdoc_id = maz-12473
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 12473
 # meta::date = 22.11.2001
@@ -5992,7 +5992,7 @@
 13	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	Entity=24-np-complex-defnp-new-sbj-unambig)
 14	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-12510
+# newdoc_id = maz-12510
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 12510
 # meta::date = 22.11.2001
@@ -6219,7 +6219,7 @@
 6	sein	sein	VERB	VAINF	VerbForm=Inf	5	aux:pass	_	_
 7	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-12576
+# newdoc_id = maz-12576
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 12576
 # meta::date = 23.11.2001
@@ -6444,7 +6444,7 @@
 13	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 14	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-12666
+# newdoc_id = maz-12666
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 12666
 # meta::date = 23.11.2001
@@ -6689,7 +6689,7 @@
 7	da	da	ADP	PTKVZ	_	3	compound:prt	_	_
 8	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-12976
+# newdoc_id = maz-12976
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 12976
 # meta::date = 24.11.2001
@@ -6867,7 +6867,7 @@
 4	nichts	nichts	PRON	PIS	Definite=Ind|PronType=Ind	2	obj	_	_
 5	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-13015
+# newdoc_id = maz-13015
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 13015
 # meta::date = 24.11.2001
@@ -7109,7 +7109,7 @@
 13	ist	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	_
 14	...	...	PUNCT	$(	_	12	punct	_	_
 
-# newdoc id = maz-13125
+# newdoc_id = maz-13125
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 13125
 # meta::date = 26.11.2001
@@ -7345,7 +7345,7 @@
 7	nicht	nicht	ADV	PTKNEG	Polarity=Neg	4	advmod	_	_
 8	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-13153
+# newdoc_id = maz-13153
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 13153
 # meta::date = 26.11.2001
@@ -7555,7 +7555,7 @@
 5	Unterstützung	Unterstützung	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	2	obj	_	_
 6	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-13311
+# newdoc_id = maz-13311
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 13311
 # meta::date = 27.11.2001
@@ -7740,7 +7740,7 @@
 28	angibt	angeben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
 29	.	.	PUNCT	$.	_	16	punct	_	_
 
-# newdoc id = maz-13507
+# newdoc_id = maz-13507
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 13507
 # meta::date = 28.11.2001
@@ -7979,7 +7979,7 @@
 1	Menschliche	menschlich	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	.	.	PUNCT	$.	_	1	punct	_	_
 
-# newdoc id = maz-13758
+# newdoc_id = maz-13758
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 13758
 # meta::date = 29.11.2001
@@ -8204,7 +8204,7 @@
 12	bleiben	bleiben	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 13	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-13915
+# newdoc_id = maz-13915
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 13915
 # meta::date = 29.11.2001
@@ -8431,7 +8431,7 @@
 32	ließe	lassen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	acl	_	_
 33	.	.	PUNCT	$.	_	11	punct	_	_
 
-# newdoc id = maz-13946
+# newdoc_id = maz-13946
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 13946
 # meta::date = 29.11.2001
@@ -8642,7 +8642,7 @@
 15	funktionieren	funktionieren	VERB	VVINF	VerbForm=Inf	0	root	_	_
 16	.	.	PUNCT	$.	_	15	punct	_	_
 
-# newdoc id = maz-14047
+# newdoc_id = maz-14047
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14047
 # meta::date = 30.11.2001
@@ -8848,7 +8848,7 @@
 17	haben	haben	AUX	VAINF	VerbForm=Inf	16	aux	_	_
 18	.	.	PUNCT	$.	_	16	punct	_	_
 
-# newdoc id = maz-14055
+# newdoc_id = maz-14055
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14055
 # meta::date = 30.11.2001
@@ -9053,7 +9053,7 @@
 30	haben	haben	AUX	VAINF	VerbForm=Inf	29	aux	_	_
 31	.	.	PUNCT	$.	_	29	punct	_	_
 
-# newdoc id = maz-14071
+# newdoc_id = maz-14071
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14071
 # meta::date = 30.11.2001
@@ -9268,7 +9268,7 @@
 9	Hause	Haus	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	0	root	_	_
 10	.	.	PUNCT	$.	_	9	punct	_	_
 
-# newdoc id = maz-14072
+# newdoc_id = maz-14072
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14072
 # meta::date = 30.11.2001
@@ -9481,7 +9481,7 @@
 3	Ego	Ego	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	0	root	_	Entity=26-np-simple-defnp-other-not_specified-unambig)
 4	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-14172
+# newdoc_id = maz-14172
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14172
 # meta::date = 30.11.2001
@@ -9712,7 +9712,7 @@
 12	Gesicht	Gesicht	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
 13	.	.	PUNCT	$.	_	12	punct	_	_
 
-# newdoc id = maz-1423
+# newdoc_id = maz-1423
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 1423
 # meta::date = 01.10.2001
@@ -9936,7 +9936,7 @@
 9	geraten	geraten	VERB	VVPP	VerbForm=Part	0	root	_	_
 10	.	.	PUNCT	$.	_	9	punct	_	_
 
-# newdoc id = maz-14384
+# newdoc_id = maz-14384
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14384
 # meta::date = 01.12.2001
@@ -10183,7 +10183,7 @@
 11	ab	ab	ADP	PTKVZ	_	4	compound:prt	_	_
 12	?	?	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-14399
+# newdoc_id = maz-14399
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14399
 # meta::date = 01.12.2001
@@ -10381,7 +10381,7 @@
 15	wollten	wollen	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
 16	.	.	PUNCT	$.	_	8	punct	_	_
 
-# newdoc id = maz-14422
+# newdoc_id = maz-14422
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14422
 # meta::date = 01.12.2001
@@ -10609,7 +10609,7 @@
 30	kann	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	_
 31	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-1453
+# newdoc_id = maz-1453
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 1453
 # meta::date = 01.10.2001
@@ -10846,7 +10846,7 @@
 14	lassen	lassen	VERB	VVINF	VerbForm=Inf	3	xcomp	_	_
 15	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-14590
+# newdoc_id = maz-14590
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14590
 # meta::date = 03.12.2001
@@ -11022,7 +11022,7 @@
 3	Chance	Chance	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
 4	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-14654
+# newdoc_id = maz-14654
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14654
 # meta::date = 03.12.2001
@@ -11245,7 +11245,7 @@
 26	wurde	werden	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	25	aux:pass	_	Entity=19-np-complex-defnp-new-dirobj-unambig)
 27	.	.	PUNCT	$.	_	6	punct	_	_
 
-# newdoc id = maz-14792
+# newdoc_id = maz-14792
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14792
 # meta::date = 04.12.2001
@@ -11462,7 +11462,7 @@
 14	stattfindet	stattfinden	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 15	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-14813
+# newdoc_id = maz-14813
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14813
 # meta::date = 04.12.2001
@@ -11671,7 +11671,7 @@
 11	lassen	lassen	VERB	VVINF	VerbForm=Inf	10	xcomp	_	_
 12	.	.	PUNCT	$.	_	11	punct	_	_
 
-# newdoc id = maz-14841
+# newdoc_id = maz-14841
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14841
 # meta::date = 04.12.2001
@@ -11885,7 +11885,7 @@
 8	umlegen	umlegen	VERB	VVINF	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	.	.	PUNCT	$.	_	8	punct	_	_
 
-# newdoc id = maz-14853
+# newdoc_id = maz-14853
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14853
 # meta::date = 04.12.2001
@@ -12103,7 +12103,7 @@
 11	.	.	PUNCT	$.	_	10	punct	_	_
 12	"	"	PUNCT	$(	_	10	punct	_	_
 
-# newdoc id = maz-14881
+# newdoc_id = maz-14881
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 14881
 # meta::date = 04.12.2001
@@ -12304,7 +12304,7 @@
 31	hatten	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	30	aux	_	Entity=21-np-complex-defnp-new-other-unambig)23-np-complex-defnp-other-other-unambig)
 32	.	.	PUNCT	$.	_	11	punct	_	_
 
-# newdoc id = maz-15155
+# newdoc_id = maz-15155
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 15155
 # meta::date = 05.12.2001
@@ -12551,7 +12551,7 @@
 6	auch	auch	ADV	ADV	_	5	advmod	_	_
 7	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-15209
+# newdoc_id = maz-15209
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 15209
 # meta::date = 05.12.2001
@@ -12789,7 +12789,7 @@
 8	beschwert	beschweren	VERB	VVFIN	VerbForm=Part	2	acl	_	_
 9	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-15347
+# newdoc_id = maz-15347
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 15347
 # meta::date = 06.12.2001
@@ -13030,7 +13030,7 @@
 17	ist	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
 18	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-15545
+# newdoc_id = maz-15545
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 15545
 # meta::date = 07.12.2001
@@ -13252,7 +13252,7 @@
 12	richten	richten	VERB	VVINF	VerbForm=Inf	0	root	_	_
 13	.	.	PUNCT	$.	_	12	punct	_	_
 
-# newdoc id = maz-15609
+# newdoc_id = maz-15609
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 15609
 # meta::date = 07.12.2001
@@ -13483,7 +13483,7 @@
 7	Jahrhundert	Jahrhundert	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	Entity=22-np-simple-defnp-new-other-unambig)
 8	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-15702
+# newdoc_id = maz-15702
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 15702
 # meta::date = 07.12.2001
@@ -13686,7 +13686,7 @@
 9	wird	werden	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	aux:pass	_	_
 10	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-15734
+# newdoc_id = maz-15734
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 15734
 # meta::date = 08.12.2001
@@ -13929,7 +13929,7 @@
 5	sein	sein	VERB	VAINF	VerbForm=Inf	4	cop	_	_
 6	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-15970
+# newdoc_id = maz-15970
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 15970
 # meta::date = 08.12.2001
@@ -14126,7 +14126,7 @@
 6	Weihnachten	Weihnachten	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Entity=(1-np-simple-ne-ref-other-unambig)
 7	.	.	PUNCT	$.	_	6	punct	_	_
 
-# newdoc id = maz-16153
+# newdoc_id = maz-16153
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 16153
 # meta::date = 10.12.2001
@@ -14304,7 +14304,7 @@
 17	Sternen	Stern	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	14	obl	_	_
 18	.	.	PUNCT	$.	_	14	punct	_	_
 
-# newdoc id = maz-16177
+# newdoc_id = maz-16177
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 16177
 # meta::date = 10.12.2001
@@ -14507,7 +14507,7 @@
 18	ausstellt	ausstellen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	Entity=22-np-complex-defnp-not_specified-not_specified-unambig)
 19	.	.	PUNCT	$.	_	6	punct	_	_
 
-# newdoc id = maz-16250
+# newdoc_id = maz-16250
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 16250
 # meta::date = 11.12.2001
@@ -14744,7 +14744,7 @@
 22	nimmt	nehmen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 23	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-16294
+# newdoc_id = maz-16294
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 16294
 # meta::date = 11.12.2001
@@ -14970,7 +14970,7 @@
 9	aufzuarbeiten	aufbeiteiten	VERB	VVIZU	VerbForm=Inf	0	root	_	_
 10	.	.	PUNCT	$.	_	9	punct	_	_
 
-# newdoc id = maz-16353
+# newdoc_id = maz-16353
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 16353
 # meta::date = 11.12.2001
@@ -15218,7 +15218,7 @@
 1	Rundum	rundum	ADV	ADV	_	0	root	_	BeginSeg=Yes
 2	.	.	PUNCT	$.	_	1	punct	_	_
 
-# newdoc id = maz-16360
+# newdoc_id = maz-16360
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 16360
 # meta::date = 11.12.2001
@@ -15433,7 +15433,7 @@
 9	überwunden	überwinden	VERB	VVPP	VerbForm=Part	0	root	_	_
 10	.	.	PUNCT	$.	_	9	punct	_	_
 
-# newdoc id = maz-16590
+# newdoc_id = maz-16590
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 16590
 # meta::date = 12.12.2001
@@ -15625,7 +15625,7 @@
 9	mehr	mehr	PRON	PIS	_	7	obj	_	_
 10	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-1679
+# newdoc_id = maz-1679
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 1679
 # meta::date = 02.10.2001
@@ -15838,7 +15838,7 @@
 13	machen	machen	VERB	VVINF	VerbForm=Inf	5	advcl	_	_
 14	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-16987
+# newdoc_id = maz-16987
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 16987
 # meta::date = 14.12.2001
@@ -16053,7 +16053,7 @@
 15	glauben	glauben	VERB	VVINF	VerbForm=Inf	11	xcomp	_	_
 16	.	.	PUNCT	$.	_	11	punct	_	_
 
-# newdoc id = maz-17062
+# newdoc_id = maz-17062
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 17062
 # meta::date = 14.12.2001
@@ -16268,7 +16268,7 @@
 15	machen	machen	VERB	VVINF	VerbForm=Inf	2	csubj	_	_
 16	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-17091
+# newdoc_id = maz-17091
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 17091
 # meta::date = 14.12.2001
@@ -16484,7 +16484,7 @@
 19	aufgenommen	aufnehmen	VERB	VVPP	VerbForm=Part	0	root	_	_
 20	.	.	PUNCT	$.	_	19	punct	_	_
 
-# newdoc id = maz-17242
+# newdoc_id = maz-17242
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 17242
 # meta::date = 15.12.2001
@@ -16704,7 +16704,7 @@
 7	Jette	Jette	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Entity=21-np-simple-defnp-ref-sbj-unambig)
 8	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-17254
+# newdoc_id = maz-17254
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 17254
 # meta::date = 15.12.2001
@@ -16918,7 +16918,7 @@
 15	haben	haben	VERB	VAINF	VerbForm=Inf	0	root	_	_
 16	.	.	PUNCT	$.	_	15	punct	_	_
 
-# newdoc id = maz-17300
+# newdoc_id = maz-17300
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 17300
 # meta::date = 15.12.2001
@@ -17132,7 +17132,7 @@
 22	muss	müssen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	Entity=29-pp-complex-defnp-other-other-unambig)30-pp-complex-defnp-new-other-unambig)
 23	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-17539
+# newdoc_id = maz-17539
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 17539
 # meta::date = 17.12.2001
@@ -17334,7 +17334,7 @@
 16	haben	haben	AUX	VAINF	VerbForm=Inf	15	aux	_	_
 17	.	.	PUNCT	$.	_	1	punct	_	_
 
-# newdoc id = maz-1757
+# newdoc_id = maz-1757
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 1757
 # meta::date = 02.10.2001
@@ -17558,7 +17558,7 @@
 15	sein	sein	VERB	VAINF	VerbForm=Inf	14	cop	_	_
 16	.	.	PUNCT	$.	_	14	punct	_	_
 
-# newdoc id = maz-17664
+# newdoc_id = maz-17664
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 17664
 # meta::date = 18.12.2001
@@ -17796,7 +17796,7 @@
 13	.	.	PUNCT	$.	_	10	punct	_	_
 14	"	"	PUNCT	$(	_	10	punct	_	_
 
-# newdoc id = maz-17673
+# newdoc_id = maz-17673
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 17673
 # meta::date = 18.12.2001
@@ -18019,7 +18019,7 @@
 7	schwer	schwer	ADV	ADJD	_	6	advmod	_	_
 8	.	.	PUNCT	$.	_	6	punct	_	_
 
-# newdoc id = maz-17698
+# newdoc_id = maz-17698
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 17698
 # meta::date = 18.12.2001
@@ -18251,7 +18251,7 @@
 22	lassen	lassen	VERB	VVFIN	VerbForm=Inf	9	ccomp	_	_
 23	.	.	PUNCT	$.	_	9	punct	_	_
 
-# newdoc id = maz-17706
+# newdoc_id = maz-17706
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 17706
 # meta::date = 18.12.2001
@@ -18504,7 +18504,7 @@
 18	nicht	nicht	ADV	PTKNEG	Polarity=Neg	16	advmod	_	_
 19	.	.	PUNCT	$.	_	6	punct	_	_
 
-# newdoc id = maz-17953
+# newdoc_id = maz-17953
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 17953
 # meta::date = 19.12.2001
@@ -18735,7 +18735,7 @@
 6	Spannungsfeld	Spannungsfeld	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	Entity=29-pp-simple-defnp-ref-other-unambig)
 7	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-18006
+# newdoc_id = maz-18006
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18006
 # meta::date = 19.12.2001
@@ -18971,7 +18971,7 @@
 14	davonschwimmen	davonschwimmen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 15	...	...	PUNCT	$(	_	7	punct	_	_
 
-# newdoc id = maz-18160
+# newdoc_id = maz-18160
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18160
 # meta::date = 20.12.2001
@@ -19181,7 +19181,7 @@
 35	anzumelden	anmelden	VERB	VVIZU	VerbForm=Inf	28	xcomp	_	_
 36	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-18171
+# newdoc_id = maz-18171
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18171
 # meta::date = 20.12.2001
@@ -19407,7 +19407,7 @@
 27	würde	werden	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	aux	_	_
 28	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-1818
+# newdoc_id = maz-1818
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 1818
 # meta::date = 02.10.2001
@@ -19581,7 +19581,7 @@
 20	wird	werden	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 21	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-18333
+# newdoc_id = maz-18333
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18333
 # meta::date = 21.12.2001
@@ -19803,7 +19803,7 @@
 20	kann	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
 21	.	.	PUNCT	$.	_	1	punct	_	_
 
-# newdoc id = maz-18354
+# newdoc_id = maz-18354
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18354
 # meta::date = 21.12.2001
@@ -20028,7 +20028,7 @@
 10	Leid	Leid	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	4	xcomp	_	_
 11	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-18377
+# newdoc_id = maz-18377
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18377
 # meta::date = 21.12.2001
@@ -20246,7 +20246,7 @@
 25	Verbandsversammlung	Verbandsversammlung	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	Entity=21-np-complex-defnp-new-dirobj-unambig)22-pp-simple-defnp-new-other-unambig)
 26	?	?	PUNCT	$.	_	1	punct	_	_
 
-# newdoc id = maz-18454
+# newdoc_id = maz-18454
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18454
 # meta::date = 21.12.2001
@@ -20509,7 +20509,7 @@
 13	akzeptieren	akzeptieren	VERB	VVINF	VerbForm=Inf	0	root	_	_
 14	.	.	PUNCT	$.	_	13	punct	_	_
 
-# newdoc id = maz-18480
+# newdoc_id = maz-18480
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18480
 # meta::date = 21.12.2001
@@ -20730,7 +20730,7 @@
 17	Wermutstropfen	Wermutstropfen	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 18	.	.	PUNCT	$.	_	17	punct	_	_
 
-# newdoc id = maz-18712
+# newdoc_id = maz-18712
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18712
 # meta::date = 22.12.2001
@@ -20959,7 +20959,7 @@
 36	Bedürfnisse	Bedürfnis	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	27	conj	_	_
 37	.	.	PUNCT	$.	_	8	punct	_	_
 
-# newdoc id = maz-18750
+# newdoc_id = maz-18750
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18750
 # meta::date = 24.12.2001
@@ -21178,7 +21178,7 @@
 14	Fest	Fest	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
 15	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-18912
+# newdoc_id = maz-18912
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18912
 # meta::date = 24.12.2001
@@ -21416,7 +21416,7 @@
 7	machen	machen	VERB	VVINF	VerbForm=Inf	0	root	_	_
 8	.	.	PUNCT	$.	_	7	punct	_	_
 
-# newdoc id = maz-18914
+# newdoc_id = maz-18914
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18914
 # meta::date = 24.12.2001
@@ -21665,7 +21665,7 @@
 14	bringen	bringen	VERB	VVINF	VerbForm=Inf	2	xcomp	_	_
 15	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-18945
+# newdoc_id = maz-18945
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 18945
 # meta::date = 27.12.2001
@@ -21894,7 +21894,7 @@
 8	Steuern	Steuer	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	_
 9	.	.	PUNCT	$.	_	7	punct	_	_
 
-# newdoc id = maz-19012
+# newdoc_id = maz-19012
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 19012
 # meta::date = 27.12.2001
@@ -22141,7 +22141,7 @@
 13	gehört	gehören	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
 14	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-19074
+# newdoc_id = maz-19074
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 19074
 # meta::date = 27.12.2001
@@ -22339,7 +22339,7 @@
 4	Schachzug	Schachzug	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	0	root	_	Entity=22-pp-simple-defnp-ref-other-unambig)
 5	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-19150
+# newdoc_id = maz-19150
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 19150
 # meta::date = 28.12.2001
@@ -22558,7 +22558,7 @@
 17	beidem	beide	PRON	PIS	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	15	obl	_	Entity=21-pp-simple-defnp-ref-other-unambig)
 18	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-19295
+# newdoc_id = maz-19295
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 19295
 # meta::date = 28.12.2001
@@ -22730,7 +22730,7 @@
 14	Autorität	Autorität	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	7	nmod	_	_
 15	.	.	PUNCT	$.	_	7	punct	_	_
 
-# newdoc id = maz-19372
+# newdoc_id = maz-19372
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 19372
 # meta::date = 29.12.2001
@@ -22981,7 +22981,7 @@
 16	Tisch	Tisch	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
 17	.	.	PUNCT	$.	_	7	punct	_	_
 
-# newdoc id = maz-19436
+# newdoc_id = maz-19436
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 19436
 # meta::date = 29.12.2001
@@ -23214,7 +23214,7 @@
 8	richtig	richtig	ADJ	ADJD	_	0	root	_	_
 9	.	.	PUNCT	$.	_	8	punct	_	_
 
-# newdoc id = maz-19442
+# newdoc_id = maz-19442
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 19442
 # meta::date = 29.12.2001
@@ -23433,7 +23433,7 @@
 19	zuzufügen	zuwügen	VERB	VVIZU	VerbForm=Inf	14	xcomp	_	Entity=21-np-complex-defnp-new-sbj-unambig)
 20	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-19501
+# newdoc_id = maz-19501
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 19501
 # meta::date = 29.12.2001
@@ -23649,7 +23649,7 @@
 9	"	"	PUNCT	$(	_	8	punct	_	_
 10	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-2316
+# newdoc_id = maz-2316
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 2316
 # meta::date = 04.10.2001
@@ -23861,7 +23861,7 @@
 22	büßen	büßen	VERB	VVINF	VerbForm=Inf	0	root	_	_
 23	.	.	PUNCT	$.	_	22	punct	_	_
 
-# newdoc id = maz-2609
+# newdoc_id = maz-2609
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 2609
 # meta::date = 05.10.2001
@@ -24065,7 +24065,7 @@
 10	abgeben	abgeben	VERB	VVINF	VerbForm=Inf	0	root	_	_
 11	.	.	PUNCT	$.	_	10	punct	_	_
 
-# newdoc id = maz-2611
+# newdoc_id = maz-2611
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 2611
 # meta::date = 05.10.2001
@@ -24259,7 +24259,7 @@
 9	nicht	nicht	ADV	PTKNEG	Polarity=Neg	5	advmod	_	_
 10	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-2669
+# newdoc_id = maz-2669
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 2669
 # meta::date = 05.10.2001
@@ -24474,7 +24474,7 @@
 16	gejagt	jagen	VERB	VVPP	VerbForm=Part	9	conj	_	_
 17	.	.	PUNCT	$.	_	9	punct	_	_
 
-# newdoc id = maz-3073
+# newdoc_id = maz-3073
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 3073
 # meta::date = 08.10.2001
@@ -24735,7 +24735,7 @@
 5	gebührt	gebühren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	_
 6	.	.	PUNCT	$.	_	1	punct	_	_
 
-# newdoc id = maz-3080
+# newdoc_id = maz-3080
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 3080
 # meta::date = 08.10.2001
@@ -24957,7 +24957,7 @@
 14	zurechtgerückt	zurechtrücken	VERB	VVPP	VerbForm=Part	0	root	_	_
 15	.	.	PUNCT	$.	_	14	punct	_	_
 
-# newdoc id = maz-3110
+# newdoc_id = maz-3110
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 3110
 # meta::date = 08.10.2001
@@ -25192,7 +25192,7 @@
 13	etwa	etwa	ADV	ADV	_	6	advmod	_	_
 14	.	.	PUNCT	$.	_	6	punct	_	_
 
-# newdoc id = maz-3277
+# newdoc_id = maz-3277
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 3277
 # meta::date = 09.10.2001
@@ -25429,7 +25429,7 @@
 4	nichts	nichts	PRON	PIS	Definite=Ind|PronType=Ind	2	obj	_	_
 5	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-7053
+# newdoc_id = maz-7053
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 7053
 # meta::date = 25.10.2001
@@ -25650,7 +25650,7 @@
 33	ist	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	_
 34	.	.	PUNCT	$.	_	24	punct	_	_
 
-# newdoc id = maz-7071
+# newdoc_id = maz-7071
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 7071
 # meta::date = 25.10.2001
@@ -25865,7 +25865,7 @@
 8	vertraulich	vertraulich	ADJ	ADJD	_	4	appos	_	_
 9	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-7220
+# newdoc_id = maz-7220
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 7220
 # meta::date = 26.10.2001
@@ -26064,7 +26064,7 @@
 15	Bündnis	Bündnis	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	13	nmod	_	Entity=22-np-complex-defnp-new-dirobj-unambig)23-pp-simple-defnp-new-other-unambig)
 16	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-7690
+# newdoc_id = maz-7690
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 7690
 # meta::date = 29.10.2001
@@ -26278,7 +26278,7 @@
 16	gehabt	haben	AUX	VAPP	VerbForm=Part	4	aux	_	_
 17	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-7967
+# newdoc_id = maz-7967
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 7967
 # meta::date = 30.10.2001
@@ -26504,7 +26504,7 @@
 5	Sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	obj	_	Entity=(29-np-simple-pper-ref-sbj-unambig)
 6	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-7969
+# newdoc_id = maz-7969
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 7969
 # meta::date = 30.10.2001
@@ -26699,7 +26699,7 @@
 15	passiert	passieren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
 16	.	.	PUNCT	$.	_	7	punct	_	_
 
-# newdoc id = maz-8134
+# newdoc_id = maz-8134
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 8134
 # meta::date = 01.11.2001
@@ -26944,7 +26944,7 @@
 15	Scheidung	Scheidung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	_
 16	.	.	PUNCT	$.	_	9	punct	_	_
 
-# newdoc id = maz-8288
+# newdoc_id = maz-8288
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 8288
 # meta::date = 02.11.2001
@@ -27149,7 +27149,7 @@
 27	machen	machen	VERB	VVFIN	VerbForm=Inf	19	acl	_	Entity=25-np-complex-defnp-new-sbj-unambig)26-np-complex-defnp-none-not_specified-none)
 28	.	.	PUNCT	$.	_	10	punct	_	_
 
-# newdoc id = maz-8361
+# newdoc_id = maz-8361
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 8361
 # meta::date = 02.11.2001
@@ -27367,7 +27367,7 @@
 12	sitzen	sitzen	VERB	VVINF	VerbForm=Inf	4	xcomp	_	_
 13	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-8509
+# newdoc_id = maz-8509
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 8509
 # meta::date = 03.11.2001
@@ -27595,7 +27595,7 @@
 28	sind	sein	VERB	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
 29	.	.	PUNCT	$.	_	4	punct	_	_
 
-# newdoc id = maz-8563
+# newdoc_id = maz-8563
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 8563
 # meta::date = 03.11.2001
@@ -27834,7 +27834,7 @@
 7	taten	tun	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	appos	_	_
 8	Gutes	gute	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
 
-# newdoc id = maz-8586
+# newdoc_id = maz-8586
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 8586
 # meta::date = 03.11.2001
@@ -28070,7 +28070,7 @@
 18	hilft	helfen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
 19	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-8665
+# newdoc_id = maz-8665
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 8665
 # meta::date = 05.11.2001
@@ -28296,7 +28296,7 @@
 4	werden	werden	VERB	VAINF	VerbForm=Inf|Voice=Pass	3	aux:pass	_	_
 5	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-8727
+# newdoc_id = maz-8727
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 8727
 # meta::date = 05.11.2001
@@ -28532,7 +28532,7 @@
 5	blamiert	blamieren	VERB	VVPP	VerbForm=Part	0	root	_	_
 6	...	...	PUNCT	$(	_	5	punct	_	_
 
-# newdoc id = maz-8838
+# newdoc_id = maz-8838
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 8838
 # meta::date = 05.11.2001
@@ -28751,7 +28751,7 @@
 32	Förderung	Förderung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	28	nmod	_	_
 33	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-8981
+# newdoc_id = maz-8981
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 8981
 # meta::date = 06.11.2001
@@ -28971,7 +28971,7 @@
 14	auslösen	auslösen	VERB	VVINF	VerbForm=Inf	0	root	_	_
 15	.	.	PUNCT	$.	_	14	punct	_	_
 
-# newdoc id = maz-9207
+# newdoc_id = maz-9207
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 9207
 # meta::date = 07.11.2001
@@ -29166,7 +29166,7 @@
 19	näherbringt	näherbringen	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	9	acl	_	_
 20	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-9335
+# newdoc_id = maz-9335
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 9335
 # meta::date = 07.11.2001
@@ -29395,7 +29395,7 @@
 25	hätte	haben	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
 26	.	.	PUNCT	$.	_	1	punct	_	_
 
-# newdoc id = maz-9521
+# newdoc_id = maz-9521
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 9521
 # meta::date = 08.11.2001
@@ -29623,7 +29623,7 @@
 11	"	"	PUNCT	$(	_	10	punct	_	_
 12	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-9538
+# newdoc_id = maz-9538
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 9538
 # meta::date = 08.11.2001
@@ -29851,7 +29851,7 @@
 15	Haus	Haus	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	13	nmod	_	_
 16	.	.	PUNCT	$.	_	3	punct	_	_
 
-# newdoc id = maz-9612
+# newdoc_id = maz-9612
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 9612
 # meta::date = 09.11.2001
@@ -30068,7 +30068,7 @@
 10	offen	offen	ADJ	ADJD	_	9	xcomp	_	_
 11	.	.	PUNCT	$.	_	9	punct	_	_
 
-# newdoc id = maz-9650
+# newdoc_id = maz-9650
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 9650
 # meta::date = 09.11.2001
@@ -30244,7 +30244,7 @@
 25	werden	werden	VERB	VAINF	VerbForm=Inf	24	aux:pass	_	_
 26	.	.	PUNCT	$.	_	6	punct	_	_
 
-# newdoc id = maz-9725
+# newdoc_id = maz-9725
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 9725
 # meta::date = 09.11.2001
@@ -30419,7 +30419,7 @@
 21	suchen	suchen	VERB	VVINF	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 22	.	.	PUNCT	$.	_	21	punct	_	_
 
-# newdoc id = maz-9782
+# newdoc_id = maz-9782
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 9782
 # meta::date = 09.11.2001
@@ -30633,7 +30633,7 @@
 24	ist	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
 25	.	.	PUNCT	$.	_	17	punct	_	_
 
-# newdoc id = maz-9852
+# newdoc_id = maz-9852
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 9852
 # meta::date = 10.11.2001
@@ -30870,7 +30870,7 @@
 3	weitere	weiterer	PRON	PIS	Case=Nom|Number=Plur	2	nsubj	_	_
 4	.	.	PUNCT	$.	_	2	punct	_	_
 
-# newdoc id = maz-9884
+# newdoc_id = maz-9884
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 9884
 # meta::date = 10.11.2001
@@ -31145,7 +31145,7 @@
 9	Oberrechnungskammer	Oberrechnungskammer	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	5	nmod	_	Entity=48-np-simple-defnp-ref-dirobj-unambig)
 10	.	.	PUNCT	$.	_	5	punct	_	_
 
-# newdoc id = maz-9891
+# newdoc_id = maz-9891
 # global.Entity = GRP-phrase_type-complex_np-np_form-referentiality-grammatical_role-ambiguity
 # meta::id = 9891
 # meta::date = 10.11.2001

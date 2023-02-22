@@ -1,4 +1,4 @@
-# newdoc id = BMCS_CHN1-GS
+# newdoc_id = BMCS_CHN1-GS
 1	米盖尔	米盖尔	PROPN	NNP	_	7	nmod	_	BeginSeg=Yes
 2	•	•	PUNCT	/	_	7	punct	_	_
 3	德	德	PROPN	NNP	_	7	nmod	_	_
@@ -281,7 +281,7 @@
 16	的	的	PART	DEC	Case=Gen	15	case:dec	_	_
 17	培训	培训	NOUN	NN	_	6	conj	_	_
 
-# newdoc id = BMCS_CHN2-GS
+# newdoc_id = BMCS_CHN2-GS
 1	教师	教师	NOUN	NN	_	0	root	_	BeginSeg=Yes
 2	和	和	CCONJ	CC	_	4	cc	_	_
 3	教学	教学	NOUN	NN	_	4	nmod	_	_
@@ -526,7 +526,7 @@
 17	语	语	PART	SFN	_	14	obj	_	_
 18	。	。	PUNCT	.	_	3	punct	_	_
 
-# newdoc id = BMCS_CHN3-GS
+# newdoc_id = BMCS_CHN3-GS
 1	课程	课程	NOUN	NN	_	2	nmod	_	BeginSeg=Yes
 2	种类	种类	NOUN	NN	_	0	root	_	_
 
@@ -847,7 +847,7 @@
 27	环境	环境	NOUN	NN	_	22	obj	_	_
 28	。	。	PUNCT	.	_	17	punct	_	_
 
-# newdoc id = CCICE_CHN1-GS
+# newdoc_id = CCICE_CHN1-GS
 1	北美	北美	PROPN	NNP	_	2	nsubj	_	BeginSeg=Yes
 2	上升	上升	VERB	VV	_	0	root	_	_
 3	为	为	VERB	VC	_	2	mark	_	_
@@ -972,7 +972,7 @@
 20	13%	13%	NUM	CD	NumType=Card	19	obj	_	_
 21	。	。	PUNCT	.	_	12	punct	_	_
 
-# newdoc id = CCICE_CHN2-GS
+# newdoc_id = CCICE_CHN2-GS
 1	西班牙	西班牙	PROPN	NNP	_	2	nsubj	_	BeginSeg=Yes
 2	跻身	跻身	VERB	VV	_	0	root	_	_
 3	第六	第六	NUM	CD	NumType=Ord	7	nummod	_	_
@@ -1139,7 +1139,7 @@
 46	）	）	PUNCT	)	_	45	punct	_	_
 47	。	。	PUNCT	.	_	40	punct	_	_
 
-# newdoc id = CCICE_CHN3-GS
+# newdoc_id = CCICE_CHN3-GS
 1	西班牙	西班牙	PROPN	NNP	_	3	nmod	_	BeginSeg=Yes
 2	财政	财政	NOUN	NN	_	3	nmod	_	_
 3	部拟	部拟	NOUN	NN	_	4	nsubj	_	_
@@ -1286,7 +1286,7 @@
 18	次	次	NOUN	NNB	_	16	acl	_	_
 19	。	。	PUNCT	.	_	14	punct	_	_
 
-# newdoc id = EEP_CHN1-GS
+# newdoc_id = EEP_CHN1-GS
 1	西班牙	西班牙	PROPN	NNP	_	3	nmod	_	BeginSeg=Yes
 2	Aritex	Aritex	X	FW	_	3	nmod	_	_
 3	公司	公司	NOUN	NN	_	4	nsubj	_	_
@@ -1354,7 +1354,7 @@
 18	合作	合作	VERB	VV	_	10	ccomp	_	_
 19	。	。	PUNCT	.	_	10	punct	_	_
 
-# newdoc id = EEP_CHN2-GS
+# newdoc_id = EEP_CHN2-GS
 1	西班牙	西班牙	PROPN	NNP	_	3	nmod	_	BeginSeg=Yes
 2	驻华	驻华	PROPN	NNP	_	3	nmod	_	_
 3	大使	大使	NOUN	NN	_	19	nsubj	_	_
@@ -1580,7 +1580,7 @@
 13	www.salvadordalimuseum.cn	www.salvadordalimuseum.cn	X	FW	_	11	flat:foreign	_	_
 14	/	/	PUNCT	/	_	11	punct	_	_
 
-# newdoc id = EEP_CHN3-GS
+# newdoc_id = EEP_CHN3-GS
 1	西班牙	西班牙	PROPN	NNP	_	2	nsubj	_	BeginSeg=Yes
 2	研发	研发	VERB	VV	_	0	root	_	_
 3	创新	创新	NOUN	NN	_	5	nmod	_	_
@@ -1828,7 +1828,7 @@
 38	讨论	讨论	NOUN	NN	_	36	obj	_	_
 39	。	。	PUNCT	.	_	5	punct	_	_
 
-# newdoc id = EEP_CHN4-GS
+# newdoc_id = EEP_CHN4-GS
 1	第二	第二	NUM	CD	NumType=Ord	2	nummod	_	BeginSeg=Yes
 2	届	届	NOUN	NNB	_	9	nmod	_	_
 3	“	“	PUNCT	``	_	9	punct	_	_
@@ -2045,7 +2045,7 @@
 38	者	者	PART	SFN	_	27	obj	_	_
 39	。	。	PUNCT	.	_	27	punct	_	_
 
-# newdoc id = EEP_CHN5-GS
+# newdoc_id = EEP_CHN5-GS
 1	第一	第一	NUM	CD	NumType=Ord	2	nummod	_	BeginSeg=Yes
 2	届	届	NOUN	NNB	_	6	clf	_	_
 3	中西	中西	NOUN	NN	_	6	nmod	_	_
@@ -2187,7 +2187,7 @@
 35	实例	实例	NOUN	NN	_	33	obj	_	_
 36	。	。	PUNCT	.	_	33	punct	_	_
 
-# newdoc id = EEP_CHN6-GS
+# newdoc_id = EEP_CHN6-GS
 1	西班牙	西班牙	PROPN	NNP	_	4	nmod	_	BeginSeg=Yes
 2	女	女	NOUN	NN	_	4	nmod	_	_
 3	摄影	摄影	VERB	VV	_	4	compound	_	_
@@ -2381,7 +2381,7 @@
 16	未来	未来	NOUN	NN	_	15	obj	_	_
 17	。	。	PUNCT	.	_	15	punct	_	_
 
-# newdoc id = FICB_CHN1-GS
+# newdoc_id = FICB_CHN1-GS
 1	巴塞罗那	巴塞罗那	PROPN	NNP	_	4	nmod	_	BeginSeg=Yes
 2	孔子	孔子	PROPN	NNP	_	4	nmod	_	_
 3	学院	学院	NOUN	NN	_	4	nmod	_	_
@@ -2534,7 +2534,7 @@
 28	合作	合作	VERB	VV	_	19	ccomp	_	_
 29	。	。	PUNCT	.	_	19	punct	_	_
 
-# newdoc id = FICB_CHN2-GS
+# newdoc_id = FICB_CHN2-GS
 1	巴塞罗那	巴塞罗那	PROPN	NNP	_	3	nmod	_	BeginSeg=Yes
 2	孔子	孔子	PROPN	NNP	_	3	nmod	_	_
 3	学院	学院	NOUN	NN	_	5	nsubj	_	_
@@ -2843,7 +2843,7 @@
 25	证书	证书	NOUN	NN	_	13	obj	_	_
 26	。	。	PUNCT	.	_	2	punct	_	_
 
-# newdoc id = FICB_CHN3-GS
+# newdoc_id = FICB_CHN3-GS
 1	巴塞罗那	巴塞罗那	PROPN	NNP	_	6	nmod	_	BeginSeg=Yes
 2	地区	地区	NOUN	NN	_	6	nmod	_	_
 3	汉	汉	PROPN	NNP	_	4	compound	_	_
@@ -2983,7 +2983,7 @@
 27	赛	赛	PART	SFN	_	17	obj	_	_
 28	。	。	PUNCT	.	_	17	punct	_	_
 
-# newdoc id = ICEG_CHN1-GS
+# newdoc_id = ICEG_CHN1-GS
 1	学院	学院	NOUN	NN	_	3	nmod	_	BeginSeg=Yes
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	_
 3	具体	具体	NOUN	NN	_	0	root	_	_
@@ -3339,7 +3339,7 @@
 33	管理	管理	NOUN	NN	_	31	conj	_	_
 34	。	。	PUNCT	.	_	5	punct	_	_
 
-# newdoc id = ICEG_CHN2-GS
+# newdoc_id = ICEG_CHN2-GS
 1	讲习	讲习	NOUN	NN	_	2	nmod	_	BeginSeg=Yes
 2	课程	课程	NOUN	NN	_	0	root	_	_
 
@@ -3460,7 +3460,7 @@
 22	其中	其中	NOUN	NN	_	21	obj	_	_
 23	。	。	PUNCT	.	_	17	punct	_	_
 
-# newdoc id = ICP_CHN1-GS
+# newdoc_id = ICP_CHN1-GS
 1	学院	学院	NOUN	NN	_	2	nsubj	_	BeginSeg=Yes
 2	介绍	介绍	VERB	VV	_	0	root	_	_
 
@@ -3672,7 +3672,7 @@
 27	活动	活动	NOUN	NN	_	24	obj	_	_
 28	。	。	PUNCT	.	_	24	punct	_	_
 
-# newdoc id = ICP_CHN2-GS
+# newdoc_id = ICP_CHN2-GS
 1	潮流	潮流	NOUN	NN	_	2	compound	_	BeginSeg=Yes
 2	猎	猎	PART	SFN	_	3	compound	_	_
 3	人	人	PART	SFN	_	0	root	_	_
@@ -4205,7 +4205,7 @@
 39	巡展	巡展	NOUN	NN	_	37	obj	_	_
 40	。	。	PUNCT	.	_	6	punct	_	_
 
-# newdoc id = ICP_CHN3-GS
+# newdoc_id = ICP_CHN3-GS
 1	文化	文化	NOUN	NN	_	2	nmod	_	BeginSeg=Yes
 2	活动	活动	NOUN	NN	_	0	root	_	_
 
@@ -4487,7 +4487,7 @@
 37	”	”	PUNCT	''	_	36	punct	_	_
 38	。	。	PUNCT	.	_	33	punct	_	_
 
-# newdoc id = ICP_CHN4-GS
+# newdoc_id = ICP_CHN4-GS
 1	用	用	VERB	VV	_	4	advcl	_	BeginSeg=Yes
 2	西班牙	西班牙	PROPN	NNP	_	3	compound	_	_
 3	语	语	PART	SFN	_	1	obj	_	_
@@ -4669,7 +4669,7 @@
 11	10	10	NUM	CD	NumType=Card	12	nummod	_	_
 12	58799670	58799670	NUM	CD	NumType=Card	6	conj	_	_
 
-# newdoc id = TERM18_CHN-GS
+# newdoc_id = TERM18_CHN-GS
 1	塞尔维亚	塞尔维亚	PROPN	NNP	_	2	compound	_	BeginSeg=Yes
 2	语	语	PART	SFN	_	10	nmod	_	_
 3	科技	科技	NOUN	NN	_	10	nmod	_	_
@@ -4978,7 +4978,7 @@
 51	规则	规则	NOUN	NN	_	46	obj	_	_
 52	。	。	PUNCT	.	_	3	punct	_	_
 
-# newdoc id = TERM19_CHN-GS
+# newdoc_id = TERM19_CHN-GS
 1	术语	术语	NOUN	NN	_	2	nmod	_	BeginSeg=Yes
 2	标准	标准	NOUN	NN	_	3	nsubj	_	_
 3	化受	化受	VERB	VV	_	7	acl:relcl	_	_
@@ -5322,7 +5322,7 @@
 44	构想	构想	NOUN	NN	_	42	obj	_	_
 45	。	。	PUNCT	.	_	42	punct	_	_
 
-# newdoc id = TERM23_CHN-GS
+# newdoc_id = TERM23_CHN-GS
 1	大学	大学	NOUN	NN	_	2	nmod	_	BeginSeg=Yes
 2	教育	教育	NOUN	NN	_	9	nmod	_	_
 3	和	和	CCONJ	CC	_	5	cc	_	_
@@ -5649,7 +5649,7 @@
 37	问题	问题	NOUN	NN	_	22	obj	_	_
 38	。	。	PUNCT	.	_	22	punct	_	_
 
-# newdoc id = TERM25_CHN-GS
+# newdoc_id = TERM25_CHN-GS
 1	从	从	ADP	IN	_	3	case	_	BeginSeg=Yes
 2	巴斯克	巴斯克	PROPN	NNP	_	3	compound	_	_
 3	语	语	PART	SFN	_	4	obl	_	_
@@ -5886,7 +5886,7 @@
 44	调整	调整	NOUN	NN	_	43	obj	_	_
 45	。	。	PUNCT	.	_	43	punct	_	_
 
-# newdoc id = TERM28_CHN-GS
+# newdoc_id = TERM28_CHN-GS
 1	法律	法律	NOUN	NN	_	3	nmod	_	BeginSeg=Yes
 2	翻译	翻译	NOUN	NN	_	3	nmod	_	_
 3	文件	文件	NOUN	NN	_	10	advmod	_	_
@@ -6202,7 +6202,7 @@
 20	分析	分析	NOUN	NN	_	19	obj	_	_
 21	。	。	PUNCT	.	_	19	punct	_	_
 
-# newdoc id = TERM29_CHN-GS
+# newdoc_id = TERM29_CHN-GS
 1	术语	术语	NOUN	NN	_	3	nmod	_	BeginSeg=Yes
 2	数据	数据	NOUN	NN	_	3	compound	_	_
 3	库	库	PART	SFN	_	5	nmod	_	_
@@ -6406,7 +6406,7 @@
 17	结果	结果	NOUN	NN	_	15	obj	_	_
 18	。	。	PUNCT	.	_	11	punct	_	_
 
-# newdoc id = TERM30_CHN-GS
+# newdoc_id = TERM30_CHN-GS
 1	小	小	PART	PFA	_	2	case:pref	_	BeginSeg=Yes
 2	语种	语种	NOUN	NN	_	5	nmod	_	_
 3	的	的	PART	DEC	Case=Gen	2	case:dec	_	_
@@ -7200,7 +7200,7 @@
 22	基础	基础	NOUN	NN	_	7	ccomp	_	_
 23	。	。	PUNCT	.	_	7	punct	_	_
 
-# newdoc id = TERM31_CHN-GS
+# newdoc_id = TERM31_CHN-GS
 1	巴斯克	巴斯克	PROPN	NNP	_	3	nmod	_	BeginSeg=Yes
 2	语术	语术	NOUN	NN	_	3	compound	_	_
 3	语	语	PART	SFN	_	5	nsubj	_	_
@@ -7970,7 +7970,7 @@
 16	重要	重要	ADJ	JJ	_	3	dislocated	_	_
 17	。	。	PUNCT	.	_	16	punct	_	_
 
-# newdoc id = TERM32_CHN-GS
+# newdoc_id = TERM32_CHN-GS
 1	中文	中文	PROPN	NNP	_	4	nmod	_	BeginSeg=Yes
 2	计算	计算	VERB	VV	_	3	compound	_	_
 3	机	机	PART	SFN	_	4	nmod	_	_
@@ -8363,7 +8363,7 @@
 45	挑选	挑选	VERB	VV	_	43	ccomp	_	_
 46	。	。	PUNCT	.	_	9	punct	_	_
 
-# newdoc id = TERM34_CHN-GS
+# newdoc_id = TERM34_CHN-GS
 1	文字	文字	NOUN	NN	_	2	nmod	_	BeginSeg=Yes
 2	关联	关联	NOUN	NN	_	7	nsubj	_	_
 3	或	或	CCONJ	CC	_	5	cc	_	_
@@ -9630,7 +9630,7 @@
 34	系统	系统	NOUN	NN	_	24	obj	_	_
 35	。	。	PUNCT	.	_	2	punct	_	_
 
-# newdoc id = TERM38_CHN-GS
+# newdoc_id = TERM38_CHN-GS
 1	与	与	ADP	IN	_	5	case	_	BeginSeg=Yes
 2	时间	时间	NOUN	NN	_	3	nmod	_	_
 3	赛跑	赛跑	NOUN	NN	_	5	nmod	_	_

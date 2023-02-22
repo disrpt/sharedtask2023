@@ -1,4 +1,4 @@
-# newdoc id = BMCS_ESP4-GS
+# newdoc_id = BMCS_ESP4-GS
 1	Cursos	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	preparación	_	_	_	_	_	_	_	_
@@ -190,7 +190,7 @@
 189	útiles	_	_	_	_	_	_	_	_
 190	.	_	_	_	_	_	_	_	_
 
-# newdoc id = CCICE_ESP4-GS
+# newdoc_id = CCICE_ESP4-GS
 1	BBVA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Portugal	_	_	_	_	_	_	_	_
 3	cierra	_	_	_	_	_	_	_	_
@@ -401,7 +401,7 @@
 208	millones	_	_	_	_	_	_	_	_
 209	.	_	_	_	_	_	_	_	_
 
-# newdoc id = EEP_ESP7-GS
+# newdoc_id = EEP_ESP7-GS
 1	6ª	_	_	_	_	_	_	_	BeginSeg=Yes
 2	EDICIÓN	_	_	_	_	_	_	_	_
 3	ESPAÑA	_	_	_	_	_	_	_	_
@@ -746,7 +746,7 @@
 342	2014	_	_	_	_	_	_	_	_
 343	)	_	_	_	_	_	_	_	_
 
-# newdoc id = FCEC_ESP1-GS
+# newdoc_id = FCEC_ESP1-GS
 1	Carta	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	bienvenida	_	_	_	_	_	_	_	_
@@ -1228,7 +1228,7 @@
 479	Consejo	_	_	_	_	_	_	_	_
 480	España-China	_	_	_	_	_	_	_	_
 
-# newdoc id = FICB_ESP4-GS
+# newdoc_id = FICB_ESP4-GS
 1	Exposición	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	fotos	_	_	_	_	_	_	_	_
@@ -1412,7 +1412,7 @@
 181	,	_	_	_	_	_	_	_	_
 182	S.L.	_	_	_	_	_	_	_	_
 
-# newdoc id = ICP_ESP5-GS
+# newdoc_id = ICP_ESP5-GS
 1	Cursos	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	español	_	_	_	_	_	_	_	_
@@ -1620,7 +1620,7 @@
 205	conciertos	_	_	_	_	_	_	_	_
 206	...	_	_	_	_	_	_	_	_
 
-# newdoc id = ICP_ESP6-GS
+# newdoc_id = ICP_ESP6-GS
 1	El	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Instituto	_	_	_	_	_	_	_	_
 3	Cervantes	_	_	_	_	_	_	_	_
@@ -2117,7 +2117,7 @@
 494	país	_	_	_	_	_	_	_	_
 495	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM39_ESP-GS
+# newdoc_id = TERM39_ESP-GS
 1	Provisión	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	herramientas	_	_	_	_	_	_	_	_
@@ -2316,7 +2316,7 @@
 196	proyecto	_	_	_	_	_	_	_	_
 197	.	_	_	_	_	_	_	_	_
 
-# newdoc id = TERM40_ESP-GS
+# newdoc_id = TERM40_ESP-GS
 1	Aportes	_	_	_	_	_	_	_	BeginSeg=Yes
 2	del	_	_	_	_	_	_	_	_
 3	Tesauro	_	_	_	_	_	_	_	_

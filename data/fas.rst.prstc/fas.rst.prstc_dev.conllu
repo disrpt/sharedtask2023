@@ -1,4 +1,4 @@
-# newdoc id = etemad001
+# newdoc_id = etemad001
 # sent_id = etemad001-1
 # text = برای تحلیل وضعیت بازار مسکن و ارزیابی از آینده احتمالی آن ، باید تمام عوامل موجود در اقتصاد ایران را تحلیل کرد زیرا مسکن نیز مانند دیگر حوزهها ، از شرایط کلان اقتصادی تاثیر میپذیرد .
 1	برای	برای	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -501,7 +501,7 @@
 102	شود	کرد#کن	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	101	cop	_	_
 103	.	.	PUNCT	DELM	_	57	punct	_	_
 
-# newdoc id = etemad039
+# newdoc_id = etemad039
 # sent_id = etemad039-1
 # text = این روزها هرکس نگاهی از سر تامل به تاریخ معاصر ، جوامع پیرامونی و مسایل پیش روی جامعه میکند ، نمی تواند به سادگی از کنار تجمعات ، اعتراضها و ناامنیهای نقاط دور و نزدیک کشور بگذرد .
 1	این	این	DET	DET	_	2	det	_	BeginSeg=Yes
@@ -946,7 +946,7 @@
 48	کنند	کرد#کن	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	37	conj	_	_
 49	.	.	PUNCT	DELM	_	26	punct	_	_
 
-# newdoc id = etemad040
+# newdoc_id = etemad040
 # sent_id = etemad040-1
 # text = درباره حوادث اخیر ، رفتار شناسی معترضان بیانگر دو سطح از اعتراض است : سطح اول مطالبات اقتصادی و معیشتی است و سطح دوم تخریب گری .
 1	درباره	درباره	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -1280,7 +1280,7 @@
 17	میشود	کرد#کن	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	16	aux:pass	_	_
 18	.	.	PUNCT	DELM	_	16	punct	_	_
 
-# newdoc id = etemad041
+# newdoc_id = etemad041
 # sent_id = etemad041-1
 # text = به راستی هدف از اقدامات اخیر رییس جمهور سابق چیست و چه اهدافی را دنبال میکند ؟ این سوالی است که در این روزها خیلی از دست اندرکاران دنیای سیاست به ذهن شان متبادر شده است .
 1	به	به	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -1945,7 +1945,7 @@
 36	کرد	کرد#کن	VERB	V_PA	Number=Sing|Person=3|Tense=Past	28	conj	_	_
 37	.	.	PUNCT	DELM	_	7	punct	_	_
 
-# newdoc id = meidan001
+# newdoc_id = meidan001
 # sent_id = meidan001-1
 # text = هادی بهاری ، نماینده مردم ارومیه در مجلس به تازگی اعلام کرد که شناخت کیفیت آب دریاچه وان و تطابق آن با دریاچه ارومیه در دانشگاههای مراغه ، ارومیه و تهران انجام شده و فرصت مناسبی برای احیای دریاچه ارومیه از طریق انتقال آب از دریاچه وان فراهم شده است و احتمال این انتقال وجود دارد .
 1	هادی	هادی	NOUN	N_SING	Number=Sing	12	nsubj	_	BeginSeg=Yes
@@ -2369,7 +2369,7 @@
 25	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	24	cop	_	_
 26	.	.	PUNCT	DELM	_	17	punct	_	_
 
-# newdoc id = meidan003
+# newdoc_id = meidan003
 # sent_id = meidan003-1
 # text = مردم روستای میراحمد غریبیها از توابع شهرستان ایذه که سالهاست با چالش رانش زمین روبهرو هستند ، همچنان در خانههای ناامن خود زندگی میکنند و وضعیت محل سکونتشان در مرحله هشدار جدی است .
 1	مردم	مردم	NOUN	N_SING	Number=Sing	25	nsubj	_	BeginSeg=Yes
@@ -3000,7 +3000,7 @@
 51	میکنند	کرد#کن	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	27	ccomp	_	_
 52	.	.	PUNCT	DELM	_	14	punct	_	_
 
-# newdoc id = meidan005
+# newdoc_id = meidan005
 # sent_id = meidan005-1
 # text = به گفته فرماندار رودسر حدود ۶۰ درصد باغات مرکبات شهرستان رودسر بر اثر بارش برف آسیب دیده اند .
 1	به	به	ADP	P	_	2	case	_	BeginSeg=Yes
@@ -3174,7 +3174,7 @@
 46	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	45	aux	_	_
 47	.	.	PUNCT	DELM	_	16	punct	_	_
 
-# newdoc id = meidan015
+# newdoc_id = meidan015
 # sent_id = meidan015-1
 # text = اسپا به محلی گفته میشود که از آب معدنی یا آب دریا برای استحمام درمانی استفاده میشود و معمولا دارای خدماتی همچون ماساژ برای مراقبت از پوست و بدن است .
 1	اسپا	اسپا	NOUN	N_SING	Number=Sing	4	nsubj	_	BeginSeg=Yes
@@ -3426,7 +3426,7 @@
 23	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	22	aux	_	_
 24	.	.	PUNCT	DELM	_	5	punct	_	_
 
-# newdoc id = meidan025
+# newdoc_id = meidan025
 # sent_id = meidan025-1
 # text = حسین راغفر ، اقتصاددان ، معتقد است که تصمیمگیران اقتصاد کشور « باید یارانه بخش قابل توجهی از کسانی که یارانهبگیر هستند را حذف میکردند و منابعش را به صورت یارانه دستمزد به کارفرماها میپرداختند تا اشتغالزایی شود . » استدلال این استاد دانشگاه برای انتقاد از افزایش یارانهها این است که « اولا در شرایط کنونی دولت با کسری بودجه شدید روبهرو است و پرداخت همین مبالغ هم معلوم نیست در طول سالهای بعد برای دولت امکان پذیر باشد ، ضمن اینکه این احتمال نیز وجود دارد که ممکن است کمک معیشت با این نیت پرداخت شود که قیمت حاملهای دیگر انرژی را بالا ببرند . » پیشنهاد « یارانه دستمزد به کارفرماها برای ایجاد اشتغال » مبتنی بر این پیشفرض است که بخشی از مشکل بیکاری در کشور و مزدهای پایین افراد شاغل ، ناشی از ناتوانی کارفرمایان در پرداخت دستمزد کافی به کارگران است .
 1	حسین	حسین	NOUN	N_SING	Number=Sing	6	nsubj	_	BeginSeg=Yes
@@ -3624,7 +3624,7 @@
 19	ندارند	داشت#دار	VERB	V_PRS	Number=Plur|Person=3|Polarity=Neg|Tense=Pres	16	conj	_	_
 20	.	.	PUNCT	DELM	_	16	punct	_	_
 
-# newdoc id = meidan035
+# newdoc_id = meidan035
 # sent_id = meidan035-1
 # text = « اولویت پیاده به سواره » یکی از شعارهای مدیران جدید شهر بود ، آنها در کمپینهای انتخاباتیشان سیاستهای شهردار سابق برای حذف پیادهها از روی زمین را نقد میکردند .
 1	«	«	PUNCT	DELM	_	7	punct	_	BeginSeg=Yes
@@ -3876,7 +3876,7 @@
 21	دارند	داشت#دار	VERB	V_PRS	Number=Plur|Person=3|Tense=Pres	2	ccomp	_	_
 22	.	.	PUNCT	DELM	_	2	punct	_	_
 
-# newdoc id = shargh001
+# newdoc_id = shargh001
 # sent_id = shargh001-1
 # text = این روزها شیوع ویروس کرونا موجبات نگرانی و عدم امنیت روانی همه شهروندان را فراهم کرده است .
 1	این	این	DET	DET	_	2	det	_	BeginSeg=Yes
@@ -4695,7 +4695,7 @@
 20	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	19	cop	_	_
 21	.	.	PUNCT	DELM	_	1	punct	_	_
 
-# newdoc id = shargh022
+# newdoc_id = shargh022
 # sent_id = shargh022-1
 # text = خبرگزاری فارس اعلام کرده تظاهرات مشهد از سوی مال باختگان موسسات تعاونی ( ثامن الحجج و بقیه ) سازماندهی شده بود و تمام شد .
 1	خبرگزاری	خبرگزاری	NOUN	N_SING	Number=Sing	4	nsubj	_	BeginSeg=Yes
@@ -5470,7 +5470,7 @@
 80	میزنیم	زد#زن	VERB	V_PRS	Number=Plur|Person=1|Tense=Pres	62	conj	_	_
 81	؟	؟	PUNCT	DELM	_	12	punct	_	_
 
-# newdoc id = shargh025
+# newdoc_id = shargh025
 # sent_id = shargh025-1
 # text = پیشنهاد دولت در لایحه بودجه سال ۹۶ این بود ؛ حقوق بگیرانی که حقوق آنها سالانه سقف ١۸ میلیون تومان دارد ، از پرداخت مالیات معاف شوند .
 1	پیشنهاد	پیشنهاد	NOUN	N_SING	Number=Sing	8	nsubj	_	BeginSeg=Yes
@@ -6060,7 +6060,7 @@
 23	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	22	cop	_	_
 24	.	.	PUNCT	DELM	_	22	punct	_	_
 
-# newdoc id = shargh026
+# newdoc_id = shargh026
 # sent_id = shargh026-1
 # text = حوادث و بلایای طبیعی به دلیل افزایش حساسیت جامعه و جلب توجه افکار عمومی سبب میشوند موضوع به یک دستور کار سیاستی « Policy Agenda » تبدیل شود .
 1	حوادث	حوادث	NOUN	N_PL	Number=Plur	15	nsubj	_	BeginSeg=Yes
@@ -6841,7 +6841,7 @@
 33	یابد	یافت#یاب	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	27	ccomp	_	_
 34	.	.	PUNCT	DELM	_	27	punct	_	_
 
-# newdoc id = shargh033
+# newdoc_id = shargh033
 # sent_id = shargh033-1
 # text = دخالت انسان در تغییرات اقلیمی ، از تهدیدهای مهم زندگی بشر امروز و آینده است .
 1	دخالت	دخالت	NOUN	N_SING	Number=Sing	8	nsubj	_	BeginSeg=Yes

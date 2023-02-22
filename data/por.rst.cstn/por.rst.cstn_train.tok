@@ -1,4 +1,4 @@
-# newdoc id = D1_C12_Folha_07-08-2006_08h30
+# newdoc_id = D1_C12_Folha_07-08-2006_08h30
 1	Um	_	_	_	_	_	_	_	BeginSeg=Yes
 2	total	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -424,7 +424,7 @@
 390	alimentícia	_	_	_	_	_	_	_	_
 391	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C16_Folha_21-08-2006_10h14
+# newdoc_id = D1_C16_Folha_21-08-2006_10h14
 1	Os	_	_	_	_	_	_	_	BeginSeg=Yes
 2	deputados	_	_	_	_	_	_	_	_
 3	acusados	_	_	_	_	_	_	_	_
@@ -1001,7 +1001,7 @@
 524	renúncia	_	_	_	_	_	_	_	_
 525	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C17_Folha_21-08-2006
+# newdoc_id = D1_C17_Folha_21-08-2006
 1	Após	_	_	_	_	_	_	_	BeginSeg=Yes
 2	um	_	_	_	_	_	_	_	_
 3	fim	_	_	_	_	_	_	_	_
@@ -1814,7 +1814,7 @@
 747	"	_	_	_	_	_	_	_	_
 748	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C18_Folha_16-04-2007_15h46
+# newdoc_id = D1_C18_Folha_16-04-2007_15h46
 1	Um	_	_	_	_	_	_	_	BeginSeg=Yes
 2	atirador	_	_	_	_	_	_	_	_
 3	matou	_	_	_	_	_	_	_	_
@@ -2397,7 +2397,7 @@
 541	universidade	_	_	_	_	_	_	_	_
 542	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C19_Folha_16-04-2007_12h00
+# newdoc_id = D1_C19_Folha_16-04-2007_12h00
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	médico	_	_	_	_	_	_	_	_
 3	pessoal	_	_	_	_	_	_	_	_
@@ -2578,7 +2578,7 @@
 166	investigadas	_	_	_	_	_	_	_	_
 167	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C1_Folha_04-08-2006_07h42
+# newdoc_id = D1_C1_Folha_04-08-2006_07h42
 1	Ao	_	_	_	_	_	_	_	BeginSeg=Yes
 2	menos	_	_	_	_	_	_	_	_
 3	17	_	_	_	_	_	_	_	_
@@ -2818,7 +2818,7 @@
 220	setor	_	_	_	_	_	_	_	_
 221	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C20_Folha_19-09-2007_13h39
+# newdoc_id = D1_C20_Folha_19-09-2007_13h39
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -3430,7 +3430,7 @@
 565	Desarmamento	_	_	_	_	_	_	_	_
 566	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C21_Estadao_06-08-2007_15h40
+# newdoc_id = D1_C21_Estadao_06-08-2007_15h40
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	pista	_	_	_	_	_	_	_	_
 3	principal	_	_	_	_	_	_	_	_
@@ -3654,7 +3654,7 @@
 203	Campinas	_	_	_	_	_	_	_	_
 204	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C23_Folha
+# newdoc_id = D1_C23_Folha
 1	As	_	_	_	_	_	_	_	BeginSeg=Yes
 2	piores	_	_	_	_	_	_	_	_
 3	enchentes	_	_	_	_	_	_	_	_
@@ -3882,7 +3882,7 @@
 208	Tâmisa	_	_	_	_	_	_	_	_
 209	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C26_Folha_20-08-2007_13h16
+# newdoc_id = D1_C26_Folha_20-08-2007_13h16
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	furacão	_	_	_	_	_	_	_	_
 3	Dean	_	_	_	_	_	_	_	_
@@ -4693,7 +4693,7 @@
 751	furacão	_	_	_	_	_	_	_	_
 752	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C27_Folha_17-10-2007_23h53
+# newdoc_id = D1_C27_Folha_17-10-2007_23h53
 1	Depois	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	sete	_	_	_	_	_	_	_	_
@@ -5410,7 +5410,7 @@
 663	Paulo	_	_	_	_	_	_	_	_
 664	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C28_Folha_15-07-2007_17h12
+# newdoc_id = D1_C28_Folha_15-07-2007_17h12
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	seleção	_	_	_	_	_	_	_	_
 3	brasileira	_	_	_	_	_	_	_	_
@@ -5732,7 +5732,7 @@
 297	lugar	_	_	_	_	_	_	_	_
 298	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C29_Folha_16-07-2007
+# newdoc_id = D1_C29_Folha_16-07-2007
 1	Os	_	_	_	_	_	_	_	BeginSeg=Yes
 2	advogados	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -6378,7 +6378,7 @@
 609	.	_	_	_	_	_	_	_	_
 610	"	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C2_Folha_04-08-2006_11h38
+# newdoc_id = D1_C2_Folha_04-08-2006_11h38
 1	Se	_	_	_	_	_	_	_	BeginSeg=Yes
 2	a	_	_	_	_	_	_	_	_
 3	eleição	_	_	_	_	_	_	_	_
@@ -6972,7 +6972,7 @@
 551	%	_	_	_	_	_	_	_	_
 552	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C34_Folha_20-08-2007_12h22
+# newdoc_id = D1_C34_Folha_20-08-2007_12h22
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Receita	_	_	_	_	_	_	_	_
 3	Federal	_	_	_	_	_	_	_	_
@@ -7506,7 +7506,7 @@
 498	)	_	_	_	_	_	_	_	_
 499	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C35_Folha_07-08-2007_14h11
+# newdoc_id = D1_C35_Folha_07-08-2007_14h11
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	colombiano	_	_	_	_	_	_	_	_
 3	Juan	_	_	_	_	_	_	_	_
@@ -8110,7 +8110,7 @@
 558	.	_	_	_	_	_	_	_	_
 559	"	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C3_Folha_19-07-2007_21h05
+# newdoc_id = D1_C3_Folha_19-07-2007_21h05
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Airbus-A320	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -8964,7 +8964,7 @@
 778	reto	_	_	_	_	_	_	_	_
 779	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C42_Folha_25-09-2007_11h44
+# newdoc_id = D1_C42_Folha_25-09-2007_11h44
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	relator	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -9585,7 +9585,7 @@
 570	afirmou	_	_	_	_	_	_	_	BeginSeg=Yes
 571	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C43_Folha_17-07-2007_13h37
+# newdoc_id = D1_C43_Folha_17-07-2007_13h37
 1	Por	_	_	_	_	_	_	_	BeginSeg=Yes
 2	unanimidade	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -10173,7 +10173,7 @@
 538	.	_	_	_	_	_	_	_	_
 539	"	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C44_Folha_19-09-2007_12h03
+# newdoc_id = D1_C44_Folha_19-09-2007_12h03
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3-4	do	_	_	_	_	_	_	_	_
@@ -10874,7 +10874,7 @@
 647	Ética	_	_	_	_	_	_	_	_
 648	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C45_Folha_18-10-2007_08h03
+# newdoc_id = D1_C45_Folha_18-10-2007_08h03
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	polícia	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -11569,7 +11569,7 @@
 642	Santi	_	_	_	_	_	_	_	_
 643	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C48_Folha
+# newdoc_id = D1_C48_Folha
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	torcida	_	_	_	_	_	_	_	_
 3	recebeu	_	_	_	_	_	_	_	_
@@ -12208,7 +12208,7 @@
 596	Anderson	_	_	_	_	_	_	_	_
 597	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C49_Folha_17-07-2007_08h25
+# newdoc_id = D1_C49_Folha_17-07-2007_08h25
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3	Luiz	_	_	_	_	_	_	_	_
@@ -12742,7 +12742,7 @@
 505	.	_	_	_	_	_	_	_	_
 506	"	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C4_Folha_16-07-2007_09h48
+# newdoc_id = D1_C4_Folha_16-07-2007_09h48
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	CGE	_	_	_	_	_	_	_	_
 3	(	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -13133,7 +13133,7 @@
 353	envolvidos	_	_	_	_	_	_	_	_
 354	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C50_Folha_06-11-2007_12h57
+# newdoc_id = D1_C50_Folha_06-11-2007_12h57
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ministro	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -13961,7 +13961,7 @@
 764	2008	_	_	_	_	_	_	_	_
 765	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C5_JB
+# newdoc_id = D1_C5_JB
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ministro	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -14160,7 +14160,7 @@
 180	Lomanto	_	_	_	_	_	_	_	_
 181	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C6_Folha_06-08-2007_08h48
+# newdoc_id = D1_C6_Folha_06-08-2007_08h48
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3	Luiz	_	_	_	_	_	_	_	_
@@ -14609,7 +14609,7 @@
 420	.	_	_	_	_	_	_	_	_
 421	"	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C7_Estadao_04-08-2006_14h13
+# newdoc_id = D1_C7_Estadao_04-08-2006_14h13
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	lista	_	_	_	_	_	_	_	_
 3-4	dos	_	_	_	_	_	_	_	_
@@ -15112,7 +15112,7 @@
 469	Ivanov	_	_	_	_	_	_	_	_
 470	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C8_Estadao_04-08-2006_13h56
+# newdoc_id = D1_C8_Estadao_04-08-2006_13h56
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	seleção	_	_	_	_	_	_	_	_
 3	brasileira	_	_	_	_	_	_	_	_
@@ -15355,7 +15355,7 @@
 217	Rússia	_	_	_	_	_	_	_	_
 218	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C9_Folha_04-08-2006_13h20
+# newdoc_id = D1_C9_Folha_04-08-2006_13h20
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	PF	_	_	_	_	_	_	_	_
 3	(	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -15685,7 +15685,7 @@
 308	Dominó	_	_	_	_	_	_	_	_
 309	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C12_Estadao_07-08-2006_02h29
+# newdoc_id = D2_C12_Estadao_07-08-2006_02h29
 1	Já	_	_	_	_	_	_	_	BeginSeg=Yes
 2	está	_	_	_	_	_	_	_	_
 3	em	_	_	_	_	_	_	_	_
@@ -16106,7 +16106,7 @@
 386	alimentícia	_	_	_	_	_	_	_	_
 387	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C15_Estadao_21-08-2006_07h32
+# newdoc_id = D2_C15_Estadao_21-08-2006_07h32
 1	Nove	_	_	_	_	_	_	_	BeginSeg=Yes
 2	pessoas	_	_	_	_	_	_	_	_
 3	morreram	_	_	_	_	_	_	_	_
@@ -16293,7 +16293,7 @@
 169	terrorista	_	_	_	_	_	_	_	_
 170	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C16_Estadao_21-08-2006
+# newdoc_id = D2_C16_Estadao_21-08-2006
 1	Termina	_	_	_	_	_	_	_	BeginSeg=Yes
 2	hoje	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -17012,7 +17012,7 @@
 656	mandato	_	_	_	_	_	_	_	_
 657	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C17_Estadao_20-08-2006_21h41
+# newdoc_id = D2_C17_Estadao_20-08-2006_21h41
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3	Luiz	_	_	_	_	_	_	_	_
@@ -17564,7 +17564,7 @@
 506	migração	_	_	_	_	_	_	_	_
 507	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C18_Estadao_16-04-2007_13h44
+# newdoc_id = D2_C18_Estadao_16-04-2007_13h44
 1	Ao	_	_	_	_	_	_	_	BeginSeg=Yes
 2	menos	_	_	_	_	_	_	_	_
 3	33	_	_	_	_	_	_	_	_
@@ -18518,7 +18518,7 @@
 881	filmes	_	_	_	_	_	_	_	_
 882	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C19_Estadao_16-04-2007_11h02
+# newdoc_id = D2_C19_Estadao_16-04-2007_11h02
 1	Maradona	_	_	_	_	_	_	_	BeginSeg=Yes
 2	voltou	_	_	_	_	_	_	_	_
 3	a	_	_	_	_	_	_	_	_
@@ -18745,7 +18745,7 @@
 207	jogo	_	_	_	_	_	_	_	_
 208	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C1_Estadao_04-08-2006_05h54
+# newdoc_id = D2_C1_Estadao_04-08-2006_05h54
 1	Um	_	_	_	_	_	_	_	BeginSeg=Yes
 2	acidente	_	_	_	_	_	_	_	_
 3	aéreo	_	_	_	_	_	_	_	_
@@ -18929,7 +18929,7 @@
 165	minerais	_	_	_	_	_	_	_	_
 166	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C21_OGlobo_06-08-2007_16h23
+# newdoc_id = D2_C21_OGlobo_06-08-2007_16h23
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Ministério	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -19590,7 +19590,7 @@
 604	características	_	_	_	_	_	_	_	_
 605	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C23_Estadao_23-07-2007_13h58
+# newdoc_id = D2_C23_Estadao_23-07-2007_13h58
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	chuva	_	_	_	_	_	_	_	_
 3	torrencial	_	_	_	_	_	_	_	_
@@ -20110,7 +20110,7 @@
 483	)	_	_	_	_	_	_	_	_
 484	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C24_Estadao_23-07-2007_19h16
+# newdoc_id = D2_C24_Estadao_23-07-2007_19h16
 1	Como	_	_	_	_	_	_	_	BeginSeg=Yes
 2	esperado	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -20488,7 +20488,7 @@
 351	4,66	_	_	_	_	_	_	_	_
 352	m.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C27_Estadao_18-10-2007_00h04
+# newdoc_id = D2_C27_Estadao_18-10-2007_00h04
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Brasil	_	_	_	_	_	_	_	_
 3	lavou	_	_	_	_	_	_	_	_
@@ -20999,7 +20999,7 @@
 475	brasileiro	_	_	_	_	_	_	_	_
 476	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C28_Estadao_15-07-2007_17h24
+# newdoc_id = D2_C28_Estadao_15-07-2007_17h24
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	seleção	_	_	_	_	_	_	_	_
 3	brasileira	_	_	_	_	_	_	_	_
@@ -21381,7 +21381,7 @@
 351	brasileiro	_	_	_	_	_	_	_	_
 352	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C29_OGlobo_15-07-2007_07h49
+# newdoc_id = D2_C29_OGlobo_15-07-2007_07h49
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Igreja	_	_	_	_	_	_	_	_
 3	Católica	_	_	_	_	_	_	_	_
@@ -21817,7 +21817,7 @@
 408	anos	_	_	_	_	_	_	_	_
 409	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C2_Estadao_04-08-2006_12h44
+# newdoc_id = D2_C2_Estadao_04-08-2006_12h44
 1	BRASÍLIA	_	_	_	_	_	_	_	BeginSeg=Yes
 2	-	_	_	_	_	_	_	_	_
 3	A	_	_	_	_	_	_	_	_
@@ -22382,7 +22382,7 @@
 536	12.197/2006	_	_	_	_	_	_	_	_
 537	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C31_Estadao_17-10-2007_09h32
+# newdoc_id = D2_C31_Estadao_17-10-2007_09h32
 1	Um	_	_	_	_	_	_	_	BeginSeg=Yes
 2-3	dos	_	_	_	_	_	_	_	_
 2	de	_	_	_	_	_	_	_	_
@@ -22587,7 +22587,7 @@
 177	agosto	_	_	_	_	_	_	_	_
 178	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C32_Estadao_17-07-2007_08h03
+# newdoc_id = D2_C32_Estadao_17-07-2007_08h03
 1	Os	_	_	_	_	_	_	_	BeginSeg=Yes
 2	chefes	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -23108,7 +23108,7 @@
 484	1995	_	_	_	_	_	_	_	_
 485	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C33_Estadao_25-09-2007_10h51
+# newdoc_id = D2_C33_Estadao_25-09-2007_10h51
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3	Luiz	_	_	_	_	_	_	_	_
@@ -24406,7 +24406,7 @@
 1213	meses	_	_	_	_	_	_	_	_
 1214	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C34_Estadao_20-08-2007_13h22
+# newdoc_id = D2_C34_Estadao_20-08-2007_13h22
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Receita	_	_	_	_	_	_	_	_
 3	Federal	_	_	_	_	_	_	_	_
@@ -25141,7 +25141,7 @@
 684	2006	_	_	_	_	_	_	_	_
 685	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C3_Estadao_20-07-2007_11h28
+# newdoc_id = D2_C3_Estadao_20-07-2007_11h28
 1	Para	_	_	_	_	_	_	_	BeginSeg=Yes
 2	especialistas	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -25415,7 +25415,7 @@
 258	escorregadia	_	_	_	_	_	_	_	_
 259	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C40_Estadao_06-08-2007_16h17
+# newdoc_id = D2_C40_Estadao_06-08-2007_16h17
 1	Ao	_	_	_	_	_	_	_	BeginSeg=Yes
 2	chegar	_	_	_	_	_	_	_	_
 3-4	nesta	_	_	_	_	_	_	_	_
@@ -25729,7 +25729,7 @@
 292	Veloso	_	_	_	_	_	_	_	_
 293	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C41_Estadao_20-07-2007_12h23
+# newdoc_id = D2_C41_Estadao_20-07-2007_12h23
 1	Em	_	_	_	_	_	_	_	BeginSeg=Yes
 2	uma	_	_	_	_	_	_	_	_
 3	disputa	_	_	_	_	_	_	_	_
@@ -26223,7 +26223,7 @@
 452	)	_	_	_	_	_	_	_	_
 453	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C42_Estadao_25-09-2007_14h28
+# newdoc_id = D2_C42_Estadao_25-09-2007_14h28
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	senador	_	_	_	_	_	_	_	_
 3	João	_	_	_	_	_	_	_	_
@@ -27066,7 +27066,7 @@
 776	horas	_	_	_	_	_	_	_	_
 777	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C43_Estadao_17-07-2007_12h13
+# newdoc_id = D2_C43_Estadao_17-07-2007_12h13
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Mesa	_	_	_	_	_	_	_	_
 3	Diretora	_	_	_	_	_	_	_	_
@@ -27436,7 +27436,7 @@
 334	)	_	_	_	_	_	_	_	_
 335	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C44_JB_10-09-2007_13h36
+# newdoc_id = D2_C44_JB_10-09-2007_13h36
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Conselho	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -27688,7 +27688,7 @@
 234	PMDB	_	_	_	_	_	_	_	_
 235	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C45_Estadao_18-10-2007_07h58
+# newdoc_id = D2_C45_Estadao_18-10-2007_07h58
 1	Um	_	_	_	_	_	_	_	BeginSeg=Yes
 2	homem	_	_	_	_	_	_	_	_
 3	suspeito	_	_	_	_	_	_	_	_
@@ -27932,7 +27932,7 @@
 220	Janeiro	_	_	_	_	_	_	_	_
 221	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C46_Estadao
+# newdoc_id = D2_C46_Estadao
 1	Um	_	_	_	_	_	_	_	BeginSeg=Yes
 2	terremoto	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -28292,7 +28292,7 @@
 332	Niigata	_	_	_	_	_	_	_	_
 333	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C48_Estadao_24-07-2007_09h56
+# newdoc_id = D2_C48_Estadao_24-07-2007_09h56
 1	Duas	_	_	_	_	_	_	_	BeginSeg=Yes
 2	horas	_	_	_	_	_	_	_	_
 3	antes	_	_	_	_	_	_	_	_
@@ -28766,7 +28766,7 @@
 448	"	_	_	_	_	_	_	_	_
 449	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C4_Estadao_16-07-2007_09h24
+# newdoc_id = D2_C4_Estadao_16-07-2007_09h24
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	forte	_	_	_	_	_	_	_	_
 3	chuva	_	_	_	_	_	_	_	_
@@ -29080,7 +29080,7 @@
 287	normais	_	_	_	_	_	_	_	_
 288	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C5_GPovo_19-09-2007_10h01
+# newdoc_id = D2_C5_GPovo_19-09-2007_10h01
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ministro	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -29672,7 +29672,7 @@
 538	Maia	_	_	_	_	_	_	_	_
 539	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C6_Estadao_08-08-2007_07h49
+# newdoc_id = D2_C6_Estadao_08-08-2007_07h49
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3	Luiz	_	_	_	_	_	_	_	_
@@ -30132,7 +30132,7 @@
 438	"	_	_	_	_	_	_	_	_
 439	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C7_OGlobo
+# newdoc_id = D2_C7_OGlobo
 1	Astrônomos	_	_	_	_	_	_	_	BeginSeg=Yes
 2-3	do	_	_	_	_	_	_	_	_
 2	de	_	_	_	_	_	_	_	_
@@ -30411,7 +30411,7 @@
 262	declarou	_	_	_	_	_	_	_	BeginSeg=Yes
 263	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C8_OGlobo_04-08-2006_14h13
+# newdoc_id = D2_C8_OGlobo_04-08-2006_14h13
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	seleção	_	_	_	_	_	_	_	_
 3	brasileira	_	_	_	_	_	_	_	_
@@ -30641,7 +30641,7 @@
 214	competição	_	_	_	_	_	_	_	_
 215	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C9_Estadao_04-08-2006_09h53
+# newdoc_id = D2_C9_Estadao_04-08-2006_09h53
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Polícia	_	_	_	_	_	_	_	_
 3	Federal	_	_	_	_	_	_	_	_
@@ -31224,7 +31224,7 @@
 542	"	_	_	_	_	_	_	_	_
 543	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C10_OGlobo
+# newdoc_id = D3_C10_OGlobo
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	aviação	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -31345,7 +31345,7 @@
 111	israelenses	_	_	_	_	_	_	_	_
 112	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C11_OGlobo_07-08-2006_08h29
+# newdoc_id = D3_C11_OGlobo_07-08-2006_08h29
 1	Uma	_	_	_	_	_	_	_	BeginSeg=Yes
 2	nova	_	_	_	_	_	_	_	_
 3	série	_	_	_	_	_	_	_	_
@@ -31696,7 +31696,7 @@
 316	temporária	_	_	_	_	_	_	_	_
 317	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C12_GPovo_07-08-2006_08h28
+# newdoc_id = D3_C12_GPovo_07-08-2006_08h28
 1	Ao	_	_	_	_	_	_	_	BeginSeg=Yes
 2	menos	_	_	_	_	_	_	_	_
 3	549	_	_	_	_	_	_	_	_
@@ -32118,7 +32118,7 @@
 391	Pyongyang	_	_	_	_	_	_	_	_
 392	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C15_OGlobo_21-08-2006_06h58
+# newdoc_id = D3_C15_OGlobo_21-08-2006_06h58
 1	Uma	_	_	_	_	_	_	_	BeginSeg=Yes
 2	explosão	_	_	_	_	_	_	_	_
 3	causou	_	_	_	_	_	_	_	_
@@ -32484,7 +32484,7 @@
 338	TNT	_	_	_	_	_	_	_	_
 339	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C16_OGlobo_21-08-2006_10h45
+# newdoc_id = D3_C16_OGlobo_21-08-2006_10h45
 1	Os	_	_	_	_	_	_	_	BeginSeg=Yes
 2	parlamentares	_	_	_	_	_	_	_	_
 3	acusados	_	_	_	_	_	_	_	_
@@ -32656,7 +32656,7 @@
 158	passada	_	_	_	_	_	_	_	_
 159	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C18_GPovo
+# newdoc_id = D3_C18_GPovo
 1	Um	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ataque	_	_	_	_	_	_	_	_
 3	em	_	_	_	_	_	_	_	_
@@ -32884,7 +32884,7 @@
 209	escola	_	_	_	_	_	_	_	_
 210	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C1_JB_04-08-2006_05h44
+# newdoc_id = D3_C1_JB_04-08-2006_05h44
 1	Um	_	_	_	_	_	_	_	BeginSeg=Yes
 2	acidente	_	_	_	_	_	_	_	_
 3	aéreo	_	_	_	_	_	_	_	_
@@ -33062,7 +33062,7 @@
 160	russa	_	_	_	_	_	_	_	_
 161	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C21_JB
+# newdoc_id = D3_C21_JB
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ministro	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -33365,7 +33365,7 @@
 279	Guarulhos	_	_	_	_	_	_	_	_
 280	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C24_JB
+# newdoc_id = D3_C24_JB
 1	Depois	_	_	_	_	_	_	_	BeginSeg=Yes
 2-3	da	_	_	_	_	_	_	_	_
 2	de	_	_	_	_	_	_	_	_
@@ -33420,7 +33420,7 @@
 49	Silva	_	_	_	_	_	_	_	_
 50	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C28_OGlobo_15-07-2007_17h18
+# newdoc_id = D3_C28_OGlobo_15-07-2007_17h18
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	seleção	_	_	_	_	_	_	_	_
 3	brasileira	_	_	_	_	_	_	_	_
@@ -33679,7 +33679,7 @@
 240	1992	_	_	_	_	_	_	_	_
 241	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C29_GPovo_15-07-2007_10h43
+# newdoc_id = D3_C29_GPovo_15-07-2007_10h43
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Igreja	_	_	_	_	_	_	_	_
 3	Católica	_	_	_	_	_	_	_	_
@@ -34115,7 +34115,7 @@
 408	anos	_	_	_	_	_	_	_	_
 409	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C32_JB_17-07-2007_08h16
+# newdoc_id = D3_C32_JB_17-07-2007_08h16
 1	Autoridades	_	_	_	_	_	_	_	BeginSeg=Yes
 2-3	da	_	_	_	_	_	_	_	_
 2	de	_	_	_	_	_	_	_	_
@@ -34636,7 +34636,7 @@
 490	Kobe	_	_	_	_	_	_	_	_
 491	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C33_OGlobo_25-09-2007_19h59
+# newdoc_id = D3_C33_OGlobo_25-09-2007_19h59
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3	Luiz	_	_	_	_	_	_	_	_
@@ -35316,7 +35316,7 @@
 619	"	_	_	_	_	_	_	_	_
 620	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C34_JB_20-08-2007_16h22
+# newdoc_id = D3_C34_JB_20-08-2007_16h22
 1	Dobrou	_	_	_	_	_	_	_	BeginSeg=Yes
 2	o	_	_	_	_	_	_	_	_
 3	número	_	_	_	_	_	_	_	_
@@ -35537,7 +35537,7 @@
 206	declaradas	_	_	_	_	_	_	_	_
 207	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C3_JB
+# newdoc_id = D3_C3_JB
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	TAM	_	_	_	_	_	_	_	_
 3	confirmou	_	_	_	_	_	_	_	_
@@ -36134,7 +36134,7 @@
 538	estado	_	_	_	_	_	_	_	_
 539	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C40_OGlobo_06-08-2007_20h53
+# newdoc_id = D3_C40_OGlobo_06-08-2007_20h53
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	procurador-geral	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -36614,7 +36614,7 @@
 441	comando	_	_	_	_	_	_	_	_
 442	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C45_OGlobo_18-10-2007_08h33
+# newdoc_id = D3_C45_OGlobo_18-10-2007_08h33
 1	Um	_	_	_	_	_	_	_	BeginSeg=Yes
 2	garçom	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -37334,7 +37334,7 @@
 671	.	_	_	_	_	_	_	_	_
 672	"	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C46_OGlobo
+# newdoc_id = D3_C46_OGlobo
 1	Um	_	_	_	_	_	_	_	BeginSeg=Yes
 2	terremoto	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -37591,7 +37591,7 @@
 240	feridos	_	_	_	_	_	_	_	_
 241	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C47_OGlobo
+# newdoc_id = D3_C47_OGlobo
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Parlamento	_	_	_	_	_	_	_	_
 3-4	da	_	_	_	_	_	_	_	_
@@ -38013,7 +38013,7 @@
 388	EUA	_	_	_	_	_	_	_	_
 389	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C49_OGlobo_16-07-2007_13h57
+# newdoc_id = D3_C49_OGlobo_16-07-2007_13h57
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3	Luiz	_	_	_	_	_	_	_	_
@@ -38388,7 +38388,7 @@
 350	.	_	_	_	_	_	_	_	_
 351	”	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C4_OGlobo
+# newdoc_id = D3_C4_OGlobo
 1	Depois	_	_	_	_	_	_	_	BeginSeg=Yes
 2	de	_	_	_	_	_	_	_	_
 3	20	_	_	_	_	_	_	_	_
@@ -38856,7 +38856,7 @@
 426	Climatempo	_	_	_	_	_	_	_	_
 427	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C50_OGlobo
+# newdoc_id = D3_C50_OGlobo
 1	Ao	_	_	_	_	_	_	_	BeginSeg=Yes
 2	deixar	_	_	_	_	_	_	_	_
 3	a	_	_	_	_	_	_	_	_
@@ -39674,7 +39674,7 @@
 755	terça-feira	_	_	_	_	_	_	_	_
 756	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C6_JB
+# newdoc_id = D3_C6_JB
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3	Luiz	_	_	_	_	_	_	_	_
@@ -39972,7 +39972,7 @@
 278	básico	_	_	_	_	_	_	_	_
 279	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C8_JB_04-08-2006_13h56
+# newdoc_id = D3_C8_JB_04-08-2006_13h56
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Brasil	_	_	_	_	_	_	_	_
 3	arrasou	_	_	_	_	_	_	_	_
@@ -40303,7 +40303,7 @@
 307	21	_	_	_	_	_	_	_	_
 308	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C9_OGlobo_04-08-2006_14h09
+# newdoc_id = D3_C9_OGlobo_04-08-2006_14h09
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	superintendente	_	_	_	_	_	_	_	_
 3	regional	_	_	_	_	_	_	_	_
@@ -40696,7 +40696,7 @@
 365	Brasília	_	_	_	_	_	_	_	_
 366	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C10_JB_07-08-2006_03h51
+# newdoc_id = D4_C10_JB_07-08-2006_03h51
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	aviação	_	_	_	_	_	_	_	_
 3	israelense	_	_	_	_	_	_	_	_
@@ -41306,7 +41306,7 @@
 567	concluiu	_	_	_	_	_	_	_	BeginSeg=Yes
 568	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C11_JB_07-08-2006_06h26
+# newdoc_id = D4_C11_JB_07-08-2006_06h26
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	cidade	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -42044,7 +42044,7 @@
 673	temporária	_	_	_	_	_	_	_	_
 674	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C15_JB
+# newdoc_id = D4_C15_JB
 1	Nove	_	_	_	_	_	_	_	BeginSeg=Yes
 2	pessoas	_	_	_	_	_	_	_	_
 3	morreram	_	_	_	_	_	_	_	_
@@ -42252,7 +42252,7 @@
 189	terrorista	_	_	_	_	_	_	_	_
 190	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C20_JB
+# newdoc_id = D4_C20_JB
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Câmara	_	_	_	_	_	_	_	_
 3	discute	_	_	_	_	_	_	_	_
@@ -42322,7 +42322,7 @@
 59	sessões	_	_	_	_	_	_	_	_
 60	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C22_JB
+# newdoc_id = D4_C22_JB
 1	Esta	_	_	_	_	_	_	_	BeginSeg=Yes
 2	terça-feira	_	_	_	_	_	_	_	_
 3	começou	_	_	_	_	_	_	_	_
@@ -42747,7 +42747,7 @@
 387	cancelamentos	_	_	_	_	_	_	_	_
 388	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C24_GPovo_23-07-2007_19h38
+# newdoc_id = D4_C24_GPovo_23-07-2007_19h38
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	brasileira	_	_	_	_	_	_	_	_
 3	Fabiana	_	_	_	_	_	_	_	_
@@ -43016,7 +43016,7 @@
 250	nervosismo	_	_	_	_	_	_	_	_
 251	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C26_JB_20-08-2007_10h28
+# newdoc_id = D4_C26_JB_20-08-2007_10h28
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	furacão	_	_	_	_	_	_	_	_
 3	Dean	_	_	_	_	_	_	_	_
@@ -43604,7 +43604,7 @@
 533	tropicais	_	_	_	_	_	_	_	_
 534	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C27_JB
+# newdoc_id = D4_C27_JB
 1-2	Na	_	_	_	_	_	_	_	_
 1	Em	_	_	_	_	_	_	_	BeginSeg=Yes
 2	a	_	_	_	_	_	_	_	_
@@ -44433,7 +44433,7 @@
 775	campo	_	_	_	_	_	_	_	_
 776	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C2_Globo_04-08-2006_16h09
+# newdoc_id = D4_C2_Globo_04-08-2006_16h09
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Instituto	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -44666,7 +44666,7 @@
 220	)	_	_	_	_	_	_	_	_
 221	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C32_GPovo_16-07-2007_19h17
+# newdoc_id = D4_C32_GPovo_16-07-2007_19h17
 1	Dois	_	_	_	_	_	_	_	BeginSeg=Yes
 2	terremotos	_	_	_	_	_	_	_	_
 3	atingiram	_	_	_	_	_	_	_	_
@@ -45338,7 +45338,7 @@
 630	mundo	_	_	_	_	_	_	_	_
 631	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C33_JB
+# newdoc_id = D4_C33_JB
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3	Luiz	_	_	_	_	_	_	_	_
@@ -45561,7 +45561,7 @@
 204	social	_	_	_	_	_	_	_	_
 205	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C35_JB_08-08-2007_19h30
+# newdoc_id = D4_C35_JB_08-08-2007_19h30
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Operação	_	_	_	_	_	_	_	_
 3	Farrapos	_	_	_	_	_	_	_	_
@@ -45820,7 +45820,7 @@
 237	Argentina	_	_	_	_	_	_	_	_
 238	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C40_JB
+# newdoc_id = D4_C40_JB
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3-4	do	_	_	_	_	_	_	_	_
@@ -46039,7 +46039,7 @@
 198	Renan	_	_	_	_	_	_	_	_
 199	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C41_JB
+# newdoc_id = D4_C41_JB
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	natação	_	_	_	_	_	_	_	_
 3	brasileira	_	_	_	_	_	_	_	_
@@ -46263,7 +46263,7 @@
 206	modalidade	_	_	_	_	_	_	_	_
 207	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C43_JB_17-07-2007_08h50
+# newdoc_id = D4_C43_JB_17-07-2007_08h50
 1	Preocupados	_	_	_	_	_	_	_	BeginSeg=Yes
 2	com	_	_	_	_	_	_	_	_
 3	o	_	_	_	_	_	_	_	_
@@ -47012,7 +47012,7 @@
 692	gado	_	_	_	_	_	_	_	_
 693	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C46_JB
+# newdoc_id = D4_C46_JB
 1	Um	_	_	_	_	_	_	_	BeginSeg=Yes
 2	forte	_	_	_	_	_	_	_	_
 3	terremoto	_	_	_	_	_	_	_	_
@@ -47346,7 +47346,7 @@
 309	feriado	_	_	_	_	_	_	_	_
 310	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C47_JB_17-10-2007_07h54
+# newdoc_id = D4_C47_JB_17-10-2007_07h54
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Turquia	_	_	_	_	_	_	_	_
 3	intensificou	_	_	_	_	_	_	_	_
@@ -48043,7 +48043,7 @@
 646	Iraque	_	_	_	_	_	_	_	_
 647	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C49_JB
+# newdoc_id = D4_C49_JB
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	presidente	_	_	_	_	_	_	_	_
 3	Luiz	_	_	_	_	_	_	_	_
@@ -48408,7 +48408,7 @@
 340	Janeiro	_	_	_	_	_	_	_	_
 341	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C50_JB_06-11-2007_14h12
+# newdoc_id = D4_C50_JB_06-11-2007_14h12
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	governo	_	_	_	_	_	_	_	_
 3	aumentou	_	_	_	_	_	_	_	_
@@ -48832,7 +48832,7 @@
 387	assunto	_	_	_	_	_	_	_	_
 388	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D5_C10_GPovo_07-08-2006_07h20
+# newdoc_id = D5_C10_GPovo_07-08-2006_07h20
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Força	_	_	_	_	_	_	_	_
 3	Aérea	_	_	_	_	_	_	_	_
@@ -49409,7 +49409,7 @@
 514	York	_	_	_	_	_	_	_	_
 515	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D5_C11_GPovo
+# newdoc_id = D5_C11_GPovo
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	estado	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -49669,7 +49669,7 @@
 239	proibida	_	_	_	_	_	_	_	_
 240	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D5_C20_GPovo_19-09-2007_12h44
+# newdoc_id = D5_C20_GPovo_19-09-2007_12h44
 1	Com	_	_	_	_	_	_	_	BeginSeg=Yes
 2	a	_	_	_	_	_	_	_	_
 3	presença	_	_	_	_	_	_	_	_
@@ -50291,7 +50291,7 @@
 571	21h	_	_	_	_	_	_	_	_
 572	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D5_C26_GPovo_20-08-2007_12h47
+# newdoc_id = D5_C26_GPovo_20-08-2007_12h47
 1	Os	_	_	_	_	_	_	_	BeginSeg=Yes
 2	brasileiros	_	_	_	_	_	_	_	_
 3	que	_	_	_	_	_	_	_	BeginSeg=Yes
@@ -50782,7 +50782,7 @@
 461	local	_	_	_	_	_	_	_	_
 462	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D5_C35_GPovo_07-08-2007_10h26
+# newdoc_id = D5_C35_GPovo_07-08-2007_10h26
 1	Um	_	_	_	_	_	_	_	BeginSeg=Yes
 2-3	dos	_	_	_	_	_	_	_	_
 2	de	_	_	_	_	_	_	_	_
@@ -51115,7 +51115,7 @@
 301	narcotráfico	_	_	_	_	_	_	_	_
 302	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D5_C41_GPovo_20-07-2007_10h56
+# newdoc_id = D5_C41_GPovo_20-07-2007_10h56
 1	Thiago	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Pereira	_	_	_	_	_	_	_	_
 3	foi	_	_	_	_	_	_	_	_
@@ -51706,7 +51706,7 @@
 547	semis	_	_	_	_	_	_	_	_
 548	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D5_C47_GPovo_17-10-2007_07h54
+# newdoc_id = D5_C47_GPovo_17-10-2007_07h54
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Turquia	_	_	_	_	_	_	_	_
 3	intensificou	_	_	_	_	_	_	_	_

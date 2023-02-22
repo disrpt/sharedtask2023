@@ -1,4 +1,4 @@
-# newdoc id = as00001
+# newdoc_id = as00001
 1	Cuasares	cuasar	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	y	y	CCONJ	CCONJ	_	3	cc	_	_
 3	núcleos	núcleo	NOUN	NOUN	Gender=Masc|Number=Plur	1	conj	_	_
@@ -33,7 +33,7 @@
 25	cuasares	cuasar	NOUN	NOUN	Gender=Masc|Number=Plur	13	conj	_	_
 26	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = as00002
+# newdoc_id = as00002
 1	Cuando	cuando	SCONJ	SCONJ	_	2	mark	_	BeginSeg=Yes
 2	calienta	calentar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -180,7 +180,7 @@
 32	Norte	Norte	PROPN	PROPN	_	28	flat	_	_
 33	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = as00003
+# newdoc_id = as00003
 1	Cúmulos	cúmulo	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	galaxias	galaxias	NOUN	NOUN	Gender=Fem|Number=Plur	1	nmod	_	_
@@ -583,7 +583,7 @@
 63	Cúmulos	Cúmulos	PROPN	PROPN	_	56	nmod	_	_
 64	.	.	PUNCT	PUNCT	PunctType=Peri	9	punct	_	_
 
-# newdoc id = as00004
+# newdoc_id = as00004
 1	Desafíos	desafío	NOUN	NOUN	Gender=Masc|Number=Plur	7	dep	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -716,7 +716,7 @@
 54	oscura	oscuro	ADJ	ADJ	Gender=Fem|Number=Sing	53	amod	_	_
 55	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = as00005
+# newdoc_id = as00005
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	análisis	análisis	NOUN	NOUN	Gender=Masc	42	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -914,7 +914,7 @@
 84	planeta	planeta	NOUN	NOUN	Gender=Masc|Number=Sing	81	nmod	_	_
 85	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = as00006
+# newdoc_id = as00006
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	Medio	Medio	PROPN	PROPN	_	26	nsubj	_	_
 3	Interestelar	Interestelar	PROPN	PROPN	_	2	flat	_	_
@@ -1050,7 +1050,7 @@
 48	dinámica	dinámica	NOUN	NOUN	Gender=Fem|Number=Sing	44	conj	_	_
 49	.	.	PUNCT	PUNCT	PunctType=Peri	12	punct	_	_
 
-# newdoc id = as00007
+# newdoc_id = as00007
 1	KANT	KANT	PROPN	PROPN	_	0	root	_	BeginSeg=Yes
 2	Y	y	CCONJ	CCONJ	_	4	cc	_	_
 3	SU	su	DET	DET	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
@@ -1132,7 +1132,7 @@
 38	Universo	Universo	PROPN	PROPN	_	35	obl	_	_
 39	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = as00008
+# newdoc_id = as00008
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	abundancia	abundancia	NOUN	NOUN	Gender=Fem|Number=Sing	11	nsubj	_	_
 3	primordial	primordial	ADJ	ADJ	Number=Sing	2	amod	_	_
@@ -1208,7 +1208,7 @@
 31	galaxia	galaxia	NOUN	NOUN	Gender=Fem|Number=Sing	27	nmod	_	_
 32	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = as00009
+# newdoc_id = as00009
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	Astronomía	Astronomía	PROPN	PROPN	_	0	root	_	_
 3	Prehispánica	Prehispánica	PROPN	PROPN	_	2	flat	_	_
@@ -1276,7 +1276,7 @@
 26	calendario	calendario	NOUN	NOUN	Gender=Masc|Number=Sing	24	obj	_	_
 27	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = as00010
+# newdoc_id = as00010
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	influencia	influencia	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	del	del	ADP	ADP	AdpType=Preppron	4	case	_	_
@@ -1336,7 +1336,7 @@
 42	teoría	teoría	NOUN	NOUN	Gender=Fem|Number=Sing	39	nmod	_	_
 43	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = as00011
+# newdoc_id = as00011
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	materia	materia	NOUN	NOUN	Gender=Fem|Number=Sing	6	nsubj	_	_
 3	entre	entre	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -1404,7 +1404,7 @@
 31	galaxias	galaxias	NOUN	NOUN	Gender=Fem|Number=Plur	23	nmod	_	_
 32	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = as00012
+# newdoc_id = as00012
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	Tierra	Tierra	PROPN	PROPN	_	0	root	_	_
 3	vista	visto	ADJ	ADJ	Gender=Fem|Number=Sing|VerbForm=Part	2	amod	_	_
@@ -1840,7 +1840,7 @@
 54	son	ser	AUX	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	53	cop	_	_
 55	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
 
-# newdoc id = as00013
+# newdoc_id = as00013
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	vía	vía	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	láctea	lácteo	ADJ	ADJ	Gender=Fem|Number=Sing	2	amod	_	_
@@ -1912,7 +1912,7 @@
 63	espirales	espiral	ADJ	ADJ	Number=Plur	62	amod	_	_
 64	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = de00001
+# newdoc_id = de00001
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	propósito	propósito	NOUN	NOUN	Gender=Masc|Number=Sing	6	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -2097,7 +2097,7 @@
 52	admisibles	admisible	ADJ	ADJ	Number=Plur	49	conj	_	_
 53	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = ec00001
+# newdoc_id = ec00001
 1	Resumen	resumen	NOUN	NOUN	Gender=Masc|Number=Sing	14	dep	_	BeginSeg=Yes
 2	A	a	ADP	ADP	AdpType=Prep	3	mark	_	BeginSeg=Yes
 3	contar	contar	VERB	VERB	VerbForm=Inf	1	acl	_	_
@@ -2414,7 +2414,7 @@
 32	transición	transición	NOUN	NOUN	Gender=Fem|Number=Sing	29	nmod	_	_
 33	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = ec00002
+# newdoc_id = ec00002
 1	Resumen	Resumen	PROPN	PROPN	_	4	nsubj	_	BeginSeg=Yes
 2	Esta	este	DET	DET	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	BeginSeg=Yes
 3	nota	nota	NOUN	NOUN	Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -2536,7 +2536,7 @@
 12	decisión	decisión	NOUN	NOUN	Gender=Fem|Number=Sing	9	nmod	_	_
 13	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = ec00003
+# newdoc_id = ec00003
 1	Resumen	resumen	NOUN	NOUN	Gender=Masc|Number=Sing	8	dep	_	BeginSeg=Yes
 2	Durante	durante	ADP	ADP	AdpType=Prep	5	case	_	BeginSeg=Yes
 3	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -2719,7 +2719,7 @@
 13	elementos	elemento	NOUN	NOUN	Gender=Masc|Number=Plur	10	obj	_	_
 14	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
 
-# newdoc id = ec00004
+# newdoc_id = ec00004
 1	Resumen	Resumen	PROPN	PROPN	_	4	nsubj	_	BeginSeg=Yes
 2	Este	este	DET	DET	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	BeginSeg=Yes
 3	artículo	artículo	NOUN	NOUN	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -2915,7 +2915,7 @@
 28	secundaria	secundario	ADJ	ADJ	Gender=Fem|Number=Sing	27	amod	_	_
 29	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = ec00005
+# newdoc_id = ec00005
 1	Resumen	resumen	NOUN	NOUN	Gender=Masc|Number=Sing	4	dep	_	BeginSeg=Yes
 2	Este	este	DET	DET	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	BeginSeg=Yes
 3	artículo	artículo	NOUN	NOUN	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -3024,7 +3024,7 @@
 47	financiera	financiero	ADJ	ADJ	Gender=Fem|Number=Sing	46	amod	_	_
 48	.	.	PUNCT	PUNCT	PunctType=Peri	26	punct	_	_
 
-# newdoc id = ec00006
+# newdoc_id = ec00006
 1	Resumen	Resumen	PUNCT	PUNCT	PunctType=Peri	0	root	_	BeginSeg=Yes
 
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -3234,7 +3234,7 @@
 48	actual	actual	ADJ	ADJ	Number=Sing	47	amod	_	_
 49	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = ec00007
+# newdoc_id = ec00007
 1	Resumen	Resumen	PUNCT	PUNCT	PunctType=Peri	0	root	_	BeginSeg=Yes
 
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -3383,7 +3383,7 @@
 22	unidireccional	unidireccional	ADJ	ADJ	Number=Sing	21	amod	_	_
 23	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = ec00008
+# newdoc_id = ec00008
 1	Resumen	resumen	NOUN	NOUN	Gender=Masc|Number=Sing	27	nsubj	_	BeginSeg=Yes
 2	Dada	dar	ADJ	ADJ	Gender=Fem|Number=Sing|VerbForm=Part	1	amod	_	BeginSeg=Yes
 3	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -3500,7 +3500,7 @@
 43	activos	activo	NOUN	NOUN	Gender=Masc|Number=Plur	40	nmod	_	_
 44	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ec00009
+# newdoc_id = ec00009
 1	Resumen	resumen	NOUN	NOUN	Gender=Masc|Number=Sing	8	dep	_	BeginSeg=Yes
 2	En	en	ADP	ADP	AdpType=Prep	3	case	_	BeginSeg=Yes
 3	1905	1905	NOUN	NOUN	AdvType=Tim	1	nmod	_	_
@@ -3654,7 +3654,7 @@
 22	económicas	económico	ADJ	ADJ	Gender=Fem|Number=Plur	21	amod	_	_
 23	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ec00010
+# newdoc_id = ec00010
 1	Resumen	Resumen	PUNCT	PUNCT	PunctType=Peri	0	root	_	BeginSeg=Yes
 
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -3841,7 +3841,7 @@
 23	cambiaria	cambiario	ADJ	ADJ	Gender=Fem|Number=Sing	22	amod	_	_
 24	.	.	PUNCT	PUNCT	PunctType=Peri	11	punct	_	_
 
-# newdoc id = ec00011
+# newdoc_id = ec00011
 1	Resumen	resumen	NOUN	NOUN	Gender=Masc|Number=Sing	6	dep	_	BeginSeg=Yes
 2	En	en	ADP	ADP	AdpType=Prep	4	case	_	BeginSeg=Yes
 3	este	este	DET	DET	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
@@ -3961,7 +3961,7 @@
 6	neutral	neutral	ADJ	ADJ	Number=Sing	0	root	_	_
 7	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = ec00012
+# newdoc_id = ec00012
 1	Resumen	resumen	NOUN	NOUN	Gender=Masc|Number=Sing	8	dep	_	BeginSeg=Yes
 2	En	en	ADP	ADP	AdpType=Prep	4	case	_	BeginSeg=Yes
 3	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -4110,7 +4110,7 @@
 32	económico	económico	ADJ	ADJ	Gender=Masc|Number=Sing	31	amod	_	_
 33	.	.	PUNCT	PUNCT	PunctType=Peri	10	punct	_	_
 
-# newdoc id = in00001
+# newdoc_id = in00001
 1	Una	uno	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	estructura	estructura	NOUN	NOUN	Gender=Fem|Number=Sing	20	nsubj	_	_
 3	que	que	PRON	PRON	PronType=Int,Rel	4	nsubj	_	_
@@ -4347,7 +4347,7 @@
 26	estructuras	estructura	NOUN	NOUN	Gender=Fem|Number=Plur	23	nmod	_	_
 27	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = li00001
+# newdoc_id = li00001
 1	Desarrollo	Desarrollo	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	del	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	lenguaje	lenguaje	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -4541,7 +4541,7 @@
 27	Cuba	Cuba	PROPN	PROPN	_	25	obl	_	_
 28	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = li00002
+# newdoc_id = li00002
 1	Modelos	modelo	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	sobre	sobre	ADP	ADP	AdpType=Prep	4	case	_	_
 3	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -4620,7 +4620,7 @@
 32	mismo	mismo	PRON	PRON	Gender=Masc|Number=Sing|PronType=Dem	30	nmod	_	_
 33	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = li00003
+# newdoc_id = li00003
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	lenguaje	lenguaje	NOUN	NOUN	Gender=Masc|Number=Sing	7	nsubj	_	_
 3	del	del	ADP	ADP	AdpType=Preppron	4	case	_	_
@@ -4826,7 +4826,7 @@
 39	bebé	bebé	NOUN	NOUN	Gender=Masc|Number=Sing	37	nmod	_	_
 40	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = li00004
+# newdoc_id = li00004
 1	Adquisición	adquisición	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	del	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	lenguaje	lenguaje	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -4934,7 +4934,7 @@
 33	esta	este	DET	DET	Gender=Fem|Number=Sing|PronType=Dem	34	det	_	_
 34	adquisición	adquisición	NOUN	NOUN	Gender=Fem|Number=Sing	31	obj	_	_
 
-# newdoc id = li00005
+# newdoc_id = li00005
 1	INTERVENCIÓN	intervención	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	CONDUCTUAL	conductual	ADJ	ADJ	Number=Sing	1	amod	_	_
 3	PARA	para	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -5087,7 +5087,7 @@
 17	lectores	lector	NOUN	NOUN	Gender=Masc|Number=Plur	12	nmod	_	_
 18	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = li00006
+# newdoc_id = li00006
 1	LA	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	ADQUISICIÓN	adquisición	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	DEL	del	ADP	ADP	AdpType=Preppron	4	case	_	_
@@ -5186,7 +5186,7 @@
 20	lenguaje	lenguaje	NOUN	NOUN	Gender=Masc|Number=Sing	18	nmod	_	_
 21	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = li00007
+# newdoc_id = li00007
 1	ADQUISICIADQUISICIÓN	adquisiciadquisición	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	DEL	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	LENGUAGUAJE	lenguaguaje	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -5387,7 +5387,7 @@
 13	temática	temática	NOUN	NOUN	Gender=Fem|Number=Sing	10	obj	_	_
 14	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = li00008
+# newdoc_id = li00008
 1	Disfasia	disfasia	NOUN	NOUN	Gender=Masc|Number=Sing	11	nsubj	_	BeginSeg=Yes
 2	,	,	PUNCT	PUNCT	PunctType=Comm	4	punct	_	_
 3	un	uno	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -5467,7 +5467,7 @@
 16	este	este	DET	DET	Gender=Masc|Number=Sing|PronType=Dem	17	det	_	_
 17	trastorno	trastorno	NOUN	NOUN	Gender=Masc|Number=Sing	12	obl	_	_
 
-# newdoc id = li00009
+# newdoc_id = li00009
 1	Relación	relación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	pensamiento	pensamiento	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
 3	y	y	CCONJ	CCONJ	_	4	cc	_	_
@@ -5575,7 +5575,7 @@
 14	diferentes	diferente	ADJ	ADJ	Number=Plur	12	amod	_	_
 15	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = li00010
+# newdoc_id = li00010
 1	Crecer	crecer	VERB	VERB	VerbForm=Inf	6	csubj	_	BeginSeg=Yes
 2	sin	sin	ADP	ADP	AdpType=Prep	3	case	_	_
 3	lenguaje	lenguaje	NOUN	NOUN	Gender=Masc|Number=Sing	1	obl	_	_
@@ -5625,7 +5625,7 @@
 37	cognitiva	cognitivo	ADJ	ADJ	Gender=Fem|Number=Sing	36	amod	_	_
 38	.	.	PUNCT	PUNCT	PunctType=Peri	19	punct	_	_
 
-# newdoc id = li00011
+# newdoc_id = li00011
 1	Lenguaje	lenguaje	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	e	e	CCONJ	CCONJ	_	3	cc	_	_
 3	inteligencia	inteligencia	NOUN	NOUN	Gender=Fem|Number=Sing	1	conj	_	_
@@ -5796,7 +5796,7 @@
 17	multidisciplinarias	multidisciplinario	ADJ	ADJ	Gender=Fem|Number=Plur	15	conj	_	_
 18	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = li00012
+# newdoc_id = li00012
 1	Aprendizaje	aprendizaje	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	del	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	lenguaje	lenguaje	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -5885,7 +5885,7 @@
 42	señas	seña	NOUN	NOUN	Gender=Fem|Number=Plur	40	nmod	_	_
 43	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = li00013
+# newdoc_id = li00013
 1	Lenguaje	lenguaje	NOUN	NOUN	Gender=Masc|Number=Sing	48	nsubj	_	BeginSeg=Yes
 2	,	,	PUNCT	PUNCT	PunctType=Comm	3	punct	_	_
 3	Producción	Producción	PROPN	PROPN	_	1	conj	_	_
@@ -6078,7 +6078,7 @@
 29	lenguaje	lenguaje	NOUN	NOUN	Gender=Masc|Number=Sing	24	conj	_	_
 30	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = li00014
+# newdoc_id = li00014
 1	¿	¿	PUNCT	PUNCT	PunctSide=Ini|PunctType=Qest	3	punct	_	BeginSeg=Yes
 2	Podemos	poder	AUX	AUX	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	predecir	predecir	VERB	VERB	VerbForm=Inf	0	root	_	_
@@ -6152,7 +6152,7 @@
 40	tarde	tarde	ADV	ADV	_	36	advmod	_	_
 41	.	.	PUNCT	PUNCT	PunctType=Peri	26	punct	_	_
 
-# newdoc id = li00015
+# newdoc_id = li00015
 1	CARACTERÍSTICAS	característica	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	DEL	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	DESARROLLO	desarrollo	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -6313,7 +6313,7 @@
 55	edad	edad	NOUN	NOUN	Gender=Fem|Number=Sing	51	nmod	_	_
 56	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = li00016
+# newdoc_id = li00016
 1	Aspectos	aspecto	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	biológicos	biológico	ADJ	ADJ	Gender=Masc|Number=Plur	1	amod	_	_
 3	del	del	ADP	ADP	AdpType=Preppron	4	case	_	_
@@ -6389,7 +6389,7 @@
 26	alteración	alteración	NOUN	NOUN	Gender=Fem|Number=Sing	23	obl	_	_
 27	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = li00017
+# newdoc_id = li00017
 1	Desarrollo	Desarrollo	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	del	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	lenguaje	lenguaje	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -6570,7 +6570,7 @@
 13	y	y	CCONJ	CCONJ	_	14	cc	_	_
 14	profundización	profundización	NOUN	NOUN	Gender=Fem|Number=Sing	12	conj	_	_
 
-# newdoc id = li00018
+# newdoc_id = li00018
 1	Análisis	Análisis	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	las	el	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
@@ -6720,7 +6720,7 @@
 58	símbolo	símbolo	NOUN	NOUN	Gender=Masc|Number=Sing	55	obl	_	_
 59	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
 
-# newdoc id = li00019
+# newdoc_id = li00019
 1	Comentarios	comentario	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	a	a	ADP	ADP	AdpType=Prep	4	case	_	_
 3	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -6992,7 +6992,7 @@
 44	UNAM	UNAM	PROPN	PROPN	_	36	flat	_	_
 45	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = li00020
+# newdoc_id = li00020
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	alternancia	alternancia	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -7282,7 +7282,7 @@
 31	débiles	débil	ADJ	ADJ	Number=Plur	30	amod	_	_
 32	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = li00021
+# newdoc_id = li00021
 1	Ahora	ahora	ADV	ADV	_	2	advmod	_	BeginSeg=Yes
 2	ahorra	ahorrar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	para	para	ADP	ADP	AdpType=Prep	4	mark	_	_
@@ -7612,7 +7612,7 @@
 47	auditiva	auditivo	ADJ	ADJ	Gender=Fem|Number=Sing	46	amod	_	_
 48	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = li00022
+# newdoc_id = li00022
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	posición	posición	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	del	del	ADP	ADP	AdpType=Preppron	4	case	_	_
@@ -7925,7 +7925,7 @@
 30	alumnos	alumno	NOUN	NOUN	Gender=Masc|Number=Plur	27	nmod	_	_
 31	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = li00023
+# newdoc_id = li00023
 1	Estudio	estudiar	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	comparativo	comparativo	ADJ	ADJ	Gender=Masc|Number=Sing	1	amod	_	_
 3	entre	entre	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -8287,7 +8287,7 @@
 31	alumnos	alumno	NOUN	NOUN	Gender=Masc|Number=Plur	28	nmod	_	_
 32	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = li00024
+# newdoc_id = li00024
 1	Análisis	Análisis	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -8635,7 +8635,7 @@
 16	formal	formal	ADJ	ADJ	Number=Sing	15	amod	_	_
 17	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
 
-# newdoc id = li00025
+# newdoc_id = li00025
 1	Propuesta	propuesta	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	un	uno	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -8987,7 +8987,7 @@
 40	trabajo	trabajo	NOUN	NOUN	Gender=Masc|Number=Sing	38	nmod	_	_
 41	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = li00026
+# newdoc_id = li00026
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	estructura	estructura	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	temática	temático	ADJ	ADJ	Gender=Fem|Number=Sing	2	amod	_	_
@@ -9352,7 +9352,7 @@
 32	distintos	distinto	ADJ	ADJ	Gender=Masc|Number=Plur	31	amod	_	_
 33	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = li00027
+# newdoc_id = li00027
 1	Mecanismos	mecanismo	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	lingüísticos	lingüístico	ADJ	ADJ	Gender=Masc|Number=Plur	1	amod	_	_
 3	censorios	censorio	ADJ	ADJ	Gender=Masc|Number=Plur	1	amod	_	_
@@ -9722,7 +9722,7 @@
 53	decir	decir	VERB	VERB	VerbForm=Inf	51	acl	_	_
 54	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = li00028
+# newdoc_id = li00028
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	mantenimiento-desplazamiento	mantenimiento-desplazamiento	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -10085,7 +10085,7 @@
 48	escuela	escuela	NOUN	NOUN	Gender=Fem|Number=Sing	45	conj	_	_
 49	.	.	PUNCT	PUNCT	PunctType=Peri	27	punct	_	_
 
-# newdoc id = li00029
+# newdoc_id = li00029
 1	Tendencias	tendencia	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	generales	general	ADJ	ADJ	Number=Plur	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -10408,7 +10408,7 @@
 50	estructural	estructural	ADJ	ADJ	Number=Sing	49	amod	_	_
 51	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = li00030
+# newdoc_id = li00030
 1	Dimensión	dimensión	NOUN	NOUN	Gender=Fem|Number=Sing	12	nsubj	_	BeginSeg=Yes
 2	social	social	ADJ	ADJ	Number=Sing	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -10774,7 +10774,7 @@
 49	actual	actual	ADJ	ADJ	Number=Sing	48	amod	_	_
 50	.	.	PUNCT	PUNCT	PunctType=Peri	19	punct	_	_
 
-# newdoc id = li00031
+# newdoc_id = li00031
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	creación	creación	NOUN	NOUN	Gender=Fem|Number=Sing	21	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -11121,7 +11121,7 @@
 19	irlandés	irlandés	NOUN	NOUN	Gender=Masc|Number=Sing	16	nmod	_	_
 20	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = li00032
+# newdoc_id = li00032
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	terminología	terminología	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	,	,	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
@@ -11394,7 +11394,7 @@
 51	discurso	discurso	NOUN	NOUN	Gender=Masc|Number=Sing	48	nmod	_	_
 52	.	.	PUNCT	PUNCT	PunctType=Peri	17	punct	_	_
 
-# newdoc id = li00033
+# newdoc_id = li00033
 1	Metodología	metodología	NOUN	NOUN	Gender=Fem|Number=Sing	16	nsubj	_	BeginSeg=Yes
 2	del	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	vaciado	vaciar	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -11758,7 +11758,7 @@
 24	metodología	metodología	NOUN	NOUN	Gender=Fem|Number=Sing	17	obl	_	_
 25	.	.	PUNCT	PUNCT	PunctType=Peri	17	punct	_	_
 
-# newdoc id = li00034
+# newdoc_id = li00034
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	diseño	diseño	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 3	y	y	CCONJ	CCONJ	_	5	cc	_	_
@@ -11976,7 +11976,7 @@
 63	resultados	resultado	NOUN	NOUN	Gender=Masc|Number=Plur	60	nmod	_	_
 64	.	.	PUNCT	PUNCT	PunctType=Peri	20	punct	_	_
 
-# newdoc id = li00035
+# newdoc_id = li00035
 1	Gestión	Gestión	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	terminológica	terminológico	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
 3	y	y	CCONJ	CCONJ	_	4	cc	_	_
@@ -12858,7 +12858,7 @@
 31	otra	otro	PRON	PRON	Gender=Fem|Number=Sing|PronType=Ind	28	nmod	_	_
 32	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = li00036
+# newdoc_id = li00036
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	vaciado	vaciar	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 3	terminológico	terminológico	ADJ	ADJ	Gender=Masc|Number=Sing	2	amod	_	_
@@ -13634,7 +13634,7 @@
 19	decisivo	decisivo	ADJ	ADJ	Gender=Masc|Number=Sing	18	obj	_	_
 20	.	.	PUNCT	PUNCT	PunctType=Peri	18	punct	_	_
 
-# newdoc id = ma00001
+# newdoc_id = ma00001
 1	Introducción	introducción	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	Cada	cada	DET	DET	Number=Sing|PronType=Tot	3	det	_	BeginSeg=Yes
 3	vez	vez	NOUN	NOUN	Gender=Fem|Number=Sing	1	appos	_	_
@@ -13989,7 +13989,7 @@
 35	situaciones	situación	NOUN	NOUN	Gender=Fem|Number=Plur	33	nmod	_	_
 36	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = ma00002
+# newdoc_id = ma00002
 1	Números	número	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	reales	real	ADJ	ADJ	Number=Plur	1	amod	_	_
 
@@ -14352,7 +14352,7 @@
 28	número	número	NOUN	NOUN	Gender=Masc|Number=Sing	26	obj	_	_
 29	.	.	PUNCT	PUNCT	PunctType=Peri	9	punct	_	_
 
-# newdoc id = ma00003
+# newdoc_id = ma00003
 1	Series	serie	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	y	y	CCONJ	CCONJ	_	3	cc	_	_
 3	sucesiones	sucesión	NOUN	NOUN	Gender=Fem|Number=Plur	1	conj	_	_
@@ -14638,7 +14638,7 @@
 11	continuarían	continuar	VERB	VERB	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	8	acl	_	_
 12	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = ma00004
+# newdoc_id = ma00004
 1	Teorema	teorema	NOUN	NOUN	Gender=Masc|Number=Sing	8	nsubj	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	Pitágoras	Pitágoras	PROPN	PROPN	_	1	nmod	_	_
@@ -14928,7 +14928,7 @@
 57	cálculo	cálculo	NOUN	NOUN	Gender=Masc|Number=Sing	55	conj	_	_
 58	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = ma00005
+# newdoc_id = ma00005
 1	TEOREMA	teorema	NOUN	NOUN	Gender=Masc|Number=Sing	28	nsubj	_	BeginSeg=Yes
 2	DE	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	PITÁGORAS	PITÁGORAS	PROPN	PROPN	_	1	nmod	_	_
@@ -15253,7 +15253,7 @@
 36	sumo	sumo	ADJ	ADJ	Gender=Masc|Number=Sing	19	advcl	_	BeginSeg=Yes
 37	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = ma00006
+# newdoc_id = ma00006
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	circunferencia	circunferencia	NOUN	NOUN	Gender=Fem|Number=Sing	12	nsubj	_	_
 3	Entre	entre	ADP	ADP	AdpType=Prep	5	case	_	BeginSeg=Yes
@@ -15734,7 +15734,7 @@
 17	lo	él	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	obj	_	_
 18	.	.	PUNCT	PUNCT	PunctType=Peri	10	punct	_	_
 
-# newdoc id = ma00007
+# newdoc_id = ma00007
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	mapa	mapa	NOUN	NOUN	Gender=Masc|Number=Sing	17	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -15951,7 +15951,7 @@
 35	Norte	Norte	PROPN	PROPN	_	32	nmod	_	_
 36	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
 
-# newdoc id = ma00008
+# newdoc_id = ma00008
 1	Números	número	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	reales	real	ADJ	ADJ	Number=Plur	1	amod	_	_
 
@@ -16135,7 +16135,7 @@
 9	real	real	ADJ	ADJ	Number=Sing	8	amod	_	_
 10	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
 
-# newdoc id = ma00009
+# newdoc_id = ma00009
 1	Évariste	Évariste	PROPN	PROPN	_	0	root	_	BeginSeg=Yes
 2	Galois	Galois	PROPN	PROPN	_	1	flat	_	_
 
@@ -16519,7 +16519,7 @@
 16	Liouville	Liouville	PROPN	PROPN	_	15	flat	_	_
 17	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = ma00010
+# newdoc_id = ma00010
 1	Distancias	distancia	NOUN	NOUN	Gender=Fem|Number=Plur	18	nsubj	_	BeginSeg=Yes
 2	interplanetarias	interplanetario	ADJ	ADJ	Gender=Fem|Number=Plur	1	amod	_	_
 3	y	y	CCONJ	CCONJ	_	4	cc	_	_
@@ -16995,7 +16995,7 @@
 19	años-luz	años-luz	NOUN	NOUN	_	17	nmod	_	_
 20	.	.	PUNCT	PUNCT	PunctType=Peri	15	punct	_	_
 
-# newdoc id = ma00011
+# newdoc_id = ma00011
 1	PARÁBOLAS	parábola	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	HORIZONTALES	horizontal	ADJ	ADJ	Gender=Fem|Number=Plur	1	amod	_	_
 3	Y	y	CCONJ	CCONJ	_	4	cc	_	_
@@ -17140,7 +17140,7 @@
 22	negativo	negativo	ADJ	ADJ	Gender=Masc|Number=Sing	20	conj	_	_
 23	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = ma00012
+# newdoc_id = ma00012
 1	Importancia	importancia	NOUN	NOUN	Gender=Fem|Number=Sing	6	nsubj	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -17262,7 +17262,7 @@
 33	Andes	Andes	PROPN	PROPN	_	30	obl	_	_
 34	.	.	PUNCT	PUNCT	PunctType=Peri	15	punct	_	_
 
-# newdoc id = ma00013
+# newdoc_id = ma00013
 1	¿	¿	PUNCT	PUNCT	PunctSide=Ini|PunctType=Qest	4	punct	_	BeginSeg=Yes
 2	Qué	qué	PRON	PRON	Number=Sing|PronType=Int,Rel	4	nsubj	_	_
 3	tan	tanto	ADV	ADV	_	4	advmod	_	_
@@ -17400,7 +17400,7 @@
 52	otro	otro	PRON	PRON	Gender=Masc|Number=Sing|PronType=Ind	50	conj	_	_
 53	.	.	PUNCT	PUNCT	PunctType=Peri	18	punct	_	_
 
-# newdoc id = ma00014
+# newdoc_id = ma00014
 1	Las	el	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
 2	matemáticas	matemático	NOUN	NOUN	Gender=Fem|Number=Plur	13	nsubj	_	_
 3	y	y	CCONJ	CCONJ	_	5	cc	_	_
@@ -17561,7 +17561,7 @@
 36	definir	definir	VERB	VERB	VerbForm=Inf	34	xcomp	_	_
 37	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = ma00015
+# newdoc_id = ma00015
 1	Comportamiento	comportamiento	NOUN	NOUN	Gender=Masc|Number=Sing	18	nsubj	_	BeginSeg=Yes
 2	local	local	ADJ	ADJ	Number=Sing	1	amod	_	_
 3	y	y	CCONJ	CCONJ	_	6	cc	_	_
@@ -17702,7 +17702,7 @@
 35	denominador	denominador	NOUN	NOUN	Gender=Masc|Number=Sing	31	obj	_	_
 36	.	.	PUNCT	PUNCT	PunctType=Peri	10	punct	_	_
 
-# newdoc id = ma00016
+# newdoc_id = ma00016
 1	Presentación	presentación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
@@ -18147,7 +18147,7 @@
 22	permanente	permanente	ADJ	ADJ	Number=Sing	20	conj	_	_
 23	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = ma00017
+# newdoc_id = ma00017
 1	Consulta	consulta	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	Infantil	Infantil	PROPN	PROPN	_	1	appos	_	_
 3	:	:	PUNCT	PUNCT	PunctType=Colo	4	punct	_	_
@@ -18738,7 +18738,7 @@
 35	locales	local	ADJ	ADJ	Number=Plur	34	amod	_	_
 36	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ma00018
+# newdoc_id = ma00018
 1	Área	Área	PROPN	PROPN	_	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	polígonos	polígono	NOUN	NOUN	Gender=Masc|Number=Plur	1	nmod	_	_
@@ -19037,7 +19037,7 @@
 13	terreno	terreno	NOUN	NOUN	Gender=Masc|Number=Sing	11	obj	_	_
 14	?	?	PUNCT	PUNCT	PunctSide=Fin|PunctType=Qest	11	punct	_	_
 
-# newdoc id = ma00019
+# newdoc_id = ma00019
 1	BLOQUE	bloque	NOUN	NOUN	Gender=Masc|Number=Sing	17	dep	_	BeginSeg=Yes
 2	UNO	uno	PRON	PRON	Gender=Masc|Number=Sing|PronType=Ind	1	nmod	_	_
 3	Los	el	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	BeginSeg=Yes
@@ -19333,7 +19333,7 @@
 34	romano	romano	ADJ	ADJ	Gender=Masc|Number=Sing	33	amod	_	_
 35	.	.	PUNCT	PUNCT	PunctType=Peri	20	punct	_	_
 
-# newdoc id = ma00020
+# newdoc_id = ma00020
 1	LECCIÓN	lección	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	21	21	NUM	NUM	NumForm=Digit|NumType=Card	1	appos	_	_
 3	Los	el	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	BeginSeg=Yes
@@ -19696,7 +19696,7 @@
 18	numeración	numeración	NOUN	NOUN	Gender=Fem|Number=Sing	15	nmod	_	_
 19	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = ma00021
+# newdoc_id = ma00021
 1	Cálculo	cálculo	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	volumen	volumen	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -19952,7 +19952,7 @@
 6	tabla	tabla	NOUN	NOUN	Gender=Fem|Number=Sing	1	obl	_	_
 7	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ma00022
+# newdoc_id = ma00022
 1	LA	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	HUERTA	HUERTA	PROPN	PROPN	_	0	root	_	_
 3	DE	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -20244,7 +20244,7 @@
 14	ellos	él	PRON	PRON	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
 15	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ma00023
+# newdoc_id = ma00023
 1	LA	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	VUELTA	vuelta	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	AL	al	ADP	ADP	AdpType=Preppron	4	case	_	_
@@ -20574,7 +20574,7 @@
 8	compañeros	compañero	NOUN	NOUN	Gender=Masc|Number=Plur	5	obj	_	_
 9	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ma00024
+# newdoc_id = ma00024
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	papa	papa	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 3	caliente	caliente	ADJ	ADJ	Number=Sing	2	amod	_	_
@@ -20810,7 +20810,7 @@
 16	cantan	cantar	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
 17	.	.	PUNCT	PUNCT	PunctType=Peri	14	punct	_	_
 
-# newdoc id = ma00025
+# newdoc_id = ma00025
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	puesto	puesto	NOUN	NOUN	Gender=Masc|Number=Sing	14	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -20965,7 +20965,7 @@
 12	yoyos	yoyo	NOUN	NOUN	Gender=Masc|Number=Plur	9	conj	_	_
 13	?	?	PUNCT	PUNCT	PunctSide=Fin|PunctType=Qest	5	punct	_	_
 
-# newdoc id = ma00026
+# newdoc_id = ma00026
 1	¡	¡	PUNCT	PUNCT	PunctSide=Ini|PunctType=Excl	2	punct	_	BeginSeg=Yes
 2	Vamos	ir	VERB	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	al	al	ADP	ADP	AdpType=Preppron	4	case	_	_
@@ -21080,7 +21080,7 @@
 5	compró	comprar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	?	?	PUNCT	PUNCT	PunctSide=Fin|PunctType=Qest	5	punct	_	_
 
-# newdoc id = ma00027
+# newdoc_id = ma00027
 1	Reutiliza	reutilizar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
 2	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	basura	basura	NOUN	NOUN	Gender=Fem|Number=Sing	1	obj	_	_
@@ -21293,7 +21293,7 @@
 21	tienen	tener	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
 22	?	?	PUNCT	PUNCT	PunctSide=Fin|PunctType=Qest	12	punct	_	_
 
-# newdoc id = ma00028
+# newdoc_id = ma00028
 1	Lección	lección	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	5	5	NUM	NUM	NumForm=Digit|NumType=Card	1	appos	_	_
 3	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
@@ -21598,7 +21598,7 @@
 10	metro	metro	NOUN	NOUN	Gender=Masc|Number=Sing	7	obl	_	_
 11	?	?	PUNCT	PUNCT	PunctSide=Fin|PunctType=Qest	7	punct	_	_
 
-# newdoc id = ma00029
+# newdoc_id = ma00029
 1	14.	14.	NOUN	NOUN	AdvType=Tim	14	dep	_	BeginSeg=Yes
 2	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	Calendario	Calendario	PROPN	PROPN	_	1	appos	_	_
@@ -21714,7 +21714,7 @@
 4	fechas	fecha	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	_
 5	?	?	PUNCT	PUNCT	PunctSide=Fin|PunctType=Qest	4	punct	_	_
 
-# newdoc id = ma00030
+# newdoc_id = ma00030
 1	Una	uno	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	visita	visita	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	a	a	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -21972,7 +21972,7 @@
 38	tecnología	tecnología	NOUN	NOUN	Gender=Fem|Number=Sing	35	conj	_	_
 39	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = ma00031b
+# newdoc_id = ma00031b
 1	Algoritmo	algoritmo	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	para	para	ADP	ADP	AdpType=Prep	3	mark	_	_
 3	resolver	resolver	VERB	VERB	VerbForm=Inf	1	acl	_	_
@@ -22056,7 +22056,7 @@
 27	adicionales	adicional	ADJ	ADJ	Number=Plur	26	amod	_	_
 28	.	.	PUNCT	PUNCT	PunctType=Peri	12	punct	_	_
 
-# newdoc id = ma00032b
+# newdoc_id = ma00032b
 1	Un	uno	DET	DET	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	panorama	panorama	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 3	del	del	ADP	ADP	AdpType=Preppron	4	case	_	_
@@ -22115,7 +22115,7 @@
 28	universal	universal	ADJ	ADJ	Number=Sing	27	amod	_	_
 29	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ma00033b
+# newdoc_id = ma00033b
 1	¿	¿	PUNCT	PUNCT	PunctSide=Ini|PunctType=Qest	3	punct	_	BeginSeg=Yes
 2	Realmente	realmente	ADV	ADV	_	3	advmod	_	_
 3	imposible	imposible	ADJ	ADJ	Number=Sing	0	root	_	_
@@ -22159,7 +22159,7 @@
 36	realizar	realizar	VERB	VERB	VerbForm=Inf	34	acl	_	_
 37	.	.	PUNCT	PUNCT	PunctType=Peri	9	punct	_	_
 
-# newdoc id = ma00034b
+# newdoc_id = ma00034b
 1	Vida	vida	NOUN	NOUN	Gender=Fem|Number=Sing	11	dep	_	BeginSeg=Yes
 2	y	y	CCONJ	CCONJ	_	3	cc	_	_
 3	Obra	Obra	PROPN	PROPN	_	1	conj	_	_
@@ -22329,7 +22329,7 @@
 19	bibliografía	bibliografía	NOUN	NOUN	Gender=Fem|Number=Sing	16	obl	_	_
 20	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = ma00035b
+# newdoc_id = ma00035b
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	invención	invención	NOUN	NOUN	Gender=Fem|Number=Sing	24	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -22431,7 +22431,7 @@
 27	analítica	analítico	ADJ	ADJ	Gender=Fem|Number=Sing	26	amod	_	_
 28	.	.	PUNCT	PUNCT	PunctType=Peri	13	punct	_	_
 
-# newdoc id = ma00036b
+# newdoc_id = ma00036b
 1	Descomposición	descomposición	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	dos	dos	NUM	NUM	NumType=Card|Number=Plur	4	nummod	_	_
@@ -22536,7 +22536,7 @@
 36	de	de	ADP	ADP	AdpType=Prep	37	case	_	_
 37	R.	R.	PROPN	PROPN	_	34	nmod	_	_
 
-# newdoc id = ma00037b
+# newdoc_id = ma00037b
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	representación	representación	NOUN	NOUN	Gender=Fem|Number=Sing	8	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -22563,7 +22563,7 @@
 24	en	en	ADP	ADP	AdpType=Prep	25	case	_	_
 25	R3.	R3.	PROPN	PROPN	_	23	nmod	_	_
 
-# newdoc id = ma00038b
+# newdoc_id = ma00038b
 1	Inducción	inducción	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	y	y	CCONJ	CCONJ	_	3	cc	_	_
 3	recursión	recursión	NOUN	NOUN	Gender=Fem|Number=Sing	1	conj	_	_
@@ -22659,7 +22659,7 @@
 29	lógica	lógica	NOUN	NOUN	Gender=Fem|Number=Sing	25	conj	_	_
 30	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = ma00039b
+# newdoc_id = ma00039b
 1	Funciones	función	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	multivaluadas	multivaluado	ADJ	ADJ	Gender=Fem|Number=Plur|VerbForm=Part	1	amod	_	_
 3	y	y	CCONJ	CCONJ	_	5	cc	_	_
@@ -22759,7 +22759,7 @@
 24	multivaluadas	multivaluado	ADJ	ADJ	Gender=Fem|Number=Plur|VerbForm=Part	23	amod	_	_
 25	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ma00040b
+# newdoc_id = ma00040b
 1	Solución	Solución	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	numérica	numérico	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -22868,7 +22868,7 @@
 18	transporte	transporte	NOUN	NOUN	Gender=Masc|Number=Sing	16	nmod	_	_
 19	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ma00041b
+# newdoc_id = ma00041b
 1	Definiciones	definición	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	originales	original	ADJ	ADJ	Number=Plur	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -22911,7 +22911,7 @@
 30	posteriores	posterior	ADJ	ADJ	Number=Plur	29	amod	_	_
 31	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ma00042b
+# newdoc_id = ma00042b
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	trabajo	trabajo	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -23009,7 +23009,7 @@
 21	tradicional	tradicional	ADJ	ADJ	Number=Sing	20	amod	_	_
 22	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = ma00043b
+# newdoc_id = ma00043b
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	Conjunto	Conjunto	PROPN	PROPN	_	9	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -23176,7 +23176,7 @@
 18	topología	topología	NOUN	NOUN	Gender=Fem|Number=Sing	15	nmod	_	_
 19	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = ma00044b
+# newdoc_id = ma00044b
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	concepto	concepto	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -23266,7 +23266,7 @@
 65	función	función	NOUN	NOUN	Gender=Fem|Number=Sing	63	nmod	_	_
 66	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = ma00045b
+# newdoc_id = ma00045b
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	condición	condición	NOUN	NOUN	Gender=Fem|Number=Sing	11	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -23337,7 +23337,7 @@
 18	radiación	radiación	NOUN	NOUN	Gender=Fem|Number=Sing	15	conj	_	_
 19	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ma00046b
+# newdoc_id = ma00046b
 1	Una	uno	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	demostración	demostración	NOUN	NOUN	Gender=Fem|Number=Sing	18	nsubj	_	_
 3	geométrica	geométrico	ADJ	ADJ	Gender=Fem|Number=Sing	2	amod	_	_
@@ -23449,7 +23449,7 @@
 11	prometida	prometida	ADJ	ADJ	Gender=Fem|Number=Sing|VerbForm=Part	10	amod	_	_
 12	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
 
-# newdoc id = ma00047b
+# newdoc_id = ma00047b
 1	Sobre	sobre	ADP	ADP	AdpType=Prep	3	case	_	BeginSeg=Yes
 2	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	surgimiento	surgimiento	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
@@ -23557,7 +23557,7 @@
 23	misma	mismo	DET	DET	Gender=Fem|Number=Sing|PronType=Dem	22	det	_	_
 24	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = ma00048b
+# newdoc_id = ma00048b
 1	Principios	principios	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	básicos	básico	ADJ	ADJ	Gender=Masc|Number=Plur	1	amod	_	_
 3	sobre	sobre	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -23626,7 +23626,7 @@
 21	gauge	gauge	NOUN	NOUN	Gender=Fem|Number=Sing	19	nmod	_	_
 22	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ma00049b
+# newdoc_id = ma00049b
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	curvatura	curvatura	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -23890,7 +23890,7 @@
 19	Estereología	Estereología	PROPN	PROPN	_	17	obj	_	_
 20	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ma00050b
+# newdoc_id = ma00050b
 1	Riemann	Riemann	PROPN	PROPN	_	0	root	_	BeginSeg=Yes
 2	y	y	CCONJ	CCONJ	_	4	cc	_	_
 3	los	el	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
@@ -24003,7 +24003,7 @@
 8	tesis	tesis	NOUN	NOUN	Gender=Fem	5	nmod	_	_
 9	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ma00051b
+# newdoc_id = ma00051b
 1	Identificación	identificación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -24078,7 +24078,7 @@
 9	+	+	PROPN	PROPN	_	8	flat	_	_
 10	1.	1.	NOUN	NOUN	_	8	flat	_	_
 
-# newdoc id = ma00052b
+# newdoc_id = ma00052b
 1	Una	uno	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	exploración	exploración	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	gráfica	gráfico	ADJ	ADJ	Gender=Fem|Number=Sing	2	amod	_	_
@@ -24170,7 +24170,7 @@
 31	estudio	estudio	NOUN	NOUN	Gender=Masc|Number=Sing	29	nmod	_	_
 32	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = ma00053b
+# newdoc_id = ma00053b
 1	Una	uno	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	justificación	justificación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -24399,7 +24399,7 @@
 52	palanca	palanca	NOUN	NOUN	Gender=Fem|Number=Sing	47	obl	_	_
 53	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = ma00054b
+# newdoc_id = ma00054b
 1	¿	¿	PUNCT	PUNCT	PunctSide=Ini|PunctType=Qest	2	punct	_	BeginSeg=Yes
 2	Convenir	convenir	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 3	para	para	ADP	ADP	AdpType=Prep	4	mark	_	_
@@ -24518,7 +24518,7 @@
 26	ilustrativos	ilustrativo	ADJ	ADJ	Gender=Masc|Number=Plur	25	amod	_	_
 27	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = ma00055b
+# newdoc_id = ma00055b
 1	¿	¿	PUNCT	PUNCT	PunctSide=Ini|PunctType=Qest	5	punct	_	BeginSeg=Yes
 2	Qué	qué	PRON	PRON	Number=Sing|PronType=Int,Rel	5	nsubj	_	_
 3	es	ser	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -24589,7 +24589,7 @@
 11	interpretación	interpretación	NOUN	NOUN	Gender=Fem|Number=Sing	9	conj	_	_
 12	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ma00056b
+# newdoc_id = ma00056b
 1	Hacia	hacia	ADP	ADP	AdpType=Prep	3	case	_	BeginSeg=Yes
 2	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	clasificación	clasificación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
@@ -24656,7 +24656,7 @@
 24	plano	plano	NOUN	NOUN	Gender=Masc|Number=Sing	20	nmod	_	_
 25	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ma00057b
+# newdoc_id = ma00057b
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	función	función	NOUN	NOUN	Gender=Fem|Number=Sing	11	nsubj	_	_
 3	zeta	zeto	ADJ	ADJ	Gender=Fem|Number=Sing	2	amod	_	_
@@ -24812,7 +24812,7 @@
 25	interesado	interesado	ADJ	ADJ	Gender=Masc|Number=Sing|VerbForm=Part	24	amod	_	_
 26	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = ma00058b
+# newdoc_id = ma00058b
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	Hidrodinámica	Hidrodinámica	PROPN	PROPN	_	10	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -24880,7 +24880,7 @@
 36	él	él	PRON	PRON	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	obj	_	_
 37	.	.	PUNCT	PUNCT	PunctType=Peri	10	punct	_	_
 
-# newdoc id = ma00059b
+# newdoc_id = ma00059b
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	estudio	estudio	NOUN	NOUN	Gender=Masc|Number=Sing	33	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -24983,7 +24983,7 @@
 8	epistemológico	epistemológico	ADJ	ADJ	Gender=Masc|Number=Sing	6	conj	_	_
 9	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ma00060b
+# newdoc_id = ma00060b
 1	Recordando	recordar	VERB	VERB	VerbForm=Ger	9	csubj	_	BeginSeg=Yes
 2	a	a	ADP	ADP	AdpType=Prep	3	case	_	_
 3	John	John	PROPN	PROPN	_	1	obj	_	_
@@ -25162,7 +25162,7 @@
 54	deseado	deseado	VERB	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	51	acl	_	_
 55	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = ma00061b
+# newdoc_id = ma00061b
 1	Controlabilidad	controlabilidad	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -25301,7 +25301,7 @@
 97	)	)	PUNCT	PUNCT	PunctSide=Fin|PunctType=Brck	94	punct	_	_
 98	.	.	PUNCT	PUNCT	PunctType=Peri	48	punct	_	_
 
-# newdoc id = ma00062b
+# newdoc_id = ma00062b
 1	Estimación	estimación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	Paramétrica	Paramétrica	PROPN	PROPN	_	1	appos	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -25363,7 +25363,7 @@
 11	estimadores	estimador	NOUN	NOUN	Gender=Masc|Number=Plur	8	nmod	_	_
 12	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = me00001
+# newdoc_id = me00001
 1	Análisis	Análisis	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	prospectivo	prospectivo	ADJ	ADJ	Gender=Masc|Number=Sing	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -25594,7 +25594,7 @@
 23	positividad	positividad	NOUN	NOUN	Gender=Fem|Number=Sing	21	nmod	_	_
 24	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = me00002
+# newdoc_id = me00002
 1	Implicancia	implicancia	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	clínica	clínico	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
 3	del	del	ADP	ADP	AdpType=Preppron	4	case	_	_
@@ -25829,7 +25829,7 @@
 24	ml	ml	NOUN	NOUN	Gender=Masc|Number=Sing	21	appos	_	_
 25	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = me00003
+# newdoc_id = me00003
 1	Bloqueo	Bloqueo	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	androgénico	androgénico	ADJ	ADJ	Gender=Masc|Number=Sing	1	amod	_	_
 3	total	total	ADJ	ADJ	Number=Sing	1	amod	_	_
@@ -26139,7 +26139,7 @@
 33	avanzada	avanzado	ADJ	ADJ	Gender=Fem|Number=Sing|VerbForm=Part	32	amod	_	_
 34	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
 
-# newdoc id = me00004
+# newdoc_id = me00004
 1	Recurrencia	recurrencia	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	cáncer	cáncer	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -26490,7 +26490,7 @@
 37	muerte	muerte	NOUN	NOUN	Gender=Fem|Number=Sing	35	conj	_	_
 38	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = me00005
+# newdoc_id = me00005
 1	Detección	detección	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	oportuna	oportuno	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -26686,7 +26686,7 @@
 21	resultados	resultado	NOUN	NOUN	Gender=Masc|Number=Plur	19	obj	_	_
 22	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = me00006
+# newdoc_id = me00006
 1	Ecografía	ecografía	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	transrectal	transrectal	ADJ	ADJ	Number=Sing	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -27241,7 +27241,7 @@
 26	adecuada	adecuado	ADJ	ADJ	Gender=Fem|Number=Sing|VerbForm=Part	24	amod	_	_
 27	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = me00007
+# newdoc_id = me00007
 1	Fibromatosis	fibromatosis	NOUN	NOUN	Gender=Masc	0	root	_	BeginSeg=Yes
 2	mamaria	mamario	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
 3	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
@@ -27480,7 +27480,7 @@
 19	mama	mama	NOUN	NOUN	Gender=Fem|Number=Sing	15	nmod	_	_
 20	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = me00008
+# newdoc_id = me00008
 1	UTILIDAD	utilidad	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	DEL	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	INDICE	INDICE	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -27974,7 +27974,7 @@
 69	Adenocarcinoma	Adenocarcinoma	PROPN	PROPN	_	66	nmod	_	_
 70	Prostático	Prostático	PROPN	PROPN	_	69	flat	_	_
 
-# newdoc id = me00009
+# newdoc_id = me00009
 1	INFLUENCIA	influencia	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	DE	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	LA	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -28168,7 +28168,7 @@
 17	adipoquinas	adipoquina	NOUN	NOUN	Gender=Fem|Number=Plur	15	nsubj	_	_
 18	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = me00010
+# newdoc_id = me00010
 1	ESTUDIO	estudio	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	FARMACOEPIDEMIOLÓGICO	farmacoepidemiológico	ADJ	ADJ	Number=Sing	1	amod	_	_
 3	Y	y	CCONJ	CCONJ	_	4	cc	_	_
@@ -28327,7 +28327,7 @@
 16			NOUN	NOUN	Gender=Masc|Number=Plur	13	nmod	_	_
 17	.	.	PUNCT	PUNCT	PunctType=Peri	11	punct	_	_
 
-# newdoc id = me00011
+# newdoc_id = me00011
 1	Evolución	evolución	NOUN	NOUN	Gender=Fem|Number=Sing	27	nsubj	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	los	el	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
@@ -28656,7 +28656,7 @@
 34	domiciliaria	domiciliario	ADJ	ADJ	Gender=Fem|Number=Sing	33	amod	_	_
 35	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = me00012
+# newdoc_id = me00012
 1	Perfil	Perfil	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	del	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	usuario	usuario	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -28830,7 +28830,7 @@
 36	hospital	hospital	NOUN	NOUN	Gender=Masc|Number=Sing	34	nmod	_	_
 37	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = me00013
+# newdoc_id = me00013
 1	Tratamiento	tratamiento	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	quirúrgico	quirúrgico	ADJ	ADJ	Gender=Masc|Number=Sing	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -29072,7 +29072,7 @@
 15	notable	notable	ADJ	ADJ	Number=Sing	14	amod	_	_
 16	.	.	PUNCT	PUNCT	PunctType=Peri	12	punct	_	_
 
-# newdoc id = me00014
+# newdoc_id = me00014
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	Estomatitis	Estomatitis	PROPN	PROPN	_	0	root	_	_
 3	Aftosa	Aftosa	PROPN	PROPN	_	2	flat	_	_
@@ -29148,7 +29148,7 @@
 17	oral	oral	ADJ	ADJ	Number=Sing	16	amod	_	_
 18	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = me00015
+# newdoc_id = me00015
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	cirugía	cirugía	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -29213,7 +29213,7 @@
 18	precoces	precoz	ADJ	ADJ	Number=Plur	17	amod	_	_
 19	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = me00016
+# newdoc_id = me00016
 1	TRATAMIENTO	tratamiento	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	DEL	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	PIE	pie	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -29406,7 +29406,7 @@
 24	patología	patología	NOUN	NOUN	Gender=Fem|Number=Sing	21	nmod	_	_
 25	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = me00017
+# newdoc_id = me00017
 1	Correlación	correlación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	ecográfica	ecográfico	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
 3	y	y	CCONJ	CCONJ	_	4	cc	_	_
@@ -29726,7 +29726,7 @@
 28	lesional	lesional	ADJ	ADJ	Number=Sing	27	amod	_	_
 29	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = me00018
+# newdoc_id = me00018
 1	Colonización-infección	Colonización-infección	PROPN	PROPN	_	0	root	_	BeginSeg=Yes
 2	por	por	ADP	ADP	AdpType=Prep	3	case	_	_
 3	Pseudomonas	Pseudomonas	PROPN	PROPN	_	1	nmod	_	_
@@ -30285,7 +30285,7 @@
 24	exposición	exposición	NOUN	NOUN	Gender=Fem|Number=Sing	21	nmod	_	_
 25	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
 
-# newdoc id = me00019
+# newdoc_id = me00019
 1	Morbilidad	morbilidad	NOUN	NOUN	Gender=Fem|Number=Sing	12	nsubj	_	BeginSeg=Yes
 2	y	y	CCONJ	CCONJ	_	3	cc	_	_
 3	tolerancia	tolerancia	NOUN	NOUN	Gender=Fem|Number=Sing	1	conj	_	_
@@ -30500,7 +30500,7 @@
 23	tiempo	tiempo	NOUN	NOUN	Gender=Masc|Number=Sing	20	nmod	_	_
 24	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = me00020
+# newdoc_id = me00020
 1	Evolución	evolución	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	las	el	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
@@ -30751,7 +30751,7 @@
 15	sexos	sexo	NOUN	NOUN	Gender=Masc|Number=Plur	13	conj	_	_
 16	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = me00021
+# newdoc_id = me00021
 1	Evolución	evolución	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	las	el	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
@@ -30988,7 +30988,7 @@
 12	analizadas	analizado	ADJ	ADJ	Gender=Fem|Number=Plur|VerbForm=Part	10	amod	_	_
 13	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = me00022
+# newdoc_id = me00022
 1	Evolución	evolución	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	las	el	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
@@ -31229,7 +31229,7 @@
 10	global	global	ADJ	ADJ	Number=Sing	8	amod	_	_
 11	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = me00023
+# newdoc_id = me00023
 1	Manifestaciones	manifestación	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	infrecuentes	infrecuente	ADJ	ADJ	Number=Plur	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -31325,7 +31325,7 @@
 22	actualidad	actualidad	NOUN	NOUN	Gender=Fem|Number=Sing	19	obl	_	_
 23	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = me00024
+# newdoc_id = me00024
 1	Atención	Atención	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	del	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	ictus	ictus	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -31543,7 +31543,7 @@
 34	sanitaria	sanitario	ADJ	ADJ	Gender=Fem|Number=Sing	33	amod	_	_
 35	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = ps00001
+# newdoc_id = ps00001
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	relación	relación	NOUN	NOUN	Gender=Fem|Number=Sing	13	nsubj	_	_
 3	entre	entre	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -31728,7 +31728,7 @@
 39	jugadores	jugador	NOUN	NOUN	Gender=Masc|Number=Plur	30	nmod	_	_
 40	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
 
-# newdoc id = ps00002
+# newdoc_id = ps00002
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	artículo	artículo	NOUN	NOUN	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	examina	examinar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -31946,7 +31946,7 @@
 30	mama	mama	NOUN	NOUN	Gender=Fem|Number=Sing	28	nmod	_	_
 31	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = ps00003
+# newdoc_id = ps00003
 1	Se	él	PRON	PRON	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	obj	_	BeginSeg=Yes
 2	presenta	presentar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	la	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -32156,7 +32156,7 @@
 24	investigación	investigación	NOUN	NOUN	Gender=Fem|Number=Sing	22	obj	_	_
 25	.	.	PUNCT	PUNCT	PunctType=Peri	9	punct	_	_
 
-# newdoc id = ps00004b
+# newdoc_id = ps00004b
 1	Elaboración	elaboración	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
 3	una	uno	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -32281,7 +32281,7 @@
 20	mental	mental	ADJ	ADJ	Number=Sing	19	amod	_	_
 21	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = ps00005b
+# newdoc_id = ps00005b
 1	Los	el	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
 2	tipos	tipo	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -32520,7 +32520,7 @@
 46	madres	madre	NOUN	NOUN	Gender=Fem|Number=Plur	44	nmod	_	_
 47	.	.	PUNCT	PUNCT	PunctType=Peri	28	punct	_	_
 
-# newdoc id = ps00006b
+# newdoc_id = ps00006b
 1	Intervención	Intervención	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	interconductual	interconductual	ADJ	ADJ	Number=Sing	1	amod	_	_
 3	en	en	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -32637,7 +32637,7 @@
 52	conducta	conducta	NOUN	NOUN	Gender=Fem|Number=Sing	49	nmod	_	_
 53	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = ps00007b
+# newdoc_id = ps00007b
 1	Mediación	mediación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	relaciones	relación	NOUN	NOUN	Gender=Fem|Number=Plur	1	nmod	_	_
@@ -32792,7 +32792,7 @@
 11	empleada	empleado	ADJ	ADJ	Gender=Fem|Number=Sing|VerbForm=Part	10	amod	_	_
 12	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = ps00008b
+# newdoc_id = ps00008b
 1	El	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	cuerpo	cuerpo	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 3	como	como	SCONJ	SCONJ	_	4	mark	_	_
@@ -33018,7 +33018,7 @@
 27	paradójica	paradójico	ADJ	ADJ	Gender=Fem|Number=Sing	25	conj	_	_
 28	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = ps00009b
+# newdoc_id = ps00009b
 1	Significados	significado	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	del	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	cuerpo	cuerpo	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -33426,7 +33426,7 @@
 128	participantes	participante	NOUN	NOUN	Number=Plur	123	nmod	_	_
 129	.	.	PUNCT	PUNCT	PunctType=Peri	70	punct	_	_
 
-# newdoc id = ps00010b
+# newdoc_id = ps00010b
 1	Estudio	estudiar	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	caso	caso	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -33566,7 +33566,7 @@
 21	terapia	terapia	NOUN	NOUN	Gender=Fem|Number=Sing	19	obl	_	_
 22	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ps00011b
+# newdoc_id = ps00011b
 1	Cuerpo	Cuerpo	NOUN	NOUN	Gender=Masc|Number=Sing	24	nsubj	_	BeginSeg=Yes
 2	y	y	CCONJ	CCONJ	_	3	cc	_	_
 3	salud	salud	NOUN	NOUN	Gender=Fem|Number=Sing	1	conj	_	_
@@ -33747,7 +33747,7 @@
 36	1871	1871	NOUN	NOUN	AdvType=Tim	22	conj	_	_
 37	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ps00012b
+# newdoc_id = ps00012b
 1	Higiene	higiene	NOUN	NOUN	Gender=Fem|Number=Sing	11	nsubj	_	BeginSeg=Yes
 2	mental	mental	ADJ	ADJ	Number=Sing	1	amod	_	_
 3	y	y	CCONJ	CCONJ	_	4	cc	_	_
@@ -33926,7 +33926,7 @@
 128	higiene	higiene	NOUN	NOUN	Gender=Fem|Number=Sing	121	nmod	_	_
 129	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ps00013b
+# newdoc_id = ps00013b
 1	Orientar	orientar	VERB	VERB	VerbForm=Inf	14	csubj	_	BeginSeg=Yes
 2	el	el	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	cuerpo	cuerpo	NOUN	NOUN	Gender=Masc|Number=Sing	1	obj	_	_
@@ -34017,7 +34017,7 @@
 37	desvanecen	desvanecer	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 38	.	.	PUNCT	PUNCT	PunctType=Peri	10	punct	_	_
 
-# newdoc id = ps00014b
+# newdoc_id = ps00014b
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	diferenciación	diferenciación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	como	como	SCONJ	SCONJ	_	5	mark	_	_
@@ -34139,7 +34139,7 @@
 10	de	de	ADP	ADP	AdpType=Prep	11	case	_	_
 11	pareja	pareja	NOUN	NOUN	Gender=Fem|Number=Sing	9	nmod	_	_
 
-# newdoc id = ps00015b
+# newdoc_id = ps00015b
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	trama	trama	NOUN	NOUN	Gender=Fem|Number=Sing	6	nsubj	_	_
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -34269,7 +34269,7 @@
 15	potencia	potencia	NOUN	NOUN	Gender=Fem|Number=Sing	13	nmod	_	_
 16	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ps00016b
+# newdoc_id = ps00016b
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	autoestima	autoestima	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
 3	y	y	CCONJ	CCONJ	_	5	cc	_	_
@@ -34515,7 +34515,7 @@
 66	)	)	PUNCT	PUNCT	PunctSide=Fin|PunctType=Brck	65	punct	_	_
 67	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ps00017b
+# newdoc_id = ps00017b
 1	Variables	variable	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	relativas	relativo	ADJ	ADJ	Gender=Fem|Number=Plur	1	amod	_	_
 3	al	al	ADP	ADP	AdpType=Preppron	4	case	_	_
@@ -34754,7 +34754,7 @@
 24	universitarios	universitario	ADJ	ADJ	Gender=Masc|Number=Plur	21	amod	_	_
 25	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = ps00018b
+# newdoc_id = ps00018b
 1	Problemas	problema	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	BeginSeg=Yes
 2	maritales	marital	ADJ	ADJ	Number=Plur	1	amod	_	_
 3	:	:	PUNCT	PUNCT	PunctType=Colo	5	punct	_	_
@@ -34860,7 +34860,7 @@
 15	conclusiones	conclusión	NOUN	NOUN	Gender=Fem|Number=Plur	13	nmod	_	_
 16	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = ps00019b
+# newdoc_id = ps00019b
 1	Simetría	simetría	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	y	y	CCONJ	CCONJ	_	4	cc	_	_
 3	doble	doble	ADJ	ADJ	Number=Sing	4	amod	_	_
@@ -34986,7 +34986,7 @@
 20	conyugal	conyugal	ADJ	ADJ	Number=Sing	19	amod	_	_
 21	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
 
-# newdoc id = ps00020b
+# newdoc_id = ps00020b
 1	Interacción	interacción	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	marital	marital	ADJ	ADJ	Number=Sing	1	amod	_	_
 3	desde	desde	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -35156,7 +35156,7 @@
 14	marital	marital	ADJ	ADJ	Number=Sing	13	amod	_	_
 15	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = ps00021b
+# newdoc_id = ps00021b
 1	Caracterización	caracterización	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	hombres	hombre	NOUN	NOUN	Gender=Masc|Number=Plur	1	nmod	_	_
@@ -35338,7 +35338,7 @@
 49	pareja	pareja	NOUN	NOUN	Gender=Fem|Number=Sing	44	nmod	_	_
 50	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
 
-# newdoc id = ps00022b
+# newdoc_id = ps00022b
 1	Prohibido	prohibido	ADJ	ADJ	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	BeginSeg=Yes
 2	ser	ser	AUX	AUX	VerbForm=Inf	3	cop	_	_
 3	padre	padre	NOUN	NOUN	Gender=Masc|Number=Sing	1	nsubj	_	_
@@ -35579,7 +35579,7 @@
 57	hijas	hija	NOUN	NOUN	Gender=Fem|Number=Plur	55	conj	_	_
 58	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = ps00023b
+# newdoc_id = ps00023b
 1	Tratamiento	tratamiento	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	cognitivo	cognitivo	ADJ	ADJ	Gender=Masc|Number=Sing	1	amod	_	_
 3	conductual	conductual	ADJ	ADJ	Number=Sing	1	amod	_	_
@@ -35686,7 +35686,7 @@
 19	miembros	miembro	NOUN	NOUN	Gender=Masc|Number=Plur	16	nmod	_	_
 20	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = se00001
+# newdoc_id = se00001
 1	VEJEZ	vejez	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	Y	y	CCONJ	CCONJ	_	3	cc	_	_
 3	SEXUALIDAD	sexualidad	NOUN	NOUN	Gender=Fem|Number=Sing	1	conj	_	_
@@ -35845,7 +35845,7 @@
 66	cultural	cultural	ADJ	ADJ	Number=Sing	65	amod	_	_
 67	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = se00002
+# newdoc_id = se00002
 1	Conducta	conducta	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	Sexual	Sexual	PROPN	PROPN	_	1	appos	_	_
 3	Protegida	Protegida	PROPN	PROPN	_	2	flat	_	_
@@ -36013,7 +36013,7 @@
 42	anticonceptivos	anticonceptivo	NOUN	NOUN	Gender=Masc|Number=Plur	40	nmod	_	_
 43	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = se00003
+# newdoc_id = se00003
 1	Disfunción	disfunción	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	sexual	sexual	ADJ	ADJ	Number=Sing	1	amod	_	_
 3	femenina	femenino	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
@@ -36229,7 +36229,7 @@
 32	insatisfactorio	insatisfactorio	ADJ	ADJ	Gender=Masc|Number=Sing	30	amod	_	_
 33	.	.	PUNCT	PUNCT	PunctType=Peri	16	punct	_	_
 
-# newdoc id = se00004
+# newdoc_id = se00004
 1	Guía	Guía	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	clínica	clínico	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -36408,7 +36408,7 @@
 9	utilizadas	utilizado	ADJ	ADJ	Gender=Fem|Number=Plur|VerbForm=Part	7	amod	_	_
 10	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = se00005
+# newdoc_id = se00005
 1	Tratamientos	tratamiento	NOUN	NOUN	Gender=Masc|Number=Plur	42	nsubj	_	BeginSeg=Yes
 2	psicológicos	psicológico	ADJ	ADJ	Gender=Masc|Number=Plur	1	amod	_	_
 3	eficaces	eficaz	ADJ	ADJ	Number=Plur	1	amod	_	_
@@ -36675,7 +36675,7 @@
 18	tema	tema	NOUN	NOUN	Gender=Masc|Number=Sing	15	nmod	_	_
 19	.	.	PUNCT	PUNCT	PunctType=Peri	8	punct	_	_
 
-# newdoc id = se00006
+# newdoc_id = se00006
 1	Sexo	sexo	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	como	como	SCONJ	SCONJ	_	4	mark	_	_
 3	variable	variable	ADJ	ADJ	Number=Sing	4	amod	_	_
@@ -36931,7 +36931,7 @@
 34	varones	varón	NOUN	NOUN	Gender=Masc|Number=Plur	31	nmod	_	_
 35	.	.	PUNCT	PUNCT	PunctType=Peri	10	punct	_	_
 
-# newdoc id = se00007
+# newdoc_id = se00007
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	BeginSeg=Yes
 2	psicología	psicología	NOUN	NOUN	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	¿	¿	PUNCT	PUNCT	PunctSide=Ini|PunctType=Qest	4	punct	_	_
@@ -37120,7 +37120,7 @@
 31	sexual	sexual	ADJ	ADJ	Number=Sing	30	amod	_	_
 32	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
 
-# newdoc id = se00008
+# newdoc_id = se00008
 1	Consecuencias	consecuencia	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	psicológicas	psicológico	ADJ	ADJ	Gender=Fem|Number=Plur	1	amod	_	_
 3	a	a	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -37242,7 +37242,7 @@
 45	eficaz	eficaz	ADJ	ADJ	Number=Sing	43	conj	_	_
 46	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = se00009
+# newdoc_id = se00009
 1	Dimensiones	dimensión	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	adherencia	adherencia	NOUN	NOUN	Gender=Fem|Number=Sing	1	nmod	_	_
@@ -37536,7 +37536,7 @@
 49	campo	campo	NOUN	NOUN	Gender=Masc|Number=Sing	44	nmod	_	_
 50	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = se00010
+# newdoc_id = se00010
 1	AUTOEFICACIA	autoeficacia	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	EN	en	ADP	ADP	AdpType=Prep	4	case	_	_
 3	LA	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -37708,7 +37708,7 @@
 25	Caribe	Caribe	PROPN	PROPN	_	21	conj	_	_
 26	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
-# newdoc id = se00011
+# newdoc_id = se00011
 1	Ser	ser	AUX	AUX	VerbForm=Inf	2	cop	_	BeginSeg=Yes
 2	hombre	hombre	NOUN	NOUN	Gender=Masc|Number=Sing	12	advcl	_	_
 3	,	,	PUNCT	PUNCT	PunctType=Comm	5	punct	_	_
@@ -37793,7 +37793,7 @@
 42	diferencias	diferencia	NOUN	NOUN	Gender=Fem|Number=Plur	40	obj	_	_
 43	.	.	PUNCT	PUNCT	PunctType=Peri	11	punct	_	_
 
-# newdoc id = se00012
+# newdoc_id = se00012
 1	GÉNERO	género	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	Y	y	CCONJ	CCONJ	_	3	cc	_	_
 3	SEXO	SEXO	PROPN	PROPN	_	1	conj	_	_
@@ -37968,7 +37968,7 @@
 14	futura	futuro	ADJ	ADJ	Gender=Fem|Number=Sing	13	amod	_	_
 15	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = se00013
+# newdoc_id = se00013
 1	SEXO	sexo	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	Y	y	CCONJ	CCONJ	_	3	cc	_	_
 3	EDAD	edad	NOUN	NOUN	Gender=Fem|Number=Sing	1	conj	_	_
@@ -38091,7 +38091,7 @@
 27	mujeres	mujer	NOUN	NOUN	Gender=Fem|Number=Plur	25	conj	_	_
 28	.	.	PUNCT	PUNCT	PunctType=Peri	20	punct	_	_
 
-# newdoc id = se00014
+# newdoc_id = se00014
 1	Asociación	Asociación	PROPN	PROPN	_	20	nsubj	_	BeginSeg=Yes
 2	entre	entre	ADP	ADP	AdpType=Prep	3	case	_	_
 3	Consumo	Consumo	PROPN	PROPN	_	1	flat	_	_
@@ -38400,7 +38400,7 @@
 19	sexuales	sexual	ADJ	ADJ	Number=Plur	18	amod	_	_
 20	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = se00015
+# newdoc_id = se00015
 1	Conductas	conducta	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	sexuales	sexual	ADJ	ADJ	Number=Plur	1	amod	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -38527,7 +38527,7 @@
 35	costes	coste	NOUN	NOUN	Gender=Masc|Number=Plur	32	obl	_	_
 36	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = se00016
+# newdoc_id = se00016
 1	Tratamiento	tratamiento	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	y	y	CCONJ	CCONJ	_	3	cc	_	_
 3	prevención	prevención	NOUN	NOUN	Gender=Fem|Number=Sing	1	conj	_	_
@@ -39176,7 +39176,7 @@
 68	transmisión	transmisión	NOUN	NOUN	Gender=Fem|Number=Sing	66	conj	_	_
 69	.	.	PUNCT	PUNCT	PunctType=Peri	2	punct	_	_
 
-# newdoc id = se00017
+# newdoc_id = se00017
 1	Uso	uso	NOUN	NOUN	Gender=Masc|Number=Sing	16	nsubj	_	BeginSeg=Yes
 2	del	del	ADP	ADP	AdpType=Preppron	3	case	_	_
 3	condón	condón	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	_
@@ -40354,7 +40354,7 @@
 27	país	país	NOUN	NOUN	Gender=Masc|Number=Sing	25	nmod	_	_
 28	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = se00018
+# newdoc_id = se00018
 1	Encuesta	Encuesta	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	sobre	sobre	ADP	ADP	AdpType=Prep	3	case	_	_
 3	comportamientos	comportamiento	NOUN	NOUN	Gender=Masc|Number=Plur	1	nmod	_	_
@@ -40835,7 +40835,7 @@
 42	seleccionados	seleccionado	ADJ	ADJ	Gender=Masc|Number=Plur|VerbForm=Part	41	amod	_	_
 43	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = se00019
+# newdoc_id = se00019
 1	Las	el	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	BeginSeg=Yes
 2	enfermedades	enfermedad	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	_
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -41183,7 +41183,7 @@
 40	1998	1998	NUM	NUM	NumForm=Digit|NumType=Card	39	compound	_	_
 41	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = se00020
+# newdoc_id = se00020
 1	Úlceras	úlcera	NOUN	NOUN	Gender=Fem|Number=Plur	16	dep	_	BeginSeg=Yes
 2	genitales	genital	ADJ	ADJ	Number=Plur	1	amod	_	_
 3	En	en	ADP	ADP	AdpType=Prep	1	advmod	_	BeginSeg=Yes
@@ -41427,7 +41427,7 @@
 43	laboratorio	laboratorio	NOUN	NOUN	Gender=Masc|Number=Sing	38	nmod	_	_
 44	.	.	PUNCT	PUNCT	PunctType=Peri	11	punct	_	_
 
-# newdoc id = se00021
+# newdoc_id = se00021
 1	Uretritis	uretritis	NOUN	NOUN	Gender=Fem|Number=Sing	5	nsubj	_	BeginSeg=Yes
 2	gonocócica	gonocócico	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
 3	Es	ser	AUX	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	BeginSeg=Yes
@@ -41739,7 +41739,7 @@
 27	semejante	semejante	ADJ	ADJ	Number=Sing	26	amod	_	_
 28	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = se00022
+# newdoc_id = se00022
 1	Uretritis	uretritis	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	no-gonocócica	no-gonocócico	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
 
@@ -41986,7 +41986,7 @@
 12	tratamiento	tratamiento	NOUN	NOUN	Gender=Masc|Number=Sing	11	obj	_	_
 13	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	_
 
-# newdoc id = se00023
+# newdoc_id = se00023
 1	Uretritis	uretritis	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	BeginSeg=Yes
 2	persistente	persistente	ADJ	ADJ	Number=Sing	1	amod	_	_
 3	Ante	ante	ADP	ADP	AdpType=Prep	5	case	_	BeginSeg=Yes
@@ -42112,7 +42112,7 @@
 21	oral	oral	ADJ	ADJ	Number=Sing	20	amod	_	_
 22	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = se00024
+# newdoc_id = se00024
 1	Uretritis	uretritis	NOUN	NOUN	Gender=Fem|Number=Sing	6	nsubj	_	BeginSeg=Yes
 2	y	y	CCONJ	CCONJ	_	3	cc	_	_
 3	mucocervicitis	mucocervicitis	NOUN	NOUN	Gender=Fem|Number=Sing	1	conj	_	_
@@ -42586,7 +42586,7 @@
 41	embarazo	embarazo	NOUN	NOUN	Gender=Masc|Number=Sing	38	nmod	_	_
 42	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	_
 
-# newdoc id = se00025
+# newdoc_id = se00025
 1	Riesgo	riesgo	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	perinatal	perinatal	ADJ	ADJ	Number=Sing	1	amod	_	_
 3	por	por	ADP	ADP	AdpType=Prep	4	case	_	_
@@ -42888,7 +42888,7 @@
 40	días	día	NOUN	NOUN	Gender=Masc|Number=Plur	37	nmod	_	_
 41	.	.	PUNCT	PUNCT	PunctType=Peri	7	punct	_	_
 
-# newdoc id = se00026b
+# newdoc_id = se00026b
 1	Enfermedades	enfermedad	NOUN	NOUN	Gender=Fem|Number=Plur	0	root	_	BeginSeg=Yes
 2	de	de	ADP	ADP	AdpType=Prep	3	case	_	_
 3	Transmisión	Transmisión	PROPN	PROPN	_	1	nmod	_	_
@@ -42959,7 +42959,7 @@
 16	oral	oral	ADJ	ADJ	Number=Sing	15	amod	_	_
 17	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = se00027b
+# newdoc_id = se00027b
 1	VIRUS	virus	NOUN	NOUN	Gender=Masc|Number=Sing	12	nsubj	_	BeginSeg=Yes
 2	Virus	Virus	PROPN	PROPN	_	1	appos	_	BeginSeg=Yes
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	_
@@ -43190,7 +43190,7 @@
 14	oportunistas	oportunista	ADJ	ADJ	Number=Plur	13	amod	_	_
 15	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = se00028b
+# newdoc_id = se00028b
 1	VIRUS	virus	NOUN	NOUN	Gender=Masc	0	root	_	BeginSeg=Yes
 2	Papiloma	Papiloma	PROPN	PROPN	_	1	appos	_	BeginSeg=Yes
 3	humano	humano	ADJ	ADJ	Gender=Masc|Number=Sing	1	amod	_	_
@@ -43856,7 +43856,7 @@
 74	genitales	genital	ADJ	ADJ	Number=Plur	73	amod	_	_
 75	.	.	PUNCT	PUNCT	PunctType=Peri	15	punct	_	_
 
-# newdoc id = se00029b
+# newdoc_id = se00029b
 1	VIRUS	VIRUS	PROPN	PROPN	_	3	nsubj	_	BeginSeg=Yes
 2	Citomegalovirus	Citomegalovirus	PROPN	PROPN	_	1	flat	_	BeginSeg=Yes
 3	Pertenece	pertenecer	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -44362,7 +44362,7 @@
 40	órganos	órgano	NOUN	NOUN	Gender=Masc|Number=Plur	38	conj	_	_
 41	.	.	PUNCT	PUNCT	PunctType=Peri	3	punct	_	_
 
-# newdoc id = se00030b
+# newdoc_id = se00030b
 1	VIRUS	virus	NOUN	NOUN	Gender=Masc	0	root	_	BeginSeg=Yes
 2	Molluscum	Molluscum	PROPN	PROPN	_	1	appos	_	BeginSeg=Yes
 3	contagiosum	contagiosum	PROPN	PROPN	_	2	flat	_	_
@@ -44583,7 +44583,7 @@
 51	)	)	PUNCT	PUNCT	PunctSide=Fin|PunctType=Brck	48	punct	_	_
 52	.	.	PUNCT	PUNCT	PunctType=Peri	4	punct	_	_
 
-# newdoc id = se00031b
+# newdoc_id = se00031b
 1	VIRUS	virus	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	BeginSeg=Yes
 2	Hepatitis	Hepatitis	PROPN	PROPN	_	1	appos	_	BeginSeg=Yes
 3	B	B	PROPN	PROPN	_	1	appos	_	_

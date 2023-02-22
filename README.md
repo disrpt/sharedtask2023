@@ -32,10 +32,10 @@ Note that some datasets contain **discontinuous** discourse units, which sometim
 
 The shared task repository currently comprises the following directories (to be extended as the task progresses):
 
-  * data - individual corpora from various languages and frameworks (**for now, data samples**). 
+  * data - individual corpora from various languages and frameworks. 
     * Folders are given names in the scheme `LANG.FRAMEWORK.CORPUS`, e.g. `eng.rst.gum` is the directory for the GUM corpus, which is in English and annotated in the framework of Rhetorical Structure Theory (RST).
     * Note that some corpora (eng.rst.rstdt, eng.pdtb.pdtb, tur.pdtb.tdb, zho.pdtb.cdtb) **do not contain text** or have some documents without text (eng.rst.gum) and text therefore needs to be reconstructed using `utils/process_underscores.py`.
-  * utils - **COMING SOON** scripts for validating, evaluating and generating data formats. The official scorer for segmentation and connective detection is `seg_eval.py`, and the official scorer for relation classification is `rel_eval.py`.
+  * utils - scripts for validating, evaluating and generating data formats. The official scorer for segmentation and connective detection is `seg_eval.py`, and the official scorer for relation classification is `rel_eval.py`.
 
 See the README files in individual data directories for more details on each dataset.
 
@@ -50,10 +50,10 @@ Systems should be accompanied by a regular workshop paper in the ACL format, as 
 
 ## Important Dates
 - January, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Sample release  
-- February, 15th, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Train/dev dataset release  
+- February, 22th, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Train/dev dataset release  
 - April, 15th, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Test release  
 - May, 8st, 2023 &nbsp; &nbsp; &nbsp; &nbsp; System release
-- June, 5th, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Camera ready
+- June, 1st, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Camera ready
 - July, 9-14th, 2023  &nbsp; &nbsp; &nbsp; &nbsp; CODI Workshop, ACL, Toronto, Canada.
 
 <!---

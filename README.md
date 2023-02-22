@@ -24,6 +24,22 @@ External resources are allowed, including NLP tools, word embeddings/pre-trained
 
 Note that some datasets contain **discontinuous** discourse units, which sometimes nest the second unit in a discourse relation. In such cases, the unit beginning first in the text is considered `unit1` and gaps in the discourse unit are given as `<*>` in the inline text representation. Token index spans point to the exact coverage of the unit either way, which in case of discontinuous units will contain multiple token spans.  
 
+
+### Note on discourse relations
+
+Compared to the data of the 2021 shared task, we made a few corrections as somes instances labels contained spelling errors: 'anthitesis', 'motibation' and 'backgroun'.
+
+We also decided to make a few changes in the original labels provided in some corpora to harmonize the names of the relations. **But please note that it doesn't mean that relations with the same names correspond to the same definitions, each relation definition is specific to an annotation prject.**
+We do the following modifications, while keeping the original label in the penultimate column:
+* original 'topicomment' mapped to 'topic-comment',
+* original ''topichange' mapped to 'topic-change',
+* original ''topidrift' mapped to 'topic-drift',
+* original ''solution-hood' mapped to 'solutionhood',
+* original ''non-volitional-cause' mapped to 'nonvolitional-cause',
+* original ''non-volitional-result' mapped to 'nonvolitional-result',
+* original 'e-elab'  mapped to 'e-elaboration'
+
+
 <!---
 *Note about MWE*..............
 --->

@@ -73,6 +73,32 @@ Systems should be accompanied by a regular workshop paper in the ACL format, as 
 - June, 1st, 2023 &nbsp; &nbsp; &nbsp; &nbsp; Camera ready
 - July, 9-14th, 2023  &nbsp; &nbsp; &nbsp; &nbsp; CODI Workshop, ACL, Toronto, Canada.
 
+## Statistics 1
+
+| corpus | lang | framework | rels | rel_types | discont | train_toks | train_sents | train_docs | train_segs | dev_toks | dev_sents | dev_docs | dev_segs | total_sents | total_toks | total_docs | total_segs | seg_style | underscored | syntax | MWTs | ellip |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| deu.rst.pcc | deu | rst | 2,164 | 26 | no | 26,831 | 1,773 | 142 | 2,471 | 3,152 | 207 | 17 | 275 | 1,980 | 29,983 | 159 | 2,746 | EDU | no | UD | no | no |
+| eng.dep.scidtb | eng | dep | 6,060 | 24 | yes | 62,488 | 2,570 | 492 | 6,740 | 20,299 | 815 | 154 | 2,130 | 3,385 | 82,787 | 646 | 8,870 | EDU | no | UD | yes | no |
+| eng.pdtb.pdtb | eng | pdtb | 43,920 | 23 | yes | 1,076,448 | 44,563 | 1,992 | 23,850 | 40,384 | 1,703 | 79 | 953 | 46,266 | 1,116,832 | 2,071 | 24,803 | Conn | yes | UD (gold) | yes | no |
+| eng.rst.gum | eng | rst | 19,496 | 14 | yes | 163,210 | 9,234 | 165 | 20,722 | 21,743 | 1,221 | 24 | 2,790 | 10,455 | 184,953 | 189 | 23,512 | EDU | no | UD (gold) | yes | yes |
+| eng.rst.rstdt | eng | rst | 16,002 | 17 | yes | 169,321 | 6,672 | 309 | 17,646 | 17,574 | 717 | 38 | 1,797 | 7,389 | 186,895 | 347 | 19,443 | EDU | yes | UD (gold) | yes | no |
+| eng.sdrt.stac | eng | sdrt | 9,580 | 16 | no | 41,930 | 8,754 | 33 | 9,887 | 4,864 | 991 | 6 | 1,154 | 9,745 | 46,794 | 39 | 11,041 | EDU | no | UD | yes | no |
+| eus.rst.ert | eus | rst | 2,533 | 29 | yes | 30,690 | 1,599 | 116 | 2,785 | 7,219 | 366 | 24 | 677 | 1,965 | 37,909 | 140 | 3,462 | EDU | no | UD | no | no |
+| fas.rst.prstc | fas | rst | 4,100 | 17 | yes | 52,497 | 1,713 | 120 | 4,609 | 7,033 | 202 | 15 | 576 | 1,915 | 59,530 | 135 | 5,185 | EDU | no | UD | yes | no |
+| fra.sdrt.annodis | fra | sdrt | 2,185 | 18 | yes | 22,515 | 1,020 | 64 | 2,255 | 5,013 | 245 | 11 | 556 | 1,265 | 27,528 | 75 | 2,811 | EDU | no | UD | no | no |
+| ita.pdtb.luna | ita | pdtb | 961 | 15 | yes | 17,343 | 3,724 | 42 | 668 | 3,179 | 776 | 6 | 134 | 4,500 | 20,522 | 48 | 802 | Conn | yes | UD | yes | no |
+| nld.rst.nldt | nld | rst | 1,608 | 32 | no | 17,562 | 1,156 | 56 | 1,662 | 3,783 | 255 | 12 | 343 | 1,411 | 21,345 | 68 | 2,005 | EDU | no | UD | no | no |
+| por.rst.cstn | por | rst | 4,148 | 32 | yes | 52,177 | 1,825 | 114 | 4,601 | 7,023 | 257 | 14 | 630 | 2,082 | 59,200 | 128 | 5,231 | EDU | no | UD | yes | no |
+| rus.rst.rrt | rus | rst | 28,868 | 22 | yes | 390,375 | 18,932 | 272 | 34,682 | 40,779 | 2,025 | 30 | 3,352 | 20,957 | 431,154 | 302 | 38,034 | EDU | no | UD | no | no |
+| spa.rst.rststb | spa | rst | 2,240 | 28 | yes | 43,055 | 1,548 | 203 | 2,472 | 7,551 | 254 | 32 | 419 | 1,802 | 50,606 | 235 | 2,891 | EDU | no | UD | no | no |
+| spa.rst.sctb | spa | rst | 439 | 24 | yes | 10,253 | 326 | 32 | 473 | 2,448 | 76 | 9 | 103 | 402 | 12,701 | 41 | 576 | EDU | no | UD | no | no |
+| tur.pdtb.tdb | tur | pdtb | 2,451 | 23 | yes | 398,515 | 24,960 | 159 | 7,063 | 49,952 | 2,948 | 19 | 831 | 27,908 | 448,467 | 178 | 7,894 | Conn | yes | UD | yes | no |
+| zho.dep.scidtb | zho | dep | 802 | 23 | no | 11,289 | 308 | 69 | 898 | 3,853 | 103 | 20 | 309 | 411 | 15,142 | 89 | 1,207 | EDU | no | UD | no | no |
+| zho.pdtb.cdtb | zho | pdtb | 3,657 | 9 | yes | 52,061 | 2,049 | 125 | 1,034 | 11,178 | 438 | 21 | 314 | 2,487 | 63,239 | 146 | 1,348 | Conn | yes | other (gold) | no | no |
+| zho.rst.gcdt | zho | rst | 6,454 | 31 | yes | 47,639 | 2,026 | 40 | 7,470 | 7,619 | 331 | 5 | 1,144 | 2,357 | 55,258 | 45 | 8,614 | EDU | no | UD (V1) | no | no |
+| zho.rst.sctb | zho | rst | 439 | 26 | yes | 9,655 | 361 | 32 | 473 | 2,264 | 86 | 9 | 103 | 447 | 11,919 | 41 | 576 | EDU | no | UD | no | no |
+
+
 
 ## Statistics
 

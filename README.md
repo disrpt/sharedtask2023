@@ -86,6 +86,9 @@ Systems should be accompanied by a regular workshop paper in the ACL format, as 
 
 ## Statistics
 
+**02/22/2023**: Please note that the following table currently only includes statistics corresponding to `train`+`dev`.
+We will update the table to also include the `test` partition in each dataset upon the release of the test data in April.
+
 [//]: # (**02/22/2023**: Please note that the following table currently only includes statistics corresponding to `train`+`dev`.)
 
 [//]: # (We will update the table to also include the `test` partition in each dataset upon the release of the test data in April. )

@@ -26,7 +26,7 @@ As in PDTB, the LUNA corpus is annotated with a 3-level hierarchy of senses, inc
     - `Expansion.Restatement.Equivalence`
     - `Expansion.Restatement.Specification`
     
-Note that we remove from the original data 8 instances labeled with 'Discourse Connective' or 'Missing'.
+Note that we remove from the original data 9 instances labeled with 'Discourse Connective' or 'Missing'.
 
 
 ### Anonymization

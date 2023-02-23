@@ -116,11 +116,26 @@ We will update the table to also include the `test` partition in each dataset up
 | zho.pdtb.cdtb | zho | pdtb | 4,512 | 9 | yes | 52,061 | 2,049 | 125 | 1,034 | 11,178 | 438 | 21 | 314 | 10,075 | 404 | 18 | 312 | 2,891 | 73,314 | 164 | 1,660 | Conn | yes | other (gold) | no | no |
 | zho.rst.gcdt | zho | rst | 7,460 | 31 | yes | 47,639 | 2,026 | 40 | 7,470 | 7,619 | 331 | 5 | 1,144 | 7,647 | 335 | 5 | 1,092 | 2,692 | 62,905 | 50 | 9,706 | EDU | no | UD (V1) | no | no |
 | zho.rst.sctb | zho | rst | 533 | 26 | yes | 9,655 | 361 | 32 | 473 | 2,264 | 86 | 9 | 103 | 3,577 | 133 | 9 | 168 | 580 | 15,496 | 50 | 744 | EDU | no | UD | no | no |
+$*Legend*
+
+  * `corpus` - unique corpus identifier, consisting of the language code, framework acronym and an abbreviation for the corpus name
+  * `lang` - ISO 639-3, 3 letter language code
+  * `framework` - one of pdtb (Penn Discourse Treebank framework), rst (Rhetorical Structure Theory) or sdrt (Segmented Discourse Representation Theory)
+  * `rels` - number of discourse relation instances (note that for tur.pdtb.tdb, only a subset of the data annotated for connectives also has discourse relation types, so there are much fewer relation instances and documents than connectives)
+  * `rel_types` - number of distinct relation types targeted in the shared task 'label' column. Note that for some corpora, these were collapsed from a larger inventory, but the original uncollapsed relation labels are retained in the column orig_label
+  * `discont` - whether the relation classification dataset contains discontinuous discourse units. Note that for segmentation, each part of a discontinous unit constitutes its own segment, so these datasets only differ overtly in the .rels file, where gaps are indicated by `<*>`.
+  * `underscored` - whether all text is contained in the data (`no`), all text needs to be retrieved using the `process_underscores.py` script (`yes`), or part of the text needs to be retrieved by the same script (`part`)
+  * `syntax` - type of syntax trees: automatic Universal Dependencies (UD) or other, and gold standard (manual or converted from manual annotation) or not (automatic). See individual corpus README files for more details.
+  * `MWTs` - whether the corpus uses CoNLL-U Multiword Tokens with hyphens in IDs for complex word forms (e.g. `1-2 don't ... 1 do ... 2 n't`)
+  * `ellip` - whether the corpus uses CoNLL-U ellipsis tokens (a.k.a. null or empty tokens) with decimal IDs (e.g. `8.1`) to reconstruct ellipsis phenomena. Note that such tokens only appear in `.conllu` files, since they are not actually part of the text; they are never the location of a discourse unit segmentation point and are omitted in .tok and .rels files, and they are not counted in the token offsets in .rels files.
 
 
 
 
 
+
+<!---
+## Old statistics
 
 | corpus | lang | framework | rels | rel_types | discont | train_toks | train_sents | train_docs | train_segs | dev_toks | dev_sents | dev_docs | dev_segs | total_sents | total_toks | total_docs | total_segs | seg_style | underscored | syntax | MWTs | ellip |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -145,22 +160,7 @@ We will update the table to also include the `test` partition in each dataset up
 | zho.rst.gcdt | zho | rst | 6,454 | 31 | yes | 47,639 | 2,026 | 40 | 7,470 | 7,619 | 331 | 5 | 1,144 | 2,357 | 55,258 | 45 | 8,614 | EDU | no | UD (V1) | no | no |
 | zho.rst.sctb | zho | rst | 439 | 26 | yes | 9,655 | 361 | 32 | 473 | 2,264 | 86 | 9 | 103 | 447 | 11,919 | 41 | 576 | EDU | no | UD | no | no |
 
-*Legend*
 
-  * `corpus` - unique corpus identifier, consisting of the language code, framework acronym and an abbreviation for the corpus name
-  * `lang` - ISO 639-3, 3 letter language code
-  * `framework` - one of pdtb (Penn Discourse Treebank framework), rst (Rhetorical Structure Theory) or sdrt (Segmented Discourse Representation Theory)
-  * `rels` - number of discourse relation instances (note that for tur.pdtb.tdb, only a subset of the data annotated for connectives also has discourse relation types, so there are much fewer relation instances and documents than connectives)
-  * `rel_types` - number of distinct relation types targeted in the shared task 'label' column. Note that for some corpora, these were collapsed from a larger inventory, but the original uncollapsed relation labels are retained in the column orig_label
-  * `discont` - whether the relation classification dataset contains discontinuous discourse units. Note that for segmentation, each part of a discontinous unit constitutes its own segment, so these datasets only differ overtly in the .rels file, where gaps are indicated by `<*>`.
-  * `underscored` - whether all text is contained in the data (`no`), all text needs to be retrieved using the `process_underscores.py` script (`yes`), or part of the text needs to be retrieved by the same script (`part`)
-  * `syntax` - type of syntax trees: automatic Universal Dependencies (UD) or other, and gold standard (manual or converted from manual annotation) or not (automatic). See individual corpus README files for more details.
-  * `MWTs` - whether the corpus uses CoNLL-U Multiword Tokens with hyphens in IDs for complex word forms (e.g. `1-2 don't ... 1 do ... 2 n't`)
-  * `ellip` - whether the corpus uses CoNLL-U ellipsis tokens (a.k.a. null or empty tokens) with decimal IDs (e.g. `8.1`) to reconstruct ellipsis phenomena. Note that such tokens only appear in `.conllu` files, since they are not actually part of the text; they are never the location of a discourse unit segmentation point and are omitted in .tok and .rels files, and they are not counted in the token offsets in .rels files.
-
-
-<!---
-## Old statistics
 
 
 | corpus | lang | framework | rels | rel_types | discont | train_toks | train_sents | train_docs | dev_toks | dev_sents | dev_docs | test_toks | test_sents | test_docs | total_sents | total_toks | total_docs | seg_style | underscored | syntax | MWTs | ellip |

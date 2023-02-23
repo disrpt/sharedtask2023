@@ -94,6 +94,34 @@ We will update the table to also include the `test` partition in each dataset up
 [//]: # (We will update the table to also include the `test` partition in each dataset upon the release of the test data in April. )
 
 
+| corpus | lang | framework | rels | rel_types | discont | train_toks | train_sents | train_docs | train_segs | dev_toks | dev_sents | dev_docs | dev_segs | test_toks | test_sents | test_docs | test_segs | total_sents | total_toks | total_docs | total_segs | seg_style | underscored | syntax | MWTs | ellip |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| deu.rst.pcc | deu | rst | 2,405 | 26 | no | 26,831 | 1,773 | 142 | 2,471 | 3,152 | 207 | 17 | 275 | 3,239 | 213 | 17 | 294 | 2,193 | 33,222 | 176 | 3,040 | EDU | no | UD | no | no |
+| eng.dep.scidtb | eng | dep | 7,995 | 24 | yes | 62,488 | 2,570 | 492 | 6,740 | 20,299 | 815 | 154 | 2,130 | 19,747 | 817 | 152 | 2,116 | 4,202 | 102,534 | 798 | 10,986 | EDU | no | UD | yes | no |
+| eng.pdtb.pdtb | eng | pdtb | 45,594 | 23 | yes | 1,076,448 | 44,563 | 1,992 | 23,850 | 40,384 | 1,703 | 79 | 953 | 56,547 | 2,364 | 91 | 1,245 | 48,630 | 1,173,379 | 2,162 | 26,048 | Conn | yes | UD (gold) | yes | no |
+| eng.rst.gum | eng | rst | 22,113 | 14 | yes | 163,210 | 9,234 | 165 | 20,722 | 21,743 | 1,221 | 24 | 2,790 | 22,061 | 1,201 | 24 | 2,740 | 11,656 | 207,014 | 213 | 26,252 | EDU | no | UD (gold) | yes | yes |
+| eng.rst.rstdt | eng | rst | 17,623 | 17 | yes | 169,321 | 6,672 | 309 | 17,646 | 17,574 | 717 | 38 | 1,797 | 22,017 | 929 | 38 | 2,346 | 8,318 | 208,912 | 385 | 21,789 | EDU | yes | UD (gold) | yes | no |
+| eng.sdrt.stac | eng | sdrt | 10,725 | 16 | no | 41,930 | 8,754 | 33 | 9,887 | 4,864 | 991 | 6 | 1,154 | 6,732 | 1,342 | 6 | 1,547 | 11,087 | 53,526 | 45 | 12,588 | EDU | no | UD | yes | no |
+| eus.rst.ert | eus | rst | 3,147 | 29 | yes | 30,690 | 1,599 | 116 | 2,785 | 7,219 | 366 | 24 | 677 | 7,871 | 415 | 24 | 740 | 2,380 | 45,780 | 164 | 4,202 | EDU | no | UD | no | no |
+| fas.rst.prstc | fas | rst | 4,599 | 17 | yes | 52,497 | 1,713 | 120 | 4,609 | 7,033 | 202 | 15 | 576 | 7,396 | 264 | 15 | 670 | 2,179 | 66,926 | 150 | 5,855 | EDU | no | UD | yes | no |
+| fra.sdrt.annodis | fra | sdrt | 2,713 | 18 | yes | 22,515 | 1,020 | 64 | 2,255 | 5,013 | 245 | 11 | 556 | 5,171 | 242 | 11 | 618 | 1,507 | 32,699 | 86 | 3,429 | EDU | no | UD | no | no |
+| ita.pdtb.luna | ita | pdtb | 1,172 | 15 | yes | 17,343 | 3,724 | 42 | 668 | 3,179 | 776 | 6 | 134 | 6,463 | 1,315 | 12 | 261 | 5,815 | 26,985 | 60 | 1,063 | Conn | yes | UD | yes | no |
+| nld.rst.nldt | nld | rst | 1,939 | 32 | no | 17,562 | 1,156 | 56 | 1,662 | 3,783 | 255 | 12 | 343 | 3,553 | 240 | 12 | 338 | 1,651 | 24,898 | 80 | 2,343 | EDU | no | UD | no | no |
+| por.rst.cstn | por | rst | 4,721 | 32 | yes | 52,177 | 1,825 | 114 | 4,601 | 7,023 | 257 | 14 | 630 | 4,132 | 139 | 12 | 306 | 2,221 | 63,332 | 140 | 5,537 | EDU | no | UD | yes | no |
+| rus.rst.rrt | rus | rst | 31,723 | 22 | yes | 390,375 | 18,932 | 272 | 34,682 | 40,779 | 2,025 | 30 | 3,352 | 41,851 | 2,087 | 30 | 3,508 | 23,044 | 473,005 | 332 | 41,542 | EDU | no | UD | no | no |
+| spa.rst.rststb | spa | rst | 2,623 | 28 | yes | 43,055 | 1,548 | 203 | 2,472 | 7,551 | 254 | 32 | 419 | 8,111 | 287 | 32 | 460 | 2,089 | 58,717 | 267 | 3,351 | EDU | no | UD | no | no |
+| spa.rst.sctb | spa | rst | 533 | 24 | yes | 10,253 | 326 | 32 | 473 | 2,448 | 76 | 9 | 103 | 3,814 | 114 | 9 | 168 | 516 | 16,515 | 50 | 744 | EDU | no | UD | no | no |
+| tur.pdtb.tdb | tur | pdtb | 2,763 | 23 | yes | 398,515 | 24,960 | 159 | 7,063 | 49,952 | 2,948 | 19 | 831 | 47,891 | 3,289 | 19 | 854 | 31,197 | 496,358 | 197 | 8,748 | Conn | yes | UD | yes | no |
+| zho.dep.scidtb | zho | dep | 1,083 | 23 | no | 11,289 | 308 | 69 | 898 | 3,853 | 103 | 20 | 309 | 3,622 | 89 | 20 | 235 | 500 | 18,764 | 109 | 1,442 | EDU | no | UD | no | no |
+| zho.pdtb.cdtb | zho | pdtb | 4,512 | 9 | yes | 52,061 | 2,049 | 125 | 1,034 | 11,178 | 438 | 21 | 314 | 10,075 | 404 | 18 | 312 | 2,891 | 73,314 | 164 | 1,660 | Conn | yes | other (gold) | no | no |
+| zho.rst.gcdt | zho | rst | 7,460 | 31 | yes | 47,639 | 2,026 | 40 | 7,470 | 7,619 | 331 | 5 | 1,144 | 7,647 | 335 | 5 | 1,092 | 2,692 | 62,905 | 50 | 9,706 | EDU | no | UD (V1) | no | no |
+| zho.rst.sctb | zho | rst | 533 | 26 | yes | 9,655 | 361 | 32 | 473 | 2,264 | 86 | 9 | 103 | 3,577 | 133 | 9 | 168 | 580 | 15,496 | 50 | 744 | EDU | no | UD | no | no |
+
+
+
+
+
+
 | corpus | lang | framework | rels | rel_types | discont | train_toks | train_sents | train_docs | train_segs | dev_toks | dev_sents | dev_docs | dev_segs | total_sents | total_toks | total_docs | total_segs | seg_style | underscored | syntax | MWTs | ellip |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | deu.rst.pcc | deu | rst | 2,164 | 26 | no | 26,831 | 1,773 | 142 | 2,471 | 3,152 | 207 | 17 | 275 | 1,980 | 29,983 | 159 | 2,746 | EDU | no | UD | no | no |

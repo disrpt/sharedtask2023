@@ -9,9 +9,8 @@ The data set contains a total of 1,606 discourse relation instances; Explicit, I
 ### Relation Set
 
 As in PDTB, the LUNA corpus is annotated with a 3-level hierarchy of senses, including some modifications compared to the PDTB label set:
-- 3 more Level 1 classes which have only 1 level:
-    - `Discourse Marker`
-    - `Interrupted`
+- 2 more Level 1 classes which have only 1 level:
+    - `Interruption`
     - `Repetition`
 - Level 3  further categorizes L2 relations into the following types:
     - Epistemic
@@ -26,6 +25,8 @@ As in PDTB, the LUNA corpus is annotated with a 3-level hierarchy of senses, inc
 - `Expansion.Restatement` on Level 3 is further categorized into:
     - `Expansion.Restatement.Equivalence`
     - `Expansion.Restatement.Specification`
+    
+Note that we remove from the original data 8 instances labeled with 'Discourse Connective' or 'Missing'.
 
 
 ### Anonymization

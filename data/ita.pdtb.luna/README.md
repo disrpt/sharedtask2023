@@ -76,6 +76,8 @@ The predicted label (the last column) for each instance has been truncated at Le
 For instance, the predicted label for the sense label “Expansion.Restatement.Equivalence” would be “Expansion.Restatement”. 
 However, we keep the original label in the third-to-last column called “orig_label”, which matches the directionality information provided in the “dir” column.
 
+Due to anonymity reasons, the original corpus has certain information masked by tags such as <PER> and <NUM>. 
+
 
 ## DISRPT 2023 Shared Task Information
 

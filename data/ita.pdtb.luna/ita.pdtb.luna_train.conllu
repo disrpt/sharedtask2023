@@ -1124,7 +1124,8 @@
 # newturn_id = 0704000003-30
 # newutterance_id = 0704000003-30-1
 1	<DIGIT>	_	_	_	_	_	_	_	_
-2	<DIGIT>3	<DIGIT>	_	_	_	_	_	_	_	_
+2	<DIGIT>	_	_	_	_	_	_	_	_
+3	<DIGIT>	_	_	_	_	_	_	_	_
 4	<DIGIT>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000003-31
@@ -5062,407 +5063,403 @@
 9-10	all'	_	_	_	_	_	_	_	_
 9	a	a	ADP	E	_	447	case	447:case	_
 10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	447	det	447:det	_
-11	abilita	abilita	NOUN	S	Gender=Fem|Number=Sing	447	amod	447:amod	_
-12	zione	zione	NOUN	S	Gender=Fem|Number=Sing	443	obl	443:obl	_
-13	di	di	ADP	E	_	450	case	450:case	_
-14	alcune	alcuno	DET	DI	PronType=Ind	450	det	450:det	_
+11	abilitazione	abilita	NOUN	S	Gender=Fem|Number=Sing	447	amod	447:amod	_
+12	di	di	ADP	E	_	450	case	450:case	_
+13	alcune	alcuno	DET	DI	PronType=Ind	450	det	450:det	_
+14	procedure	procedura	NOUN	S	Gender=Fem|Number=Plur	447	nmod	447:nmod	_
 
 # newturn_id = 0704000014-71
 # newutterance_id = 0704000014-71-1
-1	procedure	procedura	NOUN	S	Gender=Fem|Number=Plur	447	nmod	447:nmod	_
-2	sì	sì	INTJ	I	_	456	advmod	456:advmod	_
-3	allora	allora	ADV	B	_	456	advmod	456:advmod	_
-4	praticamente	praticamente	ADV	B	_	456	advmod	456:advmod	_
-5	per	per	ADP	E	_	456	case	456:case	_
-6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	456	det	456:det	_
+1	sì	sì	INTJ	I	_	456	advmod	456:advmod	_
+2	allora	allora	ADV	B	_	456	advmod	456:advmod	_
+3	praticamente	praticamente	ADV	B	_	456	advmod	456:advmod	_
+4	per	per	ADP	E	_	456	case	456:case	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	456	det	456:det	_
+6	dirigente	dirigente	NOUN	S	Number=Sing	434	obl	434:obl	_
 
 # newturn_id = 0704000014-72
 # newutterance_id = 0704000014-72-1
-1	dirigente	dirigente	NOUN	S	Number=Sing	434	obl	434:obl	_
+1	sì	sì	INTJ	I	_	429	conj	429:conj	_
 
 # newturn_id = 0704000014-73
 # newutterance_id = 0704000014-73-1
-1	sì	sì	INTJ	I	_	429	conj	429:conj	_
+1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	462	cop	462:cop	_
 
 # newturn_id = 0704000014-74
 # newutterance_id = 0704000014-74-1
-1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	462	cop	462:cop	_
-2	vabbè	vabbè	INTJ	I	_	429	conj	429:conj	_
-3	per	per	ADP	E	_	462	case	462:case	_
-4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	462	det	462:det	_
+1	vabbè	vabbè	INTJ	I	_	429	conj	429:conj	_
+2	per	per	ADP	E	_	462	case	462:case	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	462	det	462:det	_
+4	dirigente	dirigente	NOUN	S	Number=Sing	430	parataxis	430:parataxis	_
 
 # newutterance_id = 0704000014-74-2
-1	dirigente	dirigente	NOUN	S	Number=Sing	430	parataxis	430:parataxis	_
-2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	462	det	462:det	_
+1	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	462	det	462:det	_
+2	quando	quando	SCONJ	CS	_	467	mark	467:mark	_
 
 # newturn_id = 0704000014-75
 # newutterance_id = 0704000014-75-1
-1	quando	quando	SCONJ	CS	_	467	mark	467:mark	_
-2	non	non	ADV	BN	PronType=Neg	467	advmod	467:advmod	_
-3	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	467	expl	467:expl	_
-4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	457	advcl	457:advcl	_
-5	problema	problema	NOUN	S	Gender=Masc|Number=Sing	467	nsubj	467:nsubj	_
-6	no	no	INTJ	I	_	467	advmod	467:advmod	_
-7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	471	obj	471:obj	_
-8	preoccupavo	preoccupare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	457	conj	457:conj	_
-9	per	per	ADP	E	_	474	case	474:case	_
+1	non	non	ADV	BN	PronType=Neg	467	advmod	467:advmod	_
+2	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	467	expl	467:expl	_
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	457	advcl	457:advcl	_
+4	problema	problema	NOUN	S	Gender=Masc|Number=Sing	467	nsubj	467:nsubj	_
+5	no	no	INTJ	I	_	467	advmod	467:advmod	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	471	obj	471:obj	_
+7	preoccupavo	preoccupare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	457	conj	457:conj	_
+8	per	per	ADP	E	_	474	case	474:case	_
+9	<PER>	_	_	_	_	_	_	_	_
 
 # newutterance_id = 0704000014-75-2
 1	<PER>	_	_	_	_	_	_	_	_
-2	<PER>	_	_	_	_	_	_	_	_
-3-4	nel	_	_	_	_	_	_	_	_
-3	in	in	ADP	E	_	481	case	481:case	_
-4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	481	det	481:det	_
-5	senso	senso	NOUN	S	Gender=Masc|Number=Sing	495	obl	495:obl	Seg=B-Conn
-6	che	che	SCONJ	CS	_	486	mark	486:mark	_
-7	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	486	nsubj	486:nsubj	_
-8	non	non	ADV	BN	PronType=Neg	486	advmod	486:advmod	_
-9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	486	cop	486:cop	_
-10	abilitato	abilitato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	471	ccomp	471:ccomp	_
-11	a	a	ADP	E	_	489	case	489:case	_
-12	nessuna	nessuno	DET	DI	PronType=Ind	489	det	489:det	_
-13	procedura	procedura	NOUN	S	Gender=Fem|Number=Sing	486	obl	486:obl	_
+2-3	nel	_	_	_	_	_	_	_	_
+2	in	in	ADP	E	_	481	case	481:case	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	481	det	481:det	_
+4	senso	senso	NOUN	S	Gender=Masc|Number=Sing	495	obl	495:obl	_
+5	che	che	SCONJ	CS	_	486	mark	486:mark	Seg=B-Conn
+6	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	486	nsubj	486:nsubj	_
+7	non	non	ADV	BN	PronType=Neg	486	advmod	486:advmod	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	486	cop	486:cop	_
+9	abilitato	abilitato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	471	ccomp	471:ccomp	_
+10	a	a	ADP	E	_	489	case	489:case	_
+11	nessuna	nessuno	DET	DI	PronType=Ind	489	det	489:det	_
+12	procedura	procedura	NOUN	S	Gender=Fem|Number=Sing	486	obl	486:obl	_
+13-14	all'	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	492	case	492:case	_
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	492	det	492:det	_
 
 # newturn_id = 0704000014-76
 # newutterance_id = 0704000014-76-1
-1-2	all'	_	_	_	_	_	_	_	_
-1	a	a	ADP	E	_	492	case	492:case	_
-2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	492	det	492:det	_
+1	interno	interno	NOUN	S	Gender=Masc|Number=Sing	489	nmod	489:nmod	_
 
 # newturn_id = 0704000014-77
 # newutterance_id = 0704000014-77-1
-1	interno	interno	NOUN	S	Gender=Masc|Number=Sing	489	nmod	489:nmod	Seg=B-Conn
-2	allora	allora	ADV	B	_	494	advmod	494:advmod	_
+1	allora	allora	ADV	B	_	494	advmod	494:advmod	Seg=B-Conn
+2	sì	sì	INTJ	I	_	495	advmod	495:advmod	_
 
 # newutterance_id = 0704000014-77-2
-1	sì	sì	INTJ	I	_	495	advmod	495:advmod	_
+1	devro	dovere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	471	conj	471:conj	_
 
 # newutterance_id = 0704000014-77-3
-1	devro	dovere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	471	conj	471:conj	_
-2	dovete	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	497	aux	497:aux	_
-3	fare	fare	VERB	V	VerbForm=Inf	467	conj	467:conj	_
-4	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	497	obj	497:obj	_
+1	dovete	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	497	aux	497:aux	_
+2	fare	fare	VERB	V	VerbForm=Inf	467	conj	467:conj	_
+3	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	497	obj	497:obj	_
+4	di	di	ADP	E	_	501	mark	501:mark	_
 
 # newturn_id = 0704000014-78
 # newutterance_id = 0704000014-78-1
-1	di	di	ADP	E	_	501	mark	501:mark	_
+1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	501	cop	501:cop	_
 
 # newutterance_id = 0704000014-78-2
-1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	501	cop	501:cop	_
+1	abilitazione	abilitazione	NOUN	S	Gender=Fem|Number=Sing	509	acl:relcl	509:acl:relcl	_
 
 # newturn_id = 0704000014-79
 # newutterance_id = 0704000014-79-1
-1	abilitazione	abilitazione	NOUN	S	Gender=Fem|Number=Sing	509	acl:relcl	509:acl:relcl	_
+1	okay	okay	INTJ	I	_	509	discourse	509:discourse	_
 
 # newturn_id = 0704000014-80
 # newutterance_id = 0704000014-80-1
-1	okay	okay	INTJ	I	_	509	discourse	509:discourse	_
-2	sì	sì	INTJ	I	_	514	discourse	514:discourse	_
-3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	505	det	505:det	_
-4	referente	referente	NOUN	S	Gender=Masc|Number=Sing	514	nsubj	514:nsubj	_
-5	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	507	aux	507:aux	_
+1	sì	sì	INTJ	I	_	514	discourse	514:discourse	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	505	det	505:det	_
+3	referente	referente	NOUN	S	Gender=Masc|Number=Sing	514	nsubj	514:nsubj	_
+4	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	507	aux	507:aux	_
+5	fare	fare	VERB	V	VerbForm=Inf	481	parataxis	481:parataxis	_
 
 # newutterance_id = 0704000014-80-2
-1	fare	fare	VERB	V	VerbForm=Inf	481	parataxis	481:parataxis	_
-2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	509	cop	509:cop	_
-3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	495	ccomp	495:ccomp	_
-4	che	che	PRON	PR	PronType=Rel	512	obj	512:obj	_
-5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	512	obj	512:obj	_
-6	dire	dire	VERB	V	VerbForm=Inf	509	acl:relcl	509:acl:relcl	_
-7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	514	obj	514:obj	_
-8	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	497	conj	497:conj	_
+1	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	509	cop	509:cop	_
+2	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	495	ccomp	495:ccomp	_
+3	che	che	PRON	PR	PronType=Rel	512	obj	512:obj	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	512	obj	512:obj	_
+5	dire	dire	VERB	V	VerbForm=Inf	509	acl:relcl	509:acl:relcl	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	514	obj	514:obj	_
+7	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	497	conj	497:conj	_
+8	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	525	nsubj	525:nsubj	_
 
 # newturn_id = 0704000014-81
 # newutterance_id = 0704000014-81-1
-1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	525	nsubj	525:nsubj	_
-2	sì	sì	INTJ	I	_	521	discourse	521:discourse	Seg=B-Conn
-3	quindi	quindi	ADV	B	_	521	advmod	521:advmod	_
-4	a	a	ADP	E	_	520	case	520:case	_
-5	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	520	det	520:det	_
-6	punto	punto	NOUN	S	Gender=Masc|Number=Sing	521	obl	521:obl	_
-7	devo	dovere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	507	conj	507:conj	_
-8	non	non	ADV	BN	PronType=Neg	525	advmod	525:advmod	_
-9	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	525	aux	525:aux	_
-10	prima	prima	ADV	B	_	525	advmod	525:advmod	_
-11	fare	fare	VERB	V	VerbForm=Inf	497	conj	497:conj	_
-12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	527	det	527:det	_
+1	sì	sì	INTJ	I	_	521	discourse	521:discourse	_
+2	quindi	quindi	ADV	B	_	521	advmod	521:advmod	Seg=B-Conn
+3	a	a	ADP	E	_	520	case	520:case	_
+4	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	520	det	520:det	_
+5	punto	punto	NOUN	S	Gender=Masc|Number=Sing	521	obl	521:obl	_
+6	devo	dovere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	507	conj	507:conj	_
+7	non	non	ADV	BN	PronType=Neg	525	advmod	525:advmod	_
+8	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	525	aux	525:aux	_
+9	prima	prima	ADV	B	_	525	advmod	525:advmod	_
+10	fare	fare	VERB	V	VerbForm=Inf	497	conj	497:conj	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	527	det	527:det	_
+12	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	525	obj	525:obj	_
 
 # newturn_id = 0704000014-82
 # newutterance_id = 0704000014-82-1
-1	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	525	obj	525:obj	_
-2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	529	cop	529:cop	_
-3	sì	sì	INTJ	I	_	521	conj	521:conj	Seg=B-Conn
-4	se	se	SCONJ	CS	_	533	mark	533:mark	_
-5	non	non	ADV	BN	PronType=Neg	533	advmod	533:advmod	_
-6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	533	aux	533:aux	_
-7	abilitato	abilitato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	521	advcl	521:advcl	_
+1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	529	cop	529:cop	_
+2	sì	sì	INTJ	I	_	521	conj	521:conj	_
+3	se	se	SCONJ	CS	_	533	mark	533:mark	Seg=B-Conn
+4	non	non	ADV	BN	PronType=Neg	533	advmod	533:advmod	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	533	aux	533:aux	_
+6	abilitato	abilitato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	521	advcl	521:advcl	_
+7-8	alle	_	_	_	_	_	_	_	_
+7	a	a	ADP	E	_	536	case	536:case	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	536	det	536:det	_
 
 # newutterance_id = 0704000014-82-2
-1-2	alle	_	_	_	_	_	_	_	_
-1	a	a	ADP	E	_	536	case	536:case	_
-2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	536	det	536:det	_
-3	di	di	ADP	E	_	537	case	537:case	_
-4	abilitazione	abilitazione	NOUN	S	Gender=Fem|Number=Sing	533	obl	533:obl	_
-5-6	al	_	_	_	_	_	_	_	_
-5	a	a	ADP	E	_	540	case	540:case	_
-6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	540	det	540:det	_
-7	protocollo	protocollo	NOUN	S	Gender=Masc|Number=Sing	537	nmod	537:nmod	_
-8	ad	a	ADP	E	_	542	case	542:case	_
+1	di	di	ADP	E	_	537	case	537:case	_
+2	abilitazione	abilitazione	NOUN	S	Gender=Fem|Number=Sing	533	obl	533:obl	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	540	case	540:case	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	540	det	540:det	_
+5	protocollo	protocollo	NOUN	S	Gender=Masc|Number=Sing	537	nmod	537:nmod	_
+6	ad	a	ADP	E	_	542	case	542:case	_
+7	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	543	nmod	543:nmod	_
 
 # newturn_id = 0704000014-83
 # newutterance_id = 0704000014-83-1
-1	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	543	nmod	543:nmod	_
-2	procedure	procedura	NOUN	S	Gender=Fem|Number=Plur	540	nmod	540:nmod	_
+1	procedure	procedura	NOUN	S	Gender=Fem|Number=Plur	540	nmod	540:nmod	_
+2	sì	sì	INTJ	I	_	549	discourse	549:discourse	_
 
 # newturn_id = 0704000014-84
 # newutterance_id = 0704000014-84-1
-1	sì	sì	INTJ	I	_	549	discourse	549:discourse	_
-2	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	525	conj	525:conj	Seg=B-Conn
+1	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	525	conj	525:conj	_
+2	perchè	perché	SCONJ	CS	_	549	mark	549:mark	Seg=B-Conn
 
 # newutterance_id = 0704000014-84-2
-1	perchè	perché	SCONJ	CS	_	549	mark	549:mark	_
-2-3	gliel'	_	_	_	_	_	_	_	_
-2	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	549	iobj	549:iobj	_
-3	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	549	obj	549:obj	_
-4	apro	aprire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	571	advcl	571:advcl	_
-5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	549	nsubj	549:nsubj	Seg=B-Conn
-6	o	o	CCONJ	CC	_	552	cc	552:cc	_
-7	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	549	conj	549:conj	_
+1-2	gliel'	_	_	_	_	_	_	_	_
+1	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	549	iobj	549:iobj	_
+2	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	549	obj	549:obj	_
+3	apro	aprire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	571	advcl	571:advcl	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	549	nsubj	549:nsubj	_
+5	o	o	CCONJ	CC	_	552	cc	552:cc	Seg=B-Conn
+6	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	549	conj	549:conj	_
+7	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	552	obj	552:obj	_
 
 # newturn_id = 0704000014-85
 # newutterance_id = 0704000014-85-1
-1	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	552	obj	552:obj	_
-2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	555	det	555:det	_
-3	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	556	obj	556:obj	_
-4	mandavate	mandare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	533	conj	533:conj	_
-5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	558	det	558:det	_
-6	lettera	lettera	NOUN	S	Gender=Fem|Number=Sing	556	obj	556:obj	_
-7-8	del	_	_	_	_	_	_	_	_
-7	di	di	ADP	E	_	561	case	561:case	_
-8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	561	det	561:det	_
-9	PIN	PIN	PROPN	SP	_	558	nmod	558:nmod	_
-10	e	e	CCONJ	CC	_	564	cc	564:cc	_
-11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	564	det	564:det	_
-12	PUC	PUC	PROPN	SP	_	561	conj	561:conj	_
-13	anche	anche	ADV	B	_	569	mark	569:mark	Seg=B-Conn
-14	se	se	SCONJ	CS	_	569	mark	569:mark	_
+1	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	555	det	555:det	_
+2	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	556	obj	556:obj	_
+3	mandavate	mandare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	533	conj	533:conj	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	558	det	558:det	_
+5	lettera	lettera	NOUN	S	Gender=Fem|Number=Sing	556	obj	556:obj	_
+6-7	del	_	_	_	_	_	_	_	_
+6	di	di	ADP	E	_	561	case	561:case	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	561	det	561:det	_
+8	PIN	PIN	PROPN	SP	_	558	nmod	558:nmod	_
+9	e	e	CCONJ	CC	_	564	cc	564:cc	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	564	det	564:det	_
+11	PUC	PUC	PROPN	SP	_	561	conj	561:conj	_
+12	anche	anche	ADV	B	_	569	mark	569:mark	_
+13	se	se	SCONJ	CS	_	569	mark	569:mark	Seg=B-Conn
+14	non	non	ADV	BN	PronType=Neg	569	advmod	569:advmod	_
 
 # newutterance_id = 0704000014-85-2
-1	non	non	ADV	BN	PronType=Neg	569	advmod	569:advmod	_
+1	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	569	cop	569:cop	_
 
 # newutterance_id = 0704000014-85-3
-1	eravamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	569	cop	569:cop	_
-2	abilitati	abilitare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	556	advcl	556:advcl	_
+1	abilitati	abilitare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	556	advcl	556:advcl	_
+2	no	no	INTJ	I	_	569	advmod	569:advmod	_
 
 # newturn_id = 0704000014-86
 # newutterance_id = 0704000014-86-1
-1	no	no	INTJ	I	_	569	advmod	569:advmod	_
-2	guardi	guardare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	556	conj	556:conj	_
+1	guardi	guardare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	556	conj	556:conj	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	571	nsubj	571:nsubj	_
 
 # newturn_id = 0704000014-87
 # newutterance_id = 0704000014-87-1
-1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	571	nsubj	571:nsubj	_
-2	più	più	ADV	B	_	571	advmod	571:advmod	_
-3	che	che	SCONJ	CS	_	577	mark	577:mark	_
+1	più	più	ADV	B	_	571	advmod	571:advmod	_
+2	che	che	SCONJ	CS	_	577	mark	577:mark	_
+3	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	577	nsubj	577:nsubj	_
 
 # newutterance_id = 0704000014-87-2
-1	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	577	nsubj	577:nsubj	_
-2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	577	obj	577:obj	_
-3	dia	dare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	556	ccomp	556:ccomp	_
+1	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	577	obj	577:obj	_
+2	dia	dare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	556	ccomp	556:ccomp	_
+3	allora	allora	ADV	B	_	577	advmod	577:advmod	_
 
 # newturn_id = 0704000014-88
 # newutterance_id = 0704000014-88-1
-1	allora	allora	ADV	B	_	577	advmod	577:advmod	_
-2	perchè	perché	SCONJ	CS	_	587	mark	587:mark	_
-3	adesso	adesso	ADV	B	_	587	advmod	587:advmod	_
-4	veramente	veramente	ADV	B	_	587	advmod	587:advmod	_
-5	anche	anche	ADV	B	_	584	advmod	584:advmod	_
-6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	584	det	584:det	_
-7	bollature	bollatura	NOUN	S	Gender=Fem|Number=Plur	587	nsubj	587:nsubj	_
-8	di	di	ADP	E	_	587	mark	587:mark	_
-9	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	587	aux	587:aux	_
-10	vedere	vedere	VERB	V	VerbForm=Inf	571	ccomp	571:ccomp	_
-11	per	per	ADP	E	_	589	case	589:case	_
+1	perchè	perché	SCONJ	CS	_	587	mark	587:mark	_
+2	adesso	adesso	ADV	B	_	587	advmod	587:advmod	_
+3	veramente	veramente	ADV	B	_	587	advmod	587:advmod	_
+4	anche	anche	ADV	B	_	584	advmod	584:advmod	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	584	det	584:det	_
+6	bollature	bollatura	NOUN	S	Gender=Fem|Number=Plur	587	nsubj	587:nsubj	_
+7	di	di	ADP	E	_	587	mark	587:mark	_
+8	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	587	aux	587:aux	_
+9	vedere	vedere	VERB	V	VerbForm=Inf	571	ccomp	571:ccomp	_
+10	per	per	ADP	E	_	589	case	589:case	_
+11	cui	cui	PRON	PR	PronType=Rel	591	obl	591:obl	_
 
 # newturn_id = 0704000014-89
 # newutterance_id = 0704000014-89-1
-1	cui	cui	PRON	PR	PronType=Rel	591	obl	591:obl	Seg=B-Conn
-2	però	però	ADV	B	_	591	advmod	591:advmod	_
-3	guardi	guardare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	587	ccomp	587:ccomp	_
-4	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	591	obj	591:obj	_
-5	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	577	conj	577:conj	_
-6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	598	nsubj	598:nsubj	_
+1	però	però	ADV	B	_	591	advmod	591:advmod	Seg=B-Conn
+2	guardi	guardare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	587	ccomp	587:ccomp	_
+3	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	591	obj	591:obj	_
+4	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	577	conj	577:conj	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	598	nsubj	598:nsubj	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	598	iobj	598:iobj	_
 7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	598	iobj	598:iobj	_
-8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	598	iobj	598:iobj	_
-9	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	598	aux	598:aux	_
-10	capitato	capitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	577	conj	577:conj	_
-11	in	in	ADP	E	_	600	case	600:case	_
-12	passato	passato	NOUN	S	Gender=Masc|Number=Sing	598	obl	598:obl	_
-13	di	di	ADP	E	_	602	mark	602:mark	_
-14	aprire	aprire	VERB	V	VerbForm=Inf	598	ccomp	598:ccomp	_
-15-16	delle	_	_	_	_	_	_	_	_
-15	di	di	ADP	E	_	605	case	605:case	_
-16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	605	det	605:det	_
-17	chiamate	chiamata	NOUN	S	Gender=Fem|Number=Plur	602	obl	602:obl	_
-18	di	di	ADP	E	_	608	case	608:case	_
-19	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	608	det	608:det	_
-20	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	605	nmod	605:nmod	_
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	598	aux	598:aux	_
+9	capitato	capitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	577	conj	577:conj	_
+10	in	in	ADP	E	_	600	case	600:case	_
+11	passato	passato	NOUN	S	Gender=Masc|Number=Sing	598	obl	598:obl	_
+12	di	di	ADP	E	_	602	mark	602:mark	_
+13	aprire	aprire	VERB	V	VerbForm=Inf	598	ccomp	598:ccomp	_
+14-15	delle	_	_	_	_	_	_	_	_
+14	di	di	ADP	E	_	605	case	605:case	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	605	det	605:det	_
+16	chiamate	chiamata	NOUN	S	Gender=Fem|Number=Plur	602	obl	602:obl	_
+17	di	di	ADP	E	_	608	case	608:case	_
+18	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	608	det	608:det	_
+19	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	605	nmod	605:nmod	_
+20-21	nel	_	_	_	_	_	_	_	_
+20	in	in	ADP	E	_	611	case	611:case	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	611	det	611:det	_
 
 # newturn_id = 0704000014-90
 # newutterance_id = 0704000014-90-1
-1-2	nel	_	_	_	_	_	_	_	_
-1	in	in	ADP	E	_	611	case	611:case	_
-2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	611	det	611:det	_
+1	sì	sì	NOUN	S	Gender=Masc|Number=Sing	602	obl	602:obl	_
 
 # newutterance_id = 0704000014-90-2
-1	sì	sì	NOUN	S	Gender=Masc|Number=Sing	602	obl	602:obl	_
+1	senso	senso	NOUN	S	Gender=Masc|Number=Sing	598	obl	598:obl	_
 
 # newturn_id = 0704000014-91
 # newutterance_id = 0704000014-91-1
-1	senso	senso	NOUN	S	Gender=Masc|Number=Sing	598	obl	598:obl	_
-2	di	di	ADP	E	_	614	case	614:case	_
-3	reinvio	reinvio	NOUN	S	Gender=Masc|Number=Sing	612	nmod	612:nmod	_
-4	PIN	PIN	PROPN	SP	_	614	nmod	614:nmod	_
-5	e	e	CCONJ	CC	_	617	cc	617:cc	_
-6	PUC	PUC	PROPN	SP	_	615	conj	615:conj	_
+1	di	di	ADP	E	_	614	case	614:case	_
+2	reinvio	reinvio	NOUN	S	Gender=Masc|Number=Sing	612	nmod	612:nmod	_
+3	PIN	PIN	PROPN	SP	_	614	nmod	614:nmod	_
+4	e	e	CCONJ	CC	_	617	cc	617:cc	_
+5	PUC	PUC	PROPN	SP	_	615	conj	615:conj	_
+6	per	per	ADP	E	_	620	case	620:case	_
 
 # newturn_id = 0704000014-92
 # newutterance_id = 0704000014-92-1
-1	per	per	ADP	E	_	620	case	620:case	_
+1	sì	sì	INTJ	I	_	625	obl	625:obl	_
 
 # newutterance_id = 0704000014-92-2
-1	sì	sì	INTJ	I	_	625	obl	625:obl	_
+1	persone	persona	NOUN	S	Gender=Fem|Number=Plur	598	nsubj	598:nsubj	_
 
 # newturn_id = 0704000014-93
 # newutterance_id = 0704000014-93-1
-1	persone	persona	NOUN	S	Gender=Fem|Number=Plur	598	nsubj	598:nsubj	_
-2	che	che	PRON	PR	PronType=Rel	625	nsubj	625:nsubj	_
-3	magari	magari	ADV	B	_	625	advmod	625:advmod	_
-4	non	non	ADV	BN	PronType=Neg	625	advmod	625:advmod	_
-5	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	625	cop	625:cop	_
+1	che	che	PRON	PR	PronType=Rel	625	nsubj	625:nsubj	_
+2	magari	magari	ADV	B	_	625	advmod	625:advmod	_
+3	non	non	ADV	BN	PronType=Neg	625	advmod	625:advmod	_
+4	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	625	cop	625:cop	_
+5	abilitate	abilitare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	620	acl:relcl	620:acl:relcl	_
 
 # newturn_id = 0704000014-94
 # newutterance_id = 0704000014-94-1
-1	abilitate	abilitare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	620	acl:relcl	620:acl:relcl	_
+1	okay	okay	INTJ	I	_	620	discourse	620:discourse	_
 
 # newutterance_id = 0704000014-94-2
-1	okay	okay	INTJ	I	_	620	discourse	620:discourse	Seg=B-Conn
-2	e	e	CCONJ	CC	_	636	cc	636:cc	_
+1	e	e	CCONJ	CC	_	636	cc	636:cc	Seg=B-Conn
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	629	det	629:det	_
 
 # newturn_id = 0704000014-95
 # newutterance_id = 0704000014-95-1
-1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	629	det	629:det	_
-2	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	625	nsubj	625:nsubj	_
-3-4	delle	_	_	_	_	_	_	_	_
-3	di	di	ADP	E	_	632	case	632:case	_
-4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	632	det	632:det	_
-5	abilitazioni	abilitazione	NOUN	S	Gender=Fem|Number=Plur	629	nmod	629:nmod	_
-6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	636	obj	636:obj	_
-7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	635	aux	635:aux	_
-8	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	620	acl:relcl	620:acl:relcl	_
+1	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	625	nsubj	625:nsubj	_
+2-3	delle	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	632	case	632:case	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	632	det	632:det	_
+4	abilitazioni	abilitazione	NOUN	S	Gender=Fem|Number=Plur	629	nmod	629:nmod	_
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	636	obj	636:obj	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	635	aux	635:aux	_
+7	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	620	acl:relcl	620:acl:relcl	_
+8	guarda	guardare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	598	conj	598:conj	_
 
 # newturn_id = 0704000014-96
 # newutterance_id = 0704000014-96-1
-1	guarda	guardare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	598	conj	598:conj	_
-2	sì	sì	INTJ	I	_	636	obj	636:obj	_
-3	ma	ma	CCONJ	CC	_	643	cc	643:cc	_
-4	okay	okay	INTJ	I	_	643	discourse	643:discourse	Seg=B-Conn
-5	allora	allora	ADV	B	_	643	advmod	643:advmod	_
-6	niente	niente	PRON	PI	PronType=Ind	643	nsubj	643:nsubj	Seg=B-Conn
-7	allora	allora	ADV	B	_	643	advmod	643:advmod	_
-8	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	636	conj	636:conj	_
-9	prima	prima	ADV	B	_	646	advmod	646:advmod	_
-10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	646	det	646:det	_
+1	sì	sì	INTJ	I	_	636	obj	636:obj	_
+2	ma	ma	CCONJ	CC	_	643	cc	643:cc	_
+3	okay	okay	INTJ	I	_	643	discourse	643:discourse	_
+4	allora	allora	ADV	B	_	643	advmod	643:advmod	Seg=B-Conn
+5	niente	niente	PRON	PI	PronType=Ind	643	nsubj	643:nsubj	_
+6	allora	allora	ADV	B	_	643	advmod	643:advmod	Seg=B-Conn
+7	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	636	conj	636:conj	_
+8	prima	prima	ADV	B	_	646	advmod	646:advmod	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	646	det	646:det	_
+10	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	643	obj	643:obj	_
 
 # newutterance_id = 0704000014-96-2
-1	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	643	obj	643:obj	_
-2	prima	prima	ADV	B	_	649	advmod	649:advmod	_
-3	va	andare	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	649	aux:pass	649:aux:pass	_
-4	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	643	advcl	643:advcl	_
-5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	651	det	651:det	_
-6	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	649	obj	649:obj	_
-7	di	di	ADP	E	_	653	case	653:case	_
-8	abilitazione	abilitazione	NOUN	S	Gender=Fem|Number=Sing	651	nmod	651:nmod	_
-9	per	per	ADP	E	_	656	case	656:case	_
-10	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	656	det	656:det	_
+1	prima	prima	ADV	B	_	649	advmod	649:advmod	_
+2	va	andare	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	649	aux:pass	649:aux:pass	_
+3	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	643	advcl	643:advcl	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	651	det	651:det	_
+5	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	649	obj	649:obj	_
+6	di	di	ADP	E	_	653	case	653:case	_
+7	abilitazione	abilitazione	NOUN	S	Gender=Fem|Number=Sing	651	nmod	651:nmod	_
+8	per	per	ADP	E	_	656	case	656:case	_
+9	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	656	det	656:det	_
+10	persona	persona	NOUN	S	Gender=Fem|Number=Sing	649	obl	649:obl	_
 
 # newturn_id = 0704000014-97
 # newutterance_id = 0704000014-97-1
-1	persona	persona	NOUN	S	Gender=Fem|Number=Sing	649	obl	649:obl	Seg=B-Conn
-2	allora	allora	ADV	B	_	658	advmod	658:advmod	_
+1	allora	allora	ADV	B	_	658	advmod	658:advmod	Seg=B-Conn
+2	cancelli	cancello	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	636	advcl	636:advcl	_
 
 # newturn_id = 0704000014-98
 # newutterance_id = 0704000014-98-1
-1	cancelli	cancello	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	636	advcl	636:advcl	_
-2	allora	allora	ADV	B	_	658	advmod	658:advmod	_
+1	allora	allora	ADV	B	_	658	advmod	658:advmod	_
+2	ca	circa	ADP	E	_	658	advmod	658:advmod	_
 
 # newutterance_id = 0704000014-98-2
-1	ca	circa	ADP	E	_	658	advmod	658:advmod	_
+1	<PER>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000014-99
 # newutterance_id = 0704000014-99-1
-1	<PER>	_	_	_	_	_	_	_	_
+1	annulliamo	annullare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	635	parataxis	635:parataxis	_
 
 # newturn_id = 0704000014-100
 # newutterance_id = 0704000014-100-1
-1	annulliamo	annullare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	635	parataxis	635:parataxis	_
+1	sì	sì	INTJ	I	_	664	obj	664:obj	_
 
 # newutterance_id = 0704000014-100-2
-1	sì	sì	INTJ	I	_	664	obj	664:obj	_
-2	<PER>	_	_	_	_	_	_	_	_
+1	<PER>	_	_	_	_	_	_	_	_
+2	però	però	ADV	B	_	680	advmod	680:advmod	Seg=B-Conn
 
 # newturn_id = 0704000014-101
 # newutterance_id = 0704000014-101-1
-1	però	però	ADV	B	_	680	advmod	680:advmod	_
-2	per	per	ADP	E	_	672	case	672:case	_
-3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	672	det	672:det	_
+1	per	per	ADP	E	_	672	case	672:case	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	672	det	672:det	_
+3	dirigente	dirigente	NOUN	S	Number=Sing	680	obl	680:obl	_
 
 # newturn_id = 0704000014-102
 # newutterance_id = 0704000014-102-1
-1	dirigente	dirigente	NOUN	S	Number=Sing	680	obl	680:obl	_
+1	sì	sì	INTJ	I	_	680	discourse	680:discourse	_
 2	sì	sì	INTJ	I	_	680	discourse	680:discourse	_
-3	sì	sì	INTJ	I	_	680	discourse	680:discourse	_
-4	sì	sì	INTJ	I	_	664	discourse	664:discourse	_
-5	sì	sì	INTJ	I	_	680	discourse	680:discourse	_
-6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	678	det	678:det	_
+3	sì	sì	INTJ	I	_	664	discourse	664:discourse	_
+4	sì	sì	INTJ	I	_	680	discourse	680:discourse	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	678	det	678:det	_
+6	dirigente	dirigente	NOUN	S	Number=Sing	680	nsubj	680:nsubj	_
 
 # newutterance_id = 0704000014-102-2
-1	dirigente	dirigente	NOUN	S	Number=Sing	680	nsubj	680:nsubj	_
-2	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	680	obj	680:obj	_
-3	manteniamo	mantenere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	664	parataxis	664:parataxis	_
-4	buona	buono	ADJ	A	Gender=Fem|Number=Sing	682	conj	682:conj	_
+1	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	680	obj	680:obj	_
+2	manteniamo	mantenere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	664	parataxis	664:parataxis	_
+3	buona	buono	ADJ	A	Gender=Fem|Number=Sing	682	conj	682:conj	_
+4	urgente	urgente	ADJ	A	Number=Sing	684	conj	684:conj	_
 
 # newturn_id = 0704000014-103
 # newutterance_id = 0704000014-103-1
-1	urgente	urgente	ADJ	A	Number=Sing	684	conj	684:conj	_
-2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	684	cop	684:cop	_
-3	abilitato	abilitato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	680	parataxis	680:parataxis	_
-4	non	non	ADV	BN	PronType=Neg	687	advmod	687:advmod	_
-5	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	687	expl	687:expl	_
+1	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	684	cop	684:cop	_
+2	abilitato	abilitato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	680	parataxis	680:parataxis	_
+3	non	non	ADV	BN	PronType=Neg	687	advmod	687:advmod	_
+4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	687	expl	687:expl	_
+5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	684	conj	684:conj	_
 
 # newturn_id = 0704000014-104
 # newutterance_id = 0704000014-104-1
-1	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	684	conj	684:conj	_
-2	problema	problema	NOUN	S	Gender=Masc|Number=Sing	687	nsubj	687:nsubj	_
-3	okay	okay	INTJ	I	_	691	discourse	691:discourse	_
-4	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	691	obj	691:obj	_
-5	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	687	parataxis	687:parataxis	_
-6	buongiorno	buongiorno	INTJ	I	_	691	discourse	691:discourse	_
+1	problema	problema	NOUN	S	Gender=Masc|Number=Sing	687	nsubj	687:nsubj	_
+2	okay	okay	INTJ	I	_	691	discourse	691:discourse	_
+3	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	691	obj	691:obj	_
+4	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	687	parataxis	687:parataxis	_
+5	buongiorno	buongiorno	INTJ	I	_	691	discourse	691:discourse	_
+6	altrettanto	altrettanto	ADV	B	_	695	advmod	695:advmod	_
 
 # newutterance_id = 0704000014-104-2
-1	altrettanto	altrettanto	ADV	B	_	695	advmod	695:advmod	_
-2	okay	okay	INTJ	I	_	695	discourse	695:discourse	_
-3	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	691	parataxis	691:parataxis	Seg=B-Conn
-4	così	così	ADV	B	_	695	advmod	695:advmod	_
-5	grazie	grazie	INTJ	I	_	699	case	699:case	_
-6	a	a	ADP	E	_	697	fixed	697:fixed	_
-7	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	695	obl	695:obl	_
-8	signora	signore	NOUN	S	Gender=Fem|Number=Sing	699	nmod	699:nmod	_
-9	buona	buono	ADJ	A	Gender=Fem|Number=Sing	700	amod	700:amod	_
-
-# newturn_id = 0704000014-105
-# newutterance_id = 0704000014-105-1
-1	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	700	nmod	700:nmod	_
+1	okay	okay	INTJ	I	_	695	discourse	695:discourse	_
+2	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	691	parataxis	691:parataxis	_
+3	così	così	ADV	B	_	695	advmod	695:advmod	Seg=B-Conn
+4	grazie	grazie	INTJ	I	_	699	case	699:case	_
+5	a	a	ADP	E	_	697	fixed	697:fixed	_
+6	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	695	obl	695:obl	_
+7	signora	signore	NOUN	S	Gender=Fem|Number=Sing	699	nmod	699:nmod	_
+8	buona	buono	ADJ	A	Gender=Fem|Number=Sing	700	amod	700:amod	_
+9	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	700	nmod	700:nmod	_
 
 # newdoc_id = 0704000015
 # newturn_id = 0704000015-1
@@ -7183,379 +7180,375 @@
 8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	678	ccomp	678:ccomp	_
 9	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	682	obj	682:obj	_
 10	allora	allora	ADV	B	_	682	advmod	682:advmod	_
-11	di	di	ADP	E	_	687	mark	687:mark	_
-12	ce	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	687	expl	687:expl	_
-13	parlo	parlare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	694	conj	694:conj	_
-14	con	con	ADP	E	_	690	case	690:case	_
-15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	690	det	690:det	_
+11	dice	di	ADP	E	_	687	mark	687:mark	_
+12	parlo	parlare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	694	conj	694:conj	_
+13	con	con	ADP	E	_	690	case	690:case	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	690	det	690:det	_
+15	referente	referente	NOUN	S	Gender=Fem|Number=Sing	687	obl	687:obl	_
 
 # newturn_id = 0704000016-83
 # newutterance_id = 0704000016-83-1
-1	referente	referente	NOUN	S	Gender=Fem|Number=Sing	687	obl	687:obl	_
-2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	694	cop	694:cop	Seg=B-Conn
+1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	694	cop	694:cop	_
+2	invece	invece	ADV	B	_	694	advmod	694:advmod	Seg=B-Conn
 
 # newutterance_id = 0704000016-83-2
-1	invece	invece	ADV	B	_	694	advmod	694:advmod	_
+1	<CHAR>	_	_	_	_	_	_	_	_
 
 # newutterance_id = 0704000016-83-3
-1	<CHAR>	_	_	_	_	_	_	_	_
-2	<PER>	_	_	_	_	_	_	_	_
+1	<PER>	_	_	_	_	_	_	_	_
+2	no	no	INTJ	I	_	694	nmod	694:nmod	_
 
 # newturn_id = 0704000016-84
 # newutterance_id = 0704000016-84-1
-1	no	no	INTJ	I	_	694	nmod	694:nmod	_
-2	e	e	CCONJ	CC	_	702	cc	702:cc	_
-3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	702	iobj	702:iobj	_
-4	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	678	conj	678:conj	_
-5	di	di	ADP	E	_	705	mark	705:mark	_
-6	aver	avere	AUX	VA	VerbForm=Inf	705	aux	705:aux	_
-7	provato	provare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	702	ccomp	702:ccomp	_
+1	e	e	CCONJ	CC	_	702	cc	702:cc	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	702	iobj	702:iobj	_
+3	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	678	conj	678:conj	_
+4	di	di	ADP	E	_	705	mark	705:mark	_
+5	aver	avere	AUX	VA	VerbForm=Inf	705	aux	705:aux	_
+6	provato	provare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	702	ccomp	702:ccomp	_
+7	anche	anche	ADV	B	_	710	advmod	710:advmod	_
 
 # newturn_id = 0704000016-85
 # newutterance_id = 0704000016-85-1
-1	anche	anche	ADV	B	_	710	advmod	710:advmod	_
-2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	710	cop	710:cop	_
-3	a	a	ADP	E	_	710	case	710:case	_
-4	sto	questo	DET	DD	PronType=Dem	710	det	710:det	_
-5	punto	punto	NOUN	S	Gender=Masc|Number=Sing	714	obl	714:obl	_
-6	a	a	ADP	E	_	713	case	713:case	_
-7	sto	questo	DET	DD	PronType=Dem	713	det	713:det	_
+1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	710	cop	710:cop	_
+2	a	a	ADP	E	_	710	case	710:case	_
+3	sto	questo	DET	DD	PronType=Dem	710	det	710:det	_
+4	punto	punto	NOUN	S	Gender=Masc|Number=Sing	714	obl	714:obl	_
+5	a	a	ADP	E	_	713	case	713:case	_
+6	sto	questo	DET	DD	PronType=Dem	713	det	713:det	_
+7	punto	punto	NOUN	S	Gender=Masc|Number=Sing	714	obl	714:obl	_
 
 # newutterance_id = 0704000016-85-2
-1	punto	punto	NOUN	S	Gender=Masc|Number=Sing	714	obl	714:obl	_
-2	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	694	conj	694:conj	_
-3	e	e	CCONJ	CC	_	718	cc	718:cc	_
-4	quindi	quindi	ADV	B	_	718	advmod	718:advmod	_
-5	non	non	ADV	BN	PronType=Neg	718	advmod	718:advmod	_
-6	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	727	conj	727:conj	_
+1	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	694	conj	694:conj	_
+2	e	e	CCONJ	CC	_	718	cc	718:cc	_
+3	quindi	quindi	ADV	B	_	718	advmod	718:advmod	_
+4	non	non	ADV	BN	PronType=Neg	718	advmod	718:advmod	_
+5	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	727	conj	727:conj	_
+6	proprio	proprio	ADV	B	_	720	advmod	720:advmod	_
 
 # newturn_id = 0704000016-86
 # newutterance_id = 0704000016-86-1
-1	proprio	proprio	ADV	B	_	720	advmod	720:advmod	_
-2	senta	sentire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	710	conj	710:conj	_
-3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	722	det	722:det	_
-4	referente	referente	NOUN	S	Gender=Fem|Number=Sing	720	obj	720:obj	Seg=B-Conn
-5	perchè	perché	SCONJ	CS	_	727	mark	727:mark	_
-6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	727	nsubj	727:nsubj	_
-7	non	non	ADV	BN	PronType=Neg	727	advmod	727:advmod	_
-8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	727	obj	727:obj	_
-9	occupiamo	occupare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	720	advcl	720:advcl	_
+1	senta	sentire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	710	conj	710:conj	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	722	det	722:det	_
+3	referente	referente	NOUN	S	Gender=Fem|Number=Sing	720	obj	720:obj	_
+4	perchè	perché	SCONJ	CS	_	727	mark	727:mark	Seg=B-Conn
+5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	727	nsubj	727:nsubj	_
+6	non	non	ADV	BN	PronType=Neg	727	advmod	727:advmod	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	727	obj	727:obj	_
+8	occupiamo	occupare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	720	advcl	720:advcl	_
+9	di	di	ADP	E	_	730	mark	730:mark	_
 10	di	di	ADP	E	_	730	mark	730:mark	_
-11	di	di	ADP	E	_	730	mark	730:mark	_
-12	dare	dare	VERB	V	VerbForm=Inf	727	ccomp	727:ccomp	_
-13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	732	det	732:det	_
-14	chiavi	chiave	NOUN	S	Gender=Fem|Number=Plur	730	obj	730:obj	_
-15	per	per	ADP	E	_	734	case	734:case	_
+11	dare	dare	VERB	V	VerbForm=Inf	727	ccomp	727:ccomp	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	732	det	732:det	_
+13	chiavi	chiave	NOUN	S	Gender=Fem|Number=Plur	730	obj	730:obj	_
+14	per	per	ADP	E	_	734	case	734:case	_
+15	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	730	obl	730:obl	_
 
 # newturn_id = 0704000016-87
 # newutterance_id = 0704000016-87-1
-1	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	730	obl	730:obl	_
-2	certo	certo	ADV	B	_	738	advmod	738:advmod	_
-3	no	no	INTJ	I	_	738	advmod	738:advmod	_
-4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	738	nsubj	738:nsubj	_
+1	certo	certo	ADV	B	_	738	advmod	738:advmod	_
+2	no	no	INTJ	I	_	738	advmod	738:advmod	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	738	nsubj	738:nsubj	_
+4	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	727	conj	727:conj	_
 
 # newutterance_id = 0704000016-87-2
-1	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	727	conj	727:conj	_
-2	per	per	ADP	E	_	741	case	741:case	_
-3	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	741	det	741:det	_
-4	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	738	obl	738:obl	_
-5	di	di	ADP	E	_	743	case	743:case	_
+1	per	per	ADP	E	_	741	case	741:case	_
+2	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	741	det	741:det	_
+3	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	738	obl	738:obl	_
+4	di	di	ADP	E	_	743	case	743:case	_
+5	accesso	accesso	NOUN	S	Gender=Masc|Number=Sing	741	nmod	741:nmod	_
 
 # newturn_id = 0704000016-88
 # newutterance_id = 0704000016-88-1
-1	accesso	accesso	NOUN	S	Gender=Masc|Number=Sing	741	nmod	741:nmod	Seg=B-Conn
-2	siccome	siccome	SCONJ	CS	_	747	mark	747:mark	_
-3	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	747	aux	747:aux	_
-4	state	essere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	747	aux	747:aux	_
-5	date	dare	VERB	V	Gender=Fem|Number=Plur|Person=2|Tense=Pres|VerbForm=Part	738	advcl	738:advcl	_
-6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	749	aux	749:aux	_
-7	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	747	conj	747:conj	_
-8	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	727	conj	727:conj	_
-9	che	che	SCONJ	CS	_	755	mark	755:mark	_
-10	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	755	nsubj:pass	755:nsubj:pass	_
-11	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	755	aux	755:aux	_
-12	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	755	aux:pass	755:aux:pass	_
-13	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	749	ccomp	749:ccomp	Seg=B-Conn
-14	e	e	CCONJ	CC	_	757	cc	757:cc	_
-15	bastava	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	755	conj	755:conj	_
-16	solo	solo	ADV	B	_	759	advmod	759:advmod	_
-17	accedere	accedere	VERB	V	VerbForm=Inf	757	xcomp	757:xcomp	_
-18	a	a	ADP	E	_	761	case	761:case	_
-19	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	759	obl	759:obl	_
-20	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	761	acl:relcl	761:acl:relcl	_
+1	siccome	siccome	SCONJ	CS	_	747	mark	747:mark	Seg=B-Conn
+2	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	747	aux	747:aux	_
+3	state	essere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	747	aux	747:aux	_
+4	date	dare	VERB	V	Gender=Fem|Number=Plur|Person=2|Tense=Pres|VerbForm=Part	738	advcl	738:advcl	_
+5	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	749	aux	749:aux	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	747	conj	747:conj	_
+7	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	727	conj	727:conj	_
+8	che	che	SCONJ	CS	_	755	mark	755:mark	_
+9	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	755	nsubj:pass	755:nsubj:pass	_
+10	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	755	aux	755:aux	_
+11	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	755	aux:pass	755:aux:pass	_
+12	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	749	ccomp	749:ccomp	_
+13	e	e	CCONJ	CC	_	757	cc	757:cc	Seg=B-Conn
+14	bastava	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	755	conj	755:conj	_
+15	solo	solo	ADV	B	_	759	advmod	759:advmod	_
+16	accedere	accedere	VERB	V	VerbForm=Inf	757	xcomp	757:xcomp	_
+17	a	a	ADP	E	_	761	case	761:case	_
+18	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	759	obl	759:obl	_
+19	pare	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	761	acl:relcl	761:acl:relcl	_
+20	allora	allora	ADV	B	_	765	advmod	765:advmod	_
 
 # newturn_id = 0704000016-89
 # newutterance_id = 0704000016-89-1
-1	allora	allora	ADV	B	_	765	advmod	765:advmod	_
-2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	765	expl	765:expl	_
-3	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	769	conj	769:conj	_
+1	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	765	expl	765:expl	_
+2	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	769	conj	769:conj	_
+3	proprio	proprio	ADV	B	_	769	advmod	769:advmod	_
 
 # newutterance_id = 0704000016-89-2
-1	proprio	proprio	ADV	B	_	769	advmod	769:advmod	_
-2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	769	aux	769:aux	_
-3	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	769	expl	769:expl	_
-4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	755	conj	755:conj	_
+1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	769	aux	769:aux	_
+2	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	769	expl	769:expl	_
+3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	755	conj	755:conj	_
+4	qualcosa	qualcosa	PRON	PI	PronType=Ind	769	nsubj	769:nsubj	_
 
 # newturn_id = 0704000016-90
 # newutterance_id = 0704000016-90-1
-1	qualcosa	qualcosa	PRON	PI	PronType=Ind	769	nsubj	769:nsubj	_
-2	che	che	PRON	PR	PronType=Rel	773	nsubj	773:nsubj	_
-3	non	non	ADV	BN	PronType=Neg	773	advmod	773:advmod	_
-4	quadra	quadrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	770	acl:relcl	770:acl:relcl	_
-5	ancora	ancora	ADV	B	_	773	advmod	773:advmod	_
-6	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	773	conj	773:conj	Seg=B-Conn
-7	perchè	perché	SCONJ	CS	_	777	mark	777:mark	_
-8	mancando	mancare	VERB	V	VerbForm=Ger	779	advcl	779:advcl	_
-9	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	779	obj	779:obj	_
-10	mancando	mancare	VERB	V	VerbForm=Ger	781	advcl	781:advcl	_
+1	che	che	PRON	PR	PronType=Rel	773	nsubj	773:nsubj	_
+2	non	non	ADV	BN	PronType=Neg	773	advmod	773:advmod	_
+3	quadra	quadrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	770	acl:relcl	770:acl:relcl	_
+4	ancora	ancora	ADV	B	_	773	advmod	773:advmod	_
+5	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	773	conj	773:conj	_
+6	perchè	perché	SCONJ	CS	_	777	mark	777:mark	Seg=B-Conn
+7	mancando	mancare	VERB	V	VerbForm=Ger	779	advcl	779:advcl	_
+8	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	779	obj	779:obj	_
+9	mancando	mancare	VERB	V	VerbForm=Ger	781	advcl	781:advcl	_
+10	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	779	obj	779:obj	_
 
 # newturn_id = 0704000016-91
 # newutterance_id = 0704000016-91-1
-1	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	779	obj	779:obj	_
-2	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	775	ccomp	775:ccomp	_
+1	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	775	ccomp	775:ccomp	_
+2	bene	bene	ADV	B	_	781	advmod	781:advmod	_
 
 # newutterance_id = 0704000016-91-2
-1	bene	bene	ADV	B	_	781	advmod	781:advmod	_
-2	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	784	det	784:det	_
+1	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	784	det	784:det	_
+2	chiave	chiave	NOUN	S	Gender=Fem|Number=Sing	785	nsubj	785:nsubj	_
 
 # newturn_id = 0704000016-92
 # newutterance_id = 0704000016-92-1
-1	chiave	chiave	NOUN	S	Gender=Fem|Number=Sing	785	nsubj	785:nsubj	_
-2	senta	sentire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	769	conj	769:conj	_
-3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	787	det	787:det	_
-4	referente	referente	NOUN	S	Gender=Fem|Number=Sing	785	obj	785:obj	Seg=B-Conn
-5	e	e	CCONJ	CC	_	792	cc	792:cc	Seg=B-Conn
-6	poi	poi	ADV	B	_	792	advmod	792:advmod	_
-7	eventualmente	eventualmente	ADV	B	_	792	advmod	792:advmod	_
-8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	792	det	792:det	_
-9	volta	volta	NOUN	S	Gender=Fem|Number=Sing	785	obl	785:obl	_
-10	che	che	PRON	PR	PronType=Rel	794	nsubj	794:nsubj	_
-11	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	792	acl:relcl	792:acl:relcl	_
-12	a	a	ADP	E	_	796	mark	796:mark	_
-13	accedere	accedere	VERB	V	VerbForm=Inf	794	ccomp	794:ccomp	_
-14-15	alla	_	_	_	_	_	_	_	_
-14	a	a	ADP	E	_	799	case	799:case	_
-15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	799	det	799:det	_
-16	sezione	sezione	NOUN	S	Gender=Fem|Number=Sing	796	obl	796:obl	_
-17	dove	dove	ADV	B	_	802	obl	802:obl	_
-18	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	802	aux	802:aux	_
-19	scaricare	scaricare	VERB	V	VerbForm=Inf	799	acl:relcl	799:acl:relcl	_
-20	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	804	det	804:det	_
-21	applicativo	applicativo	NOUN	S	Gender=Masc|Number=Sing	802	obj	802:obj	_
-22	allora	allora	ADV	B	_	808	advmod	808:advmod	Seg=B-Conn
-23	se	se	SCONJ	CS	_	808	mark	808:mark	_
-24	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	808	expl	808:expl	_
-25	fossero	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	799	acl:relcl	799:acl:relcl	_
-26-27	dei	_	_	_	_	_	_	_	_
-26	di	di	ADP	E	_	811	case	811:case	_
-27	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	811	det	811:det	_
-28	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	808	obl	808:obl	_
-29	lì	lì	ADV	B	_	814	advmod	814:advmod	_
-30	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	814	obj	814:obj	_
-31	sentiamo	sentire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	799	acl:relcl	799:acl:relcl	Seg=B-Conn
-32	e	e	CCONJ	CC	_	816	cc	816:cc	_
-33	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	802	conj	802:conj	_
-34	di	di	ADP	E	_	818	case	818:case	_
-35	insomma	insomma	ADV	B	_	820	advmod	820:advmod	_
-36	di	di	ADP	E	_	820	mark	820:mark	_
-37-38	darle	_	_	_	_	_	_	_	_
-37	dar	dare	VERB	V	VerbForm=Inf	816	ccomp	816:ccomp	_
-38	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	820	iobj	820:iobj	_
-39	tutta	tutto	DET	DI	PronType=Ind	824	det:predet	824:det:predet	_
-40	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	824	det	824:det	_
-41	assistenza	assistenza	NOUN	S	Gender=Fem|Number=Sing	820	obj	820:obj	_
-42-43	del	_	_	_	_	_	_	_	_
-42	di	di	ADP	E	_	827	case	827:case	_
-43	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	827	det	827:det	_
-44	caso	caso	NOUN	S	Gender=Masc|Number=Sing	824	nmod	824:nmod	_
-45	purtroppo	purtroppo	ADV	B	_	830	advmod	830:advmod	_
-46	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	830	det	830:det	_
-47	chiave	chiave	NOUN	S	Gender=Fem|Number=Sing	824	conj	824:conj	_
+1	senta	sentire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	769	conj	769:conj	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	787	det	787:det	_
+3	referente	referente	NOUN	S	Gender=Fem|Number=Sing	785	obj	785:obj	_
+4	e	e	CCONJ	CC	_	792	cc	792:cc	Seg=B-Conn
+5	poi	poi	ADV	B	_	792	advmod	792:advmod	Seg=B-Conn
+6	eventualmente	eventualmente	ADV	B	_	792	advmod	792:advmod	_
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	792	det	792:det	_
+8	volta	volta	NOUN	S	Gender=Fem|Number=Sing	785	obl	785:obl	_
+9	che	che	PRON	PR	PronType=Rel	794	nsubj	794:nsubj	_
+10	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	792	acl:relcl	792:acl:relcl	_
+11	a	a	ADP	E	_	796	mark	796:mark	_
+12	accedere	accedere	VERB	V	VerbForm=Inf	794	ccomp	794:ccomp	_
+13-14	alla	_	_	_	_	_	_	_	_
+13	a	a	ADP	E	_	799	case	799:case	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	799	det	799:det	_
+15	sezione	sezione	NOUN	S	Gender=Fem|Number=Sing	796	obl	796:obl	_
+16	dove	dove	ADV	B	_	802	obl	802:obl	_
+17	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	802	aux	802:aux	_
+18	scaricare	scaricare	VERB	V	VerbForm=Inf	799	acl:relcl	799:acl:relcl	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	804	det	804:det	_
+20	applicativo	applicativo	NOUN	S	Gender=Masc|Number=Sing	802	obj	802:obj	_
+21	allora	allora	ADV	B	_	808	advmod	808:advmod	_
+22	se	se	SCONJ	CS	_	808	mark	808:mark	Seg=B-Conn
+23	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	808	expl	808:expl	_
+24	fossero	essere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	799	acl:relcl	799:acl:relcl	_
+25-26	dei	_	_	_	_	_	_	_	_
+25	di	di	ADP	E	_	811	case	811:case	_
+26	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	811	det	811:det	_
+27	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	808	obl	808:obl	_
+28	lì	lì	ADV	B	_	814	advmod	814:advmod	_
+29	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	814	obj	814:obj	_
+30	sentiamo	sentire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	799	acl:relcl	799:acl:relcl	_
+31	e	e	CCONJ	CC	_	816	cc	816:cc	Seg=B-Conn
+32	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	802	conj	802:conj	_
+33	di	di	ADP	E	_	818	case	818:case	_
+34	insomma	insomma	ADV	B	_	820	advmod	820:advmod	_
+35	di	di	ADP	E	_	820	mark	820:mark	_
+36-37	darle	_	_	_	_	_	_	_	_
+36	dar	dare	VERB	V	VerbForm=Inf	816	ccomp	816:ccomp	_
+37	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	820	iobj	820:iobj	_
+38	tutta	tutto	DET	DI	PronType=Ind	824	det:predet	824:det:predet	_
+39	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	824	det	824:det	_
+40	assistenza	assistenza	NOUN	S	Gender=Fem|Number=Sing	820	obj	820:obj	_
+41-42	del	_	_	_	_	_	_	_	_
+41	di	di	ADP	E	_	827	case	827:case	_
+42	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	827	det	827:det	_
+43	caso	caso	NOUN	S	Gender=Masc|Number=Sing	824	nmod	824:nmod	_
+44	purtroppo	purtroppo	ADV	B	_	830	advmod	830:advmod	_
+45	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	830	det	830:det	_
+46	chiave	chiave	NOUN	S	Gender=Fem|Number=Sing	824	conj	824:conj	_
+47	di	di	ADP	E	_	832	case	832:case	_
 
 # newutterance_id = 0704000016-92-2
-1	di	di	ADP	E	_	832	case	832:case	_
+1	utera	utera	NOUN	S	Gender=Fem|Number=Sing	830	nmod	830:nmod	_
 
 # newutterance_id = 0704000016-92-3
-1	utera	utera	NOUN	S	Gender=Fem|Number=Sing	830	nmod	830:nmod	_
-2	di	di	ADP	E	_	834	case	834:case	_
-3	utenza	utenza	NOUN	S	Gender=Fem|Number=Sing	832	nmod	832:nmod	_
-4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	836	det	836:det	_
-5	password	password	NOUN	S	_	830	conj	830:conj	_
-6	per	per	ADP	E	_	839	case	839:case	_
-7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	839	det	839:det	_
-8	accesso	accesso	NOUN	S	Gender=Masc|Number=Sing	836	nmod	836:nmod	_
-9-10	all'	_	_	_	_	_	_	_	_
-9	a	a	ADP	E	_	842	case	842:case	_
-10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	842	det	842:det	_
-11	area	area	NOUN	S	Gender=Fem|Number=Sing	839	nmod	839:nmod	_
-12	riservata	riservato	ADJ	A	Gender=Fem|Number=Sing	842	amod	842:amod	_
-13	non	non	ADV	BN	PronType=Neg	846	advmod	846:advmod	_
-14	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	846	obj	846:obj	_
-15	occupiamo	occupare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	814	ccomp	814:ccomp	_
+1	di	di	ADP	E	_	834	case	834:case	_
+2	utenza	utenza	NOUN	S	Gender=Fem|Number=Sing	832	nmod	832:nmod	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	836	det	836:det	_
+4	password	password	NOUN	S	_	830	conj	830:conj	_
+5	per	per	ADP	E	_	839	case	839:case	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	839	det	839:det	_
+7	accesso	accesso	NOUN	S	Gender=Masc|Number=Sing	836	nmod	836:nmod	_
+8-9	all'	_	_	_	_	_	_	_	_
+8	a	a	ADP	E	_	842	case	842:case	_
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	842	det	842:det	_
+10	area	area	NOUN	S	Gender=Fem|Number=Sing	839	nmod	839:nmod	_
+11	riservata	riservato	ADJ	A	Gender=Fem|Number=Sing	842	amod	842:amod	_
+12	non	non	ADV	BN	PronType=Neg	846	advmod	846:advmod	_
+13	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	846	obj	846:obj	_
+14	occupiamo	occupare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	814	ccomp	814:ccomp	_
+15	direttamente	diretto	ADV	B	_	846	advmod	846:advmod	_
 
 # newturn_id = 0704000016-93
 # newutterance_id = 0704000016-93-1
-1	direttamente	diretto	ADV	B	_	846	advmod	846:advmod	_
+1	certo	certo	ADV	B	_	850	advmod	850:advmod	_
 2	certo	certo	ADV	B	_	850	advmod	850:advmod	_
-3	certo	certo	ADV	B	_	850	advmod	850:advmod	_
-4	ecco	ecco	ADV	B	_	868	advmod	868:advmod	_
-5	no	no	INTJ	I	_	846	discourse	846:discourse	_
+3	ecco	ecco	ADV	B	_	868	advmod	868:advmod	_
+4	no	no	INTJ	I	_	846	discourse	846:discourse	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	846	nsubj	846:nsubj	_
 
 # newutterance_id = 0704000016-93-2
-1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	846	nsubj	846:nsubj	_
-2	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	846	nsubj	846:nsubj	_
-3	di	di	ADP	E	_	855	mark	855:mark	_
-4-5	darla	_	_	_	_	_	_	_	_
-4	dar	dare	VERB	V	VerbForm=Inf	850	advcl	850:advcl	Seg=B-Conn
-5	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	855	obj	855:obj	_
-6	e	e	CCONJ	CC	_	861	cc	861:cc	Seg=B-Conn
-7	pertanto	pertanto	ADV	B	_	861	advmod	861:advmod	_
+1	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	846	nsubj	846:nsubj	_
+2	di	di	ADP	E	_	855	mark	855:mark	_
+3-4	darla	_	_	_	_	_	_	_	_
+3	dar	dare	VERB	V	VerbForm=Inf	850	advcl	850:advcl	_
+4	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	855	obj	855:obj	_
+5	e	e	CCONJ	CC	_	861	cc	861:cc	Seg=B-Conn
+6	pertanto	pertanto	ADV	B	_	861	advmod	861:advmod	Seg=B-Conn
+7	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	861	aux	861:aux	_
 8	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	861	aux	861:aux	_
-9	deve	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	861	aux	861:aux	_
-10	sentire	sentire	VERB	V	VerbForm=Inf	820	conj	820:conj	_
-11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	864	det	864:det	_
-12	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	864	det:poss	864:det:poss	_
+9	sentire	sentire	VERB	V	VerbForm=Inf	820	conj	820:conj	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	864	det	864:det	_
+11	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	864	det:poss	864:det:poss	_
+12	re	re	NOUN	S	Gender=Masc	861	obj	861:obj	_
 
 # newturn_id = 0704000016-94
 # newutterance_id = 0704000016-94-1
-1	re	re	NOUN	S	Gender=Masc	861	obj	861:obj	_
-2	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	866	aux	866:aux	_
-3	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	846	conj	846:conj	_
-4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	868	aux	868:aux	_
-5	telefonato	telefonare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	876	conj	876:conj	_
-6	pensando	pensare	VERB	V	VerbForm=Ger	866	advcl	866:advcl	_
-7	che	che	SCONJ	CS	_	874	mark	874:mark	_
-8	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	874	nsubj:pass	874:nsubj:pass	_
-9	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	874	aux	874:aux	_
-10	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	874	aux:pass	874:aux:pass	_
-11	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	869	ccomp	869:ccomp	_
-12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	866	ccomp	866:ccomp	_
+1	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	866	aux	866:aux	_
+2	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	846	conj	846:conj	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	868	aux	868:aux	_
+4	telefonato	telefonare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	876	conj	876:conj	_
+5	pensando	pensare	VERB	V	VerbForm=Ger	866	advcl	866:advcl	_
+6	che	che	SCONJ	CS	_	874	mark	874:mark	_
+7	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	874	nsubj:pass	874:nsubj:pass	_
+8	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	874	aux	874:aux	_
+9	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	874	aux:pass	874:aux:pass	_
+10	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	869	ccomp	869:ccomp	_
+11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	866	ccomp	866:ccomp	_
+12	solo	solo	ADV	B	_	866	advmod	866:advmod	_
 
 # newturn_id = 0704000016-95
 # newutterance_id = 0704000016-95-1
-1	solo	solo	ADV	B	_	866	advmod	866:advmod	Seg=B-Conn
-2	ma	ma	CCONJ	CC	_	881	cc	881:cc	_
-3	probabilmente	probabilmente	ADV	B	_	868	advmod	868:advmod	_
-4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	890	aux	890:aux	_
-5	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	881	aux:pass	881:aux:pass	_
-6	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	876	conj	876:conj	Seg=B-Conn
+1	ma	ma	CCONJ	CC	_	881	cc	881:cc	Seg=B-Conn
+2	probabilmente	probabilmente	ADV	B	_	868	advmod	868:advmod	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	890	aux	890:aux	_
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	881	aux:pass	881:aux:pass	_
+5	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	876	conj	876:conj	_
+6	ma	ma	CCONJ	CC	_	890	cc	890:cc	Seg=B-Conn
 
 # newutterance_id = 0704000016-95-2
-1	ma	ma	CCONJ	CC	_	890	cc	890:cc	_
-2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	884	det	884:det	_
-3	questioni	questione	NOUN	S	Gender=Fem|Number=Plur	890	nsubj:pass	890:nsubj:pass	_
-4	di	di	ADP	E	_	886	case	886:case	_
+1	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	884	det	884:det	_
+2	questioni	questione	NOUN	S	Gender=Fem|Number=Plur	890	nsubj:pass	890:nsubj:pass	_
+3	di	di	ADP	E	_	886	case	886:case	_
+4	scarico	scarico	NOUN	S	Gender=Masc|Number=Sing	884	nmod	884:nmod	_
 
 # newturn_id = 0704000016-96
 # newutterance_id = 0704000016-96-1
-1	scarico	scarico	NOUN	S	Gender=Masc|Number=Sing	884	nmod	884:nmod	_
-2	magari	magari	ADV	B	_	890	advmod	890:advmod	_
-3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	890	aux	890:aux	_
-4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	890	aux:pass	890:aux:pass	_
-5	trascritto	trascrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	901	ccomp	901:ccomp	_
-6	male	male	ADV	B	_	890	advmod	890:advmod	_
+1	magari	magari	ADV	B	_	890	advmod	890:advmod	_
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	890	aux	890:aux	_
+3	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	890	aux:pass	890:aux:pass	_
+4	trascritto	trascrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	901	ccomp	901:ccomp	_
+5	male	male	ADV	B	_	890	advmod	890:advmod	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	894	det	894:det	_
 7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	894	det	894:det	_
-8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	894	det	894:det	_
-9	user	user	X	SW	_	890	obj	890:obj	_
-10	name	name	X	SW	_	894	flat:foreign	894:flat:foreign	_
-11	o	o	CCONJ	CC	_	901	cc	901:cc	_
-12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	898	det	898:det	_
-13	password	password	NOUN	S	_	894	conj	894:conj	_
-14	non	non	ADV	BN	PronType=Neg	901	advmod	901:advmod	_
-15	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	901	obj	901:obj	_
+8	user	user	X	SW	_	890	obj	890:obj	_
+9	name	name	X	SW	_	894	flat:foreign	894:flat:foreign	_
+10	o	o	CCONJ	CC	_	901	cc	901:cc	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	898	det	898:det	_
+12	password	password	NOUN	S	_	894	conj	894:conj	_
+13	non	non	ADV	BN	PronType=Neg	901	advmod	901:advmod	_
+14	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	901	obj	901:obj	_
+15	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	868	conj	868:conj	_
 
 # newturn_id = 0704000016-97
 # newutterance_id = 0704000016-97-1
-1	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	868	conj	868:conj	_
+1	comunque	comunque	ADV	B	_	901	advmod	901:advmod	_
 
 # newutterance_id = 0704000016-97-2
-1	comunque	comunque	ADV	B	_	901	advmod	901:advmod	Seg=B-Conn
-2	perchè	perché	SCONJ	CS	_	908	mark	908:mark	Seg=B-Conn
+1	perchè	perché	SCONJ	CS	_	908	mark	908:mark	Seg=B-Conn
+2	se	se	SCONJ	CS	_	908	mark	908:mark	Seg=B-Conn
 
 # newturn_id = 0704000016-98
 # newutterance_id = 0704000016-98-1
-1	se	se	SCONJ	CS	_	908	mark	908:mark	_
-2-3	gliel'	_	_	_	_	_	_	_	_
-2	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	908	iobj	908:iobj	_
-3	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	908	obj	908:obj	_
-4	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	908	aux	908:aux	_
-5	comunicate	comunicare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	901	advcl	901:advcl	_
+1-2	gliel'	_	_	_	_	_	_	_	_
+1	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	908	iobj	908:iobj	_
+2	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	908	obj	908:obj	_
+3	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	908	aux	908:aux	_
+4	comunicate	comunicare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	901	advcl	901:advcl	_
+5	pro	pro	NOUN	S	_	908	obl	908:obl	_
 
 # newutterance_id = 0704000016-98-2
-1	pro	pro	NOUN	S	_	908	obl	908:obl	_
-2	presumo	presumere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	901	parataxis	901:parataxis	_
-3	che	che	SCONJ	CS	_	917	mark	917:mark	_
-4	siano	essere	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	913	cop	913:cop	_
-5	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	917	nsubj	917:nsubj	_
-6	magari	magari	ADV	B	_	917	advmod	917:advmod	_
-7	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	917	expl	917:expl	_
-8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	917	aux	917:aux	_
-9	stato	essere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	910	ccomp	910:ccomp	_
-10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	919	det	919:det	_
-11	errore	errore	NOUN	S	Gender=Masc|Number=Sing	917	nsubj	917:nsubj	_
+1	presumo	presumere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	901	parataxis	901:parataxis	_
+2	che	che	SCONJ	CS	_	917	mark	917:mark	_
+3	siano	essere	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	913	cop	913:cop	_
+4	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	917	nsubj	917:nsubj	_
+5	magari	magari	ADV	B	_	917	advmod	917:advmod	_
+6	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	917	expl	917:expl	_
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	917	aux	917:aux	_
+8	stato	essere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	910	ccomp	910:ccomp	_
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	919	det	919:det	_
+10	errore	errore	NOUN	S	Gender=Masc|Number=Sing	917	nsubj	917:nsubj	_
+11	di	di	ADP	E	_	923	case	923:case	_
 12	di	di	ADP	E	_	923	case	923:case	_
 
 # newturn_id = 0704000016-99
 # newutterance_id = 0704000016-99-1
 1	di	di	ADP	E	_	923	case	923:case	_
-2	di	di	ADP	E	_	923	case	923:case	_
+2	comunicazione	comunicazione	NOUN	S	Gender=Fem|Number=Sing	919	nmod	919:nmod	_
 
 # newutterance_id = 0704000016-99-2
-1	comunicazione	comunicazione	NOUN	S	Gender=Fem|Number=Sing	919	nmod	919:nmod	_
-2	bene	bene	ADV	B	_	923	advmod	923:advmod	Seg=B-Conn
-3	allora	allora	ADV	B	_	927	advmod	927:advmod	_
+1	bene	bene	ADV	B	_	923	advmod	923:advmod	_
+2	allora	allora	ADV	B	_	927	advmod	927:advmod	Seg=B-Conn
+3	adesso	adesso	ADV	B	_	927	advmod	927:advmod	_
 
 # newturn_id = 0704000016-100
 # newutterance_id = 0704000016-100-1
-1	adesso	adesso	ADV	B	_	927	advmod	927:advmod	_
-2	provo	provare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	910	advcl	910:advcl	_
-3	a	a	ADP	E	_	929	mark	929:mark	_
-4	contattare	contattare	VERB	V	VerbForm=Inf	927	xcomp	927:xcomp	_
-5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	931	det	931:det	_
+1	provo	provare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	910	advcl	910:advcl	_
+2	a	a	ADP	E	_	929	mark	929:mark	_
+3	contattare	contattare	VERB	V	VerbForm=Inf	927	xcomp	927:xcomp	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	931	det	931:det	_
+5	collega	collega	NOUN	S	Number=Sing	929	obj	929:obj	_
 
 # newturn_id = 0704000016-101
 # newutterance_id = 0704000016-101-1
-1	collega	collega	NOUN	S	Number=Sing	929	obj	929:obj	_
-2	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	927	ccomp	927:ccomp	_
+1	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	927	ccomp	927:ccomp	_
+2	bene	bene	ADV	B	_	932	advmod	932:advmod	_
 
 # newturn_id = 0704000016-102
 # newutterance_id = 0704000016-102-1
-1	bene	bene	ADV	B	_	932	advmod	932:advmod	_
-2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	936	nsubj	936:nsubj	_
-3	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	936	obj	936:obj	_
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	936	nsubj	936:nsubj	_
+2	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	936	obj	936:obj	_
+3	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	938	advcl	938:advcl	_
 
 # newturn_id = 0704000016-103
 # newutterance_id = 0704000016-103-1
-1	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	938	advcl	938:advcl	_
-2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	938	expl	938:expl	_
+1	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	938	expl	938:expl	_
+2	figuri	figurare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	932	conj	932:conj	_
 
 # newutterance_id = 0704000016-103-2
-1	figuri	figurare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	932	conj	932:conj	_
+1	immensamente	immensamente	ADV	B	_	938	advmod	938:advmod	_
 
 # newturn_id = 0704000016-104
 # newutterance_id = 0704000016-104-1
-1	immensamente	immensamente	ADV	B	_	938	advmod	938:advmod	_
-2	per	per	ADP	E	_	942	case	942:case	_
+1	per	per	ADP	E	_	942	case	942:case	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	942	det	942:det	_
 
 # newturn_id = 0704000016-105
 # newutterance_id = 0704000016-105-1
-1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	942	det	942:det	_
-2	gentilezza	gentilezza	NOUN	S	Gender=Fem|Number=Sing	938	obl	938:obl	_
+1	gentilezza	gentilezza	NOUN	S	Gender=Fem|Number=Sing	938	obl	938:obl	_
+2	buongiorno	buongiorno	INTJ	I	_	938	discourse	938:discourse	_
 
 # newutterance_id = 0704000016-105-2
-1	buongiorno	buongiorno	INTJ	I	_	938	discourse	938:discourse	_
-2	niente	niente	DET	DI	PronType=Ind	945	det	945:det	_
-3	signora	signore	NOUN	S	Gender=Fem|Number=Sing	938	vocative	938:vocative	_
-4	a	a	ADP	E	_	947	case	947:case	_
+1	niente	niente	DET	DI	PronType=Ind	945	det	945:det	_
+2	signora	signore	NOUN	S	Gender=Fem|Number=Sing	938	vocative	938:vocative	_
+3	a	a	ADP	E	_	947	case	947:case	_
+4	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	945	nmod	945:nmod	_
 
 # newturn_id = 0704000016-106
 # newutterance_id = 0704000016-106-1
-1	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	945	nmod	945:nmod	_
-2	buongiorno	buongiorno	INTJ	I	_	945	discourse	945:discourse	_
-
-# newturn_id = 0704000016-107
-# newutterance_id = 0704000016-107-1
-1	salve	salve	INTJ	I	_	945	discourse	945:discourse	_
+1	buongiorno	buongiorno	INTJ	I	_	945	discourse	945:discourse	_
+2	salve	salve	INTJ	I	_	945	discourse	945:discourse	_
 
 # newdoc_id = 0704000017
 # newturn_id = 0704000017-1
@@ -13431,146 +13424,142 @@
 11	così	così	ADV	B	_	673	advmod	673:advmod	Seg=B-Conn
 12	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	648	conj	648:conj	_
 13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	675	det	675:det	_
-14	riferime	riferime	NOUN	S	Gender=Masc|Number=Sing	673	obj	673:obj	_
-15	nto	nto	X	SW	_	675	flat:foreign	675:flat:foreign	_
+14	riferimento	riferime	NOUN	S	Gender=Masc|Number=Sing	673	obj	673:obj	_
+15-16	della	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	679	case	679:case	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	679	det	679:det	_
 
 # newturn_id = 0704000031-77
 # newutterance_id = 0704000031-77-1
-1-2	della	_	_	_	_	_	_	_	_
-1	di	di	ADP	E	_	679	case	679:case	_
-2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	679	det	679:det	_
+1	sì	sì	INTJ	I	_	675	nmod	675:nmod	_
 
 # newutterance_id = 0704000031-77-2
-1	sì	sì	INTJ	I	_	675	nmod	675:nmod	_
+1	chiamata	chiamare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	675	acl	675:acl	_
 
 # newturn_id = 0704000031-78
 # newutterance_id = 0704000031-78-1
-1	chiamata	chiamare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	675	acl	675:acl	_
-2	che	che	PRON	PR	PronType=Rel	683	nsubj	683:nsubj	_
-3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	683	aux	683:aux	_
+1	che	che	PRON	PR	PronType=Rel	683	nsubj	683:nsubj	_
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	683	aux	683:aux	_
+3	aperto	aprire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	680	acl:relcl	680:acl:relcl	_
 
 # newturn_id = 0704000031-79
 # newutterance_id = 0704000031-79-1
-1	aperto	aprire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	680	acl:relcl	680:acl:relcl	_
+1	momentino	momentino	NOUN	S	Gender=Masc|Number=Sing	683	obj	683:obj	_
 
 # newturn_id = 0704000031-80
 # newutterance_id = 0704000031-80-1
-1	momentino	momentino	NOUN	S	Gender=Masc|Number=Sing	683	obj	683:obj	_
+1	sì	sì	INTJ	I	_	683	discourse	683:discourse	_
 
 # newturn_id = 0704000031-81
 # newutterance_id = 0704000031-81-1
-1	sì	sì	INTJ	I	_	683	discourse	683:discourse	_
-2	allora	allora	ADV	B	_	687	advmod	687:advmod	_
-3	helpdesk	helpdesk	NOUN	S	_	690	nsubj	690:nsubj	_
-4	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	690	nsubj	690:nsubj	_
-5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	690	expl	690:expl	_
+1	allora	allora	ADV	B	_	687	advmod	687:advmod	_
+2	helpdesk	helpdesk	NOUN	S	_	690	nsubj	690:nsubj	_
+3	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	690	nsubj	690:nsubj	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	690	expl	690:expl	_
+5	chiama	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	673	conj	673:conj	_
 
 # newturn_id = 0704000031-82
 # newutterance_id = 0704000031-82-1
-1	chiama	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	673	conj	673:conj	_
-2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	690	nsubj	690:nsubj	_
-3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	693	obj	693:obj	_
-4	chiamo	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	673	conj	673:conj	_
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	690	nsubj	690:nsubj	_
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	693	obj	693:obj	_
+3	chiamo	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	673	conj	673:conj	_
+4	<PER>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000031-83
 # newutterance_id = 0704000031-83-1
-1	<PER>	_	_	_	_	_	_	_	_
-2	e	e	CCONJ	CC	_	699	cc	699:cc	_
-3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	699	iobj	699:iobj	_
+1	e	e	CCONJ	CC	_	699	cc	699:cc	Seg=B-Conn
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	699	iobj	699:iobj	_
+3	dica	dire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	690	conj	690:conj	_
 
 # newturn_id = 0704000031-84
 # newutterance_id = 0704000031-84-1
-1	dica	dire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	690	conj	690:conj	_
-2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	701	det	701:det	_
-3	numero	numero	NOUN	S	Gender=Masc|Number=Sing	699	obj	699:obj	_
-4	di	di	ADP	E	_	703	case	703:case	_
-5	chiamata	chiamata	NOUN	S	Gender=Fem|Number=Sing	701	nmod	701:nmod	_
-6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	706	cop	706:cop	_
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	701	det	701:det	_
+2	numero	numero	NOUN	S	Gender=Masc|Number=Sing	699	obj	699:obj	_
+3	di	di	ADP	E	_	703	case	703:case	_
+4	chiamata	chiamata	NOUN	S	Gender=Fem|Number=Sing	701	nmod	701:nmod	_
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	706	cop	706:cop	_
+6	<DIGIT>	_	_	_	_	_	_	_	_
 7	<DIGIT>	_	_	_	_	_	_	_	_
 8	<DIGIT>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000031-85
 # newutterance_id = 0704000031-85-1
-1	<DIGIT>	_	_	_	_	_	_	_	_
+1	sì	sì	INTJ	I	_	706	flat:foreign	706:flat:foreign	_
 
 # newturn_id = 0704000031-86
 # newutterance_id = 0704000031-86-1
-1	sì	sì	INTJ	I	_	706	flat:foreign	706:flat:foreign	_
+1	<DIGIT>	_	_	_	_	_	_	_	_
 2	<DIGIT>	_	_	_	_	_	_	_	_
 3	<DIGIT>	_	_	_	_	_	_	_	_
 4	<DIGIT>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000031-87
 # newutterance_id = 0704000031-87-1
-1	<DIGIT>	_	_	_	_	_	_	_	_
-2	d'	di	ADP	E	_	728	case	728:case	_
+1	d'	di	ADP	E	_	728	case	728:case	_
+2	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	716	nmod	716:nmod	_
 
 # newturn_id = 0704000031-88
 # newutterance_id = 0704000031-88-1
-1	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	716	nmod	716:nmod	_
-2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	730	expl	730:expl	_
-3	sentiamo	sentire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	706	parataxis	706:parataxis	Seg=B-Conn
-4	allora	allora	ADV	B	_	730	advmod	730:advmod	_
-5	domani	domani	ADV	B	_	730	advmod	730:advmod	_
-6	verso	verso	ADP	E	_	736	case	736:case	_
-7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	736	det	736:det	_
-8	<NUM>	_	_	_	_	_	_	_	_
-9	così	così	ADV	B	_	739	advmod	739:advmod	_
-10	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	730	advcl	730:advcl	_
-11	di	di	ADP	E	_	741	mark	741:mark	_
-12	capire	capire	VERB	V	VerbForm=Inf	739	ccomp	739:ccomp	_
-13	se	se	SCONJ	CS	_	745	mark	745:mark	_
-14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	745	cop	745:cop	_
-15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	745	det	745:det	_
-16	problema	problema	NOUN	S	Gender=Masc|Number=Sing	741	ccomp	741:ccomp	_
-17-18	del	_	_	_	_	_	_	_	_
-17	di	di	ADP	E	_	748	case	748:case	_
-18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	748	det	748:det	_
+1	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	730	expl	730:expl	_
+2	sentiamo	sentire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	706	parataxis	706:parataxis	_
+3	allora	allora	ADV	B	_	730	advmod	730:advmod	Seg=B-Conn
+4	domani	domani	ADV	B	_	730	advmod	730:advmod	_
+5	verso	verso	ADP	E	_	736	case	736:case	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	736	det	736:det	_
+7	<NUM>	_	_	_	_	_	_	_	_
+8	così	così	ADV	B	_	739	advmod	739:advmod	Seg=B-Conn
+9	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	730	advcl	730:advcl	_
+10	di	di	ADP	E	_	741	mark	741:mark	_
+11	capire	capire	VERB	V	VerbForm=Inf	739	ccomp	739:ccomp	_
+12	se	se	SCONJ	CS	_	745	mark	745:mark	_
+13	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	745	cop	745:cop	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	745	det	745:det	_
+15	problema	problema	NOUN	S	Gender=Masc|Number=Sing	741	ccomp	741:ccomp	_
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	E	_	748	case	748:case	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	748	det	748:det	_
+18	monitor	monitor	NOUN	S	Gender=Masc	745	nmod	745:nmod	_
 
 # newturn_id = 0704000031-89
 # newutterance_id = 0704000031-89-1
-1	monitor	monitor	NOUN	S	Gender=Masc	745	nmod	745:nmod	_
-2	o	o	CCONJ	CC	_	752	cc	752:cc	_
+1	o	o	CCONJ	CC	_	752	cc	752:cc	_
+2-3	della	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	752	case	752:case	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	752	det	752:det	_
 
 # newturn_id = 0704000031-90
 # newutterance_id = 0704000031-90-1
-1-2	della	_	_	_	_	_	_	_	_
-1	di	di	ADP	E	_	752	case	752:case	_
-2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	752	det	752:det	_
-3	scheda	scheda	NOUN	S	Gender=Fem|Number=Sing	748	conj	748:conj	_
+1	scheda	scheda	NOUN	S	Gender=Fem|Number=Sing	748	conj	748:conj	_
+2	video	video	NOUN	S	Gender=Masc	752	compound	752:compound	_
 
 # newturn_id = 0704000031-91
 # newutterance_id = 0704000031-91-1
-1	video	video	NOUN	S	Gender=Masc	752	compound	752:compound	_
-2	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	758	advcl	758:advcl	_
+1	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	758	advcl	758:advcl	_
+2	bene	bene	ADV	B	_	754	advmod	754:advmod	_
 
 # newutterance_id = 0704000031-91-2
-1	bene	bene	ADV	B	_	754	advmod	754:advmod	_
-2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	758	nsubj	758:nsubj	_
-3	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	758	iobj	758:iobj	_
-4	mando	mandare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	741	ccomp	741:ccomp	Seg=B-Conn
-5	poi	poi	ADV	B	_	758	advmod	758:advmod	_
-6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	761	det	761:det	_
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	758	nsubj	758:nsubj	_
+2	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	758	iobj	758:iobj	_
+3	mando	mandare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	741	ccomp	741:ccomp	_
+4	poi	poi	ADV	B	_	758	advmod	758:advmod	Seg=B-Conn
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	761	det	761:det	_
+6	assistenza	assistenza	NOUN	S	Gender=Fem|Number=Sing	758	obj	758:obj	_
 
 # newturn_id = 0704000031-92
 # newutterance_id = 0704000031-92-1
-1	assistenza	assistenza	NOUN	S	Gender=Fem|Number=Sing	758	obj	758:obj	_
+1	grazie	grazie	INTJ	I	_	758	discourse	758:discourse	_
 
 # newturn_id = 0704000031-93
 # newutterance_id = 0704000031-93-1
-1	grazie	grazie	INTJ	I	_	758	discourse	758:discourse	_
+1	grazie	grazie	INTJ	I	_	762	fixed	762:fixed	_
 
 # newutterance_id = 0704000031-93-2
-1	grazie	grazie	INTJ	I	_	762	fixed	762:fixed	_
+1	mille	mille	NUM	N	NumType=Card	763	nummod	763:nummod	_
 
 # newturn_id = 0704000031-94
 # newutterance_id = 0704000031-94-1
-1	mille	mille	NUM	N	NumType=Card	763	nummod	763:nummod	_
-2	salve	salve	INTJ	I	_	764	discourse	764:discourse	_
-
-# newturn_id = 0704000031-95
-# newutterance_id = 0704000031-95-1
-1	buonasera	buonasera	INTJ	I	_	765	discourse	765:discourse	_
+1	salve	salve	INTJ	I	_	764	discourse	764:discourse	_
+2	buonasera	buonasera	INTJ	I	_	765	discourse	765:discourse	_
 
 # newdoc_id = 0704000032
 # newturn_id = 0704000032-1
@@ -18084,387 +18073,387 @@
 5	<NUM>	_	_	_	_	_	_	_	_
 6	che	che	PRON	PR	PronType=Rel	402	obj	402:obj	_
 7	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	402	nsubj	402:nsubj	_
-8	vede o	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	398	acl:relcl	398:acl:relcl	_
-9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	405	det	405:det	_
-10	<NUM>	_	_	_	_	_	_	_	_
-11	che	che	PRON	PR	PronType=Rel	409	nsubj	409:nsubj	_
-12	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	409	aux	409:aux	_
-13	inseriti	insierire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	384	acl:relcl	384:acl:relcl	_
-14	da	da	ADP	E	_	411	case	411:case	_
-15	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	409	obl	409:obl	_
-16	perchè	perché	SCONJ	CS	_	414	mark	414:mark	_
-17	avendo	avere	AUX	VA	VerbForm=Ger	414	aux	414:aux	Seg=B-Conn
-18	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	402	advcl	402:advcl	_
-19	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	414	obj	414:obj	_
-20-21	del	_	_	_	_	_	_	_	_
-20	di	di	ADP	E	_	418	case	418:case	_
-21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	418	det	418:det	_
-22	permesso	permesso	NOUN	S	Gender=Masc|Number=Sing	415	nmod	415:nmod	_
-23	o	o	CCONJ	CC	_	422	cc	422:cc	_
-24	avendo	avere	AUX	VA	VerbForm=Ger	422	aux	422:aux	_
+8	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	398	acl:relcl	_:acl:relcl	_
+9	o	_	_	_	_	_	_	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	405	det	405:det	_
+11	<NUM>	_	_	_	_	_	_	_	_
+12	che	che	PRON	PR	PronType=Rel	409	nsubj	409:nsubj	_
+13	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	409	aux	409:aux	_
+14	inseriti	insierire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	384	acl:relcl	384:acl:relcl	_
+15	da	da	ADP	E	_	411	case	411:case	_
+16	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	409	obl	409:obl	_
+17	perchè	perché	SCONJ	CS	_	414	mark	414:mark	Seg=B-Conn
+18	avendo	avere	AUX	VA	VerbForm=Ger	414	aux	414:aux	_
+19	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	402	advcl	402:advcl	_
+20	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	414	obj	414:obj	_
+21-22	del	_	_	_	_	_	_	_	_
+21	di	di	ADP	E	_	418	case	418:case	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	418	det	418:det	_
+23	permesso	permesso	NOUN	S	Gender=Masc|Number=Sing	415	nmod	415:nmod	_
+24	o	o	CCONJ	CC	_	422	cc	422:cc	_
 
 # newutterance_id = 0704000040-34-4
-1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	422	nsubj	422:nsubj	_
-2	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	409	conj	409:conj	_
-3	ferie	ferie	NOUN	S	Gender=Fem|Number=Plur	422	obj	422:obj	_
-4	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	422	nsubj	422:nsubj	_
-5	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	427	aux	427:aux	_
-6	comunque	comunque	ADV	B	_	427	advmod	427:advmod	_
-7-8	inserirli	_	_	_	_	_	_	_	_
-7	inserir	inserire	VERB	V	VerbForm=Inf	384	acl:relcl	384:acl:relcl	_
-8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	427	obj	427:obj	_
-9	manualmente	manualmente	ADV	B	_	427	advmod	427:advmod	_
-10	certo	certo	ADV	B	_	427	advmod	427:advmod	_
+1	avendo	avere	AUX	VA	VerbForm=Ger	422	aux	422:aux	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	422	nsubj	422:nsubj	_
+3	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	409	conj	409:conj	_
+4	ferie	ferie	NOUN	S	Gender=Fem|Number=Plur	422	obj	422:obj	_
+5	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	422	nsubj	422:nsubj	_
+6	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	427	aux	427:aux	_
+7	comunque	comunque	ADV	B	_	427	advmod	427:advmod	_
+8-9	inserirli	_	_	_	_	_	_	_	_
+8	inserir	inserire	VERB	V	VerbForm=Inf	384	acl:relcl	384:acl:relcl	_
+9	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	427	obj	427:obj	_
+10	manualmente	manualmente	ADV	B	_	427	advmod	427:advmod	_
 
 # newturn_id = 0704000040-35
 # newutterance_id = 0704000040-35-1
-1	e	e	CCONJ	CC	_	436	cc	436:cc	_
+1	certo	certo	ADV	B	_	427	advmod	427:advmod	_
 
 # newturn_id = 0704000040-36
 # newutterance_id = 0704000040-36-1
-1	fino	fino	ADV	B	_	436	case	436:case	_
-2-3	al	_	_	_	_	_	_	_	_
-2	a	a	ADP	E	_	432	fixed	432:fixed	_
-3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	436	det	436:det	_
-4	<NUM>	_	_	_	_	_	_	_	_
-5	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	436	acl:relcl	436:acl:relcl	_
-6	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	438	nsubj	438:nsubj	_
-7	bene	bene	ADV	B	_	441	advmod	441:advmod	_
-8	compare	comparire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	427	conj	427:conj	_
-9	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	441	obj	441:obj	_
-10-11	dal	_	_	_	_	_	_	_	_
-10	da	da	ADP	E	_	446	case	446:case	_
-11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	446	det	446:det	_
-12	<NUM>	_	_	_	_	_	_	_	_
-13	in	in	ADP	E	_	449	case	449:case	_
-14	avanti	avanti	ADV	B	_	446	advmod	446:advmod	_
-15	praticamente	praticamente	ADV	B	_	451	advmod	451:advmod	_
-16	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	427	conj	427:conj	Seg=B-Conn
-17	solo	solo	ADV	B	_	451	advmod	451:advmod	_
-18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	454	det	454:det	_
-19	timbrature	timbratura	NOUN	S	Gender=Fem|Number=Plur	451	obj	451:obj	_
-20	senza	senza	ADP	E	_	458	case	458:case	_
+1	e	e	CCONJ	CC	_	436	cc	436:cc	_
+2	fino	fino	ADV	B	_	436	case	436:case	_
+3-4	al	_	_	_	_	_	_	_	_
+3	a	a	ADP	E	_	432	fixed	432:fixed	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	436	det	436:det	_
+5	<NUM>	_	_	_	_	_	_	_	_
+6	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	436	acl:relcl	436:acl:relcl	_
+7	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	438	nsubj	438:nsubj	_
+8	bene	bene	ADV	B	_	441	advmod	441:advmod	_
+9	compare	comparire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	427	conj	427:conj	_
+10	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	441	obj	441:obj	_
+11-12	dal	_	_	_	_	_	_	_	_
+11	da	da	ADP	E	_	446	case	446:case	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	446	det	446:det	_
+13	<NUM>	_	_	_	_	_	_	_	_
+14	in	in	ADP	E	_	449	case	449:case	_
+15	avanti	avanti	ADV	B	_	446	advmod	446:advmod	_
+16	praticamente	praticamente	ADV	B	_	451	advmod	451:advmod	Seg=B-Conn
+17	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	427	conj	427:conj	_
+18	solo	solo	ADV	B	_	451	advmod	451:advmod	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	454	det	454:det	_
+20	timbrature	timbratura	NOUN	S	Gender=Fem|Number=Plur	451	obj	451:obj	_
 21	senza	senza	ADP	E	_	458	case	458:case	_
-22	tutto	tutto	DET	DI	PronType=Ind	458	det	458:det	_
-23	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	454	nmod	454:nmod	_
-24	che	che	PRON	PR	PronType=Rel	462	nsubj	462:nsubj	_
-25	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	462	cop	462:cop	_
-26	in	in	ADP	E	_	462	case	462:case	_
-27	acce	acce	NOUN	S	Gender=Fem|Number=Sing	458	acl:relcl	458:acl:relcl	_
-28	in	in	ADP	E	_	464	case	464:case	_
+22	senza	senza	ADP	E	_	458	case	458:case	_
+23	tutto	tutto	DET	DI	PronType=Ind	458	det	458:det	_
+24	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	454	nmod	454:nmod	_
+25	che	che	PRON	PR	PronType=Rel	462	nsubj	462:nsubj	_
+26	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	462	cop	462:cop	_
+27	in	in	ADP	E	_	462	case	462:case	_
+28	acce	acce	NOUN	S	Gender=Fem|Number=Sing	458	acl:relcl	458:acl:relcl	_
 
 # newutterance_id = 0704000040-36-2
-1	dal	dare	PROPN	SP	_	458	acl:relcl	458:acl:relcl	_
+1	in	in	ADP	E	_	464	case	464:case	_
 
 # newturn_id = 0704000040-37
 # newutterance_id = 0704000040-37-1
-1	<NUM>	_	_	_	_	_	_	_	_
+1	dal	dare	PROPN	SP	_	458	acl:relcl	458:acl:relcl	_
 
 # newturn_id = 0704000040-38
 # newutterance_id = 0704000040-38-1
-1	<MM>	_	_	_	_	_	_	_	_
-2	sì	sì	INTJ	I	_	469	compound	469:compound	_
+1	<NUM>	_	_	_	_	_	_	_	_
+2	<MM>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000040-39
 # newutterance_id = 0704000040-39-1
-1	ad	a	ADP	E	_	473	case	473:case	_
-2	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	471	nmod	471:nmod	_
-3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	475	cop	475:cop	_
-4	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	438	parataxis	438:parataxis	_
+1	sì	sì	INTJ	I	_	469	compound	469:compound	_
+2	ad	a	ADP	E	_	473	case	473:case	_
+3	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	471	nmod	471:nmod	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	475	cop	475:cop	_
 
 # newutterance_id = 0704000040-39-2
-1	<NUM>	_	_	_	_	_	_	_	_
-2	in	in	ADP	E	_	480	case	480:case	_
-3	poi	poi	ADV	B	_	477	advmod	477:advmod	_
-4	ad	a	ADP	E	_	482	case	482:case	_
+1	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	438	parataxis	438:parataxis	_
+2	<NUM>	_	_	_	_	_	_	_	_
+3	in	in	ADP	E	_	480	case	480:case	_
+4	poi	poi	ADV	B	_	477	advmod	477:advmod	_
 
 # newturn_id = 0704000040-40
 # newutterance_id = 0704000040-40-1
-1	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	486	nmod	486:nmod	_
-2-3	dal	_	_	_	_	_	_	_	_
-2	da	da	ADP	E	_	486	case	486:case	Seg=B-Conn
-3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	486	det	486:det	_
-4	<DIGIT>	_	_	_	_	_	_	_	_
-5	in	in	ADP	E	_	489	case	489:case	_
-6	avanti	avanti	ADV	B	_	486	advmod	486:advmod	_
-7	fino	fino	ADV	B	_	494	case	494:case	_
-8	a	a	ADP	E	_	490	fixed	490:fixed	_
-9	tutta	tutto	DET	DI	PronType=Ind	494	det	494:det	_
-10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	494	det	494:det	_
-11	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	486	nmod	486:nmod	_
-12-13	del	_	_	_	_	_	_	_	_
-12	di	di	ADP	E	_	498	case	498:case	_
-13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	498	det	498:det	_
-14	<NUM>	_	_	_	_	_	_	_	_
-15	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	502	nsubj	502:nsubj	_
-16	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	502	aux	502:aux	_
-17	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	451	conj	451:conj	_
-18	ferie	ferie	NOUN	S	Gender=Fem|Number=Plur	502	obj	502:obj	_
-19	e	e	CCONJ	CC	_	509	cc	509:cc	_
-20	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	509	aux	509:aux	Seg=B-Conn
-21	con	con	ADP	E	_	507	case	507:case	_
-22	quanto	quanto	PRON	PR	Number=Sing|PronType=Rel	505	obl	505:obl	_
-23	meno	meno	ADV	B	_	509	advmod	509:advmod	_
-24	comparire	comparire	VERB	V	VerbForm=Inf	519	conj	519:conj	_
-25	quel	quello	DET	DD	PronType=Dem	512	det	512:det	_
-26	<NUM>	_	_	_	_	_	_	_	_
-27	che	che	PRON	PR	PronType=Rel	517	obj	517:obj	_
-28	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	517	nsubj	517:nsubj	_
-29	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	517	aux	517:aux	_
-30	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	512	acl:relcl	512:acl:relcl	_
-31	non	non	ADV	BN	PronType=Neg	519	advmod	519:advmod	_
-32	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	502	conj	502:conj	_
-33-34	al	_	_	_	_	_	_	_	_
-33	a	a	ADP	E	_	523	case	523:case	_
-34	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	523	det	523:det	_
-35	<WD>	_	_	_	_	_	_	_	_
-36	<NUM>	_	_	_	_	_	_	_	_
-37	che	che	PRON	PR	PronType=Rel	532	nsubj:pass	532:nsubj:pass	_
-38	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	532	aux	532:aux	_
-39	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	532	aux:pass	532:aux:pass	_
-40	sicuramente	sicuramente	ADV	B	_	532	advmod	532:advmod	_
-41	inserito	inserire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	523	acl:relcl	523:acl:relcl	_
-42	a	a	ADP	E	_	534	case	534:case	_
-43	conferma	conferma	NOUN	S	Gender=Fem|Number=Sing	532	obl	532:obl	_
-44-45	della	_	_	_	_	_	_	_	_
-44	di	di	ADP	E	_	537	case	537:case	_
-45	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	537	det	537:det	_
-46	sì	sì	INTJ	I	_	534	nmod	534:nmod	_
+1	ad	a	ADP	E	_	482	case	482:case	_
+2	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	486	nmod	486:nmod	Seg=B-Conn
+3-4	dal	_	_	_	_	_	_	_	_
+3	da	da	ADP	E	_	486	case	486:case	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	486	det	486:det	_
+5	<DIGIT>	_	_	_	_	_	_	_	_
+6	in	in	ADP	E	_	489	case	489:case	_
+7	avanti	avanti	ADV	B	_	486	advmod	486:advmod	_
+8	fino	fino	ADV	B	_	494	case	494:case	_
+9	a	a	ADP	E	_	490	fixed	490:fixed	_
+10	tutta	tutto	DET	DI	PronType=Ind	494	det	494:det	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	494	det	494:det	_
+12	settimana	settimana	NOUN	S	Gender=Fem|Number=Sing	486	nmod	486:nmod	_
+13-14	del	_	_	_	_	_	_	_	_
+13	di	di	ADP	E	_	498	case	498:case	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	498	det	498:det	_
+15	<NUM>	_	_	_	_	_	_	_	_
+16	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	502	nsubj	502:nsubj	_
+17	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	502	aux	502:aux	_
+18	preso	prendere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	451	conj	451:conj	_
+19	ferie	ferie	NOUN	S	Gender=Fem|Number=Plur	502	obj	502:obj	_
+20	e	e	CCONJ	CC	_	509	cc	509:cc	Seg=B-Conn
+21	dovrebbe	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	509	aux	509:aux	_
+22	con	con	ADP	E	_	507	case	507:case	_
+23	quanto	quanto	PRON	PR	Number=Sing|PronType=Rel	505	obl	505:obl	_
+24	meno	meno	ADV	B	_	509	advmod	509:advmod	_
+25	comparire	comparire	VERB	V	VerbForm=Inf	519	conj	519:conj	_
+26	quel	quello	DET	DD	PronType=Dem	512	det	512:det	_
+27	<NUM>	_	_	_	_	_	_	_	_
+28	che	che	PRON	PR	PronType=Rel	517	obj	517:obj	_
+29	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	517	nsubj	517:nsubj	_
+30	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	517	aux	517:aux	_
+31	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	512	acl:relcl	512:acl:relcl	_
+32	non	non	ADV	BN	PronType=Neg	519	advmod	519:advmod	_
+33	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	502	conj	502:conj	_
+34-35	al	_	_	_	_	_	_	_	_
+34	a	a	ADP	E	_	523	case	523:case	_
+35	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	523	det	523:det	_
+36	<WD>	_	_	_	_	_	_	_	_
+37	<NUM>	_	_	_	_	_	_	_	_
+38	che	che	PRON	PR	PronType=Rel	532	nsubj:pass	532:nsubj:pass	_
+39	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	532	aux	532:aux	_
+40	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	532	aux:pass	532:aux:pass	_
+41	sicuramente	sicuramente	ADV	B	_	532	advmod	532:advmod	_
+42	inserito	inserire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	523	acl:relcl	523:acl:relcl	_
+43	a	a	ADP	E	_	534	case	534:case	_
+44	conferma	conferma	NOUN	S	Gender=Fem|Number=Sing	532	obl	532:obl	_
+45-46	della	_	_	_	_	_	_	_	_
+45	di	di	ADP	E	_	537	case	537:case	_
+46	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	537	det	537:det	_
 
 # newturn_id = 0704000040-41
 # newutterance_id = 0704000040-41-1
-1	però	però	ADV	B	_	541	advmod	541:advmod	_
+1	sì	sì	INTJ	I	_	534	nmod	534:nmod	_
 
 # newturn_id = 0704000040-42
 # newutterance_id = 0704000040-42-1
-1	non	non	ADV	BN	PronType=Neg	541	advmod	541:advmod	Seg=B-Conn
+1	però	però	ADV	B	_	541	advmod	541:advmod	Seg=B-Conn
 2	non	non	ADV	BN	PronType=Neg	541	advmod	541:advmod	_
-3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	557	conj	557:conj	_
-4	non	non	ADV	BN	PronType=Neg	543	advmod	543:advmod	_
-5	compare	comparire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	532	conj	532:conj	_
-6	come	come	ADP	E	_	548	case	548:case	_
-7	anche	anche	ADV	B	_	548	advmod	548:advmod	_
-8	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	543	obj	543:obj	_
-9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	548	det	548:det	_
-10	timbratura	timbratura	NOUN	S	Gender=Fem|Number=Sing	543	obj	543:obj	_
-11	giornaliera	giornaliero	ADJ	A	Gender=Fem|Number=Sing	548	amod	548:amod	_
-12	di	di	ADP	E	_	551	case	551:case	_
-13	ieri	ieri	NOUN	S	_	548	nmod	548:nmod	_
-14-15	del	_	_	_	_	_	_	_	_
-14	di	di	ADP	E	_	555	case	555:case	_
-15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	555	det	555:det	_
-16	<NUM>	_	_	_	_	_	_	_	_
-17	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	532	conj	532:conj	_
-18	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	560	det	560:det	_
-19	quattro	quattro	NUM	N	NumType=Card	560	nummod	560:nummod	_
-20	timbrature	timbratura	NOUN	S	Gender=Fem|Number=Plur	557	obj	557:obj	_
-21	ma	ma	CCONJ	CC	_	563	cc	563:cc	_
-22	non	non	ADV	BN	PronType=Neg	563	advmod	563:advmod	Seg=B-Conn
-23	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	569	conj	569:conj	_
-24	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	565	det	565:det	_
-25	orario	orario	NOUN	S	Gender=Masc|Number=Sing	563	obj	563:obj	_
-26	finale	finale	ADJ	A	Number=Sing	565	amod	565:amod	_
-27	giornaliero	giornaliero	ADJ	A	Gender=Masc|Number=Sing	565	amod	565:amod	_
-28	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	569	aux	569:aux	_
+3	non	non	ADV	BN	PronType=Neg	541	advmod	541:advmod	_
+4	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	557	conj	557:conj	_
+5	non	non	ADV	BN	PronType=Neg	543	advmod	543:advmod	_
+6	compare	comparire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	532	conj	532:conj	_
+7	come	come	ADP	E	_	548	case	548:case	_
+8	anche	anche	ADV	B	_	548	advmod	548:advmod	_
+9	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	543	obj	543:obj	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	548	det	548:det	_
+11	timbratura	timbratura	NOUN	S	Gender=Fem|Number=Sing	543	obj	543:obj	_
+12	giornaliera	giornaliero	ADJ	A	Gender=Fem|Number=Sing	548	amod	548:amod	_
+13	di	di	ADP	E	_	551	case	551:case	_
+14	ieri	ieri	NOUN	S	_	548	nmod	548:nmod	_
+15-16	del	_	_	_	_	_	_	_	_
+15	di	di	ADP	E	_	555	case	555:case	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	555	det	555:det	_
+17	<NUM>	_	_	_	_	_	_	_	_
+18	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	532	conj	532:conj	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	560	det	560:det	_
+20	quattro	quattro	NUM	N	NumType=Card	560	nummod	560:nummod	_
+21	timbrature	timbratura	NOUN	S	Gender=Fem|Number=Plur	557	obj	557:obj	_
+22	ma	ma	CCONJ	CC	_	563	cc	563:cc	Seg=B-Conn
+23	non	non	ADV	BN	PronType=Neg	563	advmod	563:advmod	_
+24	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	569	conj	569:conj	_
+25	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	565	det	565:det	_
+26	orario	orario	NOUN	S	Gender=Masc|Number=Sing	563	obj	563:obj	_
+27	finale	finale	ADJ	A	Number=Sing	565	amod	565:amod	_
+28	giornaliero	giornaliero	ADJ	A	Gender=Masc|Number=Sing	565	amod	565:amod	_
 
 # newturn_id = 0704000040-43
 # newutterance_id = 0704000040-43-1
-1	capito	capitare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	586	conj	586:conj	_
-2	e	e	CCONJ	CC	_	576	cc	576:cc	_
-3	come	come	ADV	B	_	576	advmod	576:advmod	Seg=B-Conn
-4	a	a	ADP	E	_	573	case	573:case	_
-5	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	576	obl	576:obl	_
-6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	576	iobj	576:iobj	_
-7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	576	aux	576:aux	_
-8	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	557	conj	557:conj	_
-9	anche	anche	ADV	B	_	580	advmod	580:advmod	_
-10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	586	conj	586:conj	_
+1	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	569	aux	569:aux	_
+2	capito	capitare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	586	conj	586:conj	_
+3	e	e	CCONJ	CC	_	576	cc	576:cc	Seg=B-Conn
+4	come	come	ADV	B	_	576	advmod	576:advmod	_
+5	a	a	ADP	E	_	573	case	573:case	_
+6	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	576	obl	576:obl	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	576	iobj	576:iobj	_
+8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	576	aux	576:aux	_
+9	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	557	conj	557:conj	_
+10	anche	anche	ADV	B	_	580	advmod	580:advmod	_
 
 # newturn_id = 0704000040-44
 # newutterance_id = 0704000040-44-1
-1	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	576	obj	576:obj	_
-2	sì	sì	INTJ	I	_	569	conj	569:conj	_
-3	sì	sì	INTJ	I	_	597	conj	597:conj	_
+1	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	586	conj	586:conj	_
+2	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	576	obj	576:obj	_
+3	sì	sì	INTJ	I	_	569	conj	569:conj	_
 4	sì	sì	INTJ	I	_	597	conj	597:conj	_
-5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	584	det	584:det	_
+5	sì	sì	INTJ	I	_	597	conj	597:conj	_
 
 # newutterance_id = 0704000040-44-2
-1	colleghe	collega	NOUN	S	Gender=Fem|Number=Plur	576	nsubj	576:nsubj	_
-2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	584	amod	584:amod	_
-3	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	557	conj	557:conj	_
-4	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	588	det	588:det	_
-5	problema	problema	NOUN	S	Gender=Masc|Number=Sing	586	obj	586:obj	_
-6	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	588	amod	588:amod	_
+1	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	584	det	584:det	_
+2	colleghe	collega	NOUN	S	Gender=Fem|Number=Plur	576	nsubj	576:nsubj	_
+3	vero	vero	ADJ	A	Gender=Masc|Number=Sing	584	amod	584:amod	_
+4	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	557	conj	557:conj	_
+5	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	588	det	588:det	_
+6	problema	problema	NOUN	S	Gender=Masc|Number=Sing	586	obj	586:obj	_
 
 # newturn_id = 0704000040-45
 # newutterance_id = 0704000040-45-1
-1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	597	nsubj	597:nsubj	_
-2	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	592	det	592:det	_
-3	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	597	nsubj	597:nsubj	_
-4	qui	qui	ADV	B	_	597	advmod	597:advmod	_
-5	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	597	obj	597:obj	_
-6	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	597	aux	597:aux	_
-7	già	già	ADV	B	_	597	advmod	597:advmod	_
-8	segnalata	segnalare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	578	conj	578:conj	_
-9	anche	anche	ADV	B	_	603	advmod	603:advmod	_
-10-11	al	_	_	_	_	_	_	_	_
-10	a	a	ADP	E	_	603	case	603:case	_
-11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	603	det	603:det	_
-12	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	603	det:poss	603:det:poss	_
+1	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	588	amod	588:amod	_
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	597	nsubj	597:nsubj	_
+3	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	592	det	592:det	_
+4	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	597	nsubj	597:nsubj	_
+5	qui	qui	ADV	B	_	597	advmod	597:advmod	_
+6	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	597	obj	597:obj	_
+7	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	597	aux	597:aux	_
+8	già	già	ADV	B	_	597	advmod	597:advmod	_
+9	segnalata	segnalare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	578	conj	578:conj	_
+10	anche	anche	ADV	B	_	603	advmod	603:advmod	_
+11-12	al	_	_	_	_	_	_	_	_
+11	a	a	ADP	E	_	603	case	603:case	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	603	det	603:det	_
 13	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	603	det:poss	603:det:poss	_
-14	settore	settore	NOUN	S	Gender=Masc|Number=Sing	597	obl	597:obl	_
-15	che	che	PRON	PR	PronType=Rel	606	nsubj	606:nsubj	_
-16	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	606	expl	606:expl	_
-17	occupa	occupare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	603	acl:relcl	603:acl:relcl	_
-18-19	dello	_	_	_	_	_	_	_	_
-18	di	di	ADP	E	_	609	case	609:case	_
-19	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	609	det	609:det	_
-20	stato	stato	NOUN	S	Gender=Masc|Number=Sing	606	obl	606:obl	_
-21	giuridico	giuridico	ADJ	A	Gender=Masc|Number=Sing	609	amod	609:amod	_
-22	rile	rile	ADJ	A	Gender=Masc|Number=Sing	612	amod	612:amod	_
-23	rilevamento	rilevamento	NOUN	S	Gender=Masc|Number=Sing	609	nmod	609:nmod	_
+14	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	603	det:poss	603:det:poss	_
+15	settore	settore	NOUN	S	Gender=Masc|Number=Sing	597	obl	597:obl	_
+16	che	che	PRON	PR	PronType=Rel	606	nsubj	606:nsubj	_
+17	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	606	expl	606:expl	_
+18	occupa	occupare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	603	acl:relcl	603:acl:relcl	_
+19-20	dello	_	_	_	_	_	_	_	_
+19	di	di	ADP	E	_	609	case	609:case	_
+20	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	609	det	609:det	_
+21	stato	stato	NOUN	S	Gender=Masc|Number=Sing	606	obl	606:obl	_
+22	giuridico	giuridico	ADJ	A	Gender=Masc|Number=Sing	609	amod	609:amod	_
+23	rile	rile	ADJ	A	Gender=Masc|Number=Sing	612	amod	612:amod	_
 
 # newutterance_id = 0704000040-45-2
-1	badge	badga	NOUN	S	_	612	compound	612:compound	_
-2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	616	iobj	616:iobj	_
-3	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	616	aux	616:aux	_
-4	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	597	parataxis	597:parataxis	_
-5	che	che	SCONJ	CS	_	619	mark	619:mark	_
-6	avrebbero	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	619	aux	619:aux	_
-7	provveduto	provvedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	616	ccomp	616:ccomp	_
-8	a	a	ADP	E	_	622	mark	622:mark	_
+1	rilevamento	rilevamento	NOUN	S	Gender=Masc|Number=Sing	609	nmod	609:nmod	_
+2	badge	badga	NOUN	S	_	612	compound	612:compound	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	616	iobj	616:iobj	_
+4	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	616	aux	616:aux	_
+5	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	597	parataxis	597:parataxis	_
+6	che	che	SCONJ	CS	_	619	mark	619:mark	_
+7	avrebbero	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	619	aux	619:aux	_
+8	provveduto	provvedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	616	ccomp	616:ccomp	_
 9	a	a	ADP	E	_	622	mark	622:mark	_
-10	informare	informare	VERB	V	VerbForm=Inf	619	ccomp	619:ccomp	_
-11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	625	det	625:det	_
-12	<ORG>	_	_	_	_	_	_	_	_
-13	ma	ma	CCONJ	CC	_	630	cc	630:cc	_
-14	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	630	nsubj	630:nsubj	_
-15	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	630	obj	630:obj	_
-16	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	619	conj	619:conj	_
-17	a	a	ADP	E	_	632	case	632:case	_
-18	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	630	obl	630:obl	_
-19	mese	mese	NOUN	S	Gender=Masc|Number=Sing	632	compound	632:compound	_
-20	e	e	CCONJ	CC	_	637	cc	637:cc	_
-21	non	non	ADV	BN	PronType=Neg	637	advmod	637:advmod	Seg=B-Conn
-22	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	637	aux	637:aux	_
-23	successo	succedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	619	conj	619:conj	_
-24	ancora	ancora	ADV	B	_	637	advmod	637:advmod	_
-25	nulla	nulla	PRON	PI	PronType=Ind	637	obj	637:obj	_
-26	e	e	CCONJ	CC	_	643	cc	643:cc	_
-27	adesso	adesso	ADV	B	_	643	advmod	643:advmod	Seg=B-Conn
-28	non	non	ADV	BN	PronType=Neg	643	advmod	643:advmod	_
-29	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	616	conj	616:conj	_
-30	se	se	SCONJ	CS	_	647	mark	647:mark	_
-31	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	647	cop	647:cop	_
-32	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	647	det	647:det	_
-33	problema	problema	NOUN	S	Gender=Masc|Number=Sing	643	ccomp	643:ccomp	_
-34	magari	magari	ADV	B	_	652	advmod	652:advmod	_
-35	appunto	appunto	ADV	B	_	652	advmod	652:advmod	_
-36	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	652	expl	652:expl	_
-37	state	essere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	652	aux	652:aux	_
-38	lavorando	lavorare	VERB	V	VerbForm=Ger	637	advcl	637:advcl	_
-39	e	e	CCONJ	CC	_	659	cc	659:cc	_
-40	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	655	det	655:det	Seg=B-Conn
-41	problema	problema	NOUN	S	Gender=Masc|Number=Sing	652	nsubj	652:nsubj	_
+10	a	a	ADP	E	_	622	mark	622:mark	_
+11	informare	informare	VERB	V	VerbForm=Inf	619	ccomp	619:ccomp	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	625	det	625:det	_
+13	<ORG>	_	_	_	_	_	_	_	_
+14	ma	ma	CCONJ	CC	_	630	cc	630:cc	_
+15	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	630	nsubj	630:nsubj	_
+16	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	630	obj	630:obj	_
+17	dico	dire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	619	conj	619:conj	_
+18	a	a	ADP	E	_	632	case	632:case	_
+19	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	630	obl	630:obl	_
+20	mese	mese	NOUN	S	Gender=Masc|Number=Sing	632	compound	632:compound	_
+21	e	e	CCONJ	CC	_	637	cc	637:cc	Seg=B-Conn
+22	non	non	ADV	BN	PronType=Neg	637	advmod	637:advmod	_
+23	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	637	aux	637:aux	_
+24	successo	succedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	619	conj	619:conj	_
+25	ancora	ancora	ADV	B	_	637	advmod	637:advmod	_
+26	nulla	nulla	PRON	PI	PronType=Ind	637	obj	637:obj	_
+27	e	e	CCONJ	CC	_	643	cc	643:cc	Seg=B-Conn
+28	adesso	adesso	ADV	B	_	643	advmod	643:advmod	_
+29	non	non	ADV	BN	PronType=Neg	643	advmod	643:advmod	_
+30	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	616	conj	616:conj	_
+31	se	se	SCONJ	CS	_	647	mark	647:mark	_
+32	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	647	cop	647:cop	_
+33	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	647	det	647:det	_
+34	problema	problema	NOUN	S	Gender=Masc|Number=Sing	643	ccomp	643:ccomp	_
+35	magari	magari	ADV	B	_	652	advmod	652:advmod	_
+36	appunto	appunto	ADV	B	_	652	advmod	652:advmod	_
+37	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	652	expl	652:expl	_
+38	state	essere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	652	aux	652:aux	_
+39	lavorando	lavorare	VERB	V	VerbForm=Ger	637	advcl	637:advcl	_
+40	e	e	CCONJ	CC	_	659	cc	659:cc	Seg=B-Conn
+41	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	655	det	655:det	_
 
 # newutterance_id = 0704000040-45-3
-1	non	non	ADV	BN	PronType=Neg	659	advmod	659:advmod	_
-2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	659	aux	659:aux	_
-3	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	659	aux:pass	659:aux:pass	_
-4	risolto	risolvere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	637	conj	637:conj	_
-5	oppure	oppure	CCONJ	CC	_	662	cc	662:cc	_
-6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	662	aux	662:aux	_
+1	problema	problema	NOUN	S	Gender=Masc|Number=Sing	652	nsubj	652:nsubj	_
+2	non	non	ADV	BN	PronType=Neg	659	advmod	659:advmod	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	659	aux	659:aux	_
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	659	aux:pass	659:aux:pass	_
+5	risolto	risolvere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	637	conj	637:conj	_
+6	oppure	oppure	CCONJ	CC	_	662	cc	662:cc	_
 
 # newturn_id = 0704000040-46
 # newutterance_id = 0704000040-46-1
-1	capito	capitare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	652	conj	652:conj	_
-2	allora	allora	ADV	B	_	664	advmod	664:advmod	_
-3	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	675	conj	675:conj	_
-4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	666	det	666:det	_
-5	attimino	attimino	NOUN	S	Gender=Masc|Number=Sing	664	obj	664:obj	_
-6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	668	obj	668:obj	_
-7	informo	informare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	664	conj	664:conj	_
-8	cerco	cercare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	652	conj	652:conj	_
-9	di	di	ADP	E	_	671	mark	671:mark	_
-10	capire	capire	VERB	V	VerbForm=Inf	669	ccomp	669:ccomp	_
-11	appunto	appunto	ADV	B	_	671	advmod	671:advmod	_
-12	chi	chi	PRON	PR	PronType=Rel	671	obj	671:obj	_
+1	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	662	aux	662:aux	_
+2	capito	capitare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	652	conj	652:conj	_
+3	allora	allora	ADV	B	_	664	advmod	664:advmod	_
+4	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	675	conj	675:conj	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	666	det	666:det	_
+6	attimino	attimino	NOUN	S	Gender=Masc|Number=Sing	664	obj	664:obj	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	668	obj	668:obj	_
+8	informo	informare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	664	conj	664:conj	_
+9	cerco	cercare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	652	conj	652:conj	_
+10	di	di	ADP	E	_	671	mark	671:mark	_
+11	capire	capire	VERB	V	VerbForm=Inf	669	ccomp	669:ccomp	_
+12	appunto	appunto	ADV	B	_	671	advmod	671:advmod	_
 
 # newutterance_id = 0704000040-46-2
-1	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	675	expl	675:expl	_
-2	occupa	occupare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	673	acl:relcl	673:acl:relcl	_
-3	di	di	ADP	E	_	679	case	679:case	_
-4-5	dell'	_	_	_	_	_	_	_	_
+1	chi	chi	PRON	PR	PronType=Rel	671	obj	671:obj	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	675	expl	675:expl	_
+3	occupa	occupare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	673	acl:relcl	673:acl:relcl	_
 4	di	di	ADP	E	_	679	case	679:case	_
-5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	679	det	679:det	_
-6	inserimento	inserimento	NOUN	S	Gender=Masc|Number=Sing	675	obl	675:obl	_
-7	più	più	ADV	B	_	679	advmod	679:advmod	_
-8	che	che	SCONJ	CS	_	686	mark	686:mark	_
-9	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	686	nsubj	686:nsubj	_
-10-11	dei	_	_	_	_	_	_	_	_
-10	di	di	ADP	E	_	685	case	685:case	_
-11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	685	det	685:det	_
-12	dati	dato	NOUN	S	Gender=Masc|Number=Plur	682	nmod	682:nmod	_
-13	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	668	ccomp	668:ccomp	_
+5-6	dell'	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	679	case	679:case	_
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	679	det	679:det	_
+7	inserimento	inserimento	NOUN	S	Gender=Masc|Number=Sing	675	obl	675:obl	_
+8	più	più	ADV	B	_	679	advmod	679:advmod	_
+9	che	che	SCONJ	CS	_	686	mark	686:mark	_
+10	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	686	nsubj	686:nsubj	_
+11-12	dei	_	_	_	_	_	_	_	_
+11	di	di	ADP	E	_	685	case	685:case	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	685	det	685:det	_
+13	dati	dato	NOUN	S	Gender=Masc|Number=Plur	682	nmod	682:nmod	_
 
 # newturn_id = 0704000040-47
 # newutterance_id = 0704000040-47-1
-1	bene	bene	ADV	B	_	686	advmod	686:advmod	_
-2	e	e	CCONJ	CC	_	695	cc	695:cc	_
+1	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	668	ccomp	668:ccomp	_
+2	bene	bene	ADV	B	_	686	advmod	686:advmod	_
 
 # newturn_id = 0704000040-48
 # newutterance_id = 0704000040-48-1
-1-2	sulla	_	_	_	_	_	_	_	_
-1	su	su	ADP	E	_	691	case	691:case	Seg=B-Conn
-2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	691	det	691:det	_
-3	procedura	procedura	NOUN	S	Gender=Fem|Number=Sing	699	obl	699:obl	_
-4-5	delle	_	_	_	_	_	_	_	_
-4	di	di	ADP	E	_	694	case	694:case	_
-5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	694	det	694:det	_
-6	timbrature	timbratura	NOUN	S	Gender=Fem|Number=Plur	691	nmod	691:nmod	_
-7	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	707	advcl	707:advcl	_
+1	e	e	CCONJ	CC	_	695	cc	695:cc	Seg=B-Conn
+2-3	sulla	_	_	_	_	_	_	_	_
+2	su	su	ADP	E	_	691	case	691:case	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	691	det	691:det	_
+4	procedura	procedura	NOUN	S	Gender=Fem|Number=Sing	699	obl	699:obl	_
+5-6	delle	_	_	_	_	_	_	_	_
+5	di	di	ADP	E	_	694	case	694:case	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	694	det	694:det	_
+7	timbrature	timbratura	NOUN	S	Gender=Fem|Number=Plur	691	nmod	691:nmod	_
 
 # newturn_id = 0704000040-49
 # newutterance_id = 0704000040-49-1
-1	bene	bene	ADV	B	_	695	advmod	695:advmod	_
-2	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	699	expl	699:expl	_
+1	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	707	advcl	707:advcl	_
+2	bene	bene	ADV	B	_	695	advmod	695:advmod	_
 
 # newturn_id = 0704000040-50
 # newutterance_id = 0704000040-50-1
-1	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	699	iobj	699:iobj	_
-2	occupo	occupare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	671	ccomp	671:ccomp	_
-3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	699	nsubj	699:nsubj	_
-4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	702	det	702:det	_
-5	attimo	attimo	NOUN	S	Gender=Masc|Number=Sing	699	obj	699:obj	_
-6	e	e	CCONJ	CC	_	707	cc	707:cc	_
-7	poi	poi	ADV	B	_	707	advmod	707:advmod	Seg=B-Conn
-8	anzi	anzi	ADV	B	_	707	advmod	707:advmod	_
-9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	707	iobj	707:iobj	_
-10	dia	dare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	699	conj	699:conj	_
-11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	709	iobj	709:iobj	_
-12	lasci	lasciare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	699	conj	699:conj	_
-13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	711	det	711:det	_
-14	numero	numero	NOUN	S	Gender=Masc|Number=Sing	709	obj	709:obj	_
-15	di	di	ADP	E	_	713	case	713:case	_
-16	telefono	telefono	NOUN	S	Gender=Masc|Number=Sing	711	nmod	711:nmod	_
-17	sì	sì	INTJ	I	_	707	discourse	707:discourse	_
+1	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	699	expl	699:expl	_
+2	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	699	iobj	699:iobj	_
+3	occupo	occupare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	671	ccomp	671:ccomp	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	699	nsubj	699:nsubj	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	702	det	702:det	_
+6	attimo	attimo	NOUN	S	Gender=Masc|Number=Sing	699	obj	699:obj	_
+7	e	e	CCONJ	CC	_	707	cc	707:cc	Seg=B-Conn
+8	poi	poi	ADV	B	_	707	advmod	707:advmod	_
+9	anzi	anzi	ADV	B	_	707	advmod	707:advmod	_
+10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	707	iobj	707:iobj	_
+11	dia	dare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	699	conj	699:conj	_
+12	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	709	iobj	709:iobj	_
+13	lasci	lasciare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	699	conj	699:conj	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	711	det	711:det	_
+15	numero	numero	NOUN	S	Gender=Masc|Number=Sing	709	obj	709:obj	_
+16	di	di	ADP	E	_	713	case	713:case	_
+17	telefono	telefono	NOUN	S	Gender=Masc|Number=Sing	711	nmod	711:nmod	_
 
 # newturn_id = 0704000040-51
 # newutterance_id = 0704000040-51-1
-1	così	così	ADV	B	_	728	advmod	728:advmod	_
+1	sì	sì	INTJ	I	_	707	discourse	707:discourse	_
 
 # newutterance_id = 0704000040-51-2
-1	almeno	almeno	ADV	B	_	725	advmod	725:advmod	_
-2	<DIGIT>	_	_	_	_	_	_	_	_
+1	così	così	ADV	B	_	728	advmod	728:advmod	_
+2	almeno	almeno	ADV	B	_	725	advmod	725:advmod	_
 
 # newturn_id = 0704000040-52
 # newutterance_id = 0704000040-52-1
-1	<NUM>	_	_	_	_	_	_	_	_
-2	sì	sì	INTJ	I	_	738	flat:foreign	738:flat:foreign	_
+1	<DIGIT>	_	_	_	_	_	_	_	_
+2	<NUM>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000040-53
 # newutterance_id = 0704000040-53-1
-1	<DIGIT>	_	_	_	_	_	_	_	_
+1	sì	sì	INTJ	I	_	738	flat:foreign	738:flat:foreign	_
 
 # newutterance_id = 0704000040-53-2
 1	<DIGIT>	_	_	_	_	_	_	_	_
@@ -18472,11 +18461,11 @@
 # newturn_id = 0704000040-54
 # newutterance_id = 0704000040-54-1
 1	<DIGIT>	_	_	_	_	_	_	_	_
-2	sì	sì	INTJ	I	_	718	flat:foreign	718:flat:foreign	_
+2	<DIGIT>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000040-55
 # newutterance_id = 0704000040-55-1
-1	<DIGIT>	_	_	_	_	_	_	_	_
+1	sì	sì	INTJ	I	_	718	flat:foreign	718:flat:foreign	_
 
 # newutterance_id = 0704000040-55-2
 1	<DIGIT>	_	_	_	_	_	_	_	_
@@ -18490,38 +18479,39 @@
 # newturn_id = 0704000040-57
 # newutterance_id = 0704000040-57-1
 1	<DIGIT>	_	_	_	_	_	_	_	_
-2	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	753	parataxis:discourse	753:parataxis:discourse	_
-3	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	738	parataxis	738:parataxis	_
-4	benissimo	bene	ADV	B	_	755	advmod	755:advmod	_
-5	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	757	parataxis	757:parataxis	_
+2	<DIGIT>	_	_	_	_	_	_	_	_
+3	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	753	parataxis:discourse	753:parataxis:discourse	_
+4	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	738	parataxis	738:parataxis	_
+5	benissimo	bene	ADV	B	_	755	advmod	755:advmod	_
 
 # newturn_id = 0704000040-58
 # newutterance_id = 0704000040-58-1
-1	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	757	expl	757:expl	_
+1	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	757	parataxis	757:parataxis	_
 
 # newturn_id = 0704000040-59
 # newutterance_id = 0704000040-59-1
-1	sentiamo	sentire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	738	parataxis	738:parataxis	_
-2	più	più	ADV	B	_	759	advmod	759:advmod	_
-3	tardi	tardi	ADV	B	_	757	advmod	757:advmod	_
-4	buongiorno	buongiorno	INTJ	I	_	757	discourse	757:discourse	_
+1	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	757	expl	757:expl	_
+2	sentiamo	sentire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	738	parataxis	738:parataxis	_
+3	più	più	ADV	B	_	759	advmod	759:advmod	_
+4	tardi	tardi	ADV	B	_	757	advmod	757:advmod	_
 
 # newutterance_id = 0704000040-59-2
-1	allora	allora	ADV	B	_	757	advmod	757:advmod	_
+1	buongiorno	buongiorno	INTJ	I	_	757	discourse	757:discourse	_
 
 # newturn_id = 0704000040-60
 # newutterance_id = 0704000040-60-1
-1	signora	signore	NOUN	S	Gender=Fem|Number=Sing	757	vocative	757:vocative	_
-2	buongiorno	buongiorno	INTJ	I	_	765	discourse	765:discourse	_
+1	allora	allora	ADV	B	_	757	advmod	757:advmod	_
+2	signora	signore	NOUN	S	Gender=Fem|Number=Sing	757	vocative	757:vocative	_
 
 # newturn_id = 0704000040-61
 # newutterance_id = 0704000040-61-1
-1	salve	salve	INTJ	I	_	765	discourse	765:discourse	_
+1	buongiorno	buongiorno	INTJ	I	_	765	discourse	765:discourse	_
 
 # newutterance_id = 0704000040-61-2
-1-2	arrivederci	_	_	_	_	_	_	_	_
-1	arriveder	arrivedere	VERB	V	VerbForm=Inf	760	parataxis	760:parataxis	_
-2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	765	obj	765:obj	_
+1	salve	salve	INTJ	I	_	765	discourse	765:discourse	_
+2-3	arrivederci	_	_	_	_	_	_	_	_
+2	arriveder	arrivedere	VERB	V	VerbForm=Inf	760	parataxis	760:parataxis	_
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	765	obj	765:obj	_
 
 # newdoc_id = 0704000041
 # newturn_id = 0704000041-1
@@ -19812,112 +19802,112 @@
 # newutterance_id = 0704000043-62-2
 1	che	che	PRON	PR	PronType=Rel	443	nsubj	443:nsubj	_
 2	lavora	lavorare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	441	acl:relcl	441:acl:relcl	_
-3	qui è	qui è	ADV	B	_	443	advmod	443:advmod	_
-4	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	443	xcomp	443:xcomp	_
+3	qui	qui	ADV	B	_	443	advmod	_:advmod	_
+4	è	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000043-63
 # newutterance_id = 0704000043-63-1
-1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	447	det	447:det	_
-2	tecnico	tecnico	NOUN	S	Gender=Masc|Number=Sing	443	nsubj	443:nsubj	_
-3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	450	iobj	450:iobj	_
-4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	450	aux	450:aux	_
-5	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	421	acl:relcl	421:acl:relcl	_
-6	di	di	ADP	E	_	452	mark	452:mark	_
-7	avvisare	avvisare	VERB	V	VerbForm=Inf	450	ccomp	450:ccomp	_
-8	telefonare	telefonare	VERB	V	VerbForm=Inf	452	ccomp	452:ccomp	_
-9	e	e	CCONJ	CC	_	455	cc	455:cc	_
-10	dire	dire	VERB	V	VerbForm=Inf	453	conj	453:conj	_
-11	che	che	SCONJ	CS	_	458	mark	458:mark	_
-12	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	458	aux:pass	458:aux:pass	_
-13	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	455	ccomp	455:ccomp	_
-14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	460	det	460:det	_
-15	intervento	intervento	NOUN	S	Gender=Masc|Number=Sing	458	obj	458:obj	_
-16	e	e	CCONJ	CC	_	469	cc	469:cc	_
-17	che	che	SCONJ	CS	_	466	mark	466:mark	Seg=B-Conn
-18	quindi	quindi	ADV	B	_	466	advmod	466:advmod	_
-19	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	466	cop	466:cop	Seg=B-Conn
-20	a	a	ADP	E	_	466	case	466:case	_
-21	posto	posto	NOUN	S	Gender=Masc|Number=Sing	469	conj	469:conj	_
-22	allora	allora	ADV	B	_	469	advmod	469:advmod	_
+1	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	443	xcomp	443:xcomp	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	447	det	447:det	_
+3	tecnico	tecnico	NOUN	S	Gender=Masc|Number=Sing	443	nsubj	443:nsubj	_
+4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	450	iobj	450:iobj	_
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	450	aux	450:aux	_
+6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	421	acl:relcl	421:acl:relcl	_
+7	di	di	ADP	E	_	452	mark	452:mark	_
+8	avvisare	avvisare	VERB	V	VerbForm=Inf	450	ccomp	450:ccomp	_
+9	telefonare	telefonare	VERB	V	VerbForm=Inf	452	ccomp	452:ccomp	_
+10	e	e	CCONJ	CC	_	455	cc	455:cc	_
+11	dire	dire	VERB	V	VerbForm=Inf	453	conj	453:conj	_
+12	che	che	SCONJ	CS	_	458	mark	458:mark	_
+13	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	458	aux:pass	458:aux:pass	_
+14	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	455	ccomp	455:ccomp	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	460	det	460:det	_
+16	intervento	intervento	NOUN	S	Gender=Masc|Number=Sing	458	obj	458:obj	_
+17	e	e	CCONJ	CC	_	469	cc	469:cc	Seg=B-Conn
+18	che	che	SCONJ	CS	_	466	mark	466:mark	_
+19	quindi	quindi	ADV	B	_	466	advmod	466:advmod	Seg=B-Conn
+20	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	466	cop	466:cop	_
+21	a	a	ADP	E	_	466	case	466:case	_
+22	posto	posto	NOUN	S	Gender=Masc|Number=Sing	469	conj	469:conj	_
 
 # newturn_id = 0704000043-64
 # newutterance_id = 0704000043-64-1
-1	intanto	intanto	ADV	B	_	469	advmod	469:advmod	_
-2	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	450	conj	450:conj	_
-3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	471	det	471:det	_
-4	attimo	attimo	NOUN	S	Gender=Masc|Number=Sing	469	obj	469:obj	_
-5	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	474	cop	474:cop	_
+1	allora	allora	ADV	B	_	469	advmod	469:advmod	_
+2	intanto	intanto	ADV	B	_	469	advmod	469:advmod	_
+3	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	450	conj	450:conj	_
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	471	det	471:det	_
+5	attimo	attimo	NOUN	S	Gender=Masc|Number=Sing	469	obj	469:obj	_
 
 # newturn_id = 0704000043-65
 # newutterance_id = 0704000043-65-1
-1	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	474	det	474:det	_
-2	sì	sì	INTJ	I	_	469	conj	469:conj	_
+1	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	474	cop	474:cop	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	474	det	474:det	_
 
 # newutterance_id = 0704000043-65-2
-1	sì	sì	INTJ	I	_	477	conj	477:conj	_
+1	sì	sì	INTJ	I	_	469	conj	469:conj	_
 2	sì	sì	INTJ	I	_	477	conj	477:conj	_
-3	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	469	conj	469:conj	_
-4	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	477	conj	477:conj	_
-5	finisco	finire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	450	conj	450:conj	_
+3	sì	sì	INTJ	I	_	477	conj	477:conj	_
+4	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	469	conj	469:conj	_
+5	prego	pregare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	477	conj	477:conj	_
 
 # newutterance_id = 0704000043-65-3
-1	solo	solo	ADV	B	_	482	advmod	482:advmod	_
-2	di	di	ADP	E	_	482	mark	482:mark	_
-3	chiudere	chiudere	VERB	V	VerbForm=Inf	479	ccomp	479:ccomp	_
-4	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	482	obj	482:obj	_
-5	e	e	CCONJ	CC	_	488	cc	488:cc	_
+1	finisco	finire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	450	conj	450:conj	_
+2	solo	solo	ADV	B	_	482	advmod	482:advmod	_
+3	di	di	ADP	E	_	482	mark	482:mark	_
+4	chiudere	chiudere	VERB	V	VerbForm=Inf	479	ccomp	479:ccomp	_
+5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	482	obj	482:obj	_
 
 # newturn_id = 0704000043-66
 # newutterance_id = 0704000043-66-1
-1	poi	poi	ADV	B	_	488	advmod	488:advmod	_
-2	cioè	cioè	ADV	B	_	488	advmod	488:advmod	_
-3	di	di	ADP	E	_	488	mark	488:mark	_
-4-5	aprirlo	_	_	_	_	_	_	_	_
-4	aprir	aprire	VERB	V	VerbForm=Inf	495	ccomp	495:ccomp	_
-5	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	488	obj	488:obj	_
-6	non	non	ADV	BN	PronType=Neg	491	advmod	491:advmod	_
-7-8	chiuderlo	_	_	_	_	_	_	_	_
-7	chiuder	chiudere	VERB	V	VerbForm=Inf	482	conj	482:conj	_
-8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	491	obj	491:obj	_
-9	e	e	CCONJ	CC	_	495	cc	495:cc	_
+1	e	e	CCONJ	CC	_	488	cc	488:cc	_
+2	poi	poi	ADV	B	_	488	advmod	488:advmod	_
+3	cioè	cioè	ADV	B	_	488	advmod	488:advmod	_
+4	di	di	ADP	E	_	488	mark	488:mark	_
+5-6	aprirlo	_	_	_	_	_	_	_	_
+5	aprir	aprire	VERB	V	VerbForm=Inf	495	ccomp	495:ccomp	_
+6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	488	obj	488:obj	_
+7	non	non	ADV	BN	PronType=Neg	491	advmod	491:advmod	_
+8-9	chiuderlo	_	_	_	_	_	_	_	_
+8	chiuder	chiudere	VERB	V	VerbForm=Inf	482	conj	482:conj	_
+9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	491	obj	491:obj	_
 
 # newturn_id = 0704000043-67
 # newutterance_id = 0704000043-67-1
-1	poi	poi	ADV	B	_	495	advmod	495:advmod	Seg=B-Conn
-2	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	477	conj	477:conj	Seg=B-Conn
-3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	497	det	497:det	_
-4	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	495	obj	495:obj	_
-5	sì	sì	INTJ	I	_	495	obj	495:obj	_
+1	e	e	CCONJ	CC	_	495	cc	495:cc	Seg=B-Conn
+2	poi	poi	ADV	B	_	495	advmod	495:advmod	Seg=B-Conn
+3	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	477	conj	477:conj	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	497	det	497:det	_
+5	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	495	obj	495:obj	_
 
 # newturn_id = 0704000043-68
 # newutterance_id = 0704000043-68-1
-1	mentre	mentre	SCONJ	CS	_	501	mark	501:mark	_
-2	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	501	expl	501:expl	Seg=B-Conn
-3	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	478	advcl	478:advcl	_
-4	così	così	ADV	B	_	501	advmod	501:advmod	_
-5	almeno	almeno	ADV	B	_	507	advmod	507:advmod	_
-6	allora	allora	ADV	B	_	507	advmod	507:advmod	_
+1	sì	sì	INTJ	I	_	495	obj	495:obj	_
+2	mentre	mentre	SCONJ	CS	_	501	mark	501:mark	Seg=B-Conn
+3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	501	expl	501:expl	_
+4	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	478	advcl	478:advcl	_
+5	così	così	ADV	B	_	501	advmod	501:advmod	_
+6	almeno	almeno	ADV	B	_	507	advmod	507:advmod	_
 
 # newturn_id = 0704000043-69
 # newutterance_id = 0704000043-69-1
 1	allora	allora	ADV	B	_	507	advmod	507:advmod	_
 
 # newutterance_id = 0704000043-69-2
-1	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	507	expl	507:expl	_
-2	segni	segnare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	477	conj	477:conj	_
-3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	509	det	509:det	_
-4	numero	numero	NOUN	S	Gender=Masc|Number=Sing	507	obj	507:obj	_
-5	di	di	ADP	E	_	511	case	511:case	_
-6	chiamata	chiamata	NOUN	S	Gender=Fem|Number=Sing	509	nmod	509:nmod	_
-7	sì	sì	INTJ	I	_	511	compound	511:compound	_
+1	allora	allora	ADV	B	_	507	advmod	507:advmod	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	507	expl	507:expl	_
+3	segni	segnare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	477	conj	477:conj	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	509	det	509:det	_
+5	numero	numero	NOUN	S	Gender=Masc|Number=Sing	507	obj	507:obj	_
+6	di	di	ADP	E	_	511	case	511:case	_
+7	chiamata	chiamata	NOUN	S	Gender=Fem|Number=Sing	509	nmod	509:nmod	_
 
 # newturn_id = 0704000043-70
 # newutterance_id = 0704000043-70-1
-1	dunque	dunque	ADV	B	_	515	advmod	515:advmod	_
+1	sì	sì	INTJ	I	_	511	compound	511:compound	_
 
 # newturn_id = 0704000043-71
 # newutterance_id = 0704000043-71-1
-1	<DIGIT>	_	_	_	_	_	_	_	_
+1	dunque	dunque	ADV	B	_	515	advmod	515:advmod	_
 2	<DIGIT>	_	_	_	_	_	_	_	_
 3	<DIGIT>	_	_	_	_	_	_	_	_
 4	<DIGIT>	_	_	_	_	_	_	_	_
@@ -19946,495 +19936,496 @@
 # newturn_id = 0704000043-76
 # newutterance_id = 0704000043-76-1
 1	<DIGIT>	_	_	_	_	_	_	_	_
-2	e	e	CCONJ	CC	_	581	cc	581:cc	_
+2	<DIGIT>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000043-77
 # newutterance_id = 0704000043-77-1
-1	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	581	nsubj	581:nsubj	Seg=B-Conn
-2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	559	cop	559:cop	_
-3	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	507	conj	507:conj	_
-4	per	per	ADP	E	_	563	case	563:case	_
-5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	563	det	563:det	_
-6	<SW>	_	_	_	_	_	_	_	_
+1	e	e	CCONJ	CC	_	581	cc	581:cc	Seg=B-Conn
+2	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	581	nsubj	581:nsubj	_
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	559	cop	559:cop	_
+4	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	507	conj	507:conj	_
+5	per	per	ADP	E	_	563	case	563:case	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	563	det	563:det	_
 
 # newturn_id = 0704000043-78
 # newutterance_id = 0704000043-78-1
-1	casella	casella	NOUN	S	Gender=Fem|Number=Sing	563	nmod	563:nmod	_
+1	<SW>	_	_	_	_	_	_	_	_
 
 # newutterance_id = 0704000043-78-2
-1	di	di	ADP	E	_	567	case	567:case	_
+1	casella	casella	NOUN	S	Gender=Fem|Number=Sing	563	nmod	563:nmod	_
 
 # newturn_id = 0704000043-79
 # newutterance_id = 0704000043-79-1
-1	posta	posta	NOUN	S	Gender=Fem|Number=Sing	565	nmod	565:nmod	_
-2	per	per	ADP	E	_	570	case	570:case	_
-3	<SW>	_	_	_	_	_	_	_	_
+1	di	di	ADP	E	_	567	case	567:case	_
+2	posta	posta	NOUN	S	Gender=Fem|Number=Sing	565	nmod	565:nmod	_
+3	per	per	ADP	E	_	570	case	570:case	_
 4	<SW>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000043-80
 # newutterance_id = 0704000043-80-1
-1	esattamente	esattamente	ADV	B	_	576	advmod	576:advmod	_
+1	<SW>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000043-81
 # newutterance_id = 0704000043-81-1
-1	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	570	acl:relcl	570:acl:relcl	_
-2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	578	det	578:det	_
-3	reset	reset	NOUN	S	_	576	obj	576:obj	_
-4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	580	det	580:det	_
-5	richiamo	richiamo	NOUN	S	Gender=Masc|Number=Sing	576	obj	576:obj	_
-6	proviamo	provire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	576	conj	576:conj	_
-7	poi	poi	ADV	B	_	581	advmod	581:advmod	_
-8	insieme	insieme	ADV	B	_	585	mark	585:mark	Seg=B-Conn
-9	a	a	ADP	E	_	583	fixed	583:fixed	_
-10	vedere	vedere	VERB	V	VerbForm=Inf	581	ccomp	581:ccomp	_
-11	se	se	SCONJ	CS	_	591	mark	591:mark	_
-12	effettivamente	effettivamente	ADV	B	_	591	advmod	591:advmod	_
-13	sì	sì	INTJ	I	_	591	advmod	591:advmod	_
+1	esattamente	esattamente	ADV	B	_	576	advmod	576:advmod	_
+2	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	570	acl:relcl	570:acl:relcl	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	578	det	578:det	_
+4	reset	reset	NOUN	S	_	576	obj	576:obj	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	580	det	580:det	_
+6	richiamo	richiamo	NOUN	S	Gender=Masc|Number=Sing	576	obj	576:obj	_
+7	proviamo	provire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	576	conj	576:conj	_
+8	poi	poi	ADV	B	_	581	advmod	581:advmod	Seg=B-Conn
+9	insieme	insieme	ADV	B	_	585	mark	585:mark	_
+10	a	a	ADP	E	_	583	fixed	583:fixed	_
+11	vedere	vedere	VERB	V	VerbForm=Inf	581	ccomp	581:ccomp	_
+12	se	se	SCONJ	CS	_	591	mark	591:mark	_
+13	effettivamente	effettivamente	ADV	B	_	591	advmod	591:advmod	_
 
 # newturn_id = 0704000043-82
 # newutterance_id = 0704000043-82-1
-1	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	591	expl	591:expl	_
+1	sì	sì	INTJ	I	_	591	advmod	591:advmod	_
 
 # newturn_id = 0704000043-83
 # newutterance_id = 0704000043-83-1
 1	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	591	expl	591:expl	_
-2	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	585	ccomp	585:ccomp	_
-3	a	a	ADP	E	_	593	mark	593:mark	_
-4	accedere	accedere	VERB	V	VerbForm=Inf	591	ccomp	591:ccomp	_
-5	come	come	ADP	E	_	595	case	595:case	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	591	expl	591:expl	_
+3	riesce	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	585	ccomp	585:ccomp	_
+4	a	a	ADP	E	_	593	mark	593:mark	_
+5	accedere	accedere	VERB	V	VerbForm=Inf	591	ccomp	591:ccomp	_
 
 # newturn_id = 0704000043-84
 # newutterance_id = 0704000043-84-1
-1	no	no	INTJ	I	_	593	obl	593:obl	_
-2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	598	det	598:det	_
+1	come	come	ADP	E	_	595	case	595:case	_
+2	no	no	INTJ	I	_	593	obl	593:obl	_
 
 # newutterance_id = 0704000043-84-2
-1	altro	altro	DET	DI	PronType=Ind	598	det	598:det	_
-2	intervento	intervento	NOUN	S	Gender=Masc|Number=Sing	601	nsubj	601:nsubj	_
+1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	598	det	598:det	_
+2	altro	altro	DET	DI	PronType=Ind	598	det	598:det	_
 
 # newturn_id = 0704000043-85
 # newutterance_id = 0704000043-85-1
-1	per	per	ADP	E	_	600	case	600:case	_
-2	caso	caso	NOUN	S	Gender=Masc|Number=Sing	601	obl	601:obl	_
-3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	609	conj	609:conj	_
-4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	603	det	603:det	_
-5	numero	numero	NOUN	S	Gender=Masc|Number=Sing	601	obj	601:obj	_
-6	di	di	ADP	E	_	605	case	605:case	_
-7	riferimento	riferimento	NOUN	S	Gender=Masc|Number=Sing	603	nmod	603:nmod	_
+1	intervento	intervento	NOUN	S	Gender=Masc|Number=Sing	601	nsubj	601:nsubj	_
+2	per	per	ADP	E	_	600	case	600:case	_
+3	caso	caso	NOUN	S	Gender=Masc|Number=Sing	601	obl	601:obl	_
+4	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	609	conj	609:conj	_
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	603	det	603:det	_
+6	numero	numero	NOUN	S	Gender=Masc|Number=Sing	601	obj	601:obj	_
+7	di	di	ADP	E	_	605	case	605:case	_
 
 # newturn_id = 0704000043-86
 # newutterance_id = 0704000043-86-1
-1	non	non	ADV	BN	PronType=Neg	609	advmod	609:advmod	_
+1	riferimento	riferimento	NOUN	S	Gender=Masc|Number=Sing	603	nmod	603:nmod	_
 
 # newturn_id = 0704000043-87
 # newutterance_id = 0704000043-87-1
-1	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	609	expl	609:expl	_
-2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	609	obj	609:obj	_
-3	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	581	ccomp	581:ccomp	_
-4	più	più	ADV	B	_	609	advmod	609:advmod	_
-5	guardi	guardare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	609	conj	609:conj	_
-6	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	614	aux	614:aux	_
-7	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	614	aux:pass	614:aux:pass	_
-8	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	581	conj	581:conj	_
-9	per	per	ADP	E	_	617	case	617:case	_
-10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	617	det	617:det	_
+1	non	non	ADV	BN	PronType=Neg	609	advmod	609:advmod	_
+2	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	609	expl	609:expl	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	609	obj	609:obj	_
+4	ricordo	ricordare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	581	ccomp	581:ccomp	_
+5	più	più	ADV	B	_	609	advmod	609:advmod	_
+6	guardi	guardare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	609	conj	609:conj	_
+7	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	614	aux	614:aux	_
+8	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	614	aux:pass	614:aux:pass	_
+9	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	581	conj	581:conj	_
+10	per	per	ADP	E	_	617	case	617:case	_
 
 # newutterance_id = 0704000043-87-2
-1	postazione	postazione	NOUN	S	Gender=Fem|Number=Sing	614	obl	614:obl	_
-2	di	di	ADP	E	_	620	case	620:case	_
-3	<LOC>	_	_	_	_	_	_	_	_
-4	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	624	aux	624:aux	_
-5	precedentemente	precedentemente	ADV	B	_	624	advmod	624:advmod	_
-6	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	620	acl:relcl	620:acl:relcl	_
-7	di	di	ADP	E	_	626	mark	626:mark	_
-8	installare	installare	VERB	V	VerbForm=Inf	624	ccomp	624:ccomp	_
-9	<SW>	_	_	_	_	_	_	_	_
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	617	det	617:det	_
+2	postazione	postazione	NOUN	S	Gender=Fem|Number=Sing	614	obl	614:obl	_
+3	di	di	ADP	E	_	620	case	620:case	_
+4	<LOC>	_	_	_	_	_	_	_	_
+5	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	624	aux	624:aux	_
+6	precedentemente	precedentemente	ADV	B	_	624	advmod	624:advmod	_
+7	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	620	acl:relcl	620:acl:relcl	_
+8	di	di	ADP	E	_	626	mark	626:mark	_
+9	installare	installare	VERB	V	VerbForm=Inf	624	ccomp	624:ccomp	_
 10	<SW>	_	_	_	_	_	_	_	_
-11	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	634	amod	634:amod	_
-12	versione	versione	NOUN	S	Gender=Fem|Number=Sing	628	nmod	628:nmod	_
-13	perchè	perché	SCONJ	CS	_	639	mark	639:mark	_
-14	altrimenti	altrimenti	ADV	B	_	639	advmod	639:advmod	Seg=B-Conn
-15	non	non	ADV	BN	PronType=Neg	639	advmod	639:advmod	Seg=B-Conn
-16	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	639	expl	639:expl	_
-17	funzionavano	funzionare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	626	advcl	626:advcl	_
-18	poi	poi	ADV	B	_	639	advmod	639:advmod	_
-19	non	non	ADV	BN	PronType=Neg	642	advmod	642:advmod	Seg=B-Conn
-20	andava	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	639	conj	639:conj	_
-21	allora	allora	ADV	B	_	642	advmod	642:advmod	_
-22	poi	poi	ADV	B	_	647	advmod	647:advmod	Seg=B-Conn
-23	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	647	nsubj	647:nsubj	Seg=B-Conn
-24	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	647	aux	647:aux	_
-25	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	642	conj	642:conj	_
-26	mentre	mentre	SCONJ	CS	_	650	mark	650:mark	_
-27	ero	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	650	cop	650:cop	Seg=B-Conn
-28	qui	qui	ADV	B	_	653	advmod	653:advmod	_
-29	a	a	ADP	E	_	653	case	653:case	_
-30	<LOC>	_	_	_	_	_	_	_	_
-31	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	656	aux	656:aux	_
-32	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	624	ccomp	624:ccomp	_
-33	a	a	ADP	E	_	659	case	659:case	_
-34	<PER>	_	_	_	_	_	_	_	_
+11	<SW>	_	_	_	_	_	_	_	_
+12	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	634	amod	634:amod	_
+13	versione	versione	NOUN	S	Gender=Fem|Number=Sing	628	nmod	628:nmod	_
+14	perchè	perché	SCONJ	CS	_	639	mark	639:mark	Seg=B-Conn
+15	altrimenti	altrimenti	ADV	B	_	639	advmod	639:advmod	Seg=B-Conn
+16	non	non	ADV	BN	PronType=Neg	639	advmod	639:advmod	_
+17	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	639	expl	639:expl	_
+18	funzionavano	funzionare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	626	advcl	626:advcl	_
+19	poi	poi	ADV	B	_	639	advmod	639:advmod	Seg=B-Conn
+20	non	non	ADV	BN	PronType=Neg	642	advmod	642:advmod	_
+21	andava	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	639	conj	639:conj	_
+22	allora	allora	ADV	B	_	642	advmod	642:advmod	Seg=B-Conn
+23	poi	poi	ADV	B	_	647	advmod	647:advmod	Seg=B-Conn
+24	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	647	nsubj	647:nsubj	_
+25	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	647	aux	647:aux	_
+26	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	642	conj	642:conj	_
+27	mentre	mentre	SCONJ	CS	_	650	mark	650:mark	Seg=B-Conn
+28	ero	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	650	cop	650:cop	_
+29	qui	qui	ADV	B	_	653	advmod	653:advmod	_
+30	a	a	ADP	E	_	653	case	653:case	_
+31	<LOC>	_	_	_	_	_	_	_	_
+32	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	656	aux	656:aux	_
+33	chiesto	chiedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	624	ccomp	624:ccomp	_
+34	a	a	ADP	E	_	659	case	659:case	_
 
 # newturn_id = 0704000043-88
 # newutterance_id = 0704000043-88-1
-1	di	di	ADP	E	_	662	mark	662:mark	_
+1	<PER>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000043-89
 # newutterance_id = 0704000043-89-1
-1-2	farmelo	_	_	_	_	_	_	_	_
-1	far	fare	VERB	V	VerbForm=Inf	656	ccomp	656:ccomp	_
-2	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	662	obj	662:obj	_
-3	e	e	CCONJ	CC	_	668	cc	668:cc	_
-4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	668	iobj	668:iobj	Seg=B-Conn
-5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	668	aux	668:aux	_
-6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	662	conj	662:conj	_
-7	quando	quando	SCONJ	CS	_	672	mark	672:mark	_
+1	di	di	ADP	E	_	662	mark	662:mark	_
+2-3	farmelo	_	_	_	_	_	_	_	_
+2	far	fare	VERB	V	VerbForm=Inf	656	ccomp	656:ccomp	_
+3	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	662	obj	662:obj	_
+4	e	e	CCONJ	CC	_	668	cc	668:cc	Seg=B-Conn
+5	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	668	iobj	668:iobj	_
+6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	668	aux	668:aux	_
+7	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	662	conj	662:conj	_
 
 # newutterance_id = 0704000043-89-2
-1	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	672	cop	672:cop	Seg=B-Conn
-2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	672	det	672:det	_
-3	volta	volta	NOUN	S	Gender=Fem|Number=Sing	668	ccomp	668:ccomp	_
-4	a	a	ADP	E	_	675	case	675:case	_
-5	<LOC>	_	_	_	_	_	_	_	_
-6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	678	obj	678:obj	_
-7	telefoni	telefono	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	675	acl:relcl	675:acl:relcl	_
-8	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	680	obj	680:obj	_
+1	quando	quando	SCONJ	CS	_	672	mark	672:mark	Seg=B-Conn
+2	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	672	cop	672:cop	_
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	672	det	672:det	_
+4	volta	volta	NOUN	S	Gender=Fem|Number=Sing	668	ccomp	668:ccomp	_
+5	a	a	ADP	E	_	675	case	675:case	_
+6	<LOC>	_	_	_	_	_	_	_	_
+7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	678	obj	678:obj	_
+8	telefoni	telefono	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	675	acl:relcl	675:acl:relcl	_
 
 # newturn_id = 0704000043-90
 # newutterance_id = 0704000043-90-1
-1	faccia	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	678	ccomp	678:ccomp	_
-2	soltanto	soltanto	ADV	B	_	682	advmod	682:advmod	_
-3	capire	capire	VERB	V	VerbForm=Inf	680	ccomp	680:ccomp	_
-4	perchè	perché	SCONJ	CS	_	686	mark	686:mark	_
-5	e	e	CCONJ	CC	_	686	cc	686:cc	_
+1	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	680	obj	680:obj	_
+2	faccia	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	678	ccomp	678:ccomp	_
+3	soltanto	soltanto	ADV	B	_	682	advmod	682:advmod	_
+4	capire	capire	VERB	V	VerbForm=Inf	680	ccomp	680:ccomp	_
+5	perchè	perché	SCONJ	CS	_	686	mark	686:mark	_
 
 # newutterance_id = 0704000043-90-2
-1	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	686	obj	686:obj	_
-2	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	682	conj	682:conj	_
-3	direttamente	diretto	ADV	B	_	686	advmod	686:advmod	_
-4	ecco	ecco	ADV	B	_	690	advmod	690:advmod	_
-5	non	non	ADV	BN	PronType=Neg	690	advmod	690:advmod	_
+1	e	e	CCONJ	CC	_	686	cc	686:cc	_
+2	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	686	obj	686:obj	_
+3	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	682	conj	682:conj	_
+4	direttamente	diretto	ADV	B	_	686	advmod	686:advmod	_
+5	ecco	ecco	ADV	B	_	690	advmod	690:advmod	_
 
 # newturn_id = 0704000043-91
 # newutterance_id = 0704000043-91-1
-1	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	680	conj	680:conj	_
-2	che	che	SCONJ	CS	_	696	mark	696:mark	_
-3	per	per	ADP	E	_	693	case	693:case	_
-4	caso	caso	NOUN	S	Gender=Masc|Number=Sing	696	obl	696:obl	_
-5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	696	cop	696:cop	_
-6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	696	det	696:det	_
-7	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	690	ccomp	690:ccomp	_
-8	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	696	nsubj	696:nsubj	_
-9	che	che	PRON	PR	PronType=Rel	699	nsubj	699:nsubj	_
+1	non	non	ADV	BN	PronType=Neg	690	advmod	690:advmod	_
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	680	conj	680:conj	_
+3	che	che	SCONJ	CS	_	696	mark	696:mark	_
+4	per	per	ADP	E	_	693	case	693:case	_
+5	caso	caso	NOUN	S	Gender=Masc|Number=Sing	696	obl	696:obl	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	696	cop	696:cop	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	696	det	696:det	_
+8	richiesta	richiesta	NOUN	S	Gender=Fem|Number=Sing	690	ccomp	690:ccomp	_
+9	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	696	nsubj	696:nsubj	_
 
 # newutterance_id = 0704000043-91-2
-1	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	697	acl:relcl	697:acl:relcl	_
-2	riferimento	riferimento	NOUN	S	Gender=Masc|Number=Sing	699	obj	699:obj	_
-3-4	all'	_	_	_	_	_	_	_	_
-3	a	a	ADP	E	_	703	case	703:case	_
-4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	703	det	703:det	_
-5	impossibilità	impossibilità	NOUN	S	Gender=Fem	699	obl	699:obl	_
-6	di	di	ADP	E	_	705	mark	705:mark	_
-7	accedere	accedere	VERB	V	VerbForm=Inf	703	acl	703:acl	_
-8-9	alle	_	_	_	_	_	_	_	_
-8	a	a	ADP	E	_	710	case	710:case	_
-9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	710	det	710:det	_
-10	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	710	amod	710:amod	_
+1	che	che	PRON	PR	PronType=Rel	699	nsubj	699:nsubj	_
+2	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	697	acl:relcl	697:acl:relcl	_
+3	riferimento	riferimento	NOUN	S	Gender=Masc|Number=Sing	699	obj	699:obj	_
+4-5	all'	_	_	_	_	_	_	_	_
+4	a	a	ADP	E	_	703	case	703:case	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	703	det	703:det	_
+6	impossibilità	impossibilità	NOUN	S	Gender=Fem	699	obl	699:obl	_
+7	di	di	ADP	E	_	705	mark	705:mark	_
+8	accedere	accedere	VERB	V	VerbForm=Inf	703	acl	703:acl	_
+9-10	alle	_	_	_	_	_	_	_	_
+9	a	a	ADP	E	_	710	case	710:case	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	710	det	710:det	_
 
 # newturn_id = 0704000043-92
 # newutterance_id = 0704000043-92-1
 1	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	710	amod	710:amod	_
-2	procedure	procedura	NOUN	S	Gender=Fem|Number=Plur	705	obl	705:obl	_
+2	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	710	amod	710:amod	_
 
 # newutterance_id = 0704000043-92-2
-1	informatiche	informatico	ADJ	A	Gender=Fem|Number=Plur	710	amod	710:amod	_
-2	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	710	amod	710:amod	_
+1	procedure	procedura	NOUN	S	Gender=Fem|Number=Plur	705	obl	705:obl	_
+2	informatiche	informatico	ADJ	A	Gender=Fem|Number=Plur	710	amod	710:amod	_
 
 # newturn_id = 0704000043-93
 # newutterance_id = 0704000043-93-1
-1	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	715	amod	715:amod	_
-2	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	715	det	715:det	_
+1	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	710	amod	710:amod	_
+2	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	715	amod	715:amod	_
 
 # newturn_id = 0704000043-94
 # newutterance_id = 0704000043-94-1
-1	codice	codice	NOUN	S	Gender=Masc|Number=Sing	705	obj	705:obj	_
-2	<DIGIT>	_	_	_	_	_	_	_	_
+1	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	715	det	715:det	_
+2	codice	codice	NOUN	S	Gender=Masc|Number=Sing	705	obj	705:obj	_
 3	<DIGIT>	_	_	_	_	_	_	_	_
 4	<DIGIT>	_	_	_	_	_	_	_	_
-5	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	723	amod	723:amod	_
+5	<DIGIT>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000043-95
 # newutterance_id = 0704000043-95-1
-1	okay	okay	INTJ	I	_	740	obl	740:obl	_
+1	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	723	amod	723:amod	_
 
 # newturn_id = 0704000043-96
 # newutterance_id = 0704000043-96-1
-1	allora	allora	ADV	B	_	740	advmod	740:advmod	_
+1	okay	okay	INTJ	I	_	740	obl	740:obl	_
 
 # newturn_id = 0704000043-97
 # newutterance_id = 0704000043-97-1
-1	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	733	nsubj:pass	733:nsubj:pass	_
-2	qua	qua	ADV	B	_	733	advmod	733:advmod	_
-3	poi	poi	ADV	B	_	733	advmod	733:advmod	_
-4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	733	aux	733:aux	_
-5	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	733	aux:pass	733:aux:pass	_
-6	risolta	risolvere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	696	conj	696:conj	_
-7	<WD>	_	_	_	_	_	_	_	_
-8	<NUM>	_	_	_	_	_	_	_	_
-9	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	733	parataxis	733:parataxis	_
+1	allora	allora	ADV	B	_	740	advmod	740:advmod	_
+2	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	733	nsubj:pass	733:nsubj:pass	_
+3	qua	qua	ADV	B	_	733	advmod	733:advmod	_
+4	poi	poi	ADV	B	_	733	advmod	733:advmod	_
+5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	733	aux	733:aux	_
+6	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	733	aux:pass	733:aux:pass	_
+7	risolta	risolvere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	696	conj	696:conj	_
+8	<WD>	_	_	_	_	_	_	_	_
+9	<NUM>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000043-98
 # newutterance_id = 0704000043-98-1
-1	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	742	det	742:det	_
-2	pò	pò	ADV	B	_	740	advmod	740:advmod	_
-3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	733	aux:pass	733:aux:pass	_
-4	se	se	SCONJ	CS	_	747	mark	747:mark	_
-5-6	dal	_	_	_	_	_	_	_	_
-5	da	da	ADP	E	_	747	case	747:case	_
-6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	747	det	747:det	_
+1	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	733	parataxis	733:parataxis	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	742	det	742:det	_
+3	pò	pò	ADV	B	_	740	advmod	740:advmod	_
+4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	733	aux:pass	733:aux:pass	_
+5	se	se	SCONJ	CS	_	747	mark	747:mark	_
 
 # newturn_id = 0704000043-99
 # newutterance_id = 0704000043-99-1
-1	signor	signore	NOUN	S	Gender=Masc|Number=Sing	740	obl	740:obl	_
-2	<PER>	_	_	_	_	_	_	_	_
-3	e	e	CCONJ	CC	_	754	cc	754:cc	_
-4	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	754	iobj	754:iobj	Seg=B-Conn
-5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	754	aux	754:aux	_
-6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	733	conj	733:conj	_
-7	di	di	ADP	E	_	756	mark	756:mark	_
-8-9	comunicarlo	_	_	_	_	_	_	_	_
-8	comunicar	comunicare	VERB	V	VerbForm=Inf	754	ccomp	754:ccomp	_
-9	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	756	obj	756:obj	_
-10	a	a	ADP	E	_	759	case	759:case	_
-11	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	756	obl	756:obl	_
-12	in	in	ADP	E	_	761	case	761:case	_
-13	maniera	maniera	NOUN	S	Gender=Fem|Number=Sing	756	obl	756:obl	_
-14	che	che	SCONJ	CS	_	763	mark	763:mark	_
-15	risulti	risultare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	761	acl	761:acl	Seg=B-Conn
-16	che	che	SCONJ	CS	_	768	mark	768:mark	_
-17	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	768	nsubj	768:nsubj	_
-18	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	768	obj	768:obj	_
-19	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	768	aux	768:aux	_
-20	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	763	ccomp	763:ccomp	_
-21	non	non	ADV	BN	PronType=Neg	770	advmod	770:advmod	_
-22	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	763	conj	763:conj	_
-23	perchè	perché	SCONJ	CS	_	779	mark	779:mark	_
+1-2	dal	_	_	_	_	_	_	_	_
+1	da	da	ADP	E	_	747	case	747:case	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	747	det	747:det	_
+3	signor	signore	NOUN	S	Gender=Masc|Number=Sing	740	obl	740:obl	_
+4	<PER>	_	_	_	_	_	_	_	_
+5	e	e	CCONJ	CC	_	754	cc	754:cc	Seg=B-Conn
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	754	iobj	754:iobj	_
+7	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	754	aux	754:aux	_
+8	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	733	conj	733:conj	_
+9	di	di	ADP	E	_	756	mark	756:mark	_
+10-11	comunicarlo	_	_	_	_	_	_	_	_
+10	comunicar	comunicare	VERB	V	VerbForm=Inf	754	ccomp	754:ccomp	_
+11	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	756	obj	756:obj	_
+12	a	a	ADP	E	_	759	case	759:case	_
+13	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	756	obl	756:obl	_
+14	in	in	ADP	E	_	761	case	761:case	_
+15	maniera	maniera	NOUN	S	Gender=Fem|Number=Sing	756	obl	756:obl	_
+16	che	che	SCONJ	CS	_	763	mark	763:mark	Seg=B-Conn
+17	risulti	risultare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	761	acl	761:acl	_
+18	che	che	SCONJ	CS	_	768	mark	768:mark	_
+19	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	768	nsubj	768:nsubj	_
+20	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	768	obj	768:obj	_
+21	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	768	aux	768:aux	_
+22	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	763	ccomp	763:ccomp	_
+23	non	non	ADV	BN	PronType=Neg	770	advmod	770:advmod	_
+24	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	763	conj	763:conj	_
 
 # newturn_id = 0704000043-100
 # newutterance_id = 0704000043-100-1
-1	in	in	ADP	E	_	773	case	773:case	Seg=B-Conn
-2	teoria	teoria	NOUN	S	Gender=Fem|Number=Sing	779	obl	779:obl	_
-3	qua	qua	ADV	B	_	779	advmod	779:advmod	_
-4	non	non	ADV	BN	PronType=Neg	779	advmod	779:advmod	_
-5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	779	aux	779:aux	_
-6	ancora	ancora	ADV	B	_	779	advmod	779:advmod	_
-7	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	779	aux:pass	779:aux:pass	_
-8	assegnata	assegnare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	763	ccomp	763:ccomp	_
-9-10	al	_	_	_	_	_	_	_	_
-9	a	a	ADP	E	_	782	case	782:case	_
-10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	782	det	782:det	_
-11	tecnico	tecnico	NOUN	S	Gender=Masc|Number=Sing	779	obl	779:obl	_
-12	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	782	amod	782:amod	_
+1	perchè	perché	SCONJ	CS	_	779	mark	779:mark	Seg=B-Conn
+2	in	in	ADP	E	_	773	case	773:case	_
+3	teoria	teoria	NOUN	S	Gender=Fem|Number=Sing	779	obl	779:obl	_
+4	qua	qua	ADV	B	_	779	advmod	779:advmod	_
+5	non	non	ADV	BN	PronType=Neg	779	advmod	779:advmod	_
+6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	779	aux	779:aux	_
+7	ancora	ancora	ADV	B	_	779	advmod	779:advmod	_
+8	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	779	aux:pass	779:aux:pass	_
+9	assegnata	assegnare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	763	ccomp	763:ccomp	_
+10-11	al	_	_	_	_	_	_	_	_
+10	a	a	ADP	E	_	782	case	782:case	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	782	det	782:det	_
+12	tecnico	tecnico	NOUN	S	Gender=Masc|Number=Sing	779	obl	779:obl	_
 
 # newturn_id = 0704000043-101
 # newutterance_id = 0704000043-101-1
 1	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	782	amod	782:amod	_
-2	sì	sì	INTJ	I	_	792	discourse	792:discourse	_
+2	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	782	amod	782:amod	_
 
 # newutterance_id = 0704000043-101-2
-1	no	no	INTJ	I	_	792	discourse	792:discourse	_
-2	no	no	INTJ	I	_	788	discourse	788:discourse	_
-3	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	770	conj	770:conj	_
-4	bene	bene	ADV	B	_	788	advmod	788:advmod	_
-5	allora	allora	ADV	B	_	792	advmod	792:advmod	_
+1	sì	sì	INTJ	I	_	792	discourse	792:discourse	_
+2	no	no	INTJ	I	_	792	discourse	792:discourse	_
+3	no	no	INTJ	I	_	788	discourse	788:discourse	_
+4	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	770	conj	770:conj	_
+5	bene	bene	ADV	B	_	788	advmod	788:advmod	_
 
 # newturn_id = 0704000043-102
 # newutterance_id = 0704000043-102-1
-1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	792	nsubj	792:nsubj	Seg=B-Conn
-2	chiamo	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	770	conj	770:conj	_
-3	chi	chi	PRON	PR	PronType=Rel	792	obj	792:obj	_
-4	di	di	ADP	E	_	795	case	795:case	_
-5	dovere	dovere	NOUN	S	Gender=Masc|Number=Sing	793	nmod	793:nmod	_
-6	e	e	CCONJ	CC	_	798	cc	798:cc	_
-7	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	798	obj	798:obj	Seg=B-Conn
-8	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	779	conj	779:conj	_
-9	assegnare	assegnare	VERB	V	VerbForm=Inf	798	ccomp	798:ccomp	_
-10	a	a	ADP	E	_	801	case	801:case	_
-11	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	799	obl	799:obl	_
-12	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	801	amod	801:amod	_
+1	allora	allora	ADV	B	_	792	advmod	792:advmod	Seg=B-Conn
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	792	nsubj	792:nsubj	_
+3	chiamo	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	770	conj	770:conj	_
+4	chi	chi	PRON	PR	PronType=Rel	792	obj	792:obj	_
+5	di	di	ADP	E	_	795	case	795:case	_
+6	dovere	dovere	NOUN	S	Gender=Masc|Number=Sing	793	nmod	793:nmod	_
+7	e	e	CCONJ	CC	_	798	cc	798:cc	Seg=B-Conn
+8	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	798	obj	798:obj	_
+9	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	779	conj	779:conj	_
+10	assegnare	assegnare	VERB	V	VerbForm=Inf	798	ccomp	798:ccomp	_
+11	a	a	ADP	E	_	801	case	801:case	_
+12	lui	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	799	obl	799:obl	_
 
 # newturn_id = 0704000043-103
 # newutterance_id = 0704000043-103-1
-1	almeno	almeno	ADV	B	_	804	advmod	804:advmod	_
+1	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	801	amod	801:amod	_
 
 # newturn_id = 0704000043-104
 # newutterance_id = 0704000043-104-1
-1	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	798	nsubj	798:nsubj	_
-2	poi	poi	ADV	B	_	810	advmod	810:advmod	_
-3	ce	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	810	expl	810:expl	Seg=B-Conn
-4	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	810	obj	810:obj	_
-5	ce	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	810	expl	810:expl	_
-6	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	810	obj	810:obj	_
-7	chiude	chiudere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	792	conj	792:conj	_
-8	e	e	CCONJ	CC	_	813	cc	813:cc	_
-9	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	813	iobj	813:iobj	Seg=B-Conn
-10	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	826	conj	826:conj	_
-11	pervenire	pervenire	VERB	V	VerbForm=Inf	813	ccomp	813:ccomp	_
-12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	818	det	818:det	_
-13	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	818	det:poss	818:det:poss	_
-14	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	818	amod	818:amod	_
+1	almeno	almeno	ADV	B	_	804	advmod	804:advmod	_
+2	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	798	nsubj	798:nsubj	_
+3	poi	poi	ADV	B	_	810	advmod	810:advmod	Seg=B-Conn
+4	ce	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	810	expl	810:expl	_
+5	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	810	obj	810:obj	_
+6	ce	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	810	expl	810:expl	_
+7	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	810	obj	810:obj	_
+8	chiude	chiudere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	792	conj	792:conj	_
+9	e	e	CCONJ	CC	_	813	cc	813:cc	Seg=B-Conn
+10	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	813	iobj	813:iobj	_
+11	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	826	conj	826:conj	_
+12	pervenire	pervenire	VERB	V	VerbForm=Inf	813	ccomp	813:ccomp	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	818	det	818:det	_
+14	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	818	det:poss	818:det:poss	_
 
 # newturn_id = 0704000043-105
 # newutterance_id = 0704000043-105-1
-1	esatto	esatto	NOUN	S	Gender=Masc|Number=Sing	814	obj	814:obj	_
-2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	821	iobj	821:iobj	_
-3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	821	aux	821:aux	_
-4	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	810	conj	810:conj	_
-5	chiusura	chiusura	NOUN	S	Gender=Fem|Number=Sing	821	obj	821:obj	_
+1	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	818	amod	818:amod	_
+2	esatto	esatto	NOUN	S	Gender=Masc|Number=Sing	814	obj	814:obj	_
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	821	iobj	821:iobj	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	821	aux	821:aux	_
+5	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	810	conj	810:conj	_
 
 # newutterance_id = 0704000043-105-2
-1	comunque	comunque	ADV	B	_	821	advmod	821:advmod	_
-2	che	che	SCONJ	CS	_	826	mark	826:mark	_
-3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	826	aux	826:aux	_
-4	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	821	ccomp	821:ccomp	_
-5	di	di	ADP	E	_	828	mark	828:mark	_
+1	chiusura	chiusura	NOUN	S	Gender=Fem|Number=Sing	821	obj	821:obj	_
+2	comunque	comunque	ADV	B	_	821	advmod	821:advmod	_
+3	che	che	SCONJ	CS	_	826	mark	826:mark	_
+4	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	826	aux	826:aux	_
+5	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	821	ccomp	821:ccomp	_
 
 # newturn_id = 0704000043-106
 # newutterance_id = 0704000043-106-1
-1-2	comunicarlo	_	_	_	_	_	_	_	_
-1	comunicar	comunicare	VERB	V	VerbForm=Inf	826	ccomp	826:ccomp	_
-2	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	828	obj	828:obj	_
-3	a	a	ADP	E	_	831	case	831:case	_
-4	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	828	obl	828:obl	_
-5	proprio	proprio	ADV	B	_	835	advmod	835:advmod	_
-6	per	per	ADP	E	_	835	case	835:case	_
+1	di	di	ADP	E	_	828	mark	828:mark	_
+2-3	comunicarlo	_	_	_	_	_	_	_	_
+2	comunicar	comunicare	VERB	V	VerbForm=Inf	826	ccomp	826:ccomp	_
+3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	828	obj	828:obj	_
+4	a	a	ADP	E	_	831	case	831:case	_
+5	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	828	obl	828:obl	_
+6	proprio	proprio	ADV	B	_	835	advmod	835:advmod	_
 7	per	per	ADP	E	_	835	case	835:case	_
-8	procura	procura	NOUN	S	Gender=Fem|Number=Sing	828	obl	828:obl	_
-9	vostra	vostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	835	det:poss	835:det:poss	_
-10	e	e	CCONJ	CC	_	841	cc	841:cc	_
-11	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	841	nsubj	841:nsubj	_
-12	assolutamente	assolutamente	ADV	B	_	840	advmod	840:advmod	_
+8	per	per	ADP	E	_	835	case	835:case	_
+9	procura	procura	NOUN	S	Gender=Fem|Number=Sing	828	obl	828:obl	_
+10	vostra	vostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	835	det:poss	835:det:poss	_
+11	e	e	CCONJ	CC	_	841	cc	841:cc	_
+12	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	841	nsubj	841:nsubj	_
 
 # newturn_id = 0704000043-107
 # newutterance_id = 0704000043-107-1
-1	adesso	adesso	ADV	B	_	841	advmod	841:advmod	_
-2	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	859	conj	859:conj	_
-3	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	841	obj	841:obj	_
-4	e	e	CCONJ	CC	_	845	cc	845:cc	_
+1	assolutamente	assolutamente	ADV	B	_	840	advmod	840:advmod	_
+2	adesso	adesso	ADV	B	_	841	advmod	841:advmod	_
+3	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	859	conj	859:conj	_
+4	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	841	obj	841:obj	_
 
 # newutterance_id = 0704000043-107-2
-1	comunque	comunque	ADV	B	_	845	advmod	845:advmod	_
-2	risolto	risolvere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	841	conj	841:conj	_
-3	a	a	ADP	E	_	847	case	847:case	_
-4	posto	posto	NOUN	S	Gender=Masc|Number=Sing	845	obl	845:obl	_
-5	<WD>	_	_	_	_	_	_	_	_
+1	e	e	CCONJ	CC	_	845	cc	845:cc	_
+2	comunque	comunque	ADV	B	_	845	advmod	845:advmod	_
+3	risolto	risolvere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	841	conj	841:conj	_
+4	a	a	ADP	E	_	847	case	847:case	_
+5	posto	posto	NOUN	S	Gender=Masc|Number=Sing	845	obl	845:obl	_
 
 # newturn_id = 0704000043-108
 # newutterance_id = 0704000043-108-1
-1	<NUM>	_	_	_	_	_	_	_	_
-2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	859	aux	859:aux	_
-3	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	856	aux:pass	856:aux:pass	_
-4	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	821	ccomp	821:ccomp	_
-5	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	859	amod	859:amod	_
+1	<WD>	_	_	_	_	_	_	_	_
+2	<NUM>	_	_	_	_	_	_	_	_
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	859	aux	859:aux	_
+4	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	856	aux:pass	856:aux:pass	_
+5	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	821	ccomp	821:ccomp	_
 
 # newturn_id = 0704000043-109
 # newutterance_id = 0704000043-109-1
-1	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	856	xcomp	856:xcomp	_
-2	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	856	parataxis	856:parataxis	_
+1	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	859	amod	859:amod	_
+2	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	856	xcomp	856:xcomp	_
 
 # newturn_id = 0704000043-110
 # newutterance_id = 0704000043-110-1
-1	bene	bene	ADV	B	_	859	advmod	859:advmod	_
-2	a	a	ADP	E	_	862	case	862:case	_
+1	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	856	parataxis	856:parataxis	_
+2	bene	bene	ADV	B	_	859	advmod	859:advmod	_
 
 # newturn_id = 0704000043-111
 # newutterance_id = 0704000043-111-1
-1	posto	posto	NOUN	S	Gender=Masc|Number=Sing	859	obl	859:obl	_
-2	così	così	ADV	B	_	868	advmod	868:advmod	_
+1	a	a	ADP	E	_	862	case	862:case	_
+2	posto	posto	NOUN	S	Gender=Masc|Number=Sing	859	obl	859:obl	_
 
 # newturn_id = 0704000043-112
 # newutterance_id = 0704000043-112-1
-1	allora	allora	ADV	B	_	868	advmod	868:advmod	_
-2	niente	niente	PRON	PI	PronType=Ind	868	nsubj	868:nsubj	_
-3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	868	nsubj	868:nsubj	_
-4	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	868	obj	868:obj	_
+1	così	così	ADV	B	_	868	advmod	868:advmod	_
+2	allora	allora	ADV	B	_	868	advmod	868:advmod	_
+3	niente	niente	PRON	PI	PronType=Ind	868	nsubj	868:nsubj	_
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	868	nsubj	868:nsubj	_
 
 # newturn_id = 0704000043-113
 # newutterance_id = 0704000043-113-1
-1	richiamo	richiamo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	859	conj	859:conj	_
-2	più	più	ADV	B	_	870	advmod	870:advmod	_
-3	tardi	tardi	ADV	B	_	868	advmod	868:advmod	_
-4	sì	sì	INTJ	I	_	859	discourse	859:discourse	_
+1	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	868	obj	868:obj	_
+2	richiamo	richiamo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	859	conj	859:conj	_
+3	più	più	ADV	B	_	870	advmod	870:advmod	_
+4	tardi	tardi	ADV	B	_	868	advmod	868:advmod	_
 
 # newturn_id = 0704000043-114
 # newutterance_id = 0704000043-114-1
-1	non	non	ADV	BN	PronType=Neg	875	advmod	875:advmod	_
+1	sì	sì	INTJ	I	_	859	discourse	859:discourse	_
 
 # newutterance_id = 0704000043-114-2
-1	appena	appena	SCONJ	CS	_	875	mark	875:mark	_
-2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	875	iobj	875:iobj	Seg=B-Conn
-3	comunicano	comunicare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	887	advcl	887:advcl	_
+1	non	non	ADV	BN	PronType=Neg	875	advmod	875:advmod	_
+2	appena	appena	SCONJ	CS	_	875	mark	875:mark	Seg=B-Conn
+3	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	875	iobj	875:iobj	_
 
 # newturn_id = 0704000043-115
 # newutterance_id = 0704000043-115-1
-1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	878	det	878:det	_
-2	avvenuto	avvenuto	ADJ	A	Gender=Masc|Number=Sing	878	amod	878:amod	_
-3	reset	reset	NOUN	S	Gender=Masc	875	obj	875:obj	_
+1	comunicano	comunicare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	887	advcl	887:advcl	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	878	det	878:det	_
+3	avvenuto	avvenuto	ADJ	A	Gender=Masc|Number=Sing	878	amod	878:amod	_
 
 # newturn_id = 0704000043-116
 # newutterance_id = 0704000043-116-1
-1-2	della	_	_	_	_	_	_	_	_
-1	di	di	ADP	E	_	881	case	881:case	_
-2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	881	det	881:det	_
-3	password	password	NOUN	S	_	878	nmod	878:nmod	_
+1	reset	reset	NOUN	S	Gender=Masc	875	obj	875:obj	_
+2-3	della	_	_	_	_	_	_	_	_
+2	di	di	ADP	E	_	881	case	881:case	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	881	det	881:det	_
 
 # newturn_id = 0704000043-117
 # newutterance_id = 0704000043-117-1
-1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	875	nsubj	875:nsubj	_
+1	password	password	NOUN	S	_	878	nmod	878:nmod	_
 
 # newturn_id = 0704000043-118
 # newutterance_id = 0704000043-118-1
-1	di	di	ADP	E	_	885	case	885:case	_
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	875	nsubj	875:nsubj	_
 
 # newutterance_id = 0704000043-118-2
-1	<SW>	_	_	_	_	_	_	_	_
-2	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	859	parataxis	859:parataxis	_
+1	di	di	ADP	E	_	885	case	885:case	_
+2	<SW>	_	_	_	_	_	_	_	_
 
 # newturn_id = 0704000043-119
 # newutterance_id = 0704000043-119-1
-1	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	889	det	889:det	_
-2	test	test	NOUN	S	Gender=Masc	887	obj	887:obj	_
-3	anche	anche	ADV	B	_	894	advmod	894:advmod	_
-4	da	da	ADP	E	_	894	case	894:case	_
-5	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	894	det	894:det	_
-6	altra	altro	DET	DI	PronType=Ind	894	det	894:det	_
-7	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	897	obl	897:obl	_
-8	così	così	ADV	B	_	897	advmod	897:advmod	_
-9	almeno	almeno	ADV	B	_	897	advmod	897:advmod	Seg=B-Conn
-10	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	887	advcl	887:advcl	_
-11	se	se	SCONJ	CS	_	900	mark	900:mark	_
+1	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	859	parataxis	859:parataxis	_
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	889	det	889:det	_
+3	test	test	NOUN	S	Gender=Masc	887	obj	887:obj	_
+4	anche	anche	ADV	B	_	894	advmod	894:advmod	_
+5	da	da	ADP	E	_	894	case	894:case	_
+6	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	894	det	894:det	_
+7	altra	altro	DET	DI	PronType=Ind	894	det	894:det	_
+8	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	897	obl	897:obl	_
+9	così	così	ADV	B	_	897	advmod	897:advmod	Seg=B-Conn
+10	almeno	almeno	ADV	B	_	897	advmod	897:advmod	_
+11	vedo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	887	advcl	887:advcl	_
 12	se	se	SCONJ	CS	_	900	mark	900:mark	_
-13	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	904	advcl	904:advcl	_
+13	se	se	SCONJ	CS	_	900	mark	900:mark	_
 
 # newturn_id = 0704000043-120
 # newutterance_id = 0704000043-120-1
-1	bene	bene	ADV	B	_	900	advmod	900:advmod	_
-2	allora	allora	ADV	B	_	904	advmod	904:advmod	_
-3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	904	expl	904:expl	_
-4	sentiamo	sentire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	897	ccomp	897:ccomp	_
-5	dopo	dopo	ADV	B	_	904	advmod	904:advmod	_
-6	grazie	grazie	INTJ	I	_	908	case	908:case	_
+1	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	904	advcl	904:advcl	_
+2	bene	bene	ADV	B	_	900	advmod	900:advmod	_
+3	allora	allora	ADV	B	_	904	advmod	904:advmod	_
+4	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	904	expl	904:expl	_
+5	sentiamo	sentire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	897	ccomp	897:ccomp	_
+6	dopo	dopo	ADV	B	_	904	advmod	904:advmod	_
 
 # newturn_id = 0704000043-121
 # newutterance_id = 0704000043-121-1
-1	a	a	ADP	E	_	906	fixed	906:fixed	_
-2	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	904	obl	904:obl	_
-3	buongiorno	buongiorno	INTJ	I	_	904	discourse	904:discourse	_
-4	buongiorno	buongiorno	INTJ	I	_	909	discourse	909:discourse	_
-5	salve	salve	INTJ	I	_	910	discourse	910:discourse	_
+1	grazie	grazie	INTJ	I	_	908	case	908:case	_
+2	a	a	ADP	E	_	906	fixed	906:fixed	_
+3	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	904	obl	904:obl	_
+4	buongiorno	buongiorno	INTJ	I	_	904	discourse	904:discourse	_
+5	buongiorno	buongiorno	INTJ	I	_	909	discourse	909:discourse	_
 
 # newutterance_id = 0704000043-121-2
-1	buongiorno	buongiorno	INTJ	I	_	910	discourse	910:discourse	_
+1	salve	salve	INTJ	I	_	910	discourse	910:discourse	_
+2	buongiorno	buongiorno	INTJ	I	_	910	discourse	910:discourse	_
 
 # newdoc_id = 0704000044
 # newturn_id = 0704000044-1
@@ -27257,3 +27248,5 @@
 1	buona	buono	ADJ	A	Gender=Fem|Number=Sing	564	amod	564:amod	_
 2	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	558	obl	558:obl	_
 
+# newturn_id = 0704000061-76
+# newutterance_id = 0704000061-76-1

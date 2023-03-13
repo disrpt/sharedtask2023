@@ -371,7 +371,7 @@ def harvest_text(files):
 			text = io.open(file_,encoding="utf8").read()
 		except:
 			text = io.open(file_,encoding="Latin1").read()  # e.g. wsj_0142
-			print("ben alors ??????")
+	
 		text = text.replace(".START","")  # Remove PDTB .START codes
 		text = re.sub(r'\s','', text)  # Remove all whitespace
 		docs[docname] = text

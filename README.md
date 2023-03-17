@@ -1,5 +1,7 @@
 # DISRPT/sharedtask2023
 
+**Update 17/03/23: data have been updated, don't forget to pull the new data files.**
+
 Repository for DISRPT2023 Shared Task on Discourse Unit Segmentation, Connective Detection, and Discourse Relation Classification.  
 
 **Please check our [FAQ](https://sites.google.com/view/disrpt2023/faq?authuser=0) page on our main [website](https://sites.google.com/view/disrpt2023/home) for more information about the Shared Task, Participation, and Evaluation etc.!**  

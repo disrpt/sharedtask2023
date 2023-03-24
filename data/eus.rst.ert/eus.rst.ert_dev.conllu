@@ -300,7 +300,7 @@
 28	ona	on	ADJ	ADJ	Case=Abs|Definite=Def|Number=Sing	27	amod	_	_
 29	izan	izan	VERB	VERB	Aspect=Perf|VerbForm=Part	21	ccomp	_	_
 30	duela	*edun	AUX	AUX	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	29	aux	_	_
-31	.	.	PUNCT	PUNCT	_	3	punct	_
+31	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # newdoc_id = GMB0201
 # sent_id = GMB0201-1
@@ -765,7 +765,7 @@
 17	,	,	PUNCT	PUNCT	_	7	punct	_	_
 18	salbuespenak	salbuespen	NOUN	NOUN	Case=Abs|Definite=Def|Number=Plur	13	appos	_	_
 19	salbuespen	salbuespen	NOUN	NOUN	Case=Abs|Definite=Ind	16	obl	_	_
-20	.	.	PUNCT	PUNCT	_	7	punct	_
+20	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 # newdoc_id = GMB0801
 # sent_id = GMB0801-1
@@ -893,7 +893,7 @@
 10	aurrezpena	aurrezpen	NOUN	NOUN	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	11	obj	_	_
 11	lortuko	lortu	VERB	VERB	Aspect=Prosp|VerbForm=Part	0	root	_	_
 12	genuke	*edun	AUX	AUX	Mood=Cnd|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1	11	aux	_	_
-13	.	.	PUNCT	PUNCT	_	11	punct	_
+13	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 # newdoc_id = INF13
 # sent_id = INF13-1
@@ -1060,7 +1060,7 @@
 22	duten	*edun	AUX	AUX	Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	23	acl	_	_
 23	testuak	testu	NOUN	NOUN	Animacy=Inan|Case=Abs|Definite=Def|Number=Plur	24	obj	_	_
 24	baztertzeko	baztertu	VERB	VERB	Case=Abs|Definite=Ind	16	advcl	_	_
-25	.	.	PUNCT	PUNCT	_	3	punct	_
+25	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # newdoc_id = INF18
 # sent_id = INF18-1
@@ -1215,7 +1215,7 @@
 11	artikulu	artikulu	NOUN	NOUN	_	13	nmod	_	_
 12	honen	hau	DET	DET	Case=Gen|Definite=Def|Number=Sing	11	det	_	_
 13	helburua	helburu	NOUN	NOUN	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	9	nsubj	_	_
-14	.	.	PUNCT	PUNCT	_	9	punct	_
+14	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 # newdoc_id = INF20
 # sent_id = INF20-1
@@ -1334,7 +1334,7 @@
 13	aplikazio	aplikazio	NOUN	NOUN	Case=Abs|Definite=Ind	8	conj	_	_
 14	azalduko	azaldu	VERB	VERB	Aspect=Prosp|VerbForm=Part	0	root	_	_
 15	dituzte	*edun	AUX	AUX	Mood=Ind|Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	14	aux	_	_
-16	.	.	PUNCT	PUNCT	_	14	punct	_
+16	.	.	PUNCT	PUNCT	_	14	punct	_	_
 
 # newdoc_id = LAB12
 # sent_id = LAB12-1
@@ -1545,7 +1545,7 @@
 23	laguntzeko	lagundu	VERB	VERB	Case=Loc	24	advcl	_	_
 24	moduan	modu	NOUN	NOUN	Animacy=Inan|Case=Ine|Definite=Def|Number=Sing	25	obl	_	_
 25	jokatzea	jokatu	VERB	VERB	Case=Abs	3	xcomp	_	_
-26	.	.	PUNCT	PUNCT	_	3	punct	_
+26	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # newdoc_id = LAB23
 # sent_id = LAB23-1
@@ -2171,7 +2171,7 @@
 12	gehiago	gehiago	DET	DET	Case=Abs|Definite=Ind	13	obl	_	_
 13	hil	hil	VERB	VERB	Aspect=Perf|VerbForm=Part	5	conj	_	_
 14	zen	izan	AUX	AUX	Mood=Ind|Number[abs]=Sing|Person[abs]=3	13	aux	_	_
-15	.	.	PUNCT	PUNCT	_	5	punct	_
+15	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # newdoc_id = MIS6
 # sent_id = MIS6-1
@@ -2428,7 +2428,7 @@
 4	du	*edun	AUX	AUX	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	6	aux	_	_
 5	inoiz	inoiz	ADV	ADV	_	6	advmod	_	_
 6	lortu	lortu	VERB	VERB	Aspect=Perf|VerbForm=Part	0	root	_	_
-7	.	.	PUNCT	PUNCT	_	6	punct	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 # newdoc_id = MIS9
 # sent_id = MIS9-1
@@ -2677,7 +2677,7 @@
 14	,	,	PUNCT	PUNCT	_	3	punct	_	_
 15	39	39	NUM	NUM	NumType=Card	16	nummod	_	_
 16	punturekin	puntu	NOUN	NOUN	Animacy=Inan|Case=Com|Definite=Ind	12	obl	_	_
-17	.	.	PUNCT	PUNCT	_	3	punct	_
+17	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # newdoc_id = OSA08
 # sent_id = OSA08-1
@@ -2926,7 +2926,7 @@
 15	odolean	odol	NOUN	NOUN	Animacy=Inan|Case=Ine|Definite=Def|Number=Sing	16	obl	_	_
 16	aurkitzen	aurkitu	VERB	VERB	Aspect=Imp|VerbForm=Inf	6	conj	_	_
 17	diren	izan	AUX	AUX	Mood=Ind|Number[abs]=Plur|Person[abs]=3	16	aux	_	_
-18	.	.	PUNCT	PUNCT	_	5	punct	_
+18	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # newdoc_id = OSA16
 # sent_id = OSA16-1
@@ -3189,7 +3189,7 @@
 32	garapenean	garapen	NOUN	NOUN	Case=Ine|Definite=Def|Number=Sing	33	obl	_	_
 33	lagunduko	lagundu	VERB	VERB	Aspect=Prosp|VerbForm=Part	20	advcl	_	_
 34	duelarik	*edun	AUX	AUX	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	33	aux	_	_
-35	.	.	PUNCT	PUNCT	_	20	punct	_
+35	.	.	PUNCT	PUNCT	_	20	punct	_	_
 
 # newdoc_id = OSA20
 # sent_id = OSA20-1
@@ -3570,7 +3570,7 @@
 23	duten	ukan	VERB	VERB	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	24	acl	_	_
 24	gaitasuna	gaitasun	NOUN	NOUN	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	20	nsubj	_	_
 25	ere	ere	CCONJ	CCONJ	_	20	advmod	_	_
-26	.	.	PUNCT	PUNCT	_	9	punct	_
+26	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 # newdoc_id = SENTARG04
 # sent_id = SENTARG04-1
@@ -4023,7 +4023,7 @@
 27	pisuegia	pisuegi	NOUN	NOUN	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	24	conj	_	_
 28	egin	egin	VERB	VERB	Aspect=Perf|VerbForm=Part	2	conj	_	_
 29	zait	izan	AUX	AUX	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1	28	aux	_	_
-30	.	.	PUNCT	PUNCT	_	2	punct	_
+30	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # newdoc_id = SENTARG07
 # sent_id = SENTARG07-1
@@ -4516,7 +4516,7 @@
 4	literaturan	literatura	NOUN	NOUN	Animacy=Inan|Case=Ine|Definite=Def|Number=Sing	6	obl	_	_
 5	bertan	bertan	ADV	ADV	_	6	advmod	_	_
 6	bizitzekoa	bizitu	VERB	VERB	Case=Abs|Definite=Def|Number=Sing	0	root	_	_
-7	.	.	PUNCT	PUNCT	_	6	punct	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 # newdoc_id = SENTBER03
 # sent_id = SENTBER03-1
@@ -5211,7 +5211,7 @@
 17	errealitatea	errealitate	NOUN	NOUN	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	18	obj	_	_
 18	bihurritzeko	bihurritu	VERB	VERB	Case=Loc	15	conj	_	_
 19	modua	modu	NOUN	NOUN	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	1	obj	_	_
-20	.	.	PUNCT	PUNCT	_	1	punct	_
+20	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 # newdoc_id = SENTQUE01
 # sent_id = SENTQUE01-1
@@ -5504,7 +5504,7 @@
 28	nolabait	nolabait	ADV	ADV	_	30	advmod	_	_
 29	kontuan	kontu	NOUN	NOUN	Case=Ine|Definite=Def|Number=Sing	30	compound	_	_
 30	hartzekoa	hartu	VERB	VERB	Case=Abs|Definite=Def|Number=Sing	22	nsubj	_	_
-31	.	.	PUNCT	PUNCT	_	7	punct	_
+31	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 # newdoc_id = TERM21
 # sent_id = TERM21-1
@@ -5707,7 +5707,7 @@
 26	txiki	txiki	ADJ	ADJ	_	25	amod	_	_
 27	batzuk	batzuk	DET	DET	Case=Abs|Definite=Def|Number=Plur	25	det	_	_
 28	sartuta	sartu	VERB	VERB	VerbForm=Part	22	advcl	_	_
-29	.	.	PUNCT	PUNCT	_	14	punct	_
+29	.	.	PUNCT	PUNCT	_	14	punct	_	_
 
 # newdoc_id = TERM22
 # sent_id = TERM22-1
@@ -6152,7 +6152,7 @@
 25	oraingo	orain	ADV	ADV	Case=Loc	27	nmod	_	_
 26	erabileren	erabilera	NOUN	NOUN	Case=Gen	21	obl	_	_
 27	artean	arte	ADP	ADP	Case=Ine|Definite=Ind	26	case	_	_
-28	.	.	PUNCT	PUNCT	_	7	punct	_
+28	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 # newdoc_id = TERM29
 # sent_id = TERM29-1
@@ -6331,7 +6331,7 @@
 39	aukera	aukera	NOUN	NOUN	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	40	obj	_	_
 40	izan	izan	VERB	VERB	VerbForm=Inf	31	conj	_	_
 41	dezagun	*ezan	AUX	AUX	Mood=Sub|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1	40	aux	_	_
-42	.	.	PUNCT	PUNCT	_	14	punct	_
+42	.	.	PUNCT	PUNCT	_	14	punct	_	_
 
 # newdoc_id = TERM38
 # sent_id = TERM38-1
@@ -6735,7 +6735,7 @@
 16	azkar	azkar	ADV	ADV	_	17	advmod	_	_
 17	galduko	galdu	VERB	VERB	Aspect=Prosp|VerbForm=Part	14	conj	_	_
 18	direnak	izan	AUX	AUX	Case=Abs|Definite=Def|Mood=Ind|Number=Plur|Number[abs]=Plur|Person[abs]=3	17	aux	_	_
-19	?	?	PUNCT	PUNCT	_	14	punct	_
+19	?	?	PUNCT	PUNCT	_	14	punct	_	_
 
 # newdoc_id = ZTF15
 # sent_id = ZTF15-1
@@ -7262,7 +7262,7 @@
 29	proiektua	proiektu	NOUN	NOUN	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	30	nsubj	_	_
 30	burutu	burutu	VERB	VERB	Aspect=Perf|VerbForm=Part	0	root	_	_
 31	da	izan	AUX	AUX	Mood=Ind|Number[abs]=Sing|Person[abs]=3	30	aux	_	_
-32	.	.	PUNCT	PUNCT	_	30	punct	_
+32	.	.	PUNCT	PUNCT	_	30	punct	_	_
 
 # newdoc_id = ZTF19
 # sent_id = ZTF19-1
@@ -7804,7 +7804,7 @@
 19	materialak	material	NOUN	NOUN	Animacy=Inan|Case=Abs|Definite=Def|Number=Plur	20	obj	_	_
 20	aztertzen	aztertu	VERB	VERB	Aspect=Imp|VerbForm=Inf	0	root	_	_
 21	ditugu	*edun	AUX	AUX	Mood=Ind|Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1	20	aux	_	_
-22	.	.	PUNCT	PUNCT	_	20	punct	_
+22	.	.	PUNCT	PUNCT	_	20	punct	_	_
 
 # newdoc_id = ZTF4
 # sent_id = ZTF4-1
@@ -8337,5 +8337,5 @@
 13	zebra	zebra	NOUN	NOUN	_	14	nmod	_	_
 14	arraina	arrain	NOUN	NOUN	Animacy=Anim|Case=Abs|Definite=Def|Number=Sing	15	obj	_	_
 15	erabiliz	erabili	VERB	VERB	Case=Ins|Definite=Ind|VerbForm=Part	7	advcl	_	_
-16	.	.	PUNCT	PUNCT	_	7	punct	_
+16	.	.	PUNCT	PUNCT	_	7	punct	_	_
 

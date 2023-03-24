@@ -433,7 +433,7 @@
 47	uma	um	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	48	det	_	_
 48	guerra	guerra	NOUN	NOUN	Gender=Fem|Number=Sing	43	iobj	_	_
 49	civil	civil	ADJ	ADJ	Gender=Fem|Number=Sing	48	amod	_	_
-50	.	.	PUNCT	PUNCT	_	18	punct	_
+50	.	.	PUNCT	PUNCT	_	18	punct	_	_
 
 # newdoc_id = D1_C25_Folha_16-07-2007_07h50
 # sent_id = D1_C25_Folha_16-07-2007_07h50-1
@@ -1286,7 +1286,7 @@
 14	36	36	NUM	NUM	NumType=Card	12	appos	_	_
 15	a	a	ADP	ADP	_	16	case	_	_
 16	33	33	NUM	NUM	NumType=Card	14	nmod	_	_
-17	.	.	PUNCT	PUNCT	_	12	punct	_
+17	.	.	PUNCT	PUNCT	_	12	punct	_	_
 
 # newdoc_id = D1_C36_Folha
 # sent_id = D1_C36_Folha-1
@@ -1751,7 +1751,7 @@
 17	ocorrido	ocorrer	VERB	VERB	Gender=Masc|Number=Sing|VerbForm=Part	15	acl	_	_
 18	em	em	ADP	ADP	_	19	case	_	_
 19	1989	1989	NUM	NUM	NumType=Card	17	obl	_	_
-20	.	.	PUNCT	PUNCT	_	3	punct	_
+20	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # newdoc_id = D2_C13_Estadao_07-08-2006_02h52
 # sent_id = D2_C13_Estadao_07-08-2006_02h52-1
@@ -2179,7 +2179,7 @@
 47	uma	um	DET	DET	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	48	det	_	_
 48	guerra	guerra	NOUN	NOUN	Gender=Fem|Number=Sing	43	iobj	_	_
 49	civil	civil	ADJ	ADJ	Gender=Fem|Number=Sing	48	amod	_	_
-50	.	.	PUNCT	PUNCT	_	18	punct	_
+50	.	.	PUNCT	PUNCT	_	18	punct	_	_
 
 # newdoc_id = D2_C14_Estadao_21-08-2006_10h15
 # sent_id = D2_C14_Estadao_21-08-2006_10h15-1
@@ -2559,7 +2559,7 @@
 45	segundo	segundo	ADP	ADP	_	46	case	_	BeginSeg=Yes
 46	números	número	NOUN	NOUN	Gender=Masc|Number=Plur	41	obl	_	_
 47	oficiais	oficial	ADJ	ADJ	Gender=Masc|Number=Plur	46	amod	_	_
-48	.	.	PUNCT	PUNCT	_	11	punct	_
+48	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 # newdoc_id = D2_C22_Estadao_24-07-2007_08h58
 # sent_id = D2_C22_Estadao_24-07-2007_08h58-1
@@ -3130,7 +3130,7 @@
 27	noite	noite	NOUN	NOUN	Gender=Fem|Number=Sing	24	obl	_	_
 28	de	de	ADP	ADP	_	29	case	_	_
 29	segunda-feira	segunda-feira	NOUN	NOUN	Gender=Fem|Number=Sing	27	nmod	_	_
-30	.	.	PUNCT	PUNCT	_	15	punct	_
+30	.	.	PUNCT	PUNCT	_	15	punct	_	_
 
 # newdoc_id = D3_C13_GPovo_07-08-2006_09h28
 # sent_id = D3_C13_GPovo_07-08-2006_09h28-1
@@ -3656,7 +3656,7 @@
 25	há	haver	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
 26	três	três	NUM	NUM	NumType=Card	27	nummod	_	_
 27	décadas	década	NOUN	NOUN	Gender=Fem|Number=Plur	25	obj	_	_
-28	.	.	PUNCT	PUNCT	_	8	punct	_
+28	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 # newdoc_id = D3_C14_OGlobo_21-08-2006_07h40
 # sent_id = D3_C14_OGlobo_21-08-2006_07h40-1
@@ -4065,7 +4065,7 @@
 45	segundo	segundo	ADP	ADP	_	46	case	_	_
 46	números	número	NOUN	NOUN	Gender=Masc|Number=Plur	41	obl	_	_
 47	oficiais	oficial	ADJ	ADJ	Gender=Masc|Number=Plur	46	amod	_	_
-48	.	.	PUNCT	PUNCT	_	11	punct	_
+48	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 # newdoc_id = D3_C36_OGlobo
 # sent_id = D3_C36_OGlobo-1
@@ -4526,7 +4526,7 @@
 11	em	em	ADP	ADP	_	13	case	_	_
 12	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	Incor	Incor	PROPN	PROPN	Gender=Masc|Number=Sing	5	obl	_	_
-14	.	.	PUNCT	PUNCT	_	5	punct	_
+14	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 # newdoc_id = D4_C14_JB
 # sent_id = D4_C14_JB-1
@@ -4789,7 +4789,7 @@
 42	segundo	segundo	ADP	ADP	_	43	case	_	_
 43	números	número	NOUN	NOUN	Gender=Masc|Number=Plur	38	obl	_	_
 44	oficiais	oficial	ADJ	ADJ	Gender=Masc|Number=Plur	43	amod	_	_
-45	.	.	PUNCT	PUNCT	_	11	punct	_
+45	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 # newdoc_id = D4_C25_JB
 # sent_id = D4_C25_JB-1
@@ -5537,7 +5537,7 @@
 18	que	que	PRON	PRON	Gender=Masc|Number=Sing|PronType=Rel	16	fixed	_	_
 19	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	suficiente	suficiente	NOUN	NOUN	Gender=Masc|Number=Sing	15	advcl	_	_
-21	.	.	PUNCT	PUNCT	_	15	punct	_
+21	.	.	PUNCT	PUNCT	_	15	punct	_	_
 
 # newdoc_id = D4_C36_JB
 # sent_id = D4_C36_JB-1
@@ -6676,7 +6676,7 @@
 16	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	democracia	democracia	NOUN	NOUN	Gender=Fem|Number=Sing	15	obj	_	_
 18	”	o	ADJ	ADJ	Gender=Fem|Number=Sing	17	amod	_	_
-19	.	.	PUNCT	PUNCT	_	15	punct	_
+19	.	.	PUNCT	PUNCT	_	15	punct	_	_
 
 # newdoc_id = D5_C22_GPovo_24-07-2007_08h51
 # sent_id = D5_C22_GPovo_24-07-2007_08h51-1
@@ -7083,7 +7083,7 @@
 14	de	de	ADP	ADP	_	16	case	_	_
 15	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	dia	dia	NOUN	NOUN	Gender=Masc|Number=Sing	13	nmod	_	_
-17	.	.	PUNCT	PUNCT	_	3	punct	_
+17	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # newdoc_id = D5_C25_GPovo_17-07-2007
 # sent_id = D5_C25_GPovo_17-07-2007-1
@@ -7804,5 +7804,5 @@
 20	redes	rede	NOUN	NOUN	Gender=Fem|Number=Plur	17	nmod	_	_
 21	de	de	ADP	ADP	_	22	case	_	_
 22	Abbodanzieri	Abbodanzieri	PROPN	PROPN	Gender=Unsp|Number=Sing	20	nmod	_	_
-23	.	.	PUNCT	PUNCT	_	3	punct	_
+23	.	.	PUNCT	PUNCT	_	3	punct	_	_
 

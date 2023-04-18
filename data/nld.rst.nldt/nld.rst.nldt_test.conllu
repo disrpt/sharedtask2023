@@ -1,4 +1,4 @@
-# newdoc id = AD18_Nestle
+# newdoc_id = AD18_Nestle
 # sent_id = AD18_Nestle-1
 # text = Geef je kindje een streepje voor met NESTLÉ PyjamaPapje® .
 1	Geef	geven	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -254,7 +254,7 @@
 16	van	van	ADP	VZ|fin	_	11	case	_	_
 17	!	!	PUNCT	LET	_	2	punct	_	_
 
-# newdoc id = AD19_Menzis
+# newdoc_id = AD19_Menzis
 # sent_id = AD19_Menzis-1
 # text = Laat nu je weerstand testen ... en ontvang gratis een Menzis fitnesspas
 1	Laat	laten	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -508,7 +508,7 @@
 6	verkooppunten	verkooppunt	NOUN	N|soort|mv|basis	Number=Plur	1	obl	_	_
 7	.	.	PUNCT	LET	_	1	punct	_	_
 
-# newdoc id = AD20_NRC_Focus
+# newdoc_id = AD20_NRC_Focus
 # sent_id = AD20_NRC_Focus-1
 # text = STOF VOOR DE STAF NRC Focus is het kwartaalblad voor beslissers en bestuurders van Nederland .
 1	STOF	stof	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	nsubj	_	BeginSeg=Yes
@@ -817,7 +817,7 @@
 17	Uitgevers	uitgever	NOUN	N|soort|mv|basis	Number=Plur	16	flat	_	_
 18	B.V.	b.v.	X	SPEC|afk	Abbr=Yes	16	flat	_	_
 
-# newdoc id = EE18_Orionnevel
+# newdoc_id = EE18_Orionnevel
 # sent_id = EE18_Orionnevel-1
 # text = Orionnevel
 1	Orionnevel	Orionnevel	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	0	root	_	BeginSeg=Yes
@@ -1224,7 +1224,7 @@
 9	nodig	nodig	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	_	_
 10	.	.	PUNCT	LET	_	9	punct	_	_
 
-# newdoc id = EE19_Quasar
+# newdoc_id = EE19_Quasar
 # sent_id = EE19_Quasar-1
 # text = Quasar
 1	Quasar	Quasar	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	0	root	_	BeginSeg=Yes
@@ -1741,7 +1741,7 @@
 49	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	48	cop	_	_
 50	op.	op.	PUNCT	LET	_	22	punct	_	_
 
-# newdoc id = EE20_Meteoren
+# newdoc_id = EE20_Meteoren
 # sent_id = EE20_Meteoren-1
 # text = Meteoren Behalve planeten en planetoïden bevinden zich in het zonnestelsel gigantische hoeveelheden brokjes kosmisch gruis ( meteoroïden ) , die tijdens hun baan om de zon de aarde passeren .
 1	Meteoren	metenk	NOUN	N|soort|mv|basis	Number=Plur	6	nsubj	_	BeginSeg=Yes
@@ -2101,7 +2101,7 @@
 9	augustus	augustus	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	flat	_	_
 10	.	.	PUNCT	LET	_	3	punct	_	_
 
-# newdoc id = FL18_Fonds_voor_het_hart
+# newdoc_id = FL18_Fonds_voor_het_hart
 # sent_id = FL18_Fonds_voor_het_hart-1
 # text = Hoe meer buikvet , hoe groter uw sterfterisico ...!
 1	Hoe	hoe	ADV	BW	_	2	amod	_	BeginSeg=Yes
@@ -2373,7 +2373,7 @@
 2	dank	danken	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	1	fixed	_	_
 3	!	!	PUNCT	LET	_	1	punct	_	_
 
-# newdoc id = FL19_Terre_des_hommes
+# newdoc_id = FL19_Terre_des_hommes
 # sent_id = FL19_Terre_des_hommes-1
 # text = Geeft u een ziek kind toegang tot de medicijnboot ?
 1	Geeft	geven	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	BeginSeg=Yes
@@ -2667,7 +2667,7 @@
 8	in	in	ADP	VZ|fin	_	3	compound:prt	_	_
 9	!	!	PUNCT	LET	_	3	punct	_	_
 
-# newdoc id = FL20_Artsen_zonder_grenzen
+# newdoc_id = FL20_Artsen_zonder_grenzen
 # sent_id = FL20_Artsen_zonder_grenzen-1
 # text = Met de komst van nieuwe medicijnen is hiv / aids een chronische ziekte geworden .
 1	Met	met	ADP	VZ|init	_	3	case	_	BeginSeg=Yes
@@ -3082,7 +3082,7 @@
 6	rekenen	rekenen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	0	root	_	_
 7	?	?	PUNCT	LET	_	6	punct	_	_
 
-# newdoc id = PSN18_Titan
+# newdoc_id = PSN18_Titan
 # sent_id = PSN18_Titan-1
 # text = Meren van Titan nagebootst op aarde
 1	Meren	Meren	NOUN	N|soort|mv|basis	Number=Plur	4	nsubj	_	BeginSeg=Yes
@@ -3485,7 +3485,7 @@
 11	Titan	Titan	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	9	nmod	_	_
 12	.	.	PUNCT	LET	_	6	punct	_	_
 
-# newdoc id = PSN19_Aarde
+# newdoc_id = PSN19_Aarde
 # sent_id = PSN19_Aarde-1
 # text = Aarde zorgt voor bevingen op asteroïden
 1	Aarde	aarde	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nsubj	_	BeginSeg=Yes
@@ -3845,7 +3845,7 @@
 12	asteroïdeseismologie	asteroïdeseismologie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	parataxis	_	_
 13	.	.	PUNCT	LET	_	10	punct	_	_
 
-# newdoc id = PSN20_Kepler_exoplaneten
+# newdoc_id = PSN20_Kepler_exoplaneten
 # sent_id = PSN20_Kepler_exoplaneten-1
 # text = Kepler ziet eerste exoplaneten Pas zes weken gebruiken wetenschappers de Kepler-telescoop , maar dat is lang genoeg om planeten te ontdekken .
 1	Kepler	Kepler	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nsubj	_	BeginSeg=Yes

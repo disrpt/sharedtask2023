@@ -1,4 +1,4 @@
-# newdoc id = D1_C30_Folha_07-08-2007_09h19
+# newdoc_id = D1_C30_Folha_07-08-2007_09h19
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	banco	_	_	_	_	_	_	_	_
 3	Itaú	_	_	_	_	_	_	_	_
@@ -434,7 +434,7 @@
 404	período	_	_	_	_	_	_	_	_
 405	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C31_Folha_17-10-2007_09h39
+# newdoc_id = D1_C31_Folha_17-10-2007_09h39
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	ginasta	_	_	_	_	_	_	_	_
 3	Jade	_	_	_	_	_	_	_	_
@@ -553,7 +553,7 @@
 104	Pequim	_	_	_	_	_	_	_	_
 105	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C37_OGlobo_17-10-2007_12h21
+# newdoc_id = D1_C37_OGlobo_17-10-2007_12h21
 1	Após	_	_	_	_	_	_	_	BeginSeg=Yes
 2	quase	_	_	_	_	_	_	_	_
 3	24	_	_	_	_	_	_	_	_
@@ -912,7 +912,7 @@
 331	mês	_	_	_	_	_	_	_	_
 332	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D1_C38_Folha_17-07-2007_12h15
+# newdoc_id = D1_C38_Folha_17-07-2007_12h15
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	equipe	_	_	_	_	_	_	_	_
 3	formada	_	_	_	_	_	_	_	_
@@ -1148,7 +1148,7 @@
 210	timoneiro	_	_	_	_	_	_	_	_
 211	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C30_Estadao_07-08-2007_07h59
+# newdoc_id = D2_C30_Estadao_07-08-2007_07h59
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Itaú	_	_	_	_	_	_	_	_
 3	,	_	_	_	_	_	_	_	_
@@ -1640,7 +1640,7 @@
 450	)	_	_	_	_	_	_	_	_
 451	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C37_GPovo_17-10-2007_13h24
+# newdoc_id = D2_C37_GPovo_17-10-2007_13h24
 1	Terminou	_	_	_	_	_	_	_	BeginSeg=Yes
 2	a	_	_	_	_	_	_	_	_
 3	rebelião	_	_	_	_	_	_	_	_
@@ -1908,7 +1908,7 @@
 243	homens	_	_	_	_	_	_	_	_
 244	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C38_Estadao_17-07-2007_12h03
+# newdoc_id = D2_C38_Estadao_17-07-2007_12h03
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	equipe	_	_	_	_	_	_	_	_
 3	de	_	_	_	_	_	_	_	_
@@ -2297,7 +2297,7 @@
 361	7min17s73	_	_	_	_	_	_	_	_
 362	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D2_C39_Estadao_07-08-2007_14h18
+# newdoc_id = D2_C39_Estadao_07-08-2007_14h18
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Ministério	_	_	_	_	_	_	_	_
 3	Público	_	_	_	_	_	_	_	_
@@ -2692,7 +2692,7 @@
 366	Guarulhos	_	_	_	_	_	_	_	_
 367	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C30_OGlobo_07-08-2007_09h10
+# newdoc_id = D3_C30_OGlobo_07-08-2007_09h10
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Itaú	_	_	_	_	_	_	_	_
 3	obteve	_	_	_	_	_	_	_	_
@@ -3254,7 +3254,7 @@
 508	2006	_	_	_	_	_	_	_	_
 509	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D3_C39_OGlobo_07-08-2007_13h31
+# newdoc_id = D3_C39_OGlobo_07-08-2007_13h31
 1	A	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Polícia	_	_	_	_	_	_	_	_
 3	Federal	_	_	_	_	_	_	_	_
@@ -3626,7 +3626,7 @@
 345	Direito	_	_	_	_	_	_	_	_
 346	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C38_JB
+# newdoc_id = D4_C38_JB
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	brasileiro	_	_	_	_	_	_	_	_
 3	Thiago	_	_	_	_	_	_	_	_
@@ -3733,7 +3733,7 @@
 100	Domingo	_	_	_	_	_	_	_	_
 101	.	_	_	_	_	_	_	_	_
 
-# newdoc id = D4_C39_JB
+# newdoc_id = D4_C39_JB
 1	O	_	_	_	_	_	_	_	BeginSeg=Yes
 2	Ministério	_	_	_	_	_	_	_	_
 3	Público	_	_	_	_	_	_	_	_

@@ -1,4 +1,4 @@
-# newdoc id = wsj_0602
+# newdoc_id = wsj_0602
 1	______	_	PROPN	NNP	Number=Sing	0	root	0:root	BeginSeg=Yes
 2	_	_	PUNCT	,	_	1	punct	1:punct	_
 3	_______	_	PROPN	NNP	Number=Sing	1	appos	1:appos	_
@@ -723,7 +723,7 @@
 19	_______	return	NOUN	NNS	Number=Plur	16	nmod	16:nmod:of	_
 20	_	_	PUNCT	.	_	3	punct	3:punct	_
 
-# newdoc id = wsj_0607
+# newdoc_id = wsj_0607
 1	_____	*LOWER*	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	BeginSeg=Yes
 2	___	_	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	______	issue	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj|5:nsubj:xsubj	_
@@ -895,7 +895,7 @@
 16	_______	_	NOUN	NN	Number=Sing	11	obl	11:obl:as	_
 17	_	_	PUNCT	.	_	8	punct	8:punct	_
 
-# newdoc id = wsj_0616
+# newdoc_id = wsj_0616
 1	__	*LOWER*	SCONJ	IN	_	3	mark	3:mark	BeginSeg=Yes
 2	___________	_	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	_____	heat	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	17:advcl:as	_
@@ -1786,7 +1786,7 @@
 26	_________	exchange	NOUN	NNS	Number=Plur	12	obl	12:obl:into	_
 27	_	_	PUNCT	.	_	4	punct	4:punct	_
 
-# newdoc id = wsj_0623
+# newdoc_id = wsj_0623
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	6	det	6:det	BeginSeg=Yes
 2	______	_	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
 3	____	_	NUM	CD	NumForm=Digit|NumType=Card	6	nummod	6:nummod	_
@@ -2084,7 +2084,7 @@
 16	_______	_	NOUN	NN	Number=Sing	12	obl	12:obl:under	_
 17	_	_	PUNCT	.	_	1	punct	1:punct	_
 
-# newdoc id = wsj_0627
+# newdoc_id = wsj_0627
 1	_______	_	PROPN	NNP	Number=Sing	3	compound	3:compound	BeginSeg=Yes
 2	__________	_	NOUN	NN	Number=Sing	3	compound	3:compound	_
 3	____	datum	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj|13:nsubj:xsubj	_
@@ -2822,7 +2822,7 @@
 34	______	_	NOUN	NN	Number=Sing	29	nmod	29:nmod:to	_
 35	_	_	PUNCT	.	_	4	punct	4:punct	_
 
-# newdoc id = wsj_0632
+# newdoc_id = wsj_0632
 1	_______	_	PROPN	NNP	Number=Sing	3	compound	3:compound	BeginSeg=Yes
 2	______	_	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	_____	_	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	_
@@ -3517,7 +3517,7 @@
 38	____	_	NOUN	NN	Number=Sing	31	nmod	31:nmod:over	_
 39	_	_	PUNCT	.	_	5	punct	5:punct	_
 
-# newdoc id = wsj_0644
+# newdoc_id = wsj_0644
 1	_____	_	PROPN	NNP	Number=Sing	3	compound	3:compound	BeginSeg=Yes
 2	__	_	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	_________	_	PROPN	NNP	Number=Sing	12	nsubj:pass	12:nsubj:pass	_
@@ -3578,7 +3578,7 @@
 31	_________	_	NOUN	NN	Number=Sing	25	nmod	25:nmod:of	_
 32	_	_	PUNCT	.	_	8	punct	8:punct	_
 
-# newdoc id = wsj_0654
+# newdoc_id = wsj_0654
 1	________	_	PROPN	NNP	Number=Sing	3	compound	3:compound	BeginSeg=Yes
 2	______________	_	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	_____	_	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
@@ -3800,7 +3800,7 @@
 39	_	_	PUNCT	.	_	3	punct	3:punct	_
 40	_	_	PUNCT	''	_	3	punct	3:punct	_
 
-# newdoc id = wsj_0655
+# newdoc_id = wsj_0655
 1	__________	*LOWER*	ADJ	JJ	Degree=Pos	4	amod	4:amod	BeginSeg=Yes
 2	_________	_	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 3	______	_	PROPN	NNP	Number=Sing	4	compound	4:compound	_
@@ -4747,7 +4747,7 @@
 29	____	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 30	_	_	PUNCT	.	_	29	punct	29:punct	_
 
-# newdoc id = wsj_0667
+# newdoc_id = wsj_0667
 1-2	________	_	_	_	_	_	_	_	_
 1	Shoney	_	PROPN	NNP	Number=Sing	3	nmod:poss	3:nmod:poss	BeginSeg=Yes
 2	's	_	PART	POS	_	1	case	1:case	_
@@ -4968,7 +4968,7 @@
 33	_____	sale	NOUN	NNS	Number=Plur	26	conj	20:nmod:from|26:conj:and	_
 34	_	_	PUNCT	.	_	3	punct	3:punct	_
 
-# newdoc id = wsj_0684
+# newdoc_id = wsj_0684
 1	______	_	PROPN	NNP	Number=Sing	2	compound	2:compound	BeginSeg=Yes
 2	_____	_	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 3	____	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -5050,7 +5050,7 @@
 7	___	_	NUM	CD	NumForm=Digit|NumType=Card	6	obj	6:obj	_
 8	_	_	PUNCT	.	_	6	punct	6:punct	_
 
-# newdoc id = wsj_0689
+# newdoc_id = wsj_0689
 1	______	*LOWER*	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	BeginSeg=Yes
 2	_	_	PUNCT	:	_	1	punct	1:punct	_
 
@@ -6357,7 +6357,7 @@
 55	____	_	NOUN	NN	Number=Sing	48	obl	48:obl:from	_
 56	_	_	PUNCT	.	_	1	punct	1:punct	_
 
-# newdoc id = wsj_1113
+# newdoc_id = wsj_1113
 1	______	_	PROPN	NNP	Number=Sing	4	compound	4:compound	BeginSeg=Yes
 2	_______	_	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 3	_____	_	PROPN	NNP	Number=Sing	4	compound	4:compound	_
@@ -6466,7 +6466,7 @@
 16	_________	_	ADJ	JJ	Degree=Pos|Polarity=Neg	11	advmod	11:advmod	_
 17	_	_	PUNCT	.	_	11	punct	11:punct	_
 
-# newdoc id = wsj_1126
+# newdoc_id = wsj_1126
 1	________	_	PROPN	NNP	Number=Sing	2	compound	2:compound	BeginSeg=Yes
 2	_____	_	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
 3	___	_	CCONJ	CC	_	7	cc	7:cc	_
@@ -7063,7 +7063,7 @@
 20	______	hotel	NOUN	NNS	Number=Plur	15	nmod	15:nmod:in	_
 21	_	_	PUNCT	.	_	2	punct	2:punct	_
 
-# newdoc id = wsj_1129
+# newdoc_id = wsj_1129
 1	_____	_	PROPN	NNP	Number=Sing	3	compound	3:compound	BeginSeg=Yes
 2	_______	_	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	____	_	PROPN	NNP	Abbr=Yes|Number=Sing	4	nsubj	4:nsubj	_
@@ -7111,7 +7111,7 @@
 15	_______	_	NOUN	NN	Number=Sing	7	obl	7:obl:under	_
 16	_	_	PUNCT	.	_	7	punct	7:punct	_
 
-# newdoc id = wsj_1142
+# newdoc_id = wsj_1142
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	4	det	4:det	BeginSeg=Yes
 2	______	_	PROPN	NNP	Number=Sing	4	compound	4:compound	_
 3	________________	_	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
@@ -8169,7 +8169,7 @@
 26	___	_	ADV	RB	Degree=Pos	21	advmod	21:advmod	_
 27	_	_	PUNCT	.	_	3	punct	3:punct	_
 
-# newdoc id = wsj_1146
+# newdoc_id = wsj_1146
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	3	det	3:det	BeginSeg=Yes
 2	______	*LOWER*	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	___	_	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
@@ -11020,7 +11020,7 @@
 6	____	_	NOUN	NN	Number=Sing	4	obj	4:obj	_
 7	_	_	PUNCT	.	_	4	punct	4:punct	_
 
-# newdoc id = wsj_1148
+# newdoc_id = wsj_1148
 1	_____	_	PROPN	NNP	Number=Sing	2	compound	2:compound	BeginSeg=Yes
 2	_____	_	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj|6:nsubj:xsubj	_
 3	__	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
@@ -11480,7 +11480,7 @@
 15	__________	operation	NOUN	NNS	Number=Plur	12	obl	12:obl:to	_
 16	_	_	PUNCT	.	_	5	punct	5:punct	_
 
-# newdoc id = wsj_1169
+# newdoc_id = wsj_1169
 1	______	_	PROPN	NNP	Number=Sing	3	compound	3:compound	BeginSeg=Yes
 2	____	_	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	___	_	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
@@ -11630,7 +11630,7 @@
 15	____	_	NOUN	NN	Number=Sing	3	nmod	3:nmod:in	_
 16	_	_	PUNCT	.	_	2	punct	2:punct	_
 
-# newdoc id = wsj_1183
+# newdoc_id = wsj_1183
 1	_______	_	PROPN	NNP	Number=Sing	3	compound	3:compound	BeginSeg=Yes
 2	______	_	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	___	_	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj	_
@@ -11727,7 +11727,7 @@
 11	____	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 12	_	_	PUNCT	.	_	11	punct	11:punct	_
 
-# newdoc id = wsj_1189
+# newdoc_id = wsj_1189
 1	_______	*LOWER*	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	BeginSeg=Yes
 2	___	_	CCONJ	CC	_	3	cc	3:cc	_
 3	_____	loan	NOUN	NNS	Number=Plur	1	conj	1:conj:and|4:nsubj	_
@@ -12515,7 +12515,7 @@
 28	______	_	NOUN	NN	Number=Sing	23	obl	23:obl:on	_
 29	_	_	PUNCT	.	_	5	punct	5:punct	_
 
-# newdoc id = wsj_1197
+# newdoc_id = wsj_1197
 1	_________	_	PROPN	NNP	Number=Sing	3	compound	3:compound	BeginSeg=Yes
 2	______	_	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	___	_	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	_
@@ -12702,7 +12702,7 @@
 52	_______	_	NUM	CD	NumForm=Word|NumType=Card	50	nummod	50:nummod	_
 53	_	_	PUNCT	.	_	9	punct	9:punct	_
 
-# newdoc id = wsj_1306
+# newdoc_id = wsj_1306
 1	_____	_	PROPN	NNP	Number=Sing	2	compound	2:compound	BeginSeg=Yes
 2	_____	_	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 3	____	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -13173,7 +13173,7 @@
 25	_	_	PUNCT	.	_	6	punct	6:punct	_
 26	_	_	PUNCT	''	_	6	punct	6:punct	_
 
-# newdoc id = wsj_1307
+# newdoc_id = wsj_1307
 1	__	*LOWER*	ADP	IN	_	4	case	4:case	BeginSeg=Yes
 2	_	_	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
 3	_________	_	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
@@ -14105,7 +14105,7 @@
 36	___	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	obl	31:obl:with	_
 37	_	_	PUNCT	.	_	13	punct	13:punct	_
 
-# newdoc id = wsj_1325
+# newdoc_id = wsj_1325
 1	____	_	PROPN	NNP	Number=Sing	2	compound	2:compound	BeginSeg=Yes
 2	_____	_	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	_
 3	____	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -14305,7 +14305,7 @@
 23	________	_	NOUN	NN	Number=Sing	20	obj	20:obj	_
 24	_	_	PUNCT	.	_	9	punct	9:punct	_
 
-# newdoc id = wsj_1331
+# newdoc_id = wsj_1331
 1	___	_	PROPN	NNP	Number=Sing	6	nsubj:pass	6:nsubj:pass|8:nsubj:xsubj	BeginSeg=Yes
 2	_	_	PUNCT	,	_	1	punct	1:punct	_
 3	____	_	PROPN	NNP	Number=Sing	4	compound	4:compound	_
@@ -16059,7 +16059,7 @@
 14	____	say	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 15	_	_	PUNCT	.	_	14	punct	14:punct	_
 
-# newdoc id = wsj_1346
+# newdoc_id = wsj_1346
 1	_______	_	PROPN	NNP	Number=Sing	3	compound	3:compound	BeginSeg=Yes
 2	______	_	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	___	_	PROPN	NNP	Number=Sing	20	nsubj	20:nsubj	_
@@ -16274,7 +16274,7 @@
 14	_____	_	NOUN	NN	Number=Sing	10	obl:npmod	10:obl:npmod	_
 15	_	_	PUNCT	.	_	5	punct	5:punct	_
 
-# newdoc id = wsj_1354
+# newdoc_id = wsj_1354
 1	___	_	PROPN	NNP	Number=Sing	3	compound	3:compound	BeginSeg=Yes
 2	____________	_	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	____	_	PROPN	NNP	Abbr=Yes|Number=Sing	4	nsubj	4:nsubj	_
@@ -16404,7 +16404,7 @@
 15	________	product	NOUN	NNS	Number=Plur	11	nmod	11:nmod:for	_
 16	_	_	PUNCT	.	_	3	punct	3:punct	_
 
-# newdoc id = wsj_1365
+# newdoc_id = wsj_1365
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	3	det	3:det	BeginSeg=Yes
 2	_______	_	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	__________	_	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj|10:nsubj	_
@@ -16760,7 +16760,7 @@
 43	____	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 44	_	_	PUNCT	.	_	43	punct	43:punct	_
 
-# newdoc id = wsj_1376
+# newdoc_id = wsj_1376
 1	__	*LOWER*	SCONJ	IN	_	12	mark	12:mark	BeginSeg=Yes
 2	_____	_	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	_____	_	PROPN	NNP	Number=Sing	12	nsubj	6:nsubj|12:nsubj	_
@@ -18527,7 +18527,7 @@
 12	_	_	PUNCT	.	_	4	punct	4:punct	_
 13	_	_	PUNCT	''	_	4	punct	4:punct	_
 
-# newdoc id = wsj_1380
+# newdoc_id = wsj_1380
 1	_______	*LOWER*	NOUN	NN	Number=Sing	2	compound	2:compound	BeginSeg=Yes
 2	_______	_	NOUN	NN	Number=Sing	11	nsubj	11:nsubj	_
 3	__	_	ADP	IN	_	8	case	8:case	_
@@ -18855,7 +18855,7 @@
 26	____	_	NOUN	NN	Number=Sing	6	conj	5:nsubj|6:conj:and	_
 27	_	_	PUNCT	.	_	5	punct	5:punct	_
 
-# newdoc id = wsj_1387
+# newdoc_id = wsj_1387
 1	___	*LOWER*	ADV	RB	_	4	advmod	4:advmod	BeginSeg=Yes
 2	_______	_	DET	DT	PronType=Art	4	det	4:det	_
 3	_________	_	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
@@ -20015,7 +20015,7 @@
 45	____	_	NOUN	NN	Number=Sing	39	conj	31:advcl:because|39:conj:and	_
 46	_	_	PUNCT	.	_	11	punct	11:punct	_
 
-# newdoc id = wsj_2336
+# newdoc_id = wsj_2336
 1	_______	_	PROPN	NNP	Number=Sing	3	compound	3:compound	BeginSeg=Yes
 2	________	_	PROPN	NNP	Number=Sing	3	compound	3:compound	_
 3	____	_	PROPN	NNP	Abbr=Yes|Number=Sing	4	nsubj	4:nsubj	_
@@ -20295,7 +20295,7 @@
 26	__________	_	NOUN	NN	Number=Sing	22	nmod	22:nmod:for	_
 27	_	_	PUNCT	.	_	2	punct	2:punct	_
 
-# newdoc id = wsj_2354
+# newdoc_id = wsj_2354
 1	____	*LOWER*	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	BeginSeg=Yes
 2	__	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
 3	___	_	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
@@ -20818,7 +20818,7 @@
 15	_	_	PUNCT	.	_	4	punct	4:punct	_
 16	_	_	PUNCT	''	_	4	punct	4:punct	_
 
-# newdoc id = wsj_2373
+# newdoc_id = wsj_2373
 1	__	*LOWER*	ADP	IN	_	2	case	2:case	BeginSeg=Yes
 2	________	_	NOUN	NN	Number=Sing	28	obl	28:obl:in	_
 3	__	_	ADP	IN	_	9	case	9:case	_
@@ -21060,7 +21060,7 @@
 4	_	_	PUNCT	,	_	1	punct	1:punct	_
 5	_____	_	PROPN	NNP	Number=Sing	1	appos	1:appos	_
 
-# newdoc id = wsj_2375
+# newdoc_id = wsj_2375
 1-2	_______	_	_	_	_	_	_	_	_
 1	Moody	_	PROPN	NNP	Number=Sing	4	nmod:poss	4:nmod:poss	BeginSeg=Yes
 2	's	_	PART	POS	_	1	case	1:case	_
@@ -21293,7 +21293,7 @@
 12	_	_	PUNCT	.	_	3	punct	3:punct	_
 13	_	_	PUNCT	''	_	3	punct	3:punct	_
 
-# newdoc id = wsj_2385
+# newdoc_id = wsj_2385
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	4	det	4:det	BeginSeg=Yes
 2	_________	follow	VERB	VBG	VerbForm=Ger	4	amod	4:amod	_
 3	____	_	PROPN	NNP	Abbr=Yes|Number=Sing	4	compound	4:compound	_
@@ -21825,7 +21825,7 @@
 29	_____	_	NOUN	NN	Number=Sing	0	root	0:root	_
 30	_	_	PUNCT	.	_	29	punct	29:punct	_
 
-# newdoc id = wsj_2386
+# newdoc_id = wsj_2386
 1	_____	*LOWER*	ADJ	JJ	Degree=Pos	2	amod	2:amod	BeginSeg=Yes
 2	_________	investor	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	_
 3	_______	match	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_

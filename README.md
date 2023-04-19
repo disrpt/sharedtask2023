@@ -1,6 +1,11 @@
 # DISRPT/sharedtask2023
 
-**Update 19/04/23: data have been updated, don't forget to pull the new data files.**
+
+**Update 19/04/23: datasets have been updated, don't forget to pull the new data files.**
+**Update 17/04/23: test and surprise data has been released!**
+
+
+~~**Update 17/03/23: data have been updated, don't forget to pull the new data files.**~~
 
 Repository for DISRPT2023 Shared Task on Discourse Unit Segmentation, Connective Detection, and Discourse Relation Classification.  
 
@@ -56,6 +61,23 @@ External resources are allowed, including NLP tools, word embeddings/pre-trained
 Please also make sure to use seeds to keep performance as reproducible as possible!
 
 
+## Evaluation
+
+Evaluation scripts are provided for all tasks under [`utils`](https://github.com/disrpt/sharedtask2023/tree/main/utils).
+In general, final results of each dataset will be reported on the corresponding`test` partition. 
+
+**For datasets without a corresponding training set** (e.g. `eng.dep.covdtb`, `tur.pdtb.tedm`):  
+
+- The scores will be reported as any other regular datasets on the `test` partition 
+using the relation inventory of each respective dataset
+  - one can collapse relations in any way one would like to during training, but the final results will be reported on each dataset's own relation labels, as indicated in the last column (i.e. `label`) in the corresponding test `.rels` file. 
+- Systems can be trained on either a corpus with the same language or any other combination of the datasets available in DISRPT 2023. 
+- For better interpretation of the results, we kindly ask you to 
+  - document the composition of the training data in your README.md file as well as the paper describing the system. 
+  - also report model performance on `dev` sets (wherever applicable) in the paper describing the system (this can go into the appendix of the paper)
+
+
+
 ## Directories
 
 The shared task repository currently comprises the following directories:
@@ -69,8 +91,10 @@ See the README files in individual data directories for more details on each dat
 
 
 ## Surprise Language(s)
+[17/04/2023] The Thai Discourse Treebank (TDTB) is our surprise language/dataset! 
+We also include a few out-of-domain datasets to challenge the robustness and generalizability of your system! 
 
-At the release of the test data, surprise language datasets will be added! We will disclose the languages for these corpora soon, to allow teams to be ready. 
+~~At the release of the test data, surprise language datasets will be added! We will disclose the languages for these corpora soon, to allow teams to be ready.~~ 
 
 
 ## Submitting a System
@@ -78,9 +102,9 @@ At the release of the test data, surprise language datasets will be added! We wi
 Systems should be accompanied by a regular workshop paper in the ACL format, as described on [the CODI workshop website](https://sites.google.com/view/codi-2023/call-for-papers?authuser=0). During submission, you will be asked to supply a URL from which your system can be downloaded. If your system does not download necessary resources by itself (e.g. word embeddings), these resources should be included at the download URL. The system download should include a README file describing exactly how paper results can be reproduced. Please do not supply pre-trained models, but rather instructions on how to train the system using the downloaded resources and **make sure to seed your model** to rule out random variation in results. For any questions regarding system submissions, please contact the organizers.
 
 ## Important Dates
-- January 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sample release  
-- February 22nd, 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`train`/`dev` dataset release  
-- April 15th, 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`test` release  
+- ~~January 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sample release~~
+- ~~February 22nd, 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`train`/`dev` dataset release~~
+- **April 17th, 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`test` release**
 - May 8th, 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System release
 - June 1st, 2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camera ready
 - July 13-14th, 2023  &nbsp; &nbsp; &nbsp; &nbsp; CODI Workshop, ACL, Toronto, Canada.

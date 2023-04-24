@@ -39,6 +39,7 @@ def parse_data(infile, string_input=False) -> list:
 	else:
 		data = infile.strip()
 
+	#labels = [line.split("\t")[-1] for line in data.split("\n") if "\t" in line] # 2021 version
 	labels = [line.split("\t")[-1] for i, line in enumerate(data.split("\n")) if "\t" in line and i>0] # first line : metadata
 
 

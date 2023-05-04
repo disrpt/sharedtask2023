@@ -1,6 +1,6 @@
 # DISRPT/sharedtask2023
 
-**Update 04/05/23: datasets have been updated, don't forget to pull the new data files.**
+**Update 04/05/23: datasets have been updated (fixed mistakes in .rels of surprise datasets TEDm and CRPC), don't forget to pull the new data files.**
 
 **Update 19/04/23: datasets have been updated, don't forget to pull the new data files.**
 

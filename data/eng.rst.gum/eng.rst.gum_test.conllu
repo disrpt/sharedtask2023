@@ -1,4 +1,4 @@
-# newdoc id = GUM_academic_discrimination
+# newdoc_id = GUM_academic_discrimination
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Brian B. Boutwell, Joseph L. Nedelec, Bo Winegard, and others (see URL)
 # meta::dateCollected = 2017-09-13
@@ -1434,7 +1434,7 @@
 15	States	State	PROPN	NNPS	Number=Plur	11	obl	11:obl:of	Entity=78)|SpaceAfter=No
 16	.	.	PUNCT	.	_	9	punct	9:punct	_
 
-# newdoc id = GUM_academic_eegimaa
+# newdoc_id = GUM_academic_eegimaa
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Serge Sagna, Emmanuel Bassène
 # meta::dateCollected = 2018-09-10
@@ -2582,7 +2582,7 @@
 12	language	language	NOUN	NN	Number=Sing	7	conj	4:obl:in|7:conj:or	Entity=162)|SpaceAfter=No
 13	.	.	PUNCT	.	_	4	punct	4:punct	_
 
-# newdoc id = GUM_bio_dvorak
+# newdoc_id = GUM_bio_dvorak
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Wikipedia, The Free Encyclopedia
 # meta::dateCollected = 2018-09-12
@@ -3481,7 +3481,7 @@
 19	5	5	NUM	CD	NumForm=Digit|NumType=Card	4	dep	4:dep	Entity=(130-abstract-new-cf4-1-sgl)|SpaceAfter=No
 20	]	]	PUNCT	-RRB-	_	19	punct	19:punct	XML=</ref>
 
-# newdoc id = GUM_bio_jespersen
+# newdoc_id = GUM_bio_jespersen
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Wikipedia, The Free Encyclopedia
 # meta::dateCollected = 2017-09-13
@@ -4747,7 +4747,7 @@
 21	America	America	PROPN	NNP	Number=Sing	19	nmod	19:nmod:of	Entity=(156-place-giv:inact-cf2-1-coref-United_States)212)211)210)1)|SpaceAfter=No|XML=</ref>
 22	.	.	PUNCT	.	_	3	punct	3:punct	_
 
-# newdoc id = GUM_conversation_lambada
+# newdoc_id = GUM_conversation_lambada
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Santa Barbara Corpus of Spoken American English (ed. John W. Du Bois)
 # meta::dateCollected = 2021-08-09
@@ -6634,7 +6634,7 @@
 6	n't	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 7	.	.	PUNCT	.	_	5	punct	5:punct	_
 
-# newdoc id = GUM_conversation_retirement
+# newdoc_id = GUM_conversation_retirement
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Santa Barbara Corpus of Spoken American English (ed. John W. Du Bois)
 # meta::dateCollected = 2020-09-07
@@ -8493,7 +8493,7 @@
 2	good	good	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	2:punct	_
 
-# newdoc id = GUM_fiction_falling
+# newdoc_id = GUM_fiction_falling
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Benjamin Rosenbaum
 # meta::dateCollected = 2017-09-13
@@ -10072,7 +10072,7 @@
 9	kiss	kiss	NOUN	NN	Number=Sing	5	obl	5:obl:for	Entity=164)|SpaceAfter=No
 10	.	.	PUNCT	.	_	5	punct	5:punct	_
 
-# newdoc id = GUM_fiction_teeth
+# newdoc_id = GUM_fiction_teeth
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Jonathan Munn
 # meta::dateCollected = 2018-09-24
@@ -11430,7 +11430,7 @@
 23	shelf	shelf	NOUN	NN	Number=Sing	19	nmod	19:nmod:on	Entity=93)159)5)|SpaceAfter=No
 24	.	.	PUNCT	.	_	4	punct	4:punct	_
 
-# newdoc id = GUM_interview_hill
+# newdoc_id = GUM_interview_hill
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Wikinews
 # meta::dateCollected = 2015-09-21
@@ -12700,7 +12700,7 @@
 9	promise	promise	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=141)|SpaceAfter=No
 10	!	!	PUNCT	.	_	5	punct	5:punct	_
 
-# newdoc id = GUM_interview_libertarian
+# newdoc_id = GUM_interview_libertarian
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Wikinews
 # meta::dateCollected = 2014-09-15
@@ -13878,7 +13878,7 @@
 3	Huebi	Huebi	PROPN	NNP	Number=Sing	1	dep	1:dep	Discourse=attribution-positive:102->99:1|Entity=(141-person-new-cf1-1-sgl)|SpaceAfter=No|BeginSeg=Yes
 4	.	.	PUNCT	.	_	1	punct	1:punct	_
 
-# newdoc id = GUM_news_nasa
+# newdoc_id = GUM_news_nasa
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Wikinews
 # meta::dateCollected = 2014-09-15
@@ -15515,7 +15515,7 @@
 29	space	space	NOUN	NN	Number=Sing	23	obl	23:obl:into	Entity=(150-place-giv:inact-cf3-1-coref)193)192)|SpaceAfter=No
 30	.	.	PUNCT	.	_	9	punct	9:punct	_
 
-# newdoc id = GUM_news_sensitive
+# newdoc_id = GUM_news_sensitive
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Wikinews
 # meta::dateCollected = 2015-09-21
@@ -16418,7 +16418,7 @@
 # text = Archived
 1	Archived	archive	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	Discourse=joint-other_m:76->70:0|Entity=(85-abstract-new-cf1-1-sgl)|XML=<ref></ref>|BeginSeg=Yes
 
-# newdoc id = GUM_reddit_escape
+# newdoc_id = GUM_reddit_escape
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = reddit community (see URL)
 # meta::dateCollected = 2018-09-12
@@ -17837,7 +17837,7 @@
 3	M	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	4	cop	4:cop	CorrectForm='M|XML=<sic ana:::"'M"></sic></w>
 4	DEAD	Dead	ADJ	JJ	Degree=Pos	0	root	0:root	_
 
-# newdoc id = GUM_reddit_monsters
+# newdoc_id = GUM_reddit_monsters
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = MrDrProfTimeLord, earthling105b, curlbaumann and others (see URL)
 # meta::dateCollected = 2018-09-11
@@ -19207,7 +19207,7 @@
 33	Monstropolis	Monstropolis	PROPN	NNP	Number=Sing	32	obj	32:obj	Entity=(3-place-giv:inact-cf3-1-coref)|SpaceAfter=No
 34	)	)	PUNCT	-RRB-	_	2	punct	2:punct	_
 
-# newdoc id = GUM_speech_austria
+# newdoc_id = GUM_speech_austria
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Michael Spindelegger
 # meta::dateCollected = 2020-12-02
@@ -20426,7 +20426,7 @@
 12	welcome	welcome	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	advcl:relcl	5:advcl:relcl	SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	5:punct	_
 
-# newdoc id = GUM_speech_newzealand
+# newdoc_id = GUM_speech_newzealand
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = David Clark
 # meta::dateCollected = 2020-09-07
@@ -21504,7 +21504,7 @@
 21	community	community	NOUN	NN	Number=Sing	18	obl	18:obl:in	Entity=135)|SpaceAfter=No
 22	.	.	PUNCT	.	_	2	punct	2:punct	_
 
-# newdoc id = GUM_textbook_chemistry
+# newdoc_id = GUM_textbook_chemistry
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Paul Flowers, Edward J. Neth, William R. Robinson, Klaus Theopold, Richard Langley
 # meta::dateCollected = 2020-08-03
@@ -22880,7 +22880,7 @@
 17	ratios	ratio	NOUN	NNS	Number=Plur	10	obl	10:obl:in	Entity=172)|SpaceAfter=No
 18	.	.	PUNCT	.	_	4	punct	4:punct	_
 
-# newdoc id = GUM_textbook_union
+# newdoc_id = GUM_textbook_union
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = P. Scott Corbett, Volker Janssen, John M. Lund, Todd Pfannestiel, Sylvie Waskiewicz, Paul Vickery
 # meta::dateCollected = 2021-09-02
@@ -24376,7 +24376,7 @@
 21	Confederacy	Confederacy	PROPN	NNP	Number=Sing	16	nmod	16:nmod:with	Entity=11)187)|SpaceAfter=No
 22	.	.	PUNCT	.	_	3	punct	3:punct	_
 
-# newdoc id = GUM_vlog_london
+# newdoc_id = GUM_vlog_london
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Kharma Medic
 # meta::dateCollected = 2020-09-08
@@ -25337,7 +25337,7 @@
 40	out	out	ADP	RP	_	39	compound:prt	39:compound:prt	SpaceAfter=No
 41	.	.	PUNCT	.	_	5	punct	5:punct	_
 
-# newdoc id = GUM_vlog_studying
+# newdoc_id = GUM_vlog_studying
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Melissa Lucy
 # meta::dateCollected = 2020-09-02
@@ -26596,7 +26596,7 @@
 16	lunch	lunch	NOUN	NN	Number=Sing	15	obj	15:obj	Entity=(68-object-giv:inact-cf3-1-coref)|SpaceAfter=No
 17	.	.	PUNCT	.	_	6	punct	6:punct	_
 
-# newdoc id = GUM_voyage_oakland
+# newdoc_id = GUM_voyage_oakland
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Andrewssi2, Challenger l, Ikan Kekek and others (see URL)
 # meta::dateCollected = 2014-09-15
@@ -27957,7 +27957,7 @@
 28	reputation	reputation	NOUN	NN	Number=Sing	22	nmod	22:nmod:with	Entity=197)166)|SpaceAfter=No
 29	.	.	PUNCT	.	_	22	punct	22:punct	_
 
-# newdoc id = GUM_voyage_vavau
+# newdoc_id = GUM_voyage_vavau
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = DaGizza, Wrh2Bot, Ikan Kekek and others (see URL)
 # meta::dateCollected = 2014-09-15
@@ -28853,7 +28853,7 @@
 21	calves	calf	NOUN	NNS	Number=Plur	19	nmod	19:nmod:with	Entity=(120-animal-new-cf5-1-sgl)119)118)|SpaceAfter=No
 22	.	.	PUNCT	.	_	3	punct	3:punct	_
 
-# newdoc id = GUM_whow_cactus
+# newdoc_id = GUM_whow_cactus
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Alex, Carolyn Barratt, WRM and others (see URL)
 # meta::dateCollected = 2015-09-21
@@ -29825,7 +29825,7 @@
 24	harvests	harvest	NOUN	NNS	Number=Plur	21	nmod	21:nmod:of	Entity=83)82)|SpaceAfter=No
 25	.	.	PUNCT	.	_	7	punct	7:punct	_
 
-# newdoc id = GUM_whow_mice
+# newdoc_id = GUM_whow_mice
 # global.Entity = GRP-etype-infstat-centering-minspan-link-identity
 # meta::author = Zodi, Basia Dajewski, Zach and others (see URL)
 # meta::dateCollected = 2016-09-19

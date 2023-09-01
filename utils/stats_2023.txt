@@ -1,0 +1,20 @@
+deu.rst.pcc	deu	RST	2405	26	no	27681	1773	142	3254	207	17	1980	30935	159	EDU	no	UD	no	no
+eng.dep.scidtb	eng	DEP	7993	24	yes	65058	2570	492	21114	815	154	3385	86172	646	EDU	no	UD	yes	no
+eng.pdtb.pdtb	eng	PDTB	45594	23	yes	1165574	44563	1992	43790	1703	79	46266	1209364	2071	Conn	yes	UD (gold)	yes	no
+eng.rst.gum	eng	RST	22113	14	yes	216259	9234	165	29003	1221	24	10455	245262	189	EDU	yes	UD (gold)	yes	yes
+eng.rst.rstdt	eng	RST	17623	17	yes	169321	0	309	17574	0	38	0	186895	347	EDU	yes	UD (gold)	yes	no
+eng.sdrt.stac	eng	SDRT	10725	16	no	59438	8754	33	6846	991	6	9745	66284	39	EDU	no	UD	yes	no
+eus.rst.ert	eus	RST	3147	29	yes	32289	1599	116	7585	366	24	1965	39874	140	EDU	no	UD	no	no
+fas.rst.prstc	fas	RST	4599	17	yes	54210	1713	120	7235	202	15	1915	61445	135	EDU	no	UD	yes	no
+fra.sdrt.annodis	fra	SDRT	2713	18	yes	23535	1020	64	5258	245	11	1265	28793	75	EDU	no	UD	no	no
+ita.pdtb.luna	ita	PDTB	1166	15	yes	19767	3722	42	3633	776	6	4498	23400	48	Conn	no	UD	yes	no
+nld.rst.nldt	nld	RST	1939	32	no	18718	1156	56	4038	255	12	1411	22756	68	EDU	no	UD	no	no
+por.rst.cstn	por	RST	4721	32	yes	54002	1825	114	7280	257	14	2082	61282	128	EDU	no	UD	yes	no
+rus.rst.rrt	rus	RST	31723	22	yes	409307	18932	272	42804	2025	30	20957	452111	302	EDU	no	UD	no	no
+spa.rst.rststb	spa	RST	2623	28	yes	43055	0	203	7551	0	32	0	50606	235	EDU	no	UD	no	no
+spa.rst.sctb	spa	RST	533	24	yes	10253	0	32	2448	0	9	0	12701	41	EDU	no	UD	no	no
+tur.pdtb.tdb	tur	PDTB	2763	23	yes	423474	24959	159	52900	2948	19	27907	476374	178	Conn	yes	UD	yes	no
+zho.dep.scidtb	zho	DEP	1083	23	no	11288	377	69	3852	123	20	500	15140	89	EDU	no	UD	no	no
+zho.pdtb.cdtb	zho	PDTB	4512	9	yes	52061	0	125	11178	0	21	0	63239	146	Conn	yes	other (gold)	no	no
+zho.rst.gcdt	zho	RST	7460	31	yes	49665	2026	40	7950	331	5	2357	57615	45	EDU	no	UD	no	no
+zho.rst.sctb	zho	RST	533	26	yes	9655	0	32	2264	0	9	0	11919	41	EDU	no	UD	no	no

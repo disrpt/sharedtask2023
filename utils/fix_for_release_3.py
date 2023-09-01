@@ -24,7 +24,24 @@ def labels_to_lower_case():
                 #print(new_line)
                 fo.write(f"{new_line}\n")
 
+def crpc_level_of_detail():
+    for corp in sorted(glob.iglob(os.path.join(DATA_DIR, "por.pdtb.crpc", "*.rels"))):
+        print(corp)
+        with open(corp, 'r') as fi:
+            data = fi.readlines()
+
+        with open(corp, 'w', encoding='utf-8') as fo:
+            for line in data:
+                line = line.strip()
+                fields = line.split("\t") #print(f"1-{fields[-1]}")
+                if fields[-1] == "expansion.level":
+                    fields[-1] = "expansion.level-of-detail"
+                new_line = "\t".join(fields)
+                #print(new_line)
+                fo.write(f"{new_line}\n")
+
 
 
 if __name__ == "__main__":
-    labels_to_lower_case()
+    #labels_to_lower_case()
+    crpc_level_of_detail()

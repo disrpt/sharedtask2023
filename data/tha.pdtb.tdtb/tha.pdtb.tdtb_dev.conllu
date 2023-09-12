@@ -182,10 +182,10 @@
 4	ให้การ	_	VERB	VACT	_	0	ROOT	0:ROOT	_
 5	ปฏิเสธ	_	VERB	VACT	_	4	obj	4:obj	_
 6	ก็ตาม	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	_
-7	แต่	_	CCONJ	JCRG	_	12	cc	12:cc	Seg=I-Conn
+7	แต่	_	CCONJ	JCRG	_	12	cc	12:cc	Seg=B-Conn
 8	เรื่อง	_	NOUN	NCMN	_	12	obl:tmod	12:obl:tmod	_
 9	นี้	_	DET	DDAC	_	8	det	8:det	_
-10	ก็	_	SCONJ	JSBR	_	12	mark	12:mark	Seg=I-Conn
+10	ก็	_	SCONJ	JSBR	_	12	mark	12:mark	Seg=B-Conn
 11	ยัง	_	AUX	XVBM	_	12	aux	12:aux	_
 12	เป็น	_	VERB	VSTA	_	6	conj	6:conj	_
 13	ที่	_	SCONJ	PREL	_	14	nsubj	14:nsubj	_
@@ -655,7 +655,7 @@
 16	ซ่อม	_	VERB	VACT	_	18	csubj	18:csubj	_
 17	รถ	_	NOUN	NCMN	_	16	obj	16:obj	_
 18	เสร็จ	_	VERB	VSTA	_	7	advcl	7:advcl	_
-19	จึง	_	AUX	XVBM	_	20	aux	20:aux	Seg=I-Conn
+19	จึง	_	AUX	XVBM	_	20	aux	20:aux	Seg=B-Conn
 20	กลับ	_	VERB	VACT	_	18	xcomp	18:xcomp	_
 21	บ้าน	_	NOUN	NCMN	_	20	obj	20:obj	_
 22	ทั้งนี้	_	CCONJ	JCRG	_	23	cc	23:cc	_
@@ -1592,7 +1592,7 @@
 32	ถ้า	_	SCONJ	JSBR	_	31	obj	31:obj	Seg=B-Conn
 33	ไม่	_	PART	NEG	_	34	advmod	34:advmod	_
 34	ยอมรับ	_	VERB	VACT	_	31	acl:relcl	31:acl:relcl	_
-35	ก็	_	SCONJ	JSBR	_	36	advmod	36:advmod	Seg=I-Conn
+35	ก็	_	SCONJ	JSBR	_	36	advmod	36:advmod	Seg=B-Conn
 36	ตาย	_	VERB	VSTA	_	34	obj	34:obj	_
 37	ใน	_	ADP	RPRE	_	38	case	38:case	_
 38	คุก	_	NOUN	NCMN	_	36	obl	36:obl	_
@@ -1601,7 +1601,7 @@
 41	ได้ยิน	_	NOUN	NCMN	_	51	nsubj:pass	51:nsubj:pass	_
 42	แบบ	_	NOUN	NCMN	_	41	compound	41:compound	_
 43	นี้	_	DET	DDAC	_	42	det	42:det	_
-44	ก็	_	SCONJ	JSBR	_	45	nsubj	45:nsubj	Seg=I-Conn
+44	ก็	_	SCONJ	JSBR	_	45	nsubj	45:nsubj	Seg=B-Conn
 45	รู้	_	VERB	VSTA	_	41	acl:relcl	41:acl:relcl	_
 46	ทันที	_	ADV	ADVN	_	45	advmod	45:advmod	_
 47	ว่า	_	SCONJ	JSBR	_	51	mark	51:mark	_
@@ -1775,7 +1775,7 @@
 38	ที่	_	SCONJ	PREL	_	39	nsubj	39:nsubj	_
 39	เกิด	_	VERB	VSTA	_	37	acl:relcl	37:acl:relcl	_
 40	ขึ้น	_	AUX	XVAE	_	39	aux	39:aux	_
-41	ก็	_	SCONJ	JSBR	_	42	advmod	42:advmod	Seg=I-Conn
+41	ก็	_	SCONJ	JSBR	_	42	advmod	42:advmod	Seg=B-Conn
 42	ร้องไห้	_	VERB	VACT	_	8	advcl	8:advcl	_
 43	พร้อมทั้ง	_	CCONJ	JCRG	_	44	cc	44:cc	Seg=B-Conn
 44	ตัดพ้อ	_	VERB	VSTA	_	42	conj	42:conj	_
@@ -1843,7 +1843,7 @@
 29	พอ	_	VERB	VSTA	_	28	obj	28:obj	Seg=B-Conn
 30	เกิด	_	VERB	VSTA	_	29	xcomp	29:xcomp	_
 31	เหตุ	_	NOUN	NCMN	_	30	obj	30:obj	_
-32	ก็	_	SCONJ	JSBR	_	33	nsubj	33:nsubj	Seg=I-Conn
+32	ก็	_	SCONJ	JSBR	_	33	nsubj	33:nsubj	Seg=B-Conn
 33	มี	_	VERB	VSTA	_	31	acl:relcl	31:acl:relcl	_
 34	สื่อ	_	NOUN	NCMN	_	33	obj	33:obj	_
 35	มวล	_	NOUN	NCMN	_	34	compound	34:compound	_
@@ -1871,7 +1871,7 @@
 57	เรื่อง	_	NOUN	NCMN	_	56	obj	56:obj	_
 58	แต่	_	CCONJ	JCRG	_	62	cc	62:cc	Seg=B-Conn
 59	ขณะนี้	_	ADV	ADVS	_	62	advmod	62:advmod	_
-60	ก็	_	SCONJ	JSBR	_	62	nsubj	62:nsubj	Seg=I-Conn
+60	ก็	_	SCONJ	JSBR	_	62	nsubj	62:nsubj	Seg=B-Conn
 61	อยาก	_	AUX	XVAM	_	62	aux	62:aux	_
 62	พบ	_	VERB	VSTA	_	56	conj	56:conj	_
 63	กับ	_	ADP	RPRE	_	64	case	64:case	_
@@ -1883,7 +1883,7 @@
 69	พอ	_	SCONJ	JSBR	_	70	nsubj	70:nsubj	Seg=B-Conn
 70	ทราบ	_	VERB	VSTA	_	68	acl:relcl	68:acl:relcl	_
 71	ข่าว	_	NOUN	NCMN	_	70	obj	70:obj	_
-72	ก็	_	SCONJ	JSBR	_	74	advmod	74:advmod	Seg=I-Conn
+72	ก็	_	SCONJ	JSBR	_	74	advmod	74:advmod	Seg=B-Conn
 73	ไม่	_	PART	NEG	_	74	advmod	74:advmod	_
 74	เชื่อ	_	VERB	VSTA	_	71	acl:relcl	71:acl:relcl	_
 75	ว่า	_	SCONJ	JSBR	_	78	mark	78:mark	_
@@ -2053,7 +2053,7 @@
 70	ได้	_	AUX	XVAE	_	69	aux	69:aux	_
 71	ก่อนหน้า	_	ADV	ADVN	_	69	advmod	69:advmod	_
 72	นี้	_	DET	DDAC	_	68	det	68:det	_
-73	จึง	_	AUX	XVBM	_	74	aux	74:aux	Seg=I-Conn
+73	จึง	_	AUX	XVBM	_	74	aux	74:aux	Seg=B-Conn
 74	มีการ	_	VERB	VACT	_	45	advcl	45:advcl	_
 75	ประสาน	_	VERB	VACT	_	74	xcomp	74:xcomp	_
 76	ข้อมูล	_	NOUN	NCMN	_	75	obj	75:obj	_
@@ -2092,7 +2092,7 @@
 23	จาก	_	ADP	RPRE	_	24	case	24:case	_
 24	กอ.รมน.	_	NOUN	NCMN	_	22	nmod	22:nmod	_
 25	ผู้ต้องหา	_	NOUN	NCMN	_	24	compound	24:compound	_
-26	จึง	_	AUX	XVBM	_	27	aux	27:aux	Seg=I-Conn
+26	จึง	_	AUX	XVBM	_	27	aux	27:aux	Seg=B-Conn
 27	หยุด	_	VERB	VSTA	_	15	advcl	15:advcl	_
 28	ปฏิเสธ	_	VERB	VACT	_	27	obj	27:obj	_
 29	แต่	_	CCONJ	JCRG	_	32	cc	32:cc	Seg=B-Conn
@@ -2324,7 +2324,7 @@
 50	หลักฐาน	_	NOUN	NCMN	_	52	nsubj	52:nsubj	_
 51	ชัดเจน	_	ADJ	VATT	_	50	amod	50:amod	_
 52	แล้ว	_	SCONJ	JSBR	_	41	advcl	41:advcl	_
-53	ถึง	_	ADP	RPRE	_	57	mark	57:mark	Seg=I-Conn
+53	ถึง	_	ADP	RPRE	_	57	mark	57:mark	Seg=B-Conn
 54	จึง	_	AUX	XVBM	_	57	aux	57:aux	Seg=I-Conn
 55	จะ	_	AUX	XVBM	_	57	aux	57:aux	_
 56	สามารถ	_	AUX	XVAM	_	57	aux	57:aux	_
@@ -2545,7 +2545,7 @@
 15	ตั้งแต่	_	SCONJ	JSBR	_	16	advmod	16:advmod	Seg=B-Conn
 16	พบ	_	VERB	VACT	_	6	advcl	6:advcl	_
 17	ระเบิด	_	NOUN	NCMN	_	16	obj	16:obj	_
-18	จนกระทั่ง	_	SCONJ	JSBR	_	19	mark	19:mark	Seg=I-Conn
+18	จนกระทั่ง	_	SCONJ	JSBR	_	19	mark	19:mark	Seg=B-Conn
 19	เก็บกู้	_	VERB	VACT	_	16	ccomp	16:ccomp	_
 20	สำเร็จ	_	ADV	ADVN	_	19	advmod	19:advmod	_
 21	อย่าง	_	PART	FIXV	_	19	discourse	19:discourse	_
@@ -2972,7 +2972,7 @@
 70	มี	_	VERB	VSTA	_	48	ccomp	48:ccomp	_
 71	ความ	_	PART	FIXN	_	70	obj	70:obj	_
 72	ผิด	_	ADJ	VATT	_	71	amod	71:amod	_
-73	ก็	_	SCONJ	JSBR	_	75	nsubj	75:nsubj	Seg=I-Conn
+73	ก็	_	SCONJ	JSBR	_	75	nsubj	75:nsubj	Seg=B-Conn
 74	สามารถ	_	AUX	XVAM	_	75	aux	75:aux	_
 75	กลับ	_	VERB	VACT	_	70	acl:relcl	70:acl:relcl	_
 76	เข้า	_	ADP	RPRE	_	77	case	77:case	_
@@ -3272,7 +3272,7 @@
 110	ถึง	_	ADP	RPRE	_	111	case	111:case	_
 111	สะพาน	_	NOUN	NCMN	_	109	obl	109:obl	_
 112	ซังฮี้	_	NOUN	NCMN	_	111	compound	111:compound	_
-113	ก็	_	SCONJ	JSBR	_	115	mark	115:mark	Seg=I-Conn
+113	ก็	_	SCONJ	JSBR	_	115	mark	115:mark	Seg=B-Conn
 114	ต้อง	_	AUX	XVMM	_	115	aux	115:aux	_
 115	ไป	_	VERB	VACT	_	97	advcl	97:advcl	_
 116	ถึง	_	ADP	RPRE	_	117	case	117:case	_
@@ -3295,7 +3295,7 @@
 133	ร.ท.	_	NOUN	NCMN	_	138	nsubj:pass	138:nsubj:pass	_
 134	ธวัชชัย	_	PROPN	NPRP	_	133	compound	133:compound	_
 135	จริง	_	ADJ	VATT	_	134	amod	134:amod	_
-136	ก็	_	SCONJ	JSBR	_	138	mark	138:mark	Seg=I-Conn
+136	ก็	_	SCONJ	JSBR	_	138	mark	138:mark	Seg=B-Conn
 137	คง	_	AUX	XVBM	_	138	aux	138:aux	_
 138	ทำ	_	VERB	VACT	_	131	ccomp	131:ccomp	_
 139	ตั้งแต่	_	SCONJ	JSBR	_	138	obj	138:obj	Seg=B-Conn
@@ -3744,7 +3744,7 @@
 27	มี	_	VERB	VSTA	_	23	acl:relcl	23:acl:relcl	_
 28	เวลา	_	NOUN	NCMN	_	27	obj	27:obj	_
 29	ว่าง	_	VERB	VSTA	_	28	acl	28:acl	_
-30	ก็	_	SCONJ	JSBR	_	32	advmod	32:advmod	Seg=I-Conn
+30	ก็	_	SCONJ	JSBR	_	32	advmod	32:advmod	Seg=B-Conn
 31	จะ	_	AUX	XVBM	_	32	aux	32:aux	_
 32	รีบ	_	VERB	VACT	_	2	acl	2:acl	_
 33	กลับ	_	VERB	VACT	_	32	xcomp	32:xcomp	_
@@ -3843,7 +3843,7 @@
 18	ทำใจ	_	VERB	VACT	_	23	nsubj	23:nsubj	_
 19	แยกแยะ	_	VERB	VACT	_	18	acl	18:acl	_
 20	ตัวเอง	_	PRON	PDMN	_	19	obj	19:obj	_
-21	ก็	_	SCONJ	JSBR	_	23	advmod	23:advmod	Seg=I-Conn
+21	ก็	_	SCONJ	JSBR	_	23	advmod	23:advmod	Seg=B-Conn
 22	ต้อง	_	AUX	XVMM	_	23	aux	23:aux	_
 23	ช็อก	_	VERB	VACT	_	0	root	0:root	_
 24	หมด	_	VERB	VSTA	_	23	xcomp	23:xcomp	_
@@ -3939,7 +3939,7 @@
 30	จบ	_	VERB	VSTA	_	28	acl:relcl	28:acl:relcl	_
 31	ออก	_	AUX	XVAE	_	30	aux	30:aux	_
 32	มา	_	AUX	XVAE	_	30	aux	30:aux	_
-33	ก็	_	SCONJ	JSBR	_	35	mark	35:mark	Seg=I-Conn
+33	ก็	_	SCONJ	JSBR	_	35	mark	35:mark	Seg=B-Conn
 34	ขยัน	_	NOUN	NCMN	_	35	nsubj	35:nsubj	_
 35	ทำงาน	_	VERB	VACT	_	16	ccomp	16:ccomp	_
 36	เป็น	_	VERB	VSTA	_	35	xcomp	35:xcomp	_
@@ -4157,7 +4157,7 @@
 109	ผู้	_	PRON	PPRS	_	108	obj	108:obj	_
 110	มี	_	VERB	VSTA	_	108	xcomp	108:xcomp	_
 111	พิรุธ	_	NOUN	NCMN	_	110	obj	110:obj	_
-112	ก็	_	SCONJ	JSBR	_	114	advmod	114:advmod	Seg=I-Conn
+112	ก็	_	SCONJ	JSBR	_	114	advmod	114:advmod	Seg=B-Conn
 113	จะ	_	AUX	XVBM	_	114	aux	114:aux	_
 114	เข้า	_	VERB	VACT	_	111	acl:relcl	111:acl:relcl	_
 115	ไป	_	AUX	XVAE	_	116	aux	116:aux	_
@@ -4481,7 +4481,7 @@
 35	ปฏิบัติ	_	VERB	VACT	_	20	xcomp	20:xcomp	_
 36	หน้าที่	_	NOUN	NCMN	_	35	obj	35:obj	_
 37	เสร็จ	_	VERB	VSTA	_	35	acl	35:acl	_
-38	จึง	_	AUX	XVBM	_	39	aux	39:aux	Seg=I-Conn
+38	จึง	_	AUX	XVBM	_	39	aux	39:aux	Seg=B-Conn
 39	แยกย้าย	_	VERB	VACT	_	14	xcomp	14:xcomp	_
 40	กัน	_	ADV	ADVN	_	39	advmod	39:advmod	_
 41	กลับ	_	VERB	VACT	_	39	acl	39:acl	_
@@ -4980,7 +4980,7 @@
 130	รวย	_	VERB	VACT	_	125	advcl	125:advcl	_
 131	วัน	_	NOUN	NCMN	_	130	obj	130:obj	_
 132	นี้	_	DET	DDAC	_	131	det	131:det	_
-133	ก็	_	SCONJ	JSBR	_	136	advmod	136:advmod	Seg=I-Conn
+133	ก็	_	SCONJ	JSBR	_	136	advmod	136:advmod	Seg=B-Conn
 134	จน	_	SCONJ	JSBR	_	136	advmod	136:advmod	_
 135	ใน	_	ADP	RPRE	_	136	case	136:case	_
 136	วัน	_	NOUN	NCMN	_	130	obl	130:obl	_
@@ -5118,7 +5118,7 @@
 70	หาก	_	SCONJ	JSBR	_	71	nsubj	71:nsubj	Seg=B-Conn
 71	มี	_	VERB	VSTA	_	64	acl:relcl	64:acl:relcl	_
 72	เวลา	_	NOUN	NCMN	_	71	obj	71:obj	_
-73	ก็	_	SCONJ	JSBR	_	75	advmod	75:advmod	Seg=I-Conn
+73	ก็	_	SCONJ	JSBR	_	75	advmod	75:advmod	Seg=B-Conn
 74	จะ	_	AUX	XVBM	_	75	aux	75:aux	_
 75	ดู	_	VERB	VACT	_	63	xcomp	63:xcomp	_
 76	นอกจากนี้	_	SCONJ	JSBR	_	75	obj	75:obj	Seg=B-Conn
@@ -7245,7 +7245,7 @@
 65	3	_	NUM	DCNM	_	66	nummod	66:nummod	_
 66	คน	_	NOUN	CNIT	_	60	clf	60:clf	_
 67	ศาล	_	NOUN	NCMN	_	66	compound	66:compound	_
-68	ก็	_	SCONJ	JSBR	_	69	nsubj	69:nsubj	Seg=I-Conn
+68	ก็	_	SCONJ	JSBR	_	69	nsubj	69:nsubj	Seg=B-Conn
 69	ระบุ	_	VERB	VACT	_	60	acl:relcl	60:acl:relcl	_
 70	ชัด	_	ADV	ADVN	_	69	advmod	69:advmod	_
 71	ว่า	_	SCONJ	JSBR	_	72	mark	72:mark	_
@@ -8433,7 +8433,7 @@
 62	สูง	_	ADJ	VATT	_	61	amod	61:amod	_
 63	หลาย	_	DET	DIBQ	_	64	det	64:det	_
 64	นาย	_	NOUN	NTTL	_	59	clf	59:clf	_
-65	จึง	_	AUX	XVBM	_	66	aux	66:aux	Seg=I-Conn
+65	จึง	_	AUX	XVBM	_	66	aux	66:aux	Seg=B-Conn
 66	ทำให้	_	VERB	VACT	_	53	conj	53:conj	_
 67	ทหาร	_	NOUN	NCMN	_	66	obj	66:obj	_
 68	กลุ่ม	_	NOUN	NCMN	_	67	clf	67:clf	_
@@ -9203,7 +9203,7 @@
 55	ที่	_	SCONJ	PREL	_	56	nsubj	56:nsubj	_
 56	เกิด	_	VERB	VSTA	_	54	acl:relcl	54:acl:relcl	_
 57	เรื่อง	_	NOUN	NCMN	_	56	obj	56:obj	_
-58	ก็	_	SCONJ	JSBR	_	59	mark	59:mark	Seg=I-Conn
+58	ก็	_	SCONJ	JSBR	_	59	mark	59:mark	Seg=B-Conn
 59	ไป	_	VERB	VACT	_	56	advcl	56:advcl	_
 60	รักษา	_	VERB	VACT	_	59	xcomp	59:xcomp	_
 61	ตัว	_	NOUN	NCMN	_	60	obj	60:obj	_
@@ -9346,7 +9346,7 @@
 32	คน	_	NOUN	CNIT	_	29	clf	29:clf	_
 33	แต่	_	CCONJ	JCRG	_	39	cc	39:cc	Seg=B-Conn
 34	ตำรวจ	_	NOUN	NCMN	_	39	nsubj	39:nsubj	_
-35	ก็	_	SCONJ	JSBR	_	39	advmod	39:advmod	Seg=I-Conn
+35	ก็	_	SCONJ	JSBR	_	39	advmod	39:advmod	Seg=B-Conn
 36	ยัง	_	AUX	XVBM	_	39	aux	39:aux	_
 37	ไม่	_	PART	NEG	_	38	advmod	38:advmod	_
 38	ได้	_	AUX	XVAM	_	39	aux	39:aux	_
@@ -9487,7 +9487,7 @@
 69	จริง	_	ADJ	VATT	_	68	amod	68:amod	_
 70	รวมถึง	_	VERB	VSTA	_	66	acl	66:acl	Seg=B-Conn
 71	ตน	_	PRON	PPRS	_	75	obl	75:obl	_
-72	ก็	_	SCONJ	JSBR	_	75	nsubj	75:nsubj	Seg=I-Conn
+72	ก็	_	SCONJ	JSBR	_	75	nsubj	75:nsubj	Seg=B-Conn
 73	ยัง	_	AUX	XVBM	_	75	aux	75:aux	_
 74	ถูก	_	AUX	XVAM	_	75	aux:pass	75:aux:pass	_
 75	เชื่อมโยง	_	VERB	VACT	_	62	acl:relcl	62:acl:relcl	_
@@ -9559,7 +9559,7 @@
 12	อยาก	_	AUX	XVMM	_	13	aux	13:aux	_
 13	ใช้	_	VERB	VACT	_	4	xcomp	4:xcomp	_
 14	เงิน	_	NOUN	NCMN	_	13	obj	13:obj	_
-15	ก็	_	SCONJ	JSBR	_	16	nsubj	16:nsubj	Seg=I-Conn
+15	ก็	_	SCONJ	JSBR	_	16	nsubj	16:nsubj	Seg=B-Conn
 16	ไป	_	VERB	VACT	_	14	acl:relcl	14:acl:relcl	_
 17	เอา	_	VERB	VACT	_	16	xcomp	16:xcomp	_
 18	จาก	_	ADP	RPRE	_	19	case	19:case	_
@@ -9873,7 +9873,7 @@
 19	มา	_	AUX	XVAE	_	28	aux	28:aux	_
 20	แต่	_	CCONJ	JCRG	_	28	cc	28:cc	Seg=B-Conn
 21	เรา	_	PRON	PPRS	_	28	obl	28:obl	_
-22	ก็	_	SCONJ	JSBR	_	24	nsubj	24:nsubj	Seg=I-Conn
+22	ก็	_	SCONJ	JSBR	_	24	nsubj	24:nsubj	Seg=B-Conn
 23	ต้อง	_	AUX	XVMM	_	24	aux	24:aux	_
 24	ยอม	_	VERB	VACT	_	21	acl:relcl	21:acl:relcl	_
 25	เขา	_	PRON	PPRS	_	24	obj	24:obj	_
@@ -9988,7 +9988,7 @@
 86	เมื่อ	_	SCONJ	JSBR	_	90	mark	90:mark	Seg=B-Conn
 87	ถึง	_	ADP	RPRE	_	88	case	88:case	_
 88	ศาล	_	NOUN	NCMN	_	90	obl	90:obl	_
-89	ก็	_	SCONJ	JSBR	_	90	advmod	90:advmod	Seg=I-Conn
+89	ก็	_	SCONJ	JSBR	_	90	advmod	90:advmod	Seg=B-Conn
 90	ปล่อย	_	VERB	VACT	_	77	advcl	77:advcl	_
 91	บรรดา	_	DET	DIBQ	_	92	det	92:det	_
 92	ญาติ	_	NOUN	NCMN	_	90	obj	90:obj	_
@@ -10205,7 +10205,7 @@
 13	เสี่ยง	_	VERB	VACT	_	12	acl	12:acl	_
 14	ต่อ	_	ADP	RPRE	_	15	case	15:case	_
 15	ตัวเอง	_	PRON	PDMN	_	12	nmod:poss	12:nmod:poss	_
-16	แต่	_	CCONJ	JCRG	_	19	cc	19:cc	Seg=I-Conn
+16	แต่	_	CCONJ	JCRG	_	19	cc	19:cc	Seg=B-Conn
 17	จะ	_	AUX	XVBM	_	19	aux	19:aux	_
 18	ต้อง	_	AUX	XVMM	_	19	aux	19:aux	_
 19	คำนึง	_	VERB	VACT	_	7	conj	7:conj	_
@@ -10262,7 +10262,7 @@
 11	ทักษิณ	_	DET	DDAN	_	12	nsubj	12:nsubj	_
 12	ปลอด	_	VERB	VACT	_	10	acl:relcl	10:acl:relcl	_
 13	ภัย	_	NOUN	NCMN	_	12	obj	12:obj	_
-14	แล้ว	_	AUX	XVAE	_	12	aux	12:aux	Seg=I-Conn
+14	แล้ว	_	AUX	XVAE	_	12	aux	12:aux	Seg=B-Conn
 15	ประชาชน	_	NOUN	NCMN	_	12	obj	12:obj	_
 16	คน	_	NOUN	NCMN	_	12	obl	12:obl	_
 17	ธรรมดา	_	ADJ	VATT	_	16	amod	16:amod	_
@@ -10490,7 +10490,7 @@
 27	แต่	_	CCONJ	JCRG	_	32	cc	32:cc	Seg=B-Conn
 28	อย่าง	_	PART	FIXV	_	29	advmod	29:advmod	_
 29	น้อย	_	ADJ	VATT	_	32	advmod	32:advmod	_
-30	ก็	_	SCONJ	JSBR	_	32	mark	32:mark	Seg=I-Conn
+30	ก็	_	SCONJ	JSBR	_	32	mark	32:mark	Seg=B-Conn
 31	จะ	_	AUX	XVBM	_	32	aux	32:aux	_
 32	ทำให้	_	VERB	VACT	_	18	conj	18:conj	_
 33	รู้	_	VERB	VSTA	_	32	xcomp	32:xcomp	_
@@ -10685,7 +10685,7 @@
 4	ไม่	_	PART	NEG	_	5	advmod	5:advmod	_
 5	มี	_	VERB	VSTA	_	2	advcl	2:advcl	_
 6	ข้อมูล	_	NOUN	NCMN	_	5	obj	5:obj	_
-7	ก็	_	SCONJ	JSBR	_	8	advmod	8:advmod	Seg=I-Conn
+7	ก็	_	SCONJ	JSBR	_	8	advmod	8:advmod	Seg=B-Conn
 8	เชื่อ	_	VERB	VSTA	_	2	acl	2:acl	_
 9	เหมือน	_	VERB	VSTA	_	2	acl	2:acl	_
 10	ตอน	_	NOUN	NCMN	_	9	obj	9:obj	_
@@ -10709,7 +10709,7 @@
 28	ผีหลอก	_	NOUN	NCMN	_	27	compound	27:compound	_
 29	แต่	_	CCONJ	JCRG	_	37	cc	37:cc	Seg=B-Conn
 30	คน	_	NOUN	NCMN	_	37	nsubj	37:nsubj	_
-31	ก็	_	SCONJ	JSBR	_	33	nsubj	33:nsubj	Seg=I-Conn
+31	ก็	_	SCONJ	JSBR	_	33	nsubj	33:nsubj	Seg=B-Conn
 32	กลัว	_	AUX	XVBM	_	33	cop	33:cop	_
 33	ผี	_	NOUN	NCMN	_	30	acl:relcl	30:acl:relcl	_
 34	เรื่อง	_	NOUN	NCMN	_	33	compound	33:compound	_
@@ -10793,7 +10793,7 @@
 17	ข่าว	_	DET	DDAC	_	18	nsubj	18:nsubj	_
 18	ลือ	_	VERB	VSTA	_	13	conj	13:conj	_
 19	มัน	_	PRON	PPRS	_	18	obj	18:obj	_
-20	ก็	_	SCONJ	JSBR	_	23	advmod	23:advmod	Seg=I-Conn
+20	ก็	_	SCONJ	JSBR	_	23	advmod	23:advmod	Seg=B-Conn
 21	อาจ	_	AUX	XVBM	_	23	aux	23:aux	_
 22	จะ	_	AUX	XVBM	_	23	aux	23:aux	_
 23	ลือ	_	VERB	VSTA	_	6	conj	6:conj	_
@@ -10812,7 +10812,7 @@
 36	ให้	_	SCONJ	JSBR	_	42	mark	42:mark	_
 37	ได้	_	VERB	VSTA	_	36	xcomp	36:xcomp	_
 38	มัน	_	PRON	PPRS	_	37	obj	37:obj	_
-39	ก็	_	SCONJ	JSBR	_	42	nsubj	42:nsubj	Seg=I-Conn
+39	ก็	_	SCONJ	JSBR	_	42	nsubj	42:nsubj	Seg=B-Conn
 40	อาจ	_	AUX	XVBM	_	42	aux	42:aux	_
 41	จะ	_	AUX	XVBM	_	42	aux	42:aux	_
 42	เป็น	_	VERB	VSTA	_	34	ccomp	34:ccomp	_
@@ -12222,7 +12222,7 @@
 25	ข้าราชการ	_	NOUN	NCMN	_	23	conj	23:conj	_
 26	ไม่	_	PART	NEG	_	27	advmod	27:advmod	_
 27	กลัว	_	VERB	VSTA	_	15	ccomp	15:ccomp	_
-28	ก็	_	SCONJ	JSBR	_	29	compound	29:compound	Seg=I-Conn
+28	ก็	_	SCONJ	JSBR	_	29	compound	29:compound	Seg=B-Conn
 29	เละ	_	VERB	VACT	_	27	ccomp	27:ccomp	_
 30	เหมือนกัน	_	ADV	ADVN	_	29	advmod	29:advmod	_
 
@@ -12327,7 +12327,7 @@
 18	ท่าน	_	PRON	PPRS	_	20	nsubj	20:nsubj	_
 19	ไม่	_	PART	NEG	_	20	advmod	20:advmod	_
 20	อยู่	_	VERB	VSTA	_	3	conj	3:conj	_
-21	ก็	_	SCONJ	JSBR	_	23	advmod	23:advmod	Seg=I-Conn
+21	ก็	_	SCONJ	JSBR	_	23	advmod	23:advmod	Seg=B-Conn
 22	เลย	_	ADV	ADVN	_	23	advmod	23:advmod	_
 23	ขาด	_	VERB	VSTA	_	20	xcomp	20:xcomp	_
 24	ๆ	_	NOUN	NCMN	_	23	obj	23:obj	_
@@ -12601,7 +12601,7 @@
 16	ออก	_	AUX	XVAE	_	15	aux	15:aux	_
 17	ไป	_	AUX	XVAE	_	15	aux	15:aux	_
 18	แล้ว	_	AUX	XVAE	_	15	aux	15:aux	_
-19	ก็	_	SCONJ	JSBR	_	20	nsubj	20:nsubj	Seg=I-Conn
+19	ก็	_	SCONJ	JSBR	_	20	nsubj	20:nsubj	Seg=B-Conn
 20	มีการ	_	VERB	VACT	_	15	acl:relcl	15:acl:relcl	_
 21	เคลื่อนไหว	_	VERB	VACT	_	20	xcomp	20:xcomp	_
 22	โจมตี	_	ADV	ADVP	_	21	advmod	21:advmod	_
@@ -12822,7 +12822,7 @@
 9	ครั้ง	_	NOUN	CFQC	_	4	obl	4:obl	_
 10	ๆ	_	PUNCT	PUNC	_	13	punct	13:punct	_
 11	ผม	_	PRON	PPRS	_	13	obl	13:obl	_
-12	ก็	_	SCONJ	JSBR	_	13	nsubj	13:nsubj	Seg=I-Conn
+12	ก็	_	SCONJ	JSBR	_	13	nsubj	13:nsubj	Seg=B-Conn
 13	ตัดสินใจ	_	VERB	VSTA	_	0	ROOT	0:ROOT	_
 14	เหมือน	_	SCONJ	JCMP	_	15	case	15:case	_
 15	เดิม	_	NOUN	NCMN	_	13	obl	13:obl	_
@@ -12907,7 +12907,7 @@
 1	ถ้า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Seg=B-Conn
 2	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	_
 3	อย่างนั้น	_	NOUN	NCMN	_	2	obj	2:obj	_
-4	ก็	_	SCONJ	JSBR	_	6	nsubj	6:nsubj	Seg=I-Conn
+4	ก็	_	SCONJ	JSBR	_	6	nsubj	6:nsubj	Seg=B-Conn
 5	ต้อง	_	AUX	XVMM	_	6	cop	6:cop	_
 6	ขอโทษ	_	NOUN	NCMN	_	3	acl:relcl	3:acl:relcl	_
 7	คน	_	NOUN	NCMN	_	6	compound	6:compound	_
@@ -13000,7 +13000,7 @@
 4	หาก	_	SCONJ	JSBR	_	5	mark	5:mark	Seg=B-Conn
 5	มี	_	VERB	VSTA	_	3	advcl	3:advcl	_
 6	ปัญหา	_	NOUN	NCMN	_	5	obj	5:obj	_
-7	ก็	_	SCONJ	JSBR	_	10	mark	10:mark	Seg=I-Conn
+7	ก็	_	SCONJ	JSBR	_	10	mark	10:mark	Seg=B-Conn
 8	จะ	_	AUX	XVBM	_	10	aux	10:aux	_
 9	ต้อง	_	AUX	XVMM	_	10	aux	10:aux	_
 10	มีการ	_	VERB	VACT	_	5	advcl	5:advcl	_
@@ -13668,7 +13668,7 @@
 128	ไม่	_	PART	NEG	_	129	advmod	129:advmod	_
 129	มาก	_	ADJ	VATT	_	127	xcomp	127:xcomp	_
 130	นัก	_	ADV	ADVN	_	129	advmod	129:advmod	_
-131	ก็	_	SCONJ	JSBR	_	134	nsubj	134:nsubj	Seg=I-Conn
+131	ก็	_	SCONJ	JSBR	_	134	nsubj	134:nsubj	Seg=B-Conn
 132	จะ	_	AUX	XVBM	_	134	aux	134:aux	_
 133	ไม่	_	PART	NEG	_	134	advmod	134:advmod	_
 134	มี	_	VERB	VSTA	_	118	acl:relcl	118:acl:relcl	_
@@ -14067,7 +14067,7 @@
 63	1	_	NUM	NCNM	_	64	nummod	64:nummod	_
 64	ห้อง	_	NOUN	NCMN	_	54	obl	54:obl	_
 65	เรียน	_	VERB	VACT	_	64	acl	64:acl	_
-66	ก็	_	SCONJ	JSBR	_	68	advmod	68:advmod	Seg=I-Conn
+66	ก็	_	SCONJ	JSBR	_	68	advmod	68:advmod	Seg=B-Conn
 67	ต้อง	_	AUX	XVMM	_	68	aux	68:aux	_
 68	ปิด	_	VERB	VACT	_	54	advcl	54:advcl	_
 69	ห้อง	_	NOUN	NCMN	_	68	obj	68:obj	_
@@ -14087,7 +14087,7 @@
 83	ราย	_	NOUN	CNIT	_	80	clf	80:clf	_
 84	ใน	_	ADP	RPRE	_	85	case	85:case	_
 85	โรงเรียน	_	NOUN	NCMN	_	79	obl	79:obl	_
-86	ก็	_	SCONJ	JSBR	_	88	mark	88:mark	Seg=I-Conn
+86	ก็	_	SCONJ	JSBR	_	88	mark	88:mark	Seg=B-Conn
 87	ต้อง	_	AUX	XVMM	_	88	aux	88:aux	_
 88	ปิด	_	VERB	VACT	_	79	advcl	79:advcl	_
 89	โรงเรียน	_	NOUN	NCMN	_	88	obj	88:obj	_
@@ -14142,7 +14142,7 @@
 14	วัน	_	NOUN	CMTR	_	10	obl:tmod	10:obl:tmod	_
 15	จนถึง	_	ADP	RPRE	_	20	mark	20:mark	_
 16	ขณะนี้	_	ADV	ADVS	_	20	advmod	20:advmod	_
-17	ก็	_	SCONJ	JSBR	_	20	nsubj	20:nsubj	Seg=I-Conn
+17	ก็	_	SCONJ	JSBR	_	20	nsubj	20:nsubj	Seg=B-Conn
 18	ยัง	_	AUX	XVBM	_	20	aux	20:aux	_
 19	ไม่	_	PART	NEG	_	20	advmod	20:advmod	_
 20	มี	_	VERB	VSTA	_	8	advcl	8:advcl	_
@@ -15799,7 +15799,7 @@
 41	เจรจา	_	VERB	VACT	_	0	root	0:root	_
 42	กับ	_	ADP	RPRE	_	43	case	43:case	_
 43	รัฐบาล	_	NOUN	NCMN	_	41	obl	41:obl	_
-44	ก็	_	SCONJ	JSBR	_	46	advmod	46:advmod	Seg=I-Conn
+44	ก็	_	SCONJ	JSBR	_	46	advmod	46:advmod	Seg=B-Conn
 45	ไม่	_	PART	NEG	_	46	advmod	46:advmod	_
 46	มี	_	VERB	VSTA	_	41	advcl	41:advcl	_
 47	วี่แวว	_	NOUN	NCMN	_	46	obj	46:obj	_
@@ -16460,7 +16460,7 @@
 32	ขึ้น	_	AUX	XVAE	_	36	aux	36:aux	_
 33	ดังนั้น	_	SCONJ	JSBR	_	36	mark	36:mark	Seg=B-Conn
 34	สธ.	_	NOUN	NCMN	_	36	nsubj	36:nsubj	_
-35	จึง	_	AUX	XVBM	_	36	aux	36:aux	Seg=I-Conn
+35	จึง	_	AUX	XVBM	_	36	aux	36:aux	Seg=B-Conn
 36	ร่วมกับ	_	VERB	VACT	_	3	ccomp	3:ccomp	_
 37	ภาคี	_	NOUN	NCMN	_	36	obj	36:obj	_
 38	เครือข่าย	_	NOUN	NCMN	_	37	compound	37:compound	_
@@ -16966,11 +16966,11 @@
 34	ออสซี่	_	NOUN	NCMN	_	30	compound	30:compound	_
 35	ผู้	_	SCONJ	PREL	_	38	nsubj	38:nsubj	_
 36	นี้	_	DET	DDAC	_	35	det	35:det	_
-37	แล้ว	_	AUX	XVAE	_	38	cop	38:cop	Seg=I-Conn
+37	แล้ว	_	AUX	XVAE	_	38	cop	38:cop	Seg=B-Conn
 38	วังช้าง	_	NOUN	NCMN	_	30	acl:relcl	30:acl:relcl	_
 39	อยุธยา	_	NOUN	NCMN	_	38	compound	38:compound	_
 40	เอง	_	PRON	PDMN	_	42	nsubj	42:nsubj	_
-41	ก็	_	SCONJ	JSBR	_	42	advmod	42:advmod	Seg=I-Conn
+41	ก็	_	SCONJ	JSBR	_	42	advmod	42:advmod	Seg=B-Conn
 42	จัด	_	VERB	VACT	_	38	acl:relcl	38:acl:relcl	_
 43	พิธี	_	NOUN	NCMN	_	42	obj	42:obj	_
 44	ร่วม	_	ADV	ADVN	_	42	advmod	42:advmod	_
@@ -17080,7 +17080,7 @@
 60	มัน	_	PRON	PPRS	_	59	obj	59:obj	_
 61	ยาก	_	ADJ	VATT	_	58	advmod	58:advmod	_
 62	เขา	_	PRON	PPRS	_	64	nsubj	64:nsubj	_
-63	จึง	_	AUX	XVBM	_	64	aux	64:aux	Seg=I-Conn
+63	จึง	_	AUX	XVBM	_	64	aux	64:aux	Seg=B-Conn
 64	เปรียบ	_	VERB	VACT	_	58	advmod	58:advmod	_
 65	เสมือน	_	NOUN	NCMN	_	64	obj	64:obj	_
 66	ผู้	_	SCONJ	PREL	_	0	ROOT	0:ROOT	_
@@ -17323,7 +17323,7 @@
 91	น้อง	_	NOUN	NCMN	_	86	conj	86:conj	_
 92	พลอย	_	VERB	VACT	_	91	acl	91:acl	_
 93	เอง	_	PRON	PDMN	_	92	obj	92:obj	_
-94	ก็	_	SCONJ	JSBR	_	95	mark	95:mark	Seg=I-Conn
+94	ก็	_	SCONJ	JSBR	_	95	mark	95:mark	Seg=B-Conn
 95	มี	_	VERB	VSTA	_	21	advcl	21:advcl	_
 96	ความ	_	PART	FIXN	_	97	advmod	97:advmod	_
 97	คุ้นเคย	_	VERB	VSTA	_	95	obj	95:obj	_
@@ -17341,7 +17341,7 @@
 109	เมื่อ	_	SCONJ	JSBR	_	110	nsubj	110:nsubj	Seg=B-Conn
 110	กลับ	_	VERB	VACT	_	99	acl:relcl	99:acl:relcl	_
 111	มา	_	AUX	XVAE	_	110	aux	110:aux	_
-112	ก็	_	SCONJ	JSBR	_	114	mark	114:mark	Seg=I-Conn
+112	ก็	_	SCONJ	JSBR	_	114	mark	114:mark	Seg=B-Conn
 113	จะ	_	AUX	XVBM	_	114	aux	114:aux	_
 114	พูด	_	VERB	VACT	_	110	advcl	110:advcl	_
 115	ถึง	_	ADP	RPRE	_	116	case	116:case	_
@@ -17695,7 +17695,7 @@
 59	กระเบน	_	NOUN	NCMN	_	58	obj	58:obj	_
 60	ตัว	_	NOUN	CNIT	_	59	compound	59:compound	_
 61	นั้น	_	DET	DDAC	_	59	det	59:det	_
-62	ก็	_	SCONJ	JSBR	_	63	nsubj	63:nsubj	Seg=I-Conn
+62	ก็	_	SCONJ	JSBR	_	63	nsubj	63:nsubj	Seg=B-Conn
 63	ตวัด	_	VERB	VACT	_	49	conj	49:conj	_
 64	หาง	_	NOUN	NCMN	_	63	obj	63:obj	_
 65	ที่	_	SCONJ	PREL	_	66	mark	66:mark	_
@@ -17736,7 +17736,7 @@
 100	สติ	_	NOUN	NCMN	_	99	obj	99:obj	_
 101	และ	_	CCONJ	JCRG	_	102	cc	102:cc	Seg=B-Conn
 102	เสียชีวิต	_	NOUN	NCMN	_	99	conj	99:conj	_
-103	ในที่สุด	_	ADV	ADVS	_	102	advmod	102:advmod	Seg=I-Conn
+103	ในที่สุด	_	ADV	ADVS	_	102	advmod	102:advmod	Seg=B-Conn
 104	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Seg=B-Conn
 105	ภาพ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	_
 106	ที่	_	SCONJ	PREL	_	107	mark	107:mark	_
@@ -17818,7 +17818,7 @@
 59	ที่	_	SCONJ	PREL	_	60	nsubj	60:nsubj	_
 60	ข้าง	_	VERB	VSTA	_	58	acl:relcl	58:acl:relcl	_
 61	หน้า	_	NOUN	NCMN	_	60	obj	60:obj	_
-62	ก็	_	SCONJ	JSBR	_	63	mark	63:mark	Seg=I-Conn
+62	ก็	_	SCONJ	JSBR	_	63	mark	63:mark	Seg=B-Conn
 63	มี	_	VERB	VSTA	_	60	advcl	60:advcl	_
 64	ช่าง	_	NOUN	NCMN	_	63	obj	63:obj	_
 65	ภาพ	_	NOUN	NCMN	_	64	compound	64:compound	_
@@ -18627,7 +18627,7 @@
 23	มา	_	AUX	XVAE	_	19	aux	19:aux	_
 24	อ้าง	_	VERB	VACT	_	19	xcomp	19:xcomp	_
 25	เรา	_	PRON	PPRS	_	24	obj	24:obj	_
-26	ก็	_	SCONJ	JSBR	_	28	mark	28:mark	Seg=I-Conn
+26	ก็	_	SCONJ	JSBR	_	28	mark	28:mark	Seg=B-Conn
 27	จะ	_	AUX	XVBM	_	28	aux	28:aux	_
 28	แย้ง	_	VERB	VACT	_	19	advcl	19:advcl	_
 29	ว่า	_	SCONJ	JSBR	_	31	mark	31:mark	_
@@ -18737,7 +18737,7 @@
 16	วันพรุ่งนี้	_	NOUN	NCMN	_	10	nmod	10:nmod	_
 17	ทาง	_	ADP	RPRE	_	18	case	18:case	_
 18	กลุ่ม	_	NOUN	NCMN	_	16	nmod:poss	16:nmod:poss	_
-19	ก็	_	SCONJ	JSBR	_	21	mark	21:mark	Seg=I-Conn
+19	ก็	_	SCONJ	JSBR	_	21	mark	21:mark	Seg=B-Conn
 20	จะ	_	AUX	XVBM	_	21	aux	21:aux	_
 21	เสนอ	_	VERB	VACT	_	6	advcl	6:advcl	_
 22	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	_
@@ -18943,7 +18943,7 @@
 29	กับ	_	ADP	RPRE	_	30	case	30:case	_
 30	มติ	_	NOUN	NCMN	_	28	obl	28:obl	_
 31	ศาล	_	NOUN	NCMN	_	30	compound	30:compound	_
-32	แต่	_	CCONJ	JCRG	_	35	cc	35:cc	Seg=I-Conn
+32	แต่	_	CCONJ	JCRG	_	35	cc	35:cc	Seg=B-Conn
 33	ก็	_	SCONJ	JSBR	_	35	mark	35:mark	Seg=I-Conn
 34	ต้อง	_	AUX	XVMM	_	35	aux	35:aux	_
 35	เคารพ	_	VERB	VACT	_	28	conj	28:conj	_
@@ -19006,7 +19006,7 @@
 92	ได้	_	AUX	XVAE	_	81	aux	81:aux	_
 93	ทาง	_	ADP	RPRE	_	94	case	94:case	_
 94	กลุ่ม	_	NOUN	NCMN	_	81	obl	81:obl	_
-95	ก็	_	SCONJ	JSBR	_	97	nsubj	97:nsubj	Seg=I-Conn
+95	ก็	_	SCONJ	JSBR	_	97	nsubj	97:nsubj	Seg=B-Conn
 96	จะ	_	AUX	XVBM	_	97	aux	97:aux	_
 97	ขอ	_	VERB	VACT	_	94	acl:relcl	94:acl:relcl	_
 98	ให้	_	SCONJ	JSBR	_	126	mark	126:mark	_
@@ -19132,7 +19132,7 @@
 36	จะ	_	AUX	XVBM	_	37	aux	37:aux	_
 37	ตัดสินใจ	_	VERB	VACT	_	32	xcomp	32:xcomp	_
 38	อย่างไร	_	PRON	PNTR	_	37	obj	37:obj	_
-39	ก็	_	SCONJ	JSBR	_	40	nsubj	40:nsubj	Seg=I-Conn
+39	ก็	_	SCONJ	JSBR	_	40	nsubj	40:nsubj	Seg=B-Conn
 40	เป็น	_	VERB	VSTA	_	37	acl:relcl	37:acl:relcl	_
 41	อีก	_	DET	DDBQ	_	42	det	42:det	_
 42	เรื่อง	_	NOUN	NCMN	_	40	obj	40:obj	_
@@ -19332,7 +19332,7 @@
 68	มติ	_	NOUN	NCMN	_	67	obj	67:obj	_
 69	ของ	_	ADP	RPRE	_	70	case	70:case	_
 70	พรรค	_	NOUN	NCMN	_	67	obl	67:obl	_
-71	ก็	_	SCONJ	JSBR	_	72	nsubj	72:nsubj	Seg=I-Conn
+71	ก็	_	SCONJ	JSBR	_	72	nsubj	72:nsubj	Seg=B-Conn
 72	ถือ	_	VERB	VSTA	_	70	acl:relcl	70:acl:relcl	_
 73	ว่า	_	SCONJ	JSBR	_	76	mark	76:mark	_
 74	พรรค	_	NOUN	NCMN	_	76	nsubj	76:nsubj	_
@@ -19412,7 +19412,7 @@
 30	เกรงใจ	_	VERB	VSTA	_	13	advcl	13:advcl	_
 31	มาก	_	ADV	ADVN	_	30	advmod	30:advmod	_
 32	ๆ	_	PUNCT	PUNC	_	36	punct	36:punct	_
-33	ก็	_	SCONJ	JSBR	_	36	advmod	36:advmod	Seg=I-Conn
+33	ก็	_	SCONJ	JSBR	_	36	advmod	36:advmod	Seg=B-Conn
 34	อาจ	_	AUX	XVBM	_	36	aux	36:aux	_
 35	จะ	_	AUX	XVBM	_	36	aux	36:aux	_
 36	โหวต	_	VERB	VACT	_	30	acl	30:acl	_
@@ -19595,7 +19595,7 @@
 68	และ	_	CCONJ	JCRG	_	69	cc	69:cc	Seg=B-Conn
 69	หัวหน้า	_	NOUN	NCMN	_	66	conj	66:conj	_
 70	พรรค	_	NOUN	NCMN	_	69	compound	69:compound	_
-71	ก็	_	SCONJ	JSBR	_	74	advmod	74:advmod	Seg=I-Conn
+71	ก็	_	SCONJ	JSBR	_	74	advmod	74:advmod	Seg=B-Conn
 72	ไม่	_	PART	NEG	_	73	advmod	73:advmod	_
 73	ให้	_	AUX	XVAM	_	74	cop	74:cop	_
 74	สมาชิก	_	NOUN	NCMN	_	69	nmod	69:nmod	_
@@ -19748,12 +19748,12 @@
 20	ร่วม	_	ADV	ADVN	_	22	advmod	22:advmod	_
 21	บาง	_	DET	DIBQ	_	22	det	22:det	_
 22	พรรค	_	NOUN	CNIT	_	17	acl:relcl	17:acl:relcl	_
-23	ก็	_	SCONJ	JSBR	_	25	advmod	25:advmod	Seg=I-Conn
+23	ก็	_	SCONJ	JSBR	_	25	advmod	25:advmod	Seg=B-Conn
 24	ไม่	_	PART	NEG	_	25	advmod	25:advmod	_
 25	เห็นด้วย	_	VERB	VSTA	_	22	acl:relcl	22:acl:relcl	_
 26	และ	_	CCONJ	JCRG	_	27	cc	27:cc	Seg=B-Conn
 27	ประชาชน	_	NOUN	NCMN	_	22	conj	22:conj	_
-28	ก็	_	SCONJ	JSBR	_	30	advmod	30:advmod	Seg=I-Conn
+28	ก็	_	SCONJ	JSBR	_	30	advmod	30:advmod	Seg=B-Conn
 29	ไม่	_	PART	NEG	_	30	advmod	30:advmod	_
 30	เอา	_	VERB	VACT	_	17	acl:relcl	17:acl:relcl	_
 31	อยาก	_	AUX	XVMM	_	30	aux	30:aux	_
@@ -19802,7 +19802,7 @@
 12	นาย	_	NOUN	NTTL	_	11	obj	11:obj	_
 13	สมัคร	_	PROPN	NPRP	_	12	compound	12:compound	_
 14	ผม	_	PRON	PPRS	_	17	nsubj	17:nsubj	_
-15	ก็	_	SCONJ	JSBR	_	17	advmod	17:advmod	Seg=I-Conn
+15	ก็	_	SCONJ	JSBR	_	17	advmod	17:advmod	Seg=B-Conn
 16	จะ	_	AUX	XVBM	_	17	aux	17:aux	_
 17	งด	_	ADJ	VATT	_	12	acl:relcl	12:acl:relcl	_
 18	ออกเสียง	_	VERB	VACT	_	5	advcl	5:advcl	_
@@ -20005,7 +20005,7 @@
 24	ประเทศ	_	NOUN	NCMN	_	22	nmod:poss	22:nmod:poss	_
 25	ไทย	_	PROPN	NPRP	_	24	flat:name	24:flat:name	_
 26	ตรง	_	ADP	RPRE	_	29	mark	29:mark	_
-27	แต่	_	CCONJ	JCRG	_	26	fixed	26:fixed	Seg=I-Conn
+27	แต่	_	CCONJ	JCRG	_	26	fixed	26:fixed	Seg=B-Conn
 28	ก็	_	SCONJ	JSBR	_	29	advmod	29:advmod	Seg=I-Conn
 29	สร้าง	_	VERB	VACT	_	15	advcl	15:advcl	_
 30	กระแส	_	NOUN	NCMN	_	29	obj	29:obj	_
@@ -20028,7 +20028,7 @@
 47	ต่อ	_	ADP	RPRE	_	48	case	48:case	_
 48	เศรษฐกิจ	_	NOUN	NCMN	_	44	obl	44:obl	_
 49	ไทย	_	PROPN	NPRP	_	48	compound	48:compound	_
-50	ในที่สุด	_	ADP	RPRE	_	0	ROOT	0:ROOT	Seg=I-Conn
+50	ในที่สุด	_	ADP	RPRE	_	0	ROOT	0:ROOT	Seg=B-Conn
 
 # sent_id = T01365.tsv-7
 # text = นอกจากนี้ นักวิเคราะห์ยังพากันแสดงความวิตกว่าสถาบันการเงินอย่างเอไอจี อาจเป็นเหยื่อรายถัดไปที่กิจการอาจต้องล่มสลาย ในวิกฤติการเงินครั้งเลวร้ายที่สุดที่เกิดกับภาคธนาคารสหรัฐ นับจากเกิดวิกฤติเศรษฐกิจตกต่ำครั้งใหญ่ของโลกเมื่อเกือบ 80 ปีที่แล้ว
@@ -20197,7 +20197,7 @@
 8	ใน	_	ADP	RPRE	_	9	case	9:case	_
 9	ปี	_	NOUN	NCMN	_	7	obl	7:obl	_
 10	หน้า	_	ADJ	VATT	_	9	amod	9:amod	_
-11	ก็	_	SCONJ	JSBR	_	13	nsubj	13:nsubj	Seg=I-Conn
+11	ก็	_	SCONJ	JSBR	_	13	nsubj	13:nsubj	Seg=B-Conn
 12	น่า	_	AUX	XVAM	_	13	aux	13:aux	_
 13	เป็นห่วง	_	VERB	VACT	_	6	acl:relcl	6:acl:relcl	_
 14	ซึ่ง	_	SCONJ	PREL	_	16	advmod	16:advmod	Seg=B-Conn
@@ -20578,7 +20578,7 @@
 3	ของ	_	ADP	RPRE	_	4	case	4:case	_
 4	กรณี	_	NOUN	NCMN	_	2	nmod	2:nmod	_
 5	เอไอจี	_	NOUN	NCMN	_	4	compound	4:compound	_
-6	จึง	_	AUX	XVBM	_	8	aux	8:aux	Seg=I-Conn
+6	จึง	_	AUX	XVBM	_	8	aux	8:aux	Seg=B-Conn
 7	ไม่	_	PART	NEG	_	8	advmod	8:advmod	_
 8	ใช่	_	VERB	VSTA	_	17	advcl	17:advcl	_
 9	ประเด็น	_	NOUN	NCMN	_	8	obj	8:obj	_
@@ -20621,7 +20621,7 @@
 46	มั่นคง	_	VERB	VSTA	_	42	advcl	42:advcl	_
 47	และ	_	CCONJ	JCRG	_	48	cc	48:cc	Seg=B-Conn
 48	คปภ.	_	NOUN	NCMN	_	46	conj	46:conj	_
-49	ก็	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Seg=I-Conn
+49	ก็	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Seg=B-Conn
 50	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	_
 51	ผู้	_	PRON	PPRS	_	52	nsubj	52:nsubj	_
 52	ควบคุม	_	VERB	VACT	_	50	acl:relcl	50:acl:relcl	_
@@ -20863,7 +20863,7 @@
 44	ถึง	_	ADP	RPRE	_	46	case	46:case	_
 45	24	_	NUM	DCNM	_	46	nummod	46:nummod	_
 46	%	_	NOUN	NCMN	_	43	nmod	43:nmod	_
-47	ก็	_	SCONJ	JSBR	_	48	nsubj	48:nsubj	Seg=I-Conn
+47	ก็	_	SCONJ	JSBR	_	48	nsubj	48:nsubj	Seg=B-Conn
 48	อยู่	_	VERB	VSTA	_	46	acl:relcl	46:acl:relcl	_
 49	ใน	_	ADP	RPRE	_	50	case	50:case	_
 50	ระดับ	_	NOUN	NCMN	_	48	obl	48:obl	_
@@ -20928,7 +20928,7 @@
 42	แม่	_	NOUN	NCMN	_	41	compound	41:compound	_
 43	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Seg=B-Conn
 44	บีไอเอส	_	NOUN	NCMN	_	0	ROOT	0:ROOT	_
-45	ก็	_	SCONJ	JSBR	_	47	mark	47:mark	Seg=I-Conn
+45	ก็	_	SCONJ	JSBR	_	47	mark	47:mark	Seg=B-Conn
 46	ยัง	_	AUX	XVBM	_	47	aux	47:aux	_
 47	สูง	_	ADJ	VATT	_	44	ccomp	44:ccomp	_
 48	มาก	_	ADV	ADVN	_	47	advmod	47:advmod	_
@@ -21012,7 +21012,7 @@
 51	กับ	_	ADP	RPRE	_	52	case	52:case	_
 52	บริษัท	_	NOUN	NCMN	_	50	obl	50:obl	_
 53	แม่	_	NOUN	NCMN	_	52	compound	52:compound	_
-54	ก็	_	SCONJ	JSBR	_	57	nsubj	57:nsubj	Seg=I-Conn
+54	ก็	_	SCONJ	JSBR	_	57	nsubj	57:nsubj	Seg=B-Conn
 55	น่า	_	AUX	XVBM	_	57	aux	57:aux	_
 56	จะ	_	AUX	XVBM	_	57	aux	57:aux	_
 57	เข้าใจ	_	VERB	VSTA	_	52	acl:relcl	52:acl:relcl	_
@@ -21067,7 +21067,7 @@
 12	และ	_	CCONJ	JCRG	_	13	cc	13:cc	_
 13	ต่าง	_	VERB	VSTA	_	1	conj	1:conj	_
 14	ประเทศ	_	NOUN	NCMN	_	13	obj	13:obj	_
-15	ก็	_	SCONJ	JSBR	_	18	mark	18:mark	Seg=I-Conn
+15	ก็	_	SCONJ	JSBR	_	18	mark	18:mark	Seg=B-Conn
 16	ยัง	_	AUX	XVBM	_	18	aux	18:aux	_
 17	สามารถ	_	AUX	XVAM	_	18	aux	18:aux	_
 18	ช่วยเหลือ	_	VERB	VACT	_	13	advcl	13:advcl	_
@@ -21220,7 +21220,7 @@
 41	ทะเบียน	_	PROPN	NPRP	_	40	obj	40:obj	_
 42	ใน	_	ADP	RPRE	_	43	case	43:case	_
 43	ไทย	_	PROPN	NPRP	_	39	nmod:poss	39:nmod:poss	_
-44	ก็	_	SCONJ	JSBR	_	45	nsubj	45:nsubj	Seg=I-Conn
+44	ก็	_	SCONJ	JSBR	_	45	nsubj	45:nsubj	Seg=B-Conn
 45	มี	_	VERB	VSTA	_	39	acl:relcl	39:acl:relcl	_
 46	เม็ด	_	NOUN	NCMN	_	45	obj	45:obj	_
 47	เงิน	_	NOUN	NCMN	_	46	compound	46:compound	_
@@ -21406,7 +21406,7 @@
 40	ปกติ	_	ADV	ADVS	_	37	obl	37:obl	_
 41	แต่	_	CCONJ	JCRG	_	45	cc	45:cc	Seg=B-Conn
 42	อนาคต	_	NOUN	NCMN	_	45	nsubj	45:nsubj	_
-43	ก็	_	SCONJ	JSBR	_	45	advmod	45:advmod	Seg=I-Conn
+43	ก็	_	SCONJ	JSBR	_	45	advmod	45:advmod	Seg=B-Conn
 44	ไม่	_	PART	NEG	_	45	advmod	45:advmod	_
 45	ทราบ	_	VERB	VSTA	_	37	conj	37:conj	_
 46	ว่า	_	SCONJ	JSBR	_	48	nsubj	48:nsubj	_
@@ -21714,7 +21714,7 @@
 
 # sent_id = T01388.tsv-6
 # text = แต่เมื่อมีการนำมติของคณะกรรมการบริหารพรรคเข้าสู่ที่ประชุม ส.ส.ของพรรคในช่วงบ่ายวันเดียวกัน กลับปรากฏว่า บรรดา ส.ส.กลุ่มเพื่อนเนวินออกนอกห้องประชุม และมาเปิดแถลงข่าวนอกห้อง เรียกร้องให้มีการทบทวนมติของคณะกรรมการบริหารพรรค
-1	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Seg=I-Conn
+1	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Seg=B-Conn
 2	เมื่อ	_	SCONJ	JSBR	_	11	mark	11:mark	Seg=B-Conn
 3	มีการ	_	NOUN	NCMN	_	11	nsubj	11:nsubj	_
 4	นำ	_	VERB	VACT	_	3	acl	3:acl	_
@@ -22999,7 +22999,7 @@
 8	ใน	_	ADP	RPRE	_	9	case	9:case	_
 9	ลักษณะ	_	NOUN	NCMN	_	7	obl	7:obl	_
 10	นี้	_	DET	DDAC	_	9	det	9:det	_
-11	ก็	_	SCONJ	JSBR	_	14	mark	14:mark	Seg=I-Conn
+11	ก็	_	SCONJ	JSBR	_	14	mark	14:mark	Seg=B-Conn
 12	อยาก	_	AUX	XVBM	_	14	aux	14:aux	_
 13	จะ	_	AUX	XVBM	_	14	aux	14:aux	_
 14	ใช้	_	VERB	VACT	_	5	advcl	5:advcl	_
@@ -23530,7 +23530,7 @@
 45	ที่	_	SCONJ	PREL	_	47	advmod	47:advmod	_
 46	16	_	NUM	DCNM	_	47	nummod	47:nummod	_
 47	กันยายน	_	NOUN	CLTV	_	43	compound	43:compound	_
-48	ก็	_	SCONJ	JSBR	_	49	nsubj	49:nsubj	Seg=I-Conn
+48	ก็	_	SCONJ	JSBR	_	49	nsubj	49:nsubj	Seg=B-Conn
 49	มี	_	VERB	VSTA	_	43	acl:relcl	43:acl:relcl	_
 50	โอกาส	_	NOUN	NCMN	_	49	obj	49:obj	_
 51	สูง	_	ADJ	VATT	_	50	amod	50:amod	_
@@ -23585,7 +23585,7 @@
 21	เกิด	_	VERB	VSTA	_	18	acl:relcl	18:acl:relcl	_
 22	ขึ้น	_	AUX	XVAE	_	21	aux	21:aux	_
 23	จริงๆ	_	ADV	ADVI	_	21	advmod	21:advmod	_
-24	ก็	_	SCONJ	JSBR	_	32	advmod	32:advmod	Seg=I-Conn
+24	ก็	_	SCONJ	JSBR	_	32	advmod	32:advmod	Seg=B-Conn
 25	ขอโทษ	_	NOUN	NCMN	_	32	nsubj	32:nsubj	_
 26	พรรค	_	NOUN	NCMN	_	25	compound	25:compound	_
 27	ร่วม	_	ADV	ADVN	_	25	advmod	25:advmod	_
@@ -23829,7 +23829,7 @@
 67	หาก	_	SCONJ	JSBR	_	72	mark	72:mark	Seg=B-Conn
 68	ไม่	_	PART	NEG	_	69	advmod	69:advmod	_
 69	ได้	_	AUX	XVAM	_	72	aux	72:aux	_
-70	ก็	_	SCONJ	JSBR	_	72	advmod	72:advmod	Seg=I-Conn
+70	ก็	_	SCONJ	JSBR	_	72	advmod	72:advmod	Seg=B-Conn
 71	จะ	_	AUX	XVBM	_	72	aux	72:aux	_
 72	นำ	_	VERB	VACT	_	0	ROOT	0:ROOT	_
 73	ส.ส.	_	NOUN	NCMN	_	72	obj	72:obj	_
@@ -23866,7 +23866,7 @@
 23	อะไร	_	PRON	PNTR	_	22	obj	22:obj	_
 24	กัน	_	ADV	ADVN	_	22	advmod	22:advmod	_
 25	ได้	_	AUX	XVAE	_	28	aux	28:aux	_
-26	ก็	_	SCONJ	JSBR	_	28	advmod	28:advmod	Seg=I-Conn
+26	ก็	_	SCONJ	JSBR	_	28	advmod	28:advmod	Seg=B-Conn
 27	ให้	_	AUX	XVAM	_	28	aux	28:aux	_
 28	ยุบ	_	VERB	VACT	_	17	conj	17:conj	_
 29	สภา	_	NOUN	NCMN	_	28	obj	28:obj	_
@@ -23959,7 +23959,7 @@
 28	เพื่อน	_	NOUN	NCMN	_	27	compound	27:compound	_
 29	เนวิน	_	VERB	VACT	_	28	acl	28:acl	_
 30	สมชาย	_	NOUN	NCMN	_	29	obj	29:obj	_
-31	ก็	_	SCONJ	JSBR	_	33	nsubj	33:nsubj	Seg=I-Conn
+31	ก็	_	SCONJ	JSBR	_	33	nsubj	33:nsubj	Seg=B-Conn
 32	จะ	_	AUX	XVBM	_	33	aux	33:aux	_
 33	ขอ	_	VERB	VACT	_	30	acl:relcl	30:acl:relcl	_
 34	โควตา	_	NOUN	NCMN	_	33	obj	33:obj	_
@@ -23998,7 +23998,7 @@
 67	หาก	_	SCONJ	JSBR	_	71	mark	71:mark	Seg=B-Conn
 68	ไม่	_	PART	NEG	_	69	advmod	69:advmod	_
 69	ได้	_	AUX	XVAM	_	71	aux	71:aux	_
-70	ก็	_	SCONJ	JSBR	_	71	advmod	71:advmod	Seg=I-Conn
+70	ก็	_	SCONJ	JSBR	_	71	advmod	71:advmod	Seg=B-Conn
 71	ให้	_	VERB	VACT	_	55	advcl	55:advcl	_
 72	ยุบ	_	VERB	VSTA	_	71	xcomp	71:xcomp	_
 73	สภา	_	NOUN	NCMN	_	72	obj	72:obj	_
@@ -24011,7 +24011,7 @@
 2	ที่	_	SCONJ	PREL	_	1	fixed	1:fixed	_
 3	กลุ่ม	_	NOUN	NCMN	_	7	nsubj:pass	7:nsubj:pass	_
 4	อีสานพัฒนา	_	NOUN	NCMN	_	3	compound	3:compound	_
-5	ก็	_	SCONJ	JSBR	_	7	mark	7:mark	Seg=I-Conn
+5	ก็	_	SCONJ	JSBR	_	7	mark	7:mark	Seg=B-Conn
 6	ได้	_	AUX	XVAM	_	7	aux	7:aux	_
 7	เสนอ	_	VERB	VACT	_	0	ROOT	0:ROOT	_
 8	ให้	_	SCONJ	JSBR	_	11	mark	11:mark	_
@@ -24127,7 +24127,7 @@
 62	สนับสนุน	_	VERB	VACT	_	61	acl	61:acl	_
 63	นาย	_	NOUN	NTTL	_	62	obj	62:obj	_
 64	สมชาย	_	PROPN	NPRP	_	63	compound	63:compound	_
-65	ก็	_	SCONJ	JSBR	_	67	nsubj	67:nsubj	Seg=I-Conn
+65	ก็	_	SCONJ	JSBR	_	67	nsubj	67:nsubj	Seg=B-Conn
 66	จะ	_	AUX	XVBM	_	67	aux	67:aux	_
 67	ยุบ	_	VERB	VACT	_	63	acl:relcl	63:acl:relcl	_
 68	สภา	_	NOUN	NCMN	_	67	obj	67:obj	_
@@ -24284,7 +24284,7 @@
 54	การ	_	PART	FIXN	_	48	compound:prt	48:compound:prt	_
 55	ตั้ง	_	VERB	VACT	_	48	acl	48:acl	_
 56	รัฐบาล	_	NOUN	NCMN	_	55	obj	55:obj	_
-57	ก็	_	SCONJ	JSBR	_	59	nsubj	59:nsubj	Seg=I-Conn
+57	ก็	_	SCONJ	JSBR	_	59	nsubj	59:nsubj	Seg=B-Conn
 58	จะ	_	AUX	XVBM	_	59	aux	59:aux	_
 59	โดน	_	VERB	VACT	_	56	acl:relcl	56:acl:relcl	_
 60	กลุ่ม	_	NOUN	NCMN	_	59	obj	59:obj	_
@@ -24457,7 +24457,7 @@
 38	เสนอ	_	VERB	VACT	_	29	conj	29:conj	_
 39	ชื่อ	_	NOUN	NCMN	_	38	obj	38:obj	_
 40	ไป	_	AUX	XVAE	_	38	aux	38:aux	_
-41	แต่	_	CCONJ	JCRG	_	44	cc	44:cc	Seg=I-Conn
+41	แต่	_	CCONJ	JCRG	_	44	cc	44:cc	Seg=B-Conn
 42	ด้วย	_	ADP	RPRE	_	44	case	44:case	_
 43	ความ	_	PART	FIXN	_	44	advmod	44:advmod	_
 44	ขัดแย้ง	_	VERB	VSTA	_	38	conj	38:conj	_
@@ -24598,7 +24598,7 @@
 15	ถึง	_	ADP	RPRE	_	16	case	16:case	_
 16	ขีด	_	NOUN	NCMN	_	13	obl	13:obl	_
 17	สุด	_	ADV	ADVN	_	20	advmod	20:advmod	_
-18	ก็	_	SCONJ	JSBR	_	20	advmod	20:advmod	Seg=I-Conn
+18	ก็	_	SCONJ	JSBR	_	20	advmod	20:advmod	Seg=B-Conn
 19	อาจ	_	AUX	XVBM	_	20	aux	20:aux	_
 20	ส่ง	_	VERB	VACT	_	5	advcl	5:advcl	_
 21	ผล	_	NOUN	NCMN	_	20	obj	20:obj	_
@@ -24658,7 +24658,7 @@
 8	ให้	_	SCONJ	JSBR	_	2	ccomp	2:ccomp	_
 9	พรรค	_	VERB	VACT	_	8	xcomp	8:xcomp	_
 10	ประชาธิปัตย์	_	NOUN	NCMN	_	9	obj	9:obj	_
-11	แต่	_	CCONJ	JCRG	_	13	cc	13:cc	Seg=I-Conn
+11	แต่	_	CCONJ	JCRG	_	13	cc	13:cc	Seg=B-Conn
 12	อาจ	_	AUX	XVBM	_	13	aux	13:aux	_
 13	ใช้	_	VERB	VACT	_	8	conj	8:conj	_
 14	วิธีการ	_	NOUN	NCMN	_	13	obj	13:obj	_
@@ -24703,7 +24703,7 @@
 28	มา	_	AUX	XVAE	_	29	aux	29:aux	_
 29	ร่วม	_	VERB	VACT	_	6	acl	6:acl	_
 30	รัฐบาล	_	NOUN	NCMN	_	29	obj	29:obj	_
-31	ก็	_	SCONJ	JSBR	_	32	nsubj	32:nsubj	Seg=I-Conn
+31	ก็	_	SCONJ	JSBR	_	32	nsubj	32:nsubj	Seg=B-Conn
 32	เป็น	_	VERB	VSTA	_	30	acl:relcl	30:acl:relcl	_
 33	ไป	_	AUX	XVAE	_	32	aux	32:aux	_
 34	ได้	_	AUX	XVAE	_	32	aux	32:aux	_
@@ -24748,7 +24748,7 @@
 73	ชื่อ	_	NOUN	NCMN	_	71	obl	71:obl	_
 74	นาย	_	NOUN	NTTL	_	73	compound	73:compound	_
 75	สมชาย	_	PROPN	NPRP	_	73	compound	73:compound	_
-76	ก็	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Seg=I-Conn
+76	ก็	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Seg=B-Conn
 77	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	_
 78	สิ่ง	_	NOUN	NCMN	_	77	obj	77:obj	_
 79	ที่	_	SCONJ	PREL	_	80	nsubj	80:nsubj	_
@@ -24921,7 +24921,7 @@
 47	ภรรยา	_	NOUN	NCMN	_	44	appos	44:appos	_
 48	นาย	_	NOUN	NTTL	_	47	compound	47:compound	_
 49	สมชาย	_	PROPN	NPRP	_	47	compound	47:compound	_
-50	ก็	_	SCONJ	JSBR	_	52	nsubj:pass	52:nsubj:pass	Seg=I-Conn
+50	ก็	_	SCONJ	JSBR	_	52	nsubj:pass	52:nsubj:pass	Seg=B-Conn
 51	ถูก	_	AUX	XVAM	_	52	aux:pass	52:aux:pass	_
 52	ป.ป.ช.	_	VERB	VACT	_	38	ccomp	38:ccomp	_
 53	ตรวจสอบ	_	VERB	VACT	_	52	obj	52:obj	_
@@ -25041,7 +25041,7 @@
 2	สหัส	_	NOUN	NCMN	_	1	compound	1:compound	_
 3	กล่าว	_	VERB	VACT	_	0	root	0:root	_
 4	ว่า	_	SCONJ	JSBR	_	6	mark	6:mark	_
-5	ก็	_	SCONJ	JSBR	_	6	nsubj	6:nsubj	Seg=I-Conn
+5	ก็	_	SCONJ	JSBR	_	6	nsubj	6:nsubj	Seg=B-Conn
 6	รู้	_	VERB	VSTA	_	3	ccomp	3:ccomp	_
 7	อยู่	_	VERB	VSTA	_	6	xcomp	6:xcomp	_
 8	ว่า	_	SCONJ	JSBR	_	12	mark	12:mark	_
@@ -25094,7 +25094,7 @@
 20	เป็น	_	VERB	VSTA	_	17	xcomp	17:xcomp	_
 21	นายก	_	NOUN	NCMN	_	20	obj	20:obj	_
 22	ฯ	_	PUNCT	PUNC	_	27	punct	27:punct	_
-23	แต่	_	CCONJ	JCRG	_	27	cc	27:cc	Seg=I-Conn
+23	แต่	_	CCONJ	JCRG	_	27	cc	27:cc	Seg=B-Conn
 24	ส.ส.	_	NOUN	NCMN	_	27	nsubj	27:nsubj	_
 25	บาง	_	DET	DIBQ	_	26	det	26:det	_
 26	กลุ่ม	_	NOUN	CLTV	_	24	clf	24:clf	_
@@ -25230,7 +25230,7 @@
 83	นี้	_	DET	DDAC	_	82	det	82:det	_
 84	ออก	_	AUX	XVAE	_	89	aux	89:aux	_
 85	ไป	_	AUX	XVAE	_	89	aux	89:aux	_
-86	ก็	_	SCONJ	JSBR	_	89	mark	89:mark	Seg=I-Conn
+86	ก็	_	SCONJ	JSBR	_	89	mark	89:mark	Seg=B-Conn
 87	น่า	_	AUX	XVBM	_	89	aux	89:aux	_
 88	จะ	_	AUX	XVBM	_	89	aux	89:aux	_
 89	ยุบ	_	VERB	VACT	_	9	conj	9:conj	_
@@ -25336,7 +25336,7 @@
 24	เป็น	_	VERB	VSTA	_	21	ccomp	21:ccomp	_
 25	นายก	_	NOUN	NCMN	_	24	obj	24:obj	_
 26	ฯ	_	PUNCT	PUNC	_	28	punct	28:punct	_
-27	ก็	_	SCONJ	JSBR	_	28	nsubj	28:nsubj	Seg=I-Conn
+27	ก็	_	SCONJ	JSBR	_	28	nsubj	28:nsubj	Seg=B-Conn
 28	อยู่	_	VERB	VSTA	_	25	acl:relcl	25:acl:relcl	_
 29	ที่	_	ADP	RPRE	_	30	case	30:case	_
 30	พรรค	_	NOUN	NCMN	_	28	obl	28:obl	_
@@ -26726,7 +26726,7 @@
 31	เวลา	_	NOUN	NCMN	_	26	obl	26:obl	_
 32	ทุก	_	DET	DIBQ	_	33	det	33:det	_
 33	สถานที่	_	NOUN	NCMN	_	31	clf	31:clf	_
-34	แต่	_	CCONJ	JCRG	_	36	cc	36:cc	Seg=I-Conn
+34	แต่	_	CCONJ	JCRG	_	36	cc	36:cc	Seg=B-Conn
 35	ก็	_	SCONJ	JSBR	_	36	nsubj	36:nsubj	Seg=I-Conn
 36	มี	_	VERB	VSTA	_	21	conj	21:conj	_
 37	ข้อ	_	NOUN	NCMN	_	36	obj	36:obj	_
@@ -26813,7 +26813,7 @@
 25	เพื่อน	_	ADV	ADVN	_	24	advmod	24:advmod	_
 26	ดังนั้น	_	SCONJ	JSBR	_	27	nsubj	27:nsubj	Seg=B-Conn
 27	มือถือ	_	VERB	VSTA	_	23	acl:relcl	23:acl:relcl	_
-28	จึง	_	AUX	XVBM	_	27	aux	27:aux	Seg=I-Conn
+28	จึง	_	AUX	XVBM	_	27	aux	27:aux	Seg=B-Conn
 29	กลาย	_	PART	NEG	_	27	compound:prt	27:compound:prt	_
 30	เป็น	_	VERB	VSTA	_	27	acl	27:acl	_
 31	เครื่อง	_	NOUN	NCMN	_	30	obj	30:obj	_
@@ -27178,7 +27178,7 @@
 63	หรือ	_	CCONJ	JCRG	_	65	cc	65:cc	Seg=B-Conn
 64	บาง	_	DET	DIBQ	_	65	det	65:det	_
 65	คน	_	NOUN	CNIT	_	62	conj	62:conj	_
-66	ก็	_	SCONJ	JSBR	_	67	advmod	67:advmod	Seg=I-Conn
+66	ก็	_	SCONJ	JSBR	_	67	advmod	67:advmod	Seg=B-Conn
 67	ถ่าย	_	VERB	VACT	_	57	ccomp	57:ccomp	_
 68	ภาพ	_	NOUN	NCMN	_	67	obj	67:obj	_
 69	หวิว	_	NOUN	NCMN	_	68	compound	68:compound	_
@@ -27260,7 +27260,7 @@
 32	ผู้	_	SCONJ	PREL	_	36	nsubj	36:nsubj	_
 33	ประกอบ	_	VERB	VSTA	_	32	acl	32:acl	_
 34	การ	_	PART	FIXN	_	36	advmod	36:advmod	_
-35	ก็	_	SCONJ	JSBR	_	36	nsubj	36:nsubj	Seg=I-Conn
+35	ก็	_	SCONJ	JSBR	_	36	nsubj	36:nsubj	Seg=B-Conn
 36	ออก	_	VERB	VACT	_	29	advcl	29:advcl	_
 37	โปรโมชั่น	_	NOUN	NCMN	_	36	obj	36:obj	_
 38	ใหม่	_	ADJ	VATT	_	37	amod	37:amod	_
@@ -27418,7 +27418,7 @@
 3	ที่	_	SCONJ	PREL	_	7	mark	7:mark	_
 4	สำคัญ	_	ADJ	VATT	_	3	amod	3:amod	_
 5	ที่สุด	_	ADV	ADVN	_	4	advmod	4:advmod	_
-6	ก็	_	SCONJ	JSBR	_	7	nsubj	7:nsubj	Seg=I-Conn
+6	ก็	_	SCONJ	JSBR	_	7	nsubj	7:nsubj	Seg=B-Conn
 7	คือ	_	VERB	VSTA	_	0	ROOT	0:ROOT	_
 8	ตัว	_	NOUN	NCMN	_	7	obj	7:obj	_
 9	เด็ก	_	NOUN	NCMN	_	8	compound	8:compound	_
@@ -27736,7 +27736,7 @@
 
 # sent_id = T01603.tsv-7
 # text = แต่สิ่งที่ทำให้ประเทศชาติบ้านเมืองเดินต่อไปได้คือการที่คนไทยยึดมั่นความถูกต้องดังนั้น อะไรที่ถูกต้องจะต้องช่วยกันสนับสนุน แต่อะไรที่ไม่ถูกต้องคนไทยในฐานะเจ้าของประเทศต้องไม่ยอม
-1	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Seg=I-Conn
+1	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Seg=B-Conn
 2	สิ่ง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	_
 3	ที่	_	SCONJ	PREL	_	4	nsubj	4:nsubj	_
 4	ทำให้	_	VERB	VACT	_	2	acl:relcl	2:acl:relcl	_
@@ -27863,7 +27863,7 @@
 39	ศาล	_	VERB	VSTA	_	37	ccomp	37:ccomp	_
 40	ยกเลิก	_	VERB	VACT	_	39	acl	39:acl	_
 41	ไป	_	AUX	XVAE	_	43	aux	43:aux	_
-42	ก็	_	SCONJ	JSBR	_	43	mark	43:mark	Seg=I-Conn
+42	ก็	_	SCONJ	JSBR	_	43	mark	43:mark	Seg=B-Conn
 43	เป็น	_	VERB	VSTA	_	7	conj	7:conj	_
 44	การ	_	PART	FIXN	_	43	compound:prt	43:compound:prt	_
 45	เลือกตั้ง	_	VERB	VACT	_	43	acl	43:acl	_
@@ -27878,7 +27878,7 @@
 1	เมื่อ	_	SCONJ	JSBR	_	47	mark	47:mark	Seg=B-Conn
 2	เป็น	_	VERB	VSTA	_	47	nsubj	47:nsubj	_
 3	สภา	_	NOUN	NCMN	_	2	obj	2:obj	_
-4	ก็	_	SCONJ	JSBR	_	6	mark	6:mark	Seg=I-Conn
+4	ก็	_	SCONJ	JSBR	_	6	mark	6:mark	Seg=B-Conn
 5	ไม่	_	PART	NEG	_	6	advmod	6:advmod	_
 6	มี	_	VERB	VSTA	_	2	advcl	2:advcl	_
 7	ใคร	_	PRON	PNTR	_	6	obj	6:obj	_
@@ -27887,7 +27887,7 @@
 10	เมื่อ	_	SCONJ	JSBR	_	18	mark	18:mark	Seg=B-Conn
 11	เป็น	_	VERB	VSTA	_	18	csubj	18:csubj	_
 12	รัฐบาล	_	NOUN	NCMN	_	11	obj	11:obj	_
-13	ก็	_	SCONJ	JSBR	_	15	advmod	15:advmod	Seg=I-Conn
+13	ก็	_	SCONJ	JSBR	_	15	advmod	15:advmod	Seg=B-Conn
 14	ไม่	_	PART	NEG	_	15	advmod	15:advmod	_
 15	มี	_	VERB	VSTA	_	12	acl:relcl	12:acl:relcl	_
 16	ใคร	_	PRON	PNTR	_	15	obj	15:obj	_
@@ -28057,7 +28057,7 @@
 20	อนุมัติ	_	VERB	VACT	_	0	ROOT	0:ROOT	_
 21	เงิน	_	NOUN	NCMN	_	20	obj	20:obj	_
 22	ให้	_	SCONJ	JSBR	_	24	mark	24:mark	_
-23	ก็	_	SCONJ	JSBR	_	24	nsubj	24:nsubj	Seg=I-Conn
+23	ก็	_	SCONJ	JSBR	_	24	nsubj	24:nsubj	Seg=B-Conn
 24	ทำ	_	VERB	VACT	_	20	ccomp	20:ccomp	_
 25	อะไร	_	PRON	PNTR	_	24	obj	24:obj	_
 26	ไม่	_	PART	NEG	_	27	advmod	27:advmod	_
@@ -28204,7 +28204,7 @@
 7	ใน	_	ADP	RPRE	_	8	case	8:case	_
 8	กทม.	_	PROPN	NPRP	_	6	obl	6:obl	_
 9	ก็ตาม	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	_
-10	แต่	_	CCONJ	JCRG	_	9	fixed	9:fixed	Seg=I-Conn
+10	แต่	_	CCONJ	JCRG	_	9	fixed	9:fixed	Seg=B-Conn
 11	ที่	_	SCONJ	PREL	_	12	obj	12:obj	_
 12	ผ่าน	_	VERB	VSTA	_	9	acl:relcl	9:acl:relcl	_
 13	มา	_	AUX	XVAE	_	12	aux	12:aux	_
@@ -28561,7 +28561,7 @@
 2	ตรวจสอบ	_	VERB	VACT	_	0	root	0:root	_
 3	ภาพ	_	NOUN	NCMN	_	2	obj	2:obj	_
 4	ดังกล่าว	_	DET	DDAC	_	7	advmod	7:advmod	_
-5	ก็	_	SCONJ	JSBR	_	7	mark	7:mark	Seg=I-Conn
+5	ก็	_	SCONJ	JSBR	_	7	mark	7:mark	Seg=B-Conn
 6	ต้อง	_	AUX	XVMM	_	7	aux	7:aux	_
 7	ตกตะลึง	_	VERB	VACT	_	2	xcomp	2:xcomp	_
 8	พบ	_	VERB	VACT	_	7	obj	7:obj	_
@@ -28724,7 +28724,7 @@
 3	เปิด	_	VERB	VACT	_	0	root	0:root	_
 4	ออก	_	AUX	XVAE	_	3	aux	3:aux	_
 5	ดู	_	SCONJ	JSBR	_	8	advmod	8:advmod	_
-6	ก็	_	SCONJ	JSBR	_	8	nsubj	8:nsubj	Seg=I-Conn
+6	ก็	_	SCONJ	JSBR	_	8	nsubj	8:nsubj	Seg=B-Conn
 7	ต้อง	_	AUX	XVMM	_	8	aux	8:aux	_
 8	ตกตะลึง	_	VERB	VACT	_	3	advcl	3:advcl	_
 9	เพราะ	_	SCONJ	JSBR	_	8	obj	8:obj	Seg=B-Conn
@@ -28894,7 +28894,7 @@
 12	นี้	_	DET	DDAC	_	11	det	11:det	_
 13	ทราบ	_	VERB	VSTA	_	3	ccomp	3:ccomp	_
 14	ข่าว	_	NOUN	NCMN	_	13	obj	13:obj	_
-15	จึง	_	AUX	XVBM	_	16	aux	16:aux	Seg=I-Conn
+15	จึง	_	AUX	XVBM	_	16	aux	16:aux	Seg=B-Conn
 16	ขอร้อง	_	VERB	VACT	_	13	xcomp	13:xcomp	_
 17	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	_
 18	ลบ	_	VERB	VACT	_	17	xcomp	17:xcomp	_
@@ -28905,7 +28905,7 @@
 23	สุดท้าย	_	NOUN	NCMN	_	37	nsubj:pass	37:nsubj:pass	_
 24	ภาพ	_	NOUN	NCMN	_	23	compound	23:compound	_
 25	ดังกล่าว	_	DET	DDAC	_	27	obj	27:obj	_
-26	ก็	_	SCONJ	JSBR	_	27	nsubj	27:nsubj	Seg=I-Conn
+26	ก็	_	SCONJ	JSBR	_	27	nsubj	27:nsubj	Seg=B-Conn
 27	หลุดรอด	_	VERB	VACT	_	23	acl:relcl	23:acl:relcl	_
 28	ออก	_	AUX	XVAE	_	27	aux	27:aux	_
 29	มา	_	AUX	XVAE	_	27	aux	27:aux	_
@@ -28975,7 +28975,7 @@
 12	แพร่สะพัด	_	VERB	VACT	_	16	advcl	16:advcl	_
 13	ออก	_	AUX	XVAE	_	12	aux	12:aux	_
 14	ไป	_	AUX	XVAE	_	16	aux	16:aux	_
-15	จึง	_	AUX	XVBM	_	16	aux	16:aux	Seg=I-Conn
+15	จึง	_	AUX	XVBM	_	16	aux	16:aux	Seg=B-Conn
 16	ติดต่อ	_	VERB	VACT	_	1	advcl	1:advcl	_
 17	สอบถาม	_	VERB	VACT	_	16	obj	16:obj	_
 18	ไป	_	AUX	XVAE	_	16	aux	16:aux	_

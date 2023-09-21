@@ -1,13 +1,8 @@
 # DISRPT/sharedtask2023
 
-**Update 04/05/23: datasets have been updated (fixed mistakes in .rels of surprise datasets TEDm and CRPC), don't forget to pull the new data files.**
+The task is now over, **DATA HAS BEEN UPDATED**, data used for the task : [**SUBMISSION RELEASE V1.0**](https://github.com/disrpt/sharedtask2023/releases/tag/v1.0).
 
-**Update 19/04/23: datasets have been updated, don't forget to pull the new data files.**
-
-**Update 17/04/23: test and surprise data has been released!**
-
-
-~~**Update 17/03/23: data have been updated, don't forget to pull the new data files.**~~
+You can find the proceedings [here](https://aclanthology.org/volumes/2023.disrpt-1/).
 
 Repository for DISRPT2023 Shared Task on Discourse Unit Segmentation, Connective Detection, and Discourse Relation Classification.  
 

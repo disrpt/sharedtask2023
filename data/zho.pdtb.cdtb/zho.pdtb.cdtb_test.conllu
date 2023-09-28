@@ -1,4 +1,4 @@
-# newdoc id = chtb_0702
+# newdoc_id = chtb_0702
 1	_	_	PU	PU	_	5	punct	_	O
 2	_	_	CD	CD	_	3	nummod	_	O
 3	_	_	NN	NN	_	4	nn	_	O
@@ -746,7 +746,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0704
+# newdoc_id = chtb_0704
 1	__	_	NR	NR	_	2	nn	_	O
 2	___	_	NN	NN	_	3	nn	_	O
 3	__	_	NN	NN	_	4	nsubj	_	O
@@ -1474,7 +1474,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0707
+# newdoc_id = chtb_0707
 1	___	_	NR	NR	_	3	nsubj	_	O
 2	__	_	AD	AD	_	3	advmod	_	O
 3	__	_	VV	VV	_	0	root	_	O
@@ -1814,7 +1814,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0709
+# newdoc_id = chtb_0709
 1	__	_	NR	NR	_	3	nsubj	_	O
 2	__	_	AD	AD	_	3	advmod	_	O
 3	__	_	VV	VV	_	0	root	_	O
@@ -2534,7 +2534,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0714
+# newdoc_id = chtb_0714
 1	__	_	NR	NR	_	2	nn	_	O
 2	__	_	NN	NN	_	6	nsubj	_	O
 3	_	_	NN	NN	_	4	lobj	_	O
@@ -2768,7 +2768,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0716
+# newdoc_id = chtb_0716
 1	__	_	NR	NR	_	2	nn	_	O
 2	__	_	NN	NN	_	6	nsubj	_	O
 3	_	_	NN	NN	_	4	lobj	_	O
@@ -2976,7 +2976,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0717
+# newdoc_id = chtb_0717
 1	__	_	NR	NR	_	4	nn	_	O
 2	_	_	VV	VV	_	4	rcmod	_	O
 3	_	_	NR	NR	_	2	dobj	_	O
@@ -3315,7 +3315,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0718
+# newdoc_id = chtb_0718
 1	___	_	NR	NR	_	7	dep	_	O
 2	___	_	NR	NR	_	7	dep	_	O
 3	___	_	NT	NT	_	7	dep	_	O
@@ -3594,7 +3594,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0721
+# newdoc_id = chtb_0721
 1	___	_	NR	NR	_	2	nn	_	O
 2	__	_	NN	NN	_	4	nsubj	_	O
 3	__	_	AD	AD	_	4	advmod	_	O
@@ -4057,7 +4057,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0734
+# newdoc_id = chtb_0734
 1	_	_	PU	PU	_	3	punct	_	O
 2	__	_	NN	NN	_	3	nn	_	O
 3	___	_	NN	NN	_	5	nn	_	O
@@ -5434,7 +5434,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0761
+# newdoc_id = chtb_0761
 1	_	_	PU	PU	_	3	punct	_	O
 2	__	_	NN	NN	_	3	nn	_	O
 3	__	_	NN	NN	_	9	dep	_	O
@@ -6310,7 +6310,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0763
+# newdoc_id = chtb_0763
 1	____	_	NR	NR	_	2	nn	_	O
 2	__	_	NN	NN	_	3	nsubj	_	O
 3	__	_	VV	VV	_	0	root	_	O
@@ -6728,7 +6728,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0778
+# newdoc_id = chtb_0778
 1	__	_	NR	NR	_	2	nsubj	_	O
 2	__	_	VV	VV	_	0	root	_	O
 3	__	_	VV	VV	_	2	ccomp	_	O
@@ -7183,7 +7183,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0782
+# newdoc_id = chtb_0782
 1	_	_	PU	PU	_	5	punct	_	O
 2	_	_	CD	CD	_	3	nummod	_	O
 3	_	_	NN	NN	_	4	nn	_	O
@@ -7803,7 +7803,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0783
+# newdoc_id = chtb_0783
 1	___	_	NN	NN	_	2	nsubj	_	O
 2	__	_	VV	VV	_	0	root	_	O
 3	__	_	VV	VV	_	2	ccomp	_	O
@@ -8199,7 +8199,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0786
+# newdoc_id = chtb_0786
 1	_	_	PU	PU	_	3	punct	_	O
 2	__	_	NN	NN	_	3	nn	_	O
 3	__	_	NN	NN	_	11	dep	_	O
@@ -8772,7 +8772,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0792
+# newdoc_id = chtb_0792
 1	_	_	PU	PU	_	4	punct	_	O
 2	__	_	NN	NN	_	4	nn	_	O
 3	__	_	NN	NN	_	4	nn	_	O
@@ -9574,7 +9574,7 @@
 2	_	_	VV	VV	_	0	root	_	O
 3	_	_	PU	PU	_	2	punct	_	O
 
-# newdoc id = chtb_0796
+# newdoc_id = chtb_0796
 1	__	_	NR	NR	_	5	nn	_	O
 2	_	_	PU	PU	_	5	punct	_	O
 3	_	_	CD	CD	_	5	nummod	_	O

@@ -1,4 +1,4 @@
-# newdoc id = BMCS_CHN5-GS
+# newdoc_id = BMCS_CHN5-GS
 1	西班牙	西班牙	PROPN	NNP	_	2	compound	_	Seg=B-seg
 2	语	语	PART	SFN	_	4	nmod	_	O
 3	远程	远程	NOUN	NN	_	4	nmod	_	O
@@ -400,7 +400,7 @@
 7	至	至	CCONJ	CC	_	8	cc	_	O
 8	prof1sha@cervantes.es	prof1sha@cervantes.es	X	FW	_	6	conj	_	O
 
-# newdoc id = CCICE_CHN5-GS
+# newdoc_id = CCICE_CHN5-GS
 1	西班牙	西班牙	PROPN	NNP	_	3	nmod	_	Seg=B-seg
 2	Inditex	Inditex	X	FW	_	3	nmod	_	O
 3	集团	集团	NOUN	NN	_	9	nsubj	_	O
@@ -568,7 +568,7 @@
 21	门店	门店	NOUN	NN	_	18	obj	_	O
 22	。	。	PUNCT	.	_	13	punct	_	O
 
-# newdoc id = EEP_CHN8-GS
+# newdoc_id = EEP_CHN8-GS
 1	西班牙	西班牙	PROPN	NNP	_	3	nmod	_	Seg=B-seg
 2	管弦	管弦	NOUN	NN	_	3	nmod	_	O
 3	乐团	乐团	NOUN	NN	_	12	nsubj	_	O
@@ -765,7 +765,7 @@
 10	感受	感受	NOUN	NN	_	7	obj	_	O
 11	。	。	PUNCT	.	_	1	punct	_	O
 
-# newdoc id = FCEC_CHN2-GS
+# newdoc_id = FCEC_CHN2-GS
 1	发展	发展	NOUN	NN	_	2	nmod	_	Seg=B-seg
 2	目标	目标	NOUN	NN	_	0	root	_	O
 
@@ -1289,7 +1289,7 @@
 14	来	来	VERB	VV	_	10	ccomp	_	O
 15	。	。	PUNCT	.	_	10	punct	_	O
 
-# newdoc id = FICB_CHN5-GS
+# newdoc_id = FICB_CHN5-GS
 1	第四	第四	NUM	CD	NumType=Ord	2	nummod	_	Seg=B-seg
 2	届	届	NOUN	NNB	_	6	clf	_	O
 3	亚洲	亚洲	PROPN	NNP	_	6	nmod	_	O
@@ -1465,7 +1465,7 @@
 37	问题	问题	NOUN	NN	_	17	obj	_	O
 38	。	。	PUNCT	.	_	37	punct	_	O
 
-# newdoc id = ICP_CHN7-GS
+# newdoc_id = ICP_CHN7-GS
 1	适用	适用	VERB	VV	_	0	root	_	Seg=B-seg
 2	于	于	ADP	IN	_	7	case	_	O
 3	移动	移动	NOUN	NN	_	4	nmod	_	O
@@ -1753,7 +1753,7 @@
 39	功能	功能	NOUN	NN	_	38	obj	_	O
 40	。	。	PUNCT	.	_	8	punct	_	O
 
-# newdoc id = ICP_CHN8-GS
+# newdoc_id = ICP_CHN8-GS
 1	DELE	DELE	X	FW	_	2	nmod	_	Seg=B-seg
 2	证书	证书	NOUN	NN	_	0	root	_	O
 
@@ -2138,7 +2138,7 @@
 28	文化	文化	NOUN	NN	_	23	obj	_	O
 29	。	。	PUNCT	.	_	23	punct	_	O
 
-# newdoc id = TERM50_CHN-GS
+# newdoc_id = TERM50_CHN-GS
 1	巴斯克	巴斯克	PROPN	NNP	_	2	compound	_	Seg=B-seg
 2	语	语	PART	SFN	_	10	nmod	_	O
 3	、	、	PUNCT	EC	_	5	punct	_	O
@@ -2914,7 +2914,7 @@
 79	资源	资源	NOUN	NN	_	74	obj	_	O
 80	。	。	PUNCT	.	_	3	punct	_	O
 
-# newdoc id = TERM51_CHN-GS
+# newdoc_id = TERM51_CHN-GS
 1	地名	地名	NOUN	NN	_	4	nmod	_	Seg=B-seg
 2	标准	标准	NOUN	NN	_	3	nsubj	_	O
 3	化	化	PART	SFV	_	4	amod	_	O

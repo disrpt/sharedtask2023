@@ -2,16 +2,16 @@
 
 ### Cross-document Structure Theory News Corpus
 
-Cardoso, P.C.F.; Maziero, E.G.; Jorge, M.L.C.; Seno, E.M.R.; Di Felippo, A.; Rino, L.H.M.; Nunes, M.G.V.; Pardo, T.A.S. (2011). 
-[CSTNews - A Discourse-Annotated Corpus for Single and Multi-Document Summarization of News Texts in Brazilian Portuguese](https://www.semanticscholar.org/paper/CSTNews-A-Discourse-Annotated-Corpus-for-Single-and-Cardoso-Maziero/d84cfba46785136129a276e906119ecd190085fd). In the Proceedings of the 3rd RST Brazilian Meeting, pp. 88-105. October 26, Cuiabá/MT, Brazil. 
+Cardoso, P.C.F.; Maziero, E.G.; Jorge, M.L.C.; Seno, E.M.R.; Di Felippo, A.; Rino, L.H.M.; Nunes, M.G.V.; Pardo, T.A.S. (2011).
+[CSTNews - A Discourse-Annotated Corpus for Single and Multi-Document Summarization of News Texts in Brazilian Portuguese](https://www.semanticscholar.org/paper/CSTNews-A-Discourse-Annotated-Corpus-for-Single-and-Cardoso-Maziero/d84cfba46785136129a276e906119ecd190085fd). In the Proceedings of the 3rd RST Brazilian Meeting, pp. 88-105. October 26, Cuiabá/MT, Brazil.
 ```
 @InProceedings{CardosoMazieroRosarioCastroJorgeEtAl2011,
-  author    = {Paula Christina Figueira Cardoso and Erick Galani Maziero and Maria Luc\'{i}a del Rosario Castro Jorge and M. Eloize and R. Kibar Aji Seno and Ariani Di Felippo and Lucia Helena Machado Rino and Maria das Gra\c{c}as Volpe Nunes and Thiago Alexandre Salgueiro Pardo},
-  title     = {{CSTNews} - A Discourse-Annotated Corpus for Single and Multi-Document Summarization of News Texts in {B}razilian {P}ortuguese},
-  booktitle = {Proceedings of the 3rd RST Brazilian Meeting},
-  year      = {2011},
-  pages     = {88--105},
-  address   = {Cuiab\'{a}, Brazil}
+author    = {Paula Christina Figueira Cardoso and Erick Galani Maziero and Maria Luc\'{i}a del Rosario Castro Jorge and M. Eloize and R. Kibar Aji Seno and Ariani Di Felippo and Lucia Helena Machado Rino and Maria das Gra\c{c}as Volpe Nunes and Thiago Alexandre Salgueiro Pardo},
+title     = {{CSTNews} - A Discourse-Annotated Corpus for Single and Multi-Document Summarization of News Texts in {B}razilian {P}ortuguese},
+booktitle = {Proceedings of the 3rd RST Brazilian Meeting},
+year      = {2011},
+pages     = {88--105},
+address   = {Cuiab\'{a}, Brazil}
 }
 ```
 
@@ -34,7 +34,7 @@ The corpus is composed of 140 news texts clustered in 50 groups, totaling 2221 s
 Data was automatically parsed using the Stanza Portuguese model (based on UD Portuguese-Bosque 2.7). Note that the data includes .conllu multi-word tokens, for example fused articles and prepositions are decomposed automatically:
 
 ```
-# newdoc id = D4_C36_JB
+# newdoc_id = D4_C36_JB
 # sent_id = D4_C36_JB-1
 # text = Presença constante na cena política brasileira nas últimas quatro décadas , o senador Antonio Carlos Magalhães ( DEM-BA ) morreu na manhã desta sexta-feira , em São Paulo , vítima de insuficiência cardíaca .
 1	Presença	presença	NOUN	NOUN	Gender=Fem|Number=Sing	22	obl	_	BeginSeg=Yes
@@ -55,4 +55,4 @@ Data was automatically parsed using the Stanza Portuguese model (based on UD Por
 ```
 
 ### Notes
-This dataset contains discontinuous discourse units (split 'same-unit'). 
+This dataset contains discontinuous discourse units (split 'same-unit').

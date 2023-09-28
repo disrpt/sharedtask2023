@@ -1,4 +1,4 @@
-# newdoc id = 00001131
+# newdoc_id = 00001131
 # sent_id = 00001131-1
 # text = __ ______ _____ _______ _____ _
 1	__	n	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nmod	_	O
@@ -3266,7 +3266,7 @@
 12	________	burk	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass	0	root	_	SpaceAfter=No
 13	_	_	PUNCT	Punc	_	12	punct	_	O
 
-# newdoc id = 00006231
+# newdoc_id = 00006231
 # sent_id = 00006231-1
 # text = ________ _____ ____ _____ _____ ______ ____ _______________ ________ ___ ____________ ____ _______ ________ _ ___________ _________ _____ __ _____ ___________ __________ ____ ________ __ __________ ____ _____ _______ __________ __________
 1	________	kanal	NOUN	Noun	Case=Nom|Number=Plur|Person=3	5	nsubj	_	O
@@ -6448,7 +6448,7 @@
 47	_____	_	NOUN	Noun	Case=Abl|Number=Sing|Person=3	43	conj	_	SpaceAfter=No
 48	_	_	PUNCT	Punc	_	47	punct	_	O
 
-# newdoc id = 00013212
+# newdoc_id = 00013212
 # sent_id = 00013212-1
 # text = _______ _________ _____________________ _____________ ________ ___ ________ ____ _________ ____ ___ _____ ______ ___ __________ ___ __________ __________ ____ _____ _____________ ____________
 1	_______	Söyleş	ADJ	NAdj	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	O
@@ -9465,7 +9465,7 @@
 21	________	göster	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
 22	_	_	PUNCT	Punc	_	21	punct	_	O
 
-# newdoc id = 00022131
+# newdoc_id = 00022131
 # sent_id = 00022131-1
 # text = _______ _______________ ________ _____ _______ __________________ __________ ______ _____ ____ __ _________ ______ ______ _________ __________ __ __________ _____________ _____ ______ __ __ ______ _______ ______ ______ ___ __ ____________
 1	_______	_	PROPN	Prop	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	O
@@ -12108,7 +12108,7 @@
 26	__	_	NUM	ANum	NumType=Card	3	conj	_	SpaceAfter=No
 27	_	_	PUNCT	Punc	_	26	punct	_	O
 
-# newdoc id = 00035120
+# newdoc_id = 00035120
 # sent_id = 00035120-1
 # text = ______ ______ ____ ________ ____ _______ ___ _____ _ ______
 1	______	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	O
@@ -15445,7 +15445,7 @@
 6	_	_	PUNCT	Punc	_	4	punct	_	O
 7	_	_	PUNCT	Punc	_	4	punct	_	O
 
-# newdoc id = 00055221
+# newdoc_id = 00055221
 # sent_id = 00055221-1
 # text = ______ ______ ______ ______ ____ ____ _____ _________
 1	______	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	O
@@ -19113,7 +19113,7 @@
 # text = _
 1	_	_	PUNCT	Punc	_	0	root	_	O
 
-# newdoc id = 00057121
+# newdoc_id = 00057121
 # sent_id = 00057121-1
 # text = _________ ________ ____ _____ _____ ____ ___ _________ _______ __________ _______ __________ ________ _______ _______ ______ _______ ____ __________ ___________ _ ____ _________ ___________ _ ____ _________ ___ ___ _______ _____ _____ __________ ____ ______ _______ ______ __________ __________ _____ ___ ___ ___________ ______ ________ ______ _____ _______
 1	_________	Harita	NOUN	Noun	Case=Gen|Number=Sing|Person=3	3	nmod:poss	_	O
@@ -22249,7 +22249,7 @@
 12	___________	şaşır	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pqp	0	root	_	SpaceAfter=No
 13	_	_	PUNCT	Punc	_	12	punct	_	O
 
-# newdoc id = 00063160
+# newdoc_id = 00063160
 # sent_id = 00063160-1
 # text = ____ _________ _____ ____ ____ _____ _______ __________ ___________ ______ __________ _______
 1	____	*LOWER*	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	O
@@ -26057,7 +26057,7 @@
 118	______	bin	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun|Voice=Pass	4	conj	_	SpaceAfter=No
 119	_	_	PUNCT	Punc	_	118	punct	_	O
 
-# newdoc id = 00077211
+# newdoc_id = 00077211
 # sent_id = 00077211-1
 # text = _______ _________ _____ ______ ____ ____ ___________ ___ ____________ ________ ____________ ____ ___________ ______ _______ ______ ___________ __________ ______ ______ ______ ___ ________
 1	_______	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	O
@@ -29155,7 +29155,7 @@
 18	________	_	ADV	Adverb	_	16	advmod	_	SpaceAfter=No
 19	_	_	PUNCT	Punc	_	16	punct	_	O
 
-# newdoc id = 10080000
+# newdoc_id = 10080000
 # sent_id = 10080000-1
 # text = _____ __________ _______ ________ ___________ __________ ______ _______ ____ ____________ _______ _______ _____________ _______ ______ ________ _____ ___________ ________ ____________ _____ _____ _____ __________ __ ___ _____ _______ __ _______ ____ ____________ ___ __________ _______ _____ _______ __________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	13	nsubj	_	O
@@ -32005,7 +32005,7 @@
 35	_______	savun	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 36	_	_	PUNCT	Punc	_	35	punct	_	O
 
-# newdoc id = 10190000
+# newdoc_id = 10190000
 # sent_id = 10190000-1
 # text = _____ _____ ____ ____ _________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	O
@@ -34761,7 +34761,7 @@
 27	______	ekle	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 28	_	_	PUNCT	Punc	_	27	punct	_	O
 
-# newdoc id = 10280000
+# newdoc_id = 10280000
 # sent_id = 10280000-1
 # text = _____ _______ ___ ______ _______ _____ __________ _________ ______ _______ ___ ___ ___________ ___________ _____________ __________ __________ ________ _________ __ __________ _______ _______ _____ ___ _______
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	O
@@ -37613,7 +37613,7 @@
 2	______	_	PROPN	Prop	Case=Nom|Number=Sing|Person=3	0	root	_	O
 3	____________	*LOWER*	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	flat	_	O
 
-# newdoc id = 10380000
+# newdoc_id = 10380000
 # sent_id = 10380000-1
 # text = _____ __
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	O
@@ -40737,7 +40737,7 @@
 11	____	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 12	_	_	PUNCT	Punc	_	11	punct	_	O
 
-# newdoc id = 10590000
+# newdoc_id = 10590000
 # sent_id = 10590000-1
 # text = _____ ________ _______ _________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nsubj	_	O
@@ -43468,7 +43468,7 @@
 30	__________	vurgula	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass	0	root	_	SpaceAfter=No
 31	_	_	PUNCT	Punc	_	30	punct	_	O
 
-# newdoc id = 10690000
+# newdoc_id = 10690000
 # sent_id = 10690000-1
 # text = _____ ________ ______ ____ _ _____________ _______ ___________ _______ _______ ___________ ___________ __________ ______ _____ ________ ________ ________ _____________ ________ __ ____ ______ ________________ ____ _ ___________ ____________ ____ ____ ______ ____ __ __________ __ __________ ____ ____ __ ________ ________________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	13	nsubj	_	O
@@ -45994,7 +45994,7 @@
 35	___________	düşün	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
 36	_	_	PUNCT	Punc	_	35	punct	_	O
 
-# newdoc id = 20270000
+# newdoc_id = 20270000
 # sent_id = 20270000-1
 # text = _____ ______ _____ _____ __ ____ _______ ___ ___ ___ ___ _____ _____ __ ____ _____
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	nsubj	_	O
@@ -49050,7 +49050,7 @@
 10	__________	değiş	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Pres	0	root	_	SpaceAfter=No
 11	___	_	PUNCT	Punc	_	10	punct	_	O
 
-# newdoc id = 20370000
+# newdoc_id = 20370000
 # sent_id = 20370000-1
 # text = _____ _____ __________ ______ _____ ___________ ________ __________ ____________ ________ _____ _____________ ____ ____ __ ____________ ___________ _______ ___________ ____________ _____________ __ _____________ ____ ______ _____ ______ __________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	O
@@ -52026,7 +52026,7 @@
 14	_____	ver	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	11	compound:lvc	_	SpaceAfter=No
 15	_	_	PUNCT	Punc	_	11	punct	_	O
 
-# newdoc id = 20470000
+# newdoc_id = 20470000
 # sent_id = 20470000-1
 # text = _____ ________ _______ __ ______ _________ __________ _______ __
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nmod:poss	_	O
@@ -54975,7 +54975,7 @@
 
 
 
-# newdoc id = 20590000
+# newdoc_id = 20590000
 # sent_id = 20590000-1
 # text = _____ __________ _____________ _______________ ________ _____ __________ __________ _____ ______ ________ _____ ___ _ __ ____ _____ __________ __________ __________ ______ _______ _____________ ____ ________________ ________
 1	_____	_	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nmod:poss	_	O

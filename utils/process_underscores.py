@@ -640,6 +640,3 @@ if opts.corpus == "gum" or opts.corpus == "all":
 		sys.stderr.write("Aborting\n")
 		sys.exit(0)
 	restore_docs(os.sep.join(["..","data","eng.rst.gum"]),docs2text)
-
-
-

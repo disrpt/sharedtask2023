@@ -89,7 +89,7 @@ class Dataset:
     def print_stuff(self, fileo):
         with open(fileo, 'a', encoding='utf8') as fo:
             fo.write(f"{self.name}\t{self.lang}\t{self.frame.upper()}\t")
-            fo .write(f"{self.rels}\t{self.rel_types}\t{self.discont}\t")
+            fo.write(f"{self.rels}\t{self.rel_types}\t{self.discont}\t")
             fo.write(f"{self.train_toks}\t{self.train_sents}\t{self.train_docs}\t")
             fo.write(f"{self.dev_toks}\t{self.dev_sents}\t{self.dev_docs}\t")
             fo.write(f"{self.total_sents}\t{self.total_toks}\t{self.total_docs}\t")

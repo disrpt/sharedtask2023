@@ -5,22 +5,22 @@
 Carlson, Lynn, Daniel Marcu and Mary Ellen Okurowski (2001). RST Discourse Treebank LDC2002T07. Philadelphia: Linguistic Data Consortium.
 ```
 @Misc{RSTDT-LDC,
-  author       = {Lynn Carlson, Daniel Marcu, Mary Ellen Okurowski},
-  year         = {2002},
-  title        = {{RST Discourse Treebank LDC2002T07}},
-  organization = {Linguistic Data Consortium},
-  address      = {Philadelphia}
+author       = {Lynn Carlson, Daniel Marcu, Mary Ellen Okurowski},
+year         = {2002},
+title        = {{RST Discourse Treebank LDC2002T07}},
+organization = {Linguistic Data Consortium},
+address      = {Philadelphia}
 }
 
 @InCollection{CarlsonEtAl2003,
-  title                    = {Building a {D}iscourse-{T}agged {C}orpus in the {F}ramework of {R}hetorical {S}tructure {T}heory},
-  author                   = {Lynn Carlson and Daniel Marcu and Mary Ellen Okurowski},
-  booktitle                = {Current and New Directions in Discourse and Dialogue},
-  publisher                = {Kluwer},
-  year                     = {2003},
-  address                  = {Dordrecht},
-  pages                    = {85--112},
-  series                   = {Text, Speech and Language Technology 22}
+title                    = {Building a {D}iscourse-{T}agged {C}orpus in the {F}ramework of {R}hetorical {S}tructure {T}heory},
+author                   = {Lynn Carlson and Daniel Marcu and Mary Ellen Okurowski},
+booktitle                = {Current and New Directions in Discourse and Dialogue},
+publisher                = {Kluwer},
+year                     = {2003},
+address                  = {Dordrecht},
+pages                    = {85--112},
+series                   = {Text, Speech and Language Technology 22}
 }
 ```
 

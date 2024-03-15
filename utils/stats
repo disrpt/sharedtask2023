@@ -1,0 +1,476 @@
+Processing CORPUS deu.rst.pcc
+['../data/deu.rst.pcc/deu.rst.pcc_dev.rels', '../data/deu.rst.pcc/deu.rst.pcc_train.rels', '../data/deu.rst.pcc/deu.rst.pcc_test.rels']
+step-1 >>> ../data/deu.rst.pcc/deu.rst.pcc_dev.rels
+dev
+dev ({'antithesis', 'result', 'evaluation-n', 'conjunction', 'reason', 'cause', 'joint', 'condition', 'concession', 'contrast', 'background', 'summary', 'restatement', 'solutionhood', 'preparation', 'interpretation', 'evaluation-s', 'evidence', 'e-elaboration', 'elaboration', 'means', 'circumstance', 'list', 'purpose'}, 24)
+step-1 >>> ../data/deu.rst.pcc/deu.rst.pcc_train.rels
+train
+train  ({'disjunction', 'result', 'antithesis', 'evaluation-n', 'conjunction', 'reason', 'cause', 'joint', 'condition', 'concession', 'contrast', 'background', 'restatement', 'summary', 'solutionhood', 'preparation', 'interpretation', 'evidence', 'evaluation-s', 'e-elaboration', 'elaboration', 'means', 'circumstance', 'list', 'purpose', 'sequence'}, 26)
+step-1 >>> ../data/deu.rst.pcc/deu.rst.pcc_test.rels
+----------------------------------------------------------test
+test ({'antithesis', 'evaluation-n', 'conjunction', 'reason', 'cause', 'joint', 'condition', 'concession', 'contrast', 'background', 'summary', 'restatement', 'solutionhood', 'preparation', 'interpretation', 'evidence', 'evaluation-s', 'e-elaboration', 'elaboration', 'means', 'circumstance', 'list', 'purpose', 'sequence'}, 24)
+nb de rels types= 26
+../data/deu.rst.pcc/deu.rst.pcc_train.conllu
+train
+../data/deu.rst.pcc/deu.rst.pcc_dev.conllu
+dev
+../data/deu.rst.pcc/deu.rst.pcc_test.conllu
+test
+Processing CORPUS eng.dep.scidtb
+['../data/eng.dep.scidtb/eng.dep.scidtb_dev.rels', '../data/eng.dep.scidtb/eng.dep.scidtb_train.rels', '../data/eng.dep.scidtb/eng.dep.scidtb_test.rels']
+step-1 >>> ../data/eng.dep.scidtb/eng.dep.scidtb_dev.rels
+dev
+dev ({'result', 'manner-means', 'bg-goal', 'cause', 'temporal', 'joint', 'elab-addition', 'condition', 'progression', 'evaluation', 'contrast', 'summary', 'elab-example', 'bg-compare', 'elab-process_step', 'enablement', 'comparison', 'attribution', 'bg-general', 'exp-evidence', 'elab-definition', 'elab-enumember', 'elab-aspect', 'exp-reason'}, 24)
+step-1 >>> ../data/eng.dep.scidtb/eng.dep.scidtb_train.rels
+train
+train  ({'result', 'manner-means', 'bg-goal', 'cause', 'temporal', 'joint', 'elab-addition', 'condition', 'progression', 'evaluation', 'contrast', 'summary', 'elab-example', 'bg-compare', 'elab-process_step', 'enablement', 'comparison', 'attribution', 'bg-general', 'exp-evidence', 'elab-definition', 'elab-enumember', 'elab-aspect', 'exp-reason'}, 24)
+step-1 >>> ../data/eng.dep.scidtb/eng.dep.scidtb_test.rels
+----------------------------------------------------------test
+test ({'result', 'manner-means', 'bg-goal', 'cause', 'temporal', 'joint', 'elab-addition', 'condition', 'progression', 'evaluation', 'contrast', 'summary', 'elab-example', 'bg-compare', 'elab-process_step', 'enablement', 'comparison', 'attribution', 'bg-general', 'exp-evidence', 'elab-definition', 'elab-enumember', 'elab-aspect', 'exp-reason'}, 24)
+nb de rels types= 24
+../data/eng.dep.scidtb/eng.dep.scidtb_train.conllu
+train
+../data/eng.dep.scidtb/eng.dep.scidtb_dev.conllu
+dev
+../data/eng.dep.scidtb/eng.dep.scidtb_test.conllu
+test
+Processing CORPUS eng.pdtb.pdtb
+['../data/eng.pdtb.pdtb/eng.pdtb.pdtb_dev.rels', '../data/eng.pdtb.pdtb/eng.pdtb.pdtb_train.rels', '../data/eng.pdtb.pdtb/eng.pdtb.pdtb_test.rels']
+step-1 >>> ../data/eng.pdtb.pdtb/eng.pdtb.pdtb_dev.rels
+dev
+dev ({'Contingency.Negative-condition', 'Contingency.Purpose', 'Contingency.Cause', 'Expansion.Equivalence', 'Contingency.Condition+SpeechAct', 'Expansion.Level-of-detail', 'Expansion.Manner', 'Temporal.Synchronous', 'Contingency.Condition', 'Expansion.Disjunction', 'Hypophora', 'Expansion.Conjunction', 'Comparison.Similarity', 'Contingency.Cause+SpeechAct', 'Expansion.Instantiation', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Expansion.Substitution', 'Contingency.Cause+Belief'}, 20)
+step-1 >>> ../data/eng.pdtb.pdtb/eng.pdtb.pdtb_train.rels
+train
+train  ({'Contingency.Negative-condition', 'Contingency.Purpose', 'Contingency.Cause', 'Expansion.Exception', 'Expansion.Equivalence', 'Contingency.Negative-cause', 'Contingency.Condition+SpeechAct', 'Expansion.Level-of-detail', 'Expansion.Manner', 'Temporal.Synchronous', 'Contingency.Condition', 'Expansion.Disjunction', 'Hypophora', 'Expansion.Conjunction', 'Comparison.Similarity', 'Contingency.Cause+SpeechAct', 'Expansion.Instantiation', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Expansion.Substitution', 'Comparison.Concession+SpeechAct', 'Contingency.Cause+Belief'}, 23)
+step-1 >>> ../data/eng.pdtb.pdtb/eng.pdtb.pdtb_test.rels
+----------------------------------------------------------test
+test ({'Contingency.Negative-condition', 'Contingency.Purpose', 'Contingency.Cause', 'Expansion.Equivalence', 'Contingency.Negative-cause', 'Contingency.Condition+SpeechAct', 'Expansion.Level-of-detail', 'Expansion.Manner', 'Temporal.Synchronous', 'Contingency.Condition', 'Expansion.Disjunction', 'Hypophora', 'Expansion.Conjunction', 'Comparison.Similarity', 'Contingency.Cause+SpeechAct', 'Expansion.Instantiation', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Expansion.Substitution', 'Comparison.Concession+SpeechAct', 'Expansion.Exception', 'Contingency.Cause+Belief'}, 23)
+nb de rels types= 23
+../data/eng.pdtb.pdtb/eng.pdtb.pdtb_train.conllu
+train
+../data/eng.pdtb.pdtb/eng.pdtb.pdtb_dev.conllu
+dev
+../data/eng.pdtb.pdtb/eng.pdtb.pdtb_test.conllu
+test
+Processing CORPUS eng.rst.gum
+['../data/eng.rst.gum/eng.rst.gum_dev.rels', '../data/eng.rst.gum/eng.rst.gum_train.rels', '../data/eng.rst.gum/eng.rst.gum_test.rels']
+step-1 >>> ../data/eng.rst.gum/eng.rst.gum_dev.rels
+dev
+dev ({'explanation', 'restatement', 'adversative', 'mode', 'elaboration', 'organization', 'topic', 'contingency', 'purpose', 'attribution', 'joint', 'causal', 'context', 'evaluation'}, 14)
+step-1 >>> ../data/eng.rst.gum/eng.rst.gum_train.rels
+train
+train  ({'explanation', 'restatement', 'adversative', 'mode', 'elaboration', 'organization', 'topic', 'contingency', 'purpose', 'attribution', 'joint', 'causal', 'context', 'evaluation'}, 14)
+step-1 >>> ../data/eng.rst.gum/eng.rst.gum_test.rels
+----------------------------------------------------------test
+test ({'explanation', 'restatement', 'adversative', 'mode', 'elaboration', 'organization', 'topic', 'contingency', 'purpose', 'attribution', 'joint', 'causal', 'context', 'evaluation'}, 14)
+nb de rels types= 14
+../data/eng.rst.gum/eng.rst.gum_train.conllu
+train
+../data/eng.rst.gum/eng.rst.gum_dev.conllu
+dev
+../data/eng.rst.gum/eng.rst.gum_test.conllu
+test
+Processing CORPUS eng.rst.rstdt
+['../data/eng.rst.rstdt/eng.rst.rstdt_dev.rels', '../data/eng.rst.rstdt/eng.rst.rstdt_train.rels', '../data/eng.rst.rstdt/eng.rst.rstdt_test.rels']
+step-1 >>> ../data/eng.rst.rstdt/eng.rst.rstdt_dev.rels
+dev
+dev ({'textual-organization', 'background', 'explanation', 'comparison', 'topic-change', 'summary', 'manner-means', 'elaboration', 'topic-comment', 'cause', 'attribution', 'joint', 'temporal', 'condition', 'evaluation', 'contrast', 'enablement'}, 17)
+step-1 >>> ../data/eng.rst.rstdt/eng.rst.rstdt_train.rels
+train
+train  ({'background', 'explanation', 'topic-change', 'textual-organization', 'comparison', 'summary', 'manner-means', 'elaboration', 'topic-comment', 'cause', 'attribution', 'joint', 'temporal', 'condition', 'evaluation', 'contrast', 'enablement'}, 17)
+step-1 >>> ../data/eng.rst.rstdt/eng.rst.rstdt_test.rels
+----------------------------------------------------------test
+test ({'textual-organization', 'comparison', 'background', 'explanation', 'topic-change', 'summary', 'manner-means', 'elaboration', 'topic-comment', 'cause', 'attribution', 'joint', 'temporal', 'condition', 'evaluation', 'contrast', 'enablement'}, 17)
+nb de rels types= 17
+../data/eng.rst.rstdt/eng.rst.rstdt_train.conllu
+train
+../data/eng.rst.rstdt/eng.rst.rstdt_dev.conllu
+dev
+../data/eng.rst.rstdt/eng.rst.rstdt_test.conllu
+test
+Processing CORPUS eng.sdrt.stac
+['../data/eng.sdrt.stac/eng.sdrt.stac_dev.rels', '../data/eng.sdrt.stac/eng.sdrt.stac_train.rels', '../data/eng.sdrt.stac/eng.sdrt.stac_test.rels']
+step-1 >>> ../data/eng.sdrt.stac/eng.sdrt.stac_dev.rels
+dev
+dev ({'Clarification_question', 'Q_Elab', 'Question_answer_pair', 'Explanation', 'Acknowledgement', 'Result', 'Continuation', 'Parallel', 'Comment', 'Alternation', 'Background', 'Correction', 'Elaboration', 'Contrast', 'Conditional', 'Narration'}, 16)
+step-1 >>> ../data/eng.sdrt.stac/eng.sdrt.stac_train.rels
+train
+train  ({'Clarification_question', 'Q_Elab', 'Question_answer_pair', 'Explanation', 'Acknowledgement', 'Result', 'Continuation', 'Parallel', 'Comment', 'Alternation', 'Background', 'Correction', 'Elaboration', 'Contrast', 'Conditional', 'Narration'}, 16)
+step-1 >>> ../data/eng.sdrt.stac/eng.sdrt.stac_test.rels
+----------------------------------------------------------test
+test ({'Clarification_question', 'Q_Elab', 'Question_answer_pair', 'Acknowledgement', 'Parallel', 'Explanation', 'Continuation', 'Result', 'Comment', 'Alternation', 'Background', 'Correction', 'Elaboration', 'Contrast', 'Conditional', 'Narration'}, 16)
+nb de rels types= 16
+../data/eng.sdrt.stac/eng.sdrt.stac_train.conllu
+train
+../data/eng.sdrt.stac/eng.sdrt.stac_dev.conllu
+dev
+../data/eng.sdrt.stac/eng.sdrt.stac_test.conllu
+test
+Processing CORPUS eus.rst.ert
+['../data/eus.rst.ert/eus.rst.ert_dev.rels', '../data/eus.rst.ert/eus.rst.ert_train.rels', '../data/eus.rst.ert/eus.rst.ert_test.rels']
+step-1 >>> ../data/eus.rst.ert/eus.rst.ert_dev.rels
+dev
+dev ({'antithesis', 'result', 'disjunction', 'conjunction', 'cause', 'joint', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'restatement', 'solutionhood', 'preparation', 'interpretation', 'evidence', 'enablement', 'elaboration', 'means', 'circumstance', 'justify', 'unconditional', 'list', 'motivation', 'purpose', 'sequence'}, 26)
+step-1 >>> ../data/eus.rst.ert/eus.rst.ert_train.rels
+train
+train  ({'disjunction', 'result', 'antithesis', 'conjunction', 'cause', 'joint', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'summary', 'restatement', 'solutionhood', 'preparation', 'interpretation', 'evidence', 'otherwise', 'enablement', 'elaboration', 'unless', 'means', 'circumstance', 'justify', 'unconditional', 'list', 'motivation', 'purpose', 'sequence'}, 29)
+step-1 >>> ../data/eus.rst.ert/eus.rst.ert_test.rels
+----------------------------------------------------------test
+test ({'antithesis', 'result', 'disjunction', 'conjunction', 'cause', 'joint', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'restatement', 'summary', 'solutionhood', 'preparation', 'interpretation', 'evidence', 'elaboration', 'means', 'circumstance', 'justify', 'unconditional', 'list', 'motivation', 'purpose', 'sequence'}, 26)
+nb de rels types= 29
+../data/eus.rst.ert/eus.rst.ert_train.conllu
+train
+../data/eus.rst.ert/eus.rst.ert_dev.conllu
+dev
+../data/eus.rst.ert/eus.rst.ert_test.conllu
+test
+Processing CORPUS fas.rst.prstc
+['../data/fas.rst.prstc/fas.rst.prstc_dev.rels', '../data/fas.rst.prstc/fas.rst.prstc_train.rels', '../data/fas.rst.prstc/fas.rst.prstc_test.rels']
+step-1 >>> ../data/fas.rst.prstc/fas.rst.prstc_dev.rels
+dev
+dev ({'background', 'explanation', 'comparison', 'summary', 'manner-means', 'elaboration', 'topic-comment', 'cause', 'attribution', 'joint', 'temporal', 'condition', 'evaluation', 'contrast', 'enablement'}, 15)
+step-1 >>> ../data/fas.rst.prstc/fas.rst.prstc_train.rels
+train
+train  ({'background', 'explanation', 'topic-change', 'comparison', 'summary', 'manner-means', 'elaboration', 'topic-drift', 'topic-comment', 'cause', 'attribution', 'joint', 'temporal', 'condition', 'evaluation', 'contrast', 'enablement'}, 17)
+step-1 >>> ../data/fas.rst.prstc/fas.rst.prstc_test.rels
+----------------------------------------------------------test
+test ({'background', 'explanation', 'comparison', 'topic-change', 'summary', 'manner-means', 'elaboration', 'topic-comment', 'cause', 'attribution', 'joint', 'temporal', 'condition', 'evaluation', 'contrast', 'enablement'}, 16)
+nb de rels types= 17
+../data/fas.rst.prstc/fas.rst.prstc_train.conllu
+train
+../data/fas.rst.prstc/fas.rst.prstc_dev.conllu
+dev
+../data/fas.rst.prstc/fas.rst.prstc_test.conllu
+test
+Processing CORPUS fra.sdrt.annodis
+['../data/fra.sdrt.annodis/fra.sdrt.annodis_dev.rels', '../data/fra.sdrt.annodis/fra.sdrt.annodis_train.rels', '../data/fra.sdrt.annodis/fra.sdrt.annodis_test.rels']
+step-1 >>> ../data/fra.sdrt.annodis/fra.sdrt.annodis_dev.rels
+dev
+dev ({'background', 'goal', 'result', 'explanation', 'parallel', 'e-elaboration', 'frame', 'continuation', 'comment', 'elaboration', 'explanation*', 'conditional', 'alternation', 'attribution', 'narration', 'temploc', 'contrast', 'flashback'}, 18)
+step-1 >>> ../data/fra.sdrt.annodis/fra.sdrt.annodis_train.rels
+train
+train  ({'goal', 'background', 'result', 'explanation', 'parallel', 'e-elaboration', 'frame', 'continuation', 'comment', 'elaboration', 'conditional', 'temploc', 'explanation*', 'attribution', 'narration', 'alternation', 'contrast', 'flashback'}, 18)
+step-1 >>> ../data/fra.sdrt.annodis/fra.sdrt.annodis_test.rels
+----------------------------------------------------------test
+test ({'background', 'explanation', 'result', 'goal', 'parallel', 'continuation', 'e-elaboration', 'frame', 'comment', 'elaboration', 'conditional', 'explanation*', 'temploc', 'attribution', 'narration', 'alternation', 'contrast', 'flashback'}, 18)
+nb de rels types= 18
+../data/fra.sdrt.annodis/fra.sdrt.annodis_train.conllu
+train
+../data/fra.sdrt.annodis/fra.sdrt.annodis_dev.conllu
+dev
+../data/fra.sdrt.annodis/fra.sdrt.annodis_test.conllu
+test
+Processing CORPUS ita.pdtb.luna
+['../data/ita.pdtb.luna/ita.pdtb.luna_dev.rels', '../data/ita.pdtb.luna/ita.pdtb.luna_train.rels', '../data/ita.pdtb.luna/ita.pdtb.luna_test.rels']
+step-1 >>> ../data/ita.pdtb.luna/ita.pdtb.luna_dev.rels
+dev
+dev ({'Contingency.Condition', 'Repetition', 'Expansion.Restatement', 'Expansion.Conjunction', 'Expansion.Alternative', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Interrupted', 'Contingency.Goal', 'Expansion.Instantiation', 'Temporal.Synchrony', 'Contingency.Cause'}, 13)
+step-1 >>> ../data/ita.pdtb.luna/ita.pdtb.luna_train.rels
+train
+train  ({'Contingency.Condition', 'Repetition', 'Expansion.Restatement', 'Expansion.Conjunction', 'Expansion.Alternative', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Comparison', 'Interrupted', 'Contingency.Goal', 'Expansion.Instantiation', 'Temporal.Synchrony', 'Contingency.Cause'}, 14)
+step-1 >>> ../data/ita.pdtb.luna/ita.pdtb.luna_test.rels
+----------------------------------------------------------test
+test ({'Contingency.Condition', 'Repetition', 'Expansion.Restatement', 'Expansion.Conjunction', 'Expansion.Alternative', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Interrupted', 'Expansion', 'Contingency.Goal', 'Temporal.Synchrony', 'Contingency.Cause'}, 13)
+nb de rels types= 15
+../data/ita.pdtb.luna/ita.pdtb.luna_train.conllu
+train
+../data/ita.pdtb.luna/ita.pdtb.luna_dev.conllu
+dev
+../data/ita.pdtb.luna/ita.pdtb.luna_test.conllu
+test
+Processing CORPUS nld.rst.nldt
+['../data/nld.rst.nldt/nld.rst.nldt_dev.rels', '../data/nld.rst.nldt/nld.rst.nldt_train.rels', '../data/nld.rst.nldt/nld.rst.nldt_test.rels']
+step-1 >>> ../data/nld.rst.nldt/nld.rst.nldt_dev.rels
+dev
+dev ({'disjunction', 'antithesis', 'conjunction', 'joint', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'restatement', 'summary', 'nonvolitional-result', 'solutionhood', 'preparation', 'interpretation', 'evidence', 'enablement', 'elaboration', 'volitional-result', 'means', 'circumstance', 'nonvolitional-cause', 'justify', 'list', 'motivation', 'volitional-cause', 'sequence'}, 27)
+step-1 >>> ../data/nld.rst.nldt/nld.rst.nldt_train.rels
+train
+train  ({'disjunction', 'antithesis', 'conjunction', 'joint', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'summary', 'restatement', 'nonvolitional-result', 'solutionhood', 'preparation', 'interpretation', 'evidence', 'otherwise', 'enablement', 'elaboration', 'unless', 'volitional-result', 'means', 'circumstance', 'nonvolitional-cause', 'justify', 'unconditional', 'list', 'motivation', 'restatement-mn', 'purpose', 'volitional-cause', 'sequence'}, 32)
+step-1 >>> ../data/nld.rst.nldt/nld.rst.nldt_test.rels
+----------------------------------------------------------test
+test ({'disjunction', 'antithesis', 'conjunction', 'joint', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'summary', 'restatement', 'nonvolitional-result', 'solutionhood', 'preparation', 'interpretation', 'evidence', 'otherwise', 'enablement', 'elaboration', 'means', 'circumstance', 'nonvolitional-cause', 'justify', 'list', 'motivation', 'purpose', 'volitional-cause', 'sequence'}, 28)
+nb de rels types= 32
+../data/nld.rst.nldt/nld.rst.nldt_train.conllu
+train
+../data/nld.rst.nldt/nld.rst.nldt_dev.conllu
+dev
+../data/nld.rst.nldt/nld.rst.nldt_test.conllu
+test
+Processing CORPUS por.rst.cstn
+['../data/por.rst.cstn/por.rst.cstn_dev.rels', '../data/por.rst.cstn/por.rst.cstn_train.rels', '../data/por.rst.cstn/por.rst.cstn_test.rels']
+step-1 >>> ../data/por.rst.cstn/por.rst.cstn_dev.rels
+dev
+dev ({'explanation', 'concession', 'evaluation', 'contrast', 'background', 'nonvolitional-result', 'nonvolitional-result-e', 'interpretation', 'evidence', 'parenthetical', 'comparison', 'elaboration', 'attribution', 'volitional-result', 'circumstance', 'nonvolitional-cause', 'justify', 'list', 'conclusion', 'purpose', 'volitional-cause', 'sequence'}, 22)
+step-1 >>> ../data/por.rst.cstn/por.rst.cstn_train.rels
+train
+train  ({'explanation', 'antithesis', 'joint', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'restatement', 'nonvolitional-result', 'solutionhood', 'nonvolitional-result-e', 'interpretation', 'evidence', 'otherwise', 'parenthetical', 'nonvolitional-cause-e', 'enablement', 'comparison', 'elaboration', 'attribution', 'volitional-result', 'means', 'circumstance', 'nonvolitional-cause', 'justify', 'list', 'motivation', 'conclusion', 'purpose', 'volitional-cause', 'sequence'}, 32)
+step-1 >>> ../data/por.rst.cstn/por.rst.cstn_test.rels
+----------------------------------------------------------test
+test ({'explanation', 'concession', 'contrast', 'background', 'restatement', 'nonvolitional-result', 'evidence', 'parenthetical', 'enablement', 'comparison', 'elaboration', 'attribution', 'volitional-result', 'means', 'circumstance', 'nonvolitional-cause', 'justify', 'list', 'purpose', 'volitional-cause', 'sequence'}, 21)
+nb de rels types= 32
+../data/por.rst.cstn/por.rst.cstn_train.conllu
+train
+../data/por.rst.cstn/por.rst.cstn_dev.conllu
+dev
+../data/por.rst.cstn/por.rst.cstn_test.conllu
+test
+Processing CORPUS rus.rst.rrt
+['../data/rus.rst.rrt/rus.rst.rrt_dev.rels', '../data/rus.rst.rrt/rus.rst.rrt_train.rels', '../data/rus.rst.rrt/rus.rst.rrt_test.rels']
+step-1 >>> ../data/rus.rst.rrt/rus.rst.rrt_dev.rels
+dev
+dev ({'antithesis', 'cause', 'joint', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'restatement', 'solutionhood', 'preparation', 'evidence', 'interpretation-evaluation', 'comparison', 'elaboration', 'attribution', 'cause-effect', 'purpose', 'sequence'}, 19)
+step-1 >>> ../data/rus.rst.rrt/rus.rst.rrt_train.rels
+train
+train  ({'antithesis', 'cause', 'joint', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'restatement', 'solutionhood', 'preparation', 'evidence', 'interpretation-evaluation', 'comparison', 'elaboration', 'attribution', 'motivation', 'cause-effect', 'conclusion', 'purpose', 'sequence', 'effect'}, 22)
+step-1 >>> ../data/rus.rst.rrt/rus.rst.rrt_test.rels
+----------------------------------------------------------test
+test ({'antithesis', 'cause', 'joint', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'restatement', 'solutionhood', 'preparation', 'evidence', 'interpretation-evaluation', 'comparison', 'elaboration', 'attribution', 'cause-effect', 'purpose', 'sequence', 'effect'}, 20)
+nb de rels types= 22
+../data/rus.rst.rrt/rus.rst.rrt_train.conllu
+train
+../data/rus.rst.rrt/rus.rst.rrt_dev.conllu
+dev
+../data/rus.rst.rrt/rus.rst.rrt_test.conllu
+test
+Processing CORPUS spa.rst.rststb
+['../data/spa.rst.rststb/spa.rst.rststb_dev.rels', '../data/spa.rst.rststb/spa.rst.rststb_train.rels', '../data/spa.rst.rststb/spa.rst.rststb_test.rels']
+step-1 >>> ../data/spa.rst.rststb/spa.rst.rststb_dev.rels
+dev
+dev ({'antithesis', 'result', 'disjunction', 'conjunction', 'cause', 'joint', 'concession', 'contrast', 'background', 'summary', 'restatement', 'solutionhood', 'preparation', 'interpretation', 'evidence', 'elaboration', 'means', 'circumstance', 'justify', 'list', 'motivation', 'purpose', 'sequence'}, 23)
+step-1 >>> ../data/spa.rst.rststb/spa.rst.rststb_train.rels
+train
+train  ({'antithesis', 'result', 'disjunction', 'conjunction', 'cause', 'joint', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'restatement', 'summary', 'solutionhood', 'preparation', 'interpretation', 'evidence', 'enablement', 'elaboration', 'unless', 'alternative', 'means', 'circumstance', 'justify', 'list', 'motivation', 'purpose', 'sequence'}, 28)
+step-1 >>> ../data/spa.rst.rststb/spa.rst.rststb_test.rels
+----------------------------------------------------------test
+test ({'antithesis', 'result', 'conjunction', 'cause', 'joint', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'summary', 'restatement', 'solutionhood', 'preparation', 'interpretation', 'evidence', 'elaboration', 'unless', 'means', 'circumstance', 'justify', 'list', 'motivation', 'purpose', 'sequence'}, 25)
+nb de rels types= 28
+../data/spa.rst.rststb/spa.rst.rststb_train.conllu
+train
+../data/spa.rst.rststb/spa.rst.rststb_dev.conllu
+dev
+../data/spa.rst.rststb/spa.rst.rststb_test.conllu
+test
+Processing CORPUS spa.rst.sctb
+['../data/spa.rst.sctb/spa.rst.sctb_dev.rels', '../data/spa.rst.sctb/spa.rst.sctb_train.rels', '../data/spa.rst.sctb/spa.rst.sctb_test.rels']
+step-1 >>> ../data/spa.rst.sctb/spa.rst.sctb_dev.rels
+dev
+dev ({'background', 'antithesis', 'result', 'justify', 'list', 'elaboration', 'motivation', 'preparation', 'interpretation', 'evidence', 'cause', 'attribution', 'purpose', 'condition', 'means', 'evaluation', 'circumstance'}, 17)
+step-1 >>> ../data/spa.rst.sctb/spa.rst.sctb_train.rels
+train
+train  ({'disjunction', 'result', 'antithesis', 'conjunction', 'cause', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'summary', 'restatement', 'preparation', 'interpretation', 'evidence', 'elaboration', 'attribution', 'means', 'circumstance', 'justify', 'list', 'motivation', 'purpose', 'sequence'}, 24)
+step-1 >>> ../data/spa.rst.sctb/spa.rst.sctb_test.rels
+----------------------------------------------------------test
+test ({'disjunction', 'result', 'antithesis', 'conjunction', 'condition', 'contrast', 'background', 'summary', 'preparation', 'interpretation', 'evidence', 'enablement', 'elaboration', 'means', 'circumstance', 'list', 'motivation', 'purpose', 'sequence'}, 19)
+nb de rels types= 25
+../data/spa.rst.sctb/spa.rst.sctb_train.conllu
+train
+../data/spa.rst.sctb/spa.rst.sctb_dev.conllu
+dev
+../data/spa.rst.sctb/spa.rst.sctb_test.conllu
+test
+Processing CORPUS tur.pdtb.tdb
+['../data/tur.pdtb.tdb/tur.pdtb.tdb_dev.rels', '../data/tur.pdtb.tdb/tur.pdtb.tdb_train.rels', '../data/tur.pdtb.tdb/tur.pdtb.tdb_test.rels']
+step-1 >>> ../data/tur.pdtb.tdb/tur.pdtb.tdb_dev.rels
+dev
+dev ({'Contingency.Purpose', 'Contingency.Cause', 'Expansion.Equivalence', 'Expansion.Level-of-detail', 'Expansion.Manner', 'Temporal.Synchronous', 'Hypophora', 'Contingency.Condition', 'Expansion.Disjunction', 'Expansion.Conjunction', 'Comparison.Similarity', 'Comparison.Degree', 'Contingency.Cause+SpeechAct', 'Expansion.Instantiation', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Expansion.Substitution', 'Comparison.Concession+SpeechAct', 'Expansion.Correction', 'Expansion.Exception', 'Contingency.Cause+Belief'}, 22)
+step-1 >>> ../data/tur.pdtb.tdb/tur.pdtb.tdb_train.rels
+train
+train  ({'Contingency.Negative-condition', 'Contingency.Purpose', 'Contingency.Cause', 'Expansion.Exception', 'Expansion.Equivalence', 'Expansion.Level-of-detail', 'Expansion.Manner', 'Temporal.Synchronous', 'Hypophora', 'Contingency.Condition', 'Expansion.Disjunction', 'Expansion.Conjunction', 'Comparison.Similarity', 'Comparison.Degree', 'Contingency.Cause+SpeechAct', 'Expansion.Instantiation', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Expansion.Substitution', 'Expansion.Correction', 'Comparison.Concession+SpeechAct', 'Contingency.Cause+Belief'}, 23)
+step-1 >>> ../data/tur.pdtb.tdb/tur.pdtb.tdb_test.rels
+----------------------------------------------------------test
+test ({'Contingency.Negative-condition', 'Contingency.Purpose', 'Contingency.Cause', 'Expansion.Equivalence', 'Expansion.Level-of-detail', 'Expansion.Manner', 'Temporal.Synchronous', 'Contingency.Condition', 'Expansion.Disjunction', 'Hypophora', 'Expansion.Conjunction', 'Comparison.Similarity', 'Contingency.Cause+SpeechAct', 'Expansion.Instantiation', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Expansion.Substitution', 'Expansion.Correction', 'Comparison.Concession+SpeechAct', 'Expansion.Exception', 'Contingency.Cause+Belief'}, 22)
+nb de rels types= 23
+../data/tur.pdtb.tdb/tur.pdtb.tdb_train.conllu
+train
+../data/tur.pdtb.tdb/tur.pdtb.tdb_dev.conllu
+dev
+../data/tur.pdtb.tdb/tur.pdtb.tdb_test.conllu
+test
+Processing CORPUS zho.dep.scidtb
+['../data/zho.dep.scidtb/zho.dep.scidtb_dev.rels', '../data/zho.dep.scidtb/zho.dep.scidtb_train.rels', '../data/zho.dep.scidtb/zho.dep.scidtb_test.rels']
+step-1 >>> ../data/zho.dep.scidtb/zho.dep.scidtb_dev.rels
+dev
+dev ({'comparison', 'result', 'exp-reason', 'manner-means', 'elab-aspect', 'bg-goal', 'elab-process_step', 'cause', 'attribution', 'joint', 'temporal', 'elab-addition', 'contrast', 'progression', 'evaluation', 'elab-enumember', 'bg-general', 'enablement'}, 18)
+step-1 >>> ../data/zho.dep.scidtb/zho.dep.scidtb_train.rels
+train
+train  ({'result', 'manner-means', 'bg-goal', 'cause', 'temporal', 'joint', 'elab-addition', 'condition', 'progression', 'evaluation', 'contrast', 'ROOT', 'summary', 'bg-compare', 'elab-process_step', 'enablement', 'comparison', 'attribution', 'bg-general', 'exp-evidence', 'elab-enumember', 'elab-aspect', 'exp-reason'}, 23)
+step-1 >>> ../data/zho.dep.scidtb/zho.dep.scidtb_test.rels
+----------------------------------------------------------test
+test ({'comparison', 'result', 'bg-compare', 'manner-means', 'bg-goal', 'elab-process_step', 'attribution', 'joint', 'contrast', 'elab-addition', 'condition', 'progression', 'evaluation', 'exp-reason', 'temporal', 'bg-general', 'enablement'}, 17)
+nb de rels types= 23
+../data/zho.dep.scidtb/zho.dep.scidtb_train.conllu
+train
+../data/zho.dep.scidtb/zho.dep.scidtb_dev.conllu
+dev
+../data/zho.dep.scidtb/zho.dep.scidtb_test.conllu
+test
+Processing CORPUS zho.pdtb.cdtb
+['../data/zho.pdtb.cdtb/zho.pdtb.cdtb_dev.rels', '../data/zho.pdtb.cdtb/zho.pdtb.cdtb_train.rels', '../data/zho.pdtb.cdtb/zho.pdtb.cdtb_test.rels']
+step-1 >>> ../data/zho.pdtb.cdtb/zho.pdtb.cdtb_dev.rels
+dev
+dev ({'Purpose', 'Causation', 'Temporal', 'Alternative', 'Contrast', 'Expansion', 'Progression', 'Conditional', 'Conjunction'}, 9)
+step-1 >>> ../data/zho.pdtb.cdtb/zho.pdtb.cdtb_train.rels
+train
+train  ({'Temporal', 'Causation', 'Purpose', 'Alternative', 'Contrast', 'Expansion', 'Progression', 'Conditional', 'Conjunction'}, 9)
+step-1 >>> ../data/zho.pdtb.cdtb/zho.pdtb.cdtb_test.rels
+----------------------------------------------------------test
+test ({'Purpose', 'Temporal', 'Causation', 'Alternative', 'Contrast', 'Expansion', 'Progression', 'Conditional', 'Conjunction'}, 9)
+nb de rels types= 9
+../data/zho.pdtb.cdtb/zho.pdtb.cdtb_train.conllu
+train
+../data/zho.pdtb.cdtb/zho.pdtb.cdtb_dev.conllu
+dev
+../data/zho.pdtb.cdtb/zho.pdtb.cdtb_test.conllu
+test
+Processing CORPUS zho.rst.gcdt
+['../data/zho.rst.gcdt/zho.rst.gcdt_dev.rels', '../data/zho.rst.gcdt/zho.rst.gcdt_train.rels', '../data/zho.rst.gcdt/zho.rst.gcdt_test.rels']
+step-1 >>> ../data/zho.rst.gcdt/zho.rst.gcdt_dev.rels
+dev
+dev ({'adversative-concession', 'explanation-justify', 'joint-sequence', 'elaboration-attribute', 'explanation-evidence', 'organization-phatic', 'contingency-condition', 'joint-list', 'attribution-negative', 'joint-disjunction', 'purpose-attribute', 'restatement-partial', 'adversative-contrast', 'joint-other', 'mode-manner', 'restatement-repetition', 'causal-result', 'organization-preparation', 'mode-means', 'elaboration-additional', 'context-background', 'organization-heading', 'explanation-motivation', 'attribution-positive', 'causal-cause', 'context-circumstance', 'purpose-goal', 'evaluation-comment', 'topic-question', 'adversative-antithesis'}, 30)
+step-1 >>> ../data/zho.rst.gcdt/zho.rst.gcdt_train.rels
+train
+train  ({'adversative-concession', 'explanation-justify', 'joint-sequence', 'elaboration-attribute', 'explanation-evidence', 'organization-phatic', 'contingency-condition', 'joint-list', 'joint-disjunction', 'attribution-negative', 'topic-solutionhood', 'purpose-attribute', 'restatement-partial', 'adversative-contrast', 'joint-other', 'mode-manner', 'restatement-repetition', 'causal-result', 'organization-preparation', 'mode-means', 'elaboration-additional', 'context-background', 'organization-heading', 'explanation-motivation', 'attribution-positive', 'causal-cause', 'context-circumstance', 'purpose-goal', 'evaluation-comment', 'topic-question', 'adversative-antithesis'}, 31)
+step-1 >>> ../data/zho.rst.gcdt/zho.rst.gcdt_test.rels
+----------------------------------------------------------test
+test ({'adversative-concession', 'explanation-justify', 'joint-sequence', 'elaboration-attribute', 'explanation-evidence', 'organization-phatic', 'contingency-condition', 'joint-list', 'attribution-negative', 'joint-disjunction', 'purpose-attribute', 'restatement-partial', 'adversative-contrast', 'joint-other', 'mode-manner', 'restatement-repetition', 'causal-result', 'organization-preparation', 'mode-means', 'elaboration-additional', 'context-background', 'organization-heading', 'explanation-motivation', 'attribution-positive', 'causal-cause', 'context-circumstance', 'purpose-goal', 'evaluation-comment', 'topic-question', 'adversative-antithesis'}, 30)
+nb de rels types= 31
+../data/zho.rst.gcdt/zho.rst.gcdt_train.conllu
+train
+../data/zho.rst.gcdt/zho.rst.gcdt_dev.conllu
+dev
+../data/zho.rst.gcdt/zho.rst.gcdt_test.conllu
+test
+Processing CORPUS zho.rst.sctb
+['../data/zho.rst.sctb/zho.rst.sctb_dev.rels', '../data/zho.rst.sctb/zho.rst.sctb_train.rels', '../data/zho.rst.sctb/zho.rst.sctb_test.rels']
+step-1 >>> ../data/zho.rst.sctb/zho.rst.sctb_dev.rels
+dev
+dev ({'antithesis', 'result', 'conjunction', 'cause', 'evaluation', 'background', 'summary', 'preparation', 'interpretation', 'evidence', 'enablement', 'elaboration', 'attribution', 'means', 'circumstance', 'justify', 'list', 'motivation', 'purpose'}, 19)
+step-1 >>> ../data/zho.rst.sctb/zho.rst.sctb_train.rels
+train
+train  ({'disjunction', 'result', 'antithesis', 'conjunction', 'cause', 'condition', 'concession', 'evaluation', 'contrast', 'background', 'summary', 'restatement', 'solutionhood', 'preparation', 'interpretation', 'evidence', 'enablement', 'elaboration', 'attribution', 'means', 'circumstance', 'justify', 'list', 'motivation', 'purpose', 'sequence'}, 26)
+step-1 >>> ../data/zho.rst.sctb/zho.rst.sctb_test.rels
+----------------------------------------------------------test
+test ({'disjunction', 'result', 'antithesis', 'conjunction', 'condition', 'contrast', 'background', 'summary', 'restatement', 'preparation', 'interpretation', 'evidence', 'enablement', 'elaboration', 'means', 'circumstance', 'list', 'motivation', 'purpose', 'sequence'}, 20)
+nb de rels types= 26
+../data/zho.rst.sctb/zho.rst.sctb_train.conllu
+train
+../data/zho.rst.sctb/zho.rst.sctb_dev.conllu
+dev
+../data/zho.rst.sctb/zho.rst.sctb_test.conllu
+test
+Processing CORPUS eng.dep.covdtb
+['../data/eng.dep.covdtb/eng.dep.covdtb_dev.rels', '../data/eng.dep.covdtb/eng.dep.covdtb_test.rels']
+step-1 >>> ../data/eng.dep.covdtb/eng.dep.covdtb_dev.rels
+dev
+dev ({'COMPARISON', 'CONDITION', 'TEXTUAL-ORGANIZATION', 'TEMPORAL', 'BACKGROUND', 'ATTRIBUTION', 'JOINT', 'ENABLEMENT', 'MANNER-MEANS', 'FINDINGS', 'CAUSE-RESULT', 'ELABORATION'}, 12)
+step-1 >>> ../data/eng.dep.covdtb/eng.dep.covdtb_test.rels
+----------------------------------------------------------test
+test ({'COMPARISON', 'CONDITION', 'TEXTUAL-ORGANIZATION', 'TEMPORAL', 'BACKGROUND', 'ATTRIBUTION', 'JOINT', 'ENABLEMENT', 'FINDINGS', 'MANNER-MEANS', 'CAUSE-RESULT', 'ELABORATION'}, 12)
+nb de rels types= 12
+../data/eng.dep.covdtb/eng.dep.covdtb_dev.conllu
+dev
+../data/eng.dep.covdtb/eng.dep.covdtb_test.conllu
+test
+Processing CORPUS eng.pdtb.tedm
+['../data/eng.pdtb.tedm/eng.pdtb.tedm_dev.rels', '../data/eng.pdtb.tedm/eng.pdtb.tedm_test.rels']
+step-1 >>> ../data/eng.pdtb.tedm/eng.pdtb.tedm_dev.rels
+dev
+dev ({'', 'Contingency.Purpose', 'Contingency.Cause', 'Expansion.Equivalence', 'Contingency.Condition+SpeechAct', 'Expansion.Level-of-detail', 'Expansion.Manner', 'Temporal.Synchronous', 'Contingency.Condition', 'Expansion.Disjunction', 'Hypophora', 'Expansion.Conjunction', 'Comparison.Similarity', 'Contingency.Cause+SpeechAct', 'Expansion.Instantiation', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Expansion.Substitution', 'Expansion.Exception', 'Contingency.Cause+Belief'}, 21)
+step-1 >>> ../data/eng.pdtb.tedm/eng.pdtb.tedm_test.rels
+----------------------------------------------------------test
+test ({'Temporal.Synchronous', 'Hypophora', 'Contingency.Condition', 'Expansion.Disjunction', 'Contingency.Purpose', 'Expansion.Conjunction', 'Expansion.Equivalence', 'Comparison.Similarity', 'Temporal.Asynchronous', 'Expansion.Substitution', 'Comparison.Concession', 'Comparison.Contrast', 'Contingency.Cause+Belief', 'Expansion.Level-of-detail', 'Contingency.Cause+SpeechAct', 'Expansion.Manner', 'Expansion.Instantiation', 'Contingency.Cause'}, 18)
+nb de rels types= 21
+../data/eng.pdtb.tedm/eng.pdtb.tedm_dev.conllu
+dev
+../data/eng.pdtb.tedm/eng.pdtb.tedm_test.conllu
+test
+Processing CORPUS por.pdtb.crpc
+['../data/por.pdtb.crpc/por.pdtb.crpc_dev.rels', '../data/por.pdtb.crpc/por.pdtb.crpc_test.rels', '../data/por.pdtb.crpc/por.pdtb.crpc_train.rels']
+step-1 >>> ../data/por.pdtb.crpc/por.pdtb.crpc_dev.rels
+dev
+dev ({'Contingency.Purpose', 'QAP.Hypophora', 'Contingency.Cause', 'Expansion.Equivalence', 'Comparison', 'Expansion.Manner', 'Temporal.Synchronous', 'Expansion.Disjunction', 'Contingency.Condition', 'Expansion.Conjunction', 'Comparison.Similarity', 'Expansion.Instantiation', 'Expansion.Level', 'Temporal', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Expansion.Substitution', 'Contingency.Negative', 'Expansion.Exception'}, 20)
+step-1 >>> ../data/por.pdtb.crpc/por.pdtb.crpc_test.rels
+----------------------------------------------------------test
+test ({'Contingency.Purpose', 'Contingency.Cause', 'Expansion.Equivalence', 'Comparison', 'Expansion.Manner', 'Temporal.Synchronous', 'Contingency.Condition', 'Expansion.Disjunction', 'QAP', 'Expansion.Conjunction', 'Comparison.Similarity', 'Expansion.Instantiation', 'Expansion.Level', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Expansion.Substitution', 'Contingency.Negative', 'Expansion.Exception'}, 19)
+step-1 >>> ../data/por.pdtb.crpc/por.pdtb.crpc_train.rels
+train
+train  ({'Contingency.Purpose', 'QAP.Hypophora', 'Contingency.Cause', 'Expansion.Equivalence', 'Comparison', 'Expansion.Manner', 'Temporal.Synchronous', 'Expansion.Disjunction', 'Contingency.Condition', 'Hypophora', 'QAP', 'Expansion.Conjunction', 'Comparison.Similarity', 'Expansion.Instantiation', 'Expansion.Level', 'Temporal', 'Temporal.Asynchronous', 'Comparison.Concession', 'Expansion.Substitution', 'Comparison.Contrast', 'Contingency.Negative', 'Expansion.Exception'}, 22)
+nb de rels types= 22
+../data/por.pdtb.crpc/por.pdtb.crpc_train.conllu
+train
+../data/por.pdtb.crpc/por.pdtb.crpc_dev.conllu
+dev
+../data/por.pdtb.crpc/por.pdtb.crpc_test.conllu
+test
+Processing CORPUS por.pdtb.tedm
+['../data/por.pdtb.tedm/por.pdtb.tedm_dev.rels', '../data/por.pdtb.tedm/por.pdtb.tedm_test.rels']
+step-1 >>> ../data/por.pdtb.tedm/por.pdtb.tedm_dev.rels
+dev
+dev ({'Contingency.Purpose', 'Contingency.Cause', 'Expansion.Equivalence', 'Contingency.Condition+SpeechAct', 'Expansion.Level-of-detail', 'Expansion.Manner', 'Temporal.Synchronous', 'Contingency.Condition', 'Hypophora', 'Expansion.Disjunction', 'Expansion.Conjunction', 'Comparison.Similarity', 'Contingency.Cause+SpeechAct', 'Expansion.Instantiation', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Expansion.Substitution', 'Comparison.Concession+SpeechAct', 'Contingency.Cause+Belief'}, 20)
+step-1 >>> ../data/por.pdtb.tedm/por.pdtb.tedm_test.rels
+----------------------------------------------------------test
+test ({'', 'Contingency.Purpose', 'Contingency.Cause', 'Expansion.Equivalence', 'Contingency.Condition+SpeechAct', 'Expansion.Level-of-detail', 'Expansion.Manner', 'Temporal.Synchronous', 'Hypophora', 'Contingency.Condition', 'Expansion.Disjunction', 'Expansion.Conjunction', 'Comparison.Similarity', 'Expansion.Instantiation', 'Temporal.Asynchronous', 'Comparison.Concession', 'Expansion.Substitution', 'Comparison.Contrast', 'Contingency.Cause+Belief'}, 19)
+nb de rels types= 21
+../data/por.pdtb.tedm/por.pdtb.tedm_dev.conllu
+dev
+../data/por.pdtb.tedm/por.pdtb.tedm_test.conllu
+test
+Processing CORPUS tha.pdtb.tdtb
+['../data/tha.pdtb.tdtb/tha.pdtb.tdtb_dev.rels', '../data/tha.pdtb.tdtb/tha.pdtb.tdtb_test.rels', '../data/tha.pdtb.tdtb/tha.pdtb.tdtb_train.rels']
+step-1 >>> ../data/tha.pdtb.tdtb/tha.pdtb.tdtb_dev.rels
+dev
+dev ({'Temporal.Synchronous', 'Contingency.Condition', 'Expansion.Disjunction', 'Contingency.Negative-Condition', 'Contingency.Purpose', 'Expansion.GenExpansion', 'Expansion.Conjunction', 'Contingency.Cause+Belief', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Comparison.Similarity', 'Expansion.Substitution', 'Expansion.Equivalence', 'Expansion.Level-of-detail', 'Expansion.Instantiation', 'Expansion.Exception', 'Contingency.Cause'}, 18)
+step-1 >>> ../data/tha.pdtb.tdtb/tha.pdtb.tdtb_test.rels
+----------------------------------------------------------test
+test ({'Temporal.Synchronous', 'Contingency.Condition', 'Expansion.Disjunction', 'Contingency.Negative-Condition', 'Contingency.Purpose', 'Expansion.Conjunction', 'Expansion.GenExpansion', 'Contingency.Cause+Belief', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Comparison.Similarity', 'Expansion.Substitution', 'Contingency.Condition+SpeechAct', 'Expansion.Level-of-detail', 'Expansion.Instantiation', 'Expansion.Exception', 'Contingency.Cause'}, 18)
+step-1 >>> ../data/tha.pdtb.tdtb/tha.pdtb.tdtb_train.rels
+train
+train  ({'Contingency.Purpose', 'Contingency.Negative-Condition+SpeechAct', 'Contingency.Cause', 'Expansion.Equivalence', 'Expansion.Level-of-detail', 'Temporal.Synchronous', 'Contingency.Condition', 'Expansion.Disjunction', 'Contingency.Negative-Condition', 'Expansion.Conjunction', 'Comparison.Similarity', 'Contingency.Cause+SpeechAct', 'Expansion.Instantiation', 'Expansion.GenExpansion', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Expansion.Substitution', 'Expansion.Exception', 'Contingency.Cause+Belief'}, 20)
+nb de rels types= 21
+../data/tha.pdtb.tdtb/tha.pdtb.tdtb_train.conllu
+train
+../data/tha.pdtb.tdtb/tha.pdtb.tdtb_dev.conllu
+dev
+../data/tha.pdtb.tdtb/tha.pdtb.tdtb_test.conllu
+test
+Processing CORPUS tur.pdtb.tedm
+['../data/tur.pdtb.tedm/tur.pdtb.tedm_dev.rels', '../data/tur.pdtb.tedm/tur.pdtb.tedm_test.rels']
+step-1 >>> ../data/tur.pdtb.tedm/tur.pdtb.tedm_dev.rels
+dev
+dev ({'', 'Contingency.Purpose', 'Contingency.Cause', 'Expansion.Equivalence', 'Contingency.Condition+SpeechAct', 'Expansion.Level-of-detail', 'Expansion.Manner', 'Temporal.Synchronous', 'Hypophora', 'Expansion.Disjunction', 'Contingency.Condition', 'Expansion.Conjunction', 'Comparison.Similarity', 'Expansion', 'Contingency.Cause+SpeechAct', 'Expansion.Instantiation', 'Temporal.Asynchronous', 'Comparison.Concession', 'Comparison.Contrast', 'Expansion.Substitution', 'Expansion.Exception', 'Contingency.Cause+Belief'}, 22)
+step-1 >>> ../data/tur.pdtb.tedm/tur.pdtb.tedm_test.rels
+----------------------------------------------------------test
+test ({'', 'Contingency.Negative-condition', 'Contingency.Purpose', 'Contingency.Cause', 'Expansion.Exception', 'Expansion.Equivalence', 'Expansion.Level-of-detail', 'Expansion.Manner', 'Temporal.Synchronous', 'Hypophora', 'Contingency.Condition', 'Expansion.Disjunction', 'Expansion.Conjunction', 'Comparison.Similarity', 'Expansion', 'Contingency.Cause+SpeechAct', 'Expansion.Instantiation', 'Temporal.Asynchronous', 'Expansion.Substitution', 'Comparison.Concession', 'Comparison.Contrast', 'Comparison.Concession+SpeechAct', 'Contingency.Cause+Belief'}, 23)
+nb de rels types= 24
+../data/tur.pdtb.tedm/tur.pdtb.tedm_dev.conllu
+dev
+../data/tur.pdtb.tedm/tur.pdtb.tedm_test.conllu
+test
+| corpus | lang | framework | rels | discont | train_toks | train_sents | train_docs | train_segs | dev_toks | dev_sents | dev_docs | dev_segs | test_toks | test_sents | test_docs | test_segs | total_sents | total_toks | total_docs | total_segs | seg_style | underscored | syntax | MWTs | ellip |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| deu.rst.pcc | deu | rst | 2,665 | no | 26,831 | 1,773 | 142 | 2,471 | 3,152 | 207 | 17 | 275 | 3,239 | 213 | 17 | 294 | 2,193 | 33,222 | 176 | 3,040 | EDU | no | UD | no | no |
+| eng.dep.covdtb | eng | dep | 4,985 | 29,405 | 1,162 | 150 | 2,754 | 31,502 | 1,181 | 150 | 2,951 | 0 | 0 | 0 | 0 | 2,343 | 60,907 | 300 | 5,705 | EDU | no | UD | yes | no |
+| eng.dep.scidtb | eng | dep | 9,904 | yes | 62,488 | 2,570 | 492 | 6,740 | 20,299 | 815 | 154 | 2,130 | 19,747 | 817 | 152 | 2,116 | 4,202 | 102,534 | 798 | 10,986 | EDU | no | UD | yes | no |
+| eng.pdtb.pdtb | eng | pdtb | 47,851 | yes | 1,076,448 | 44,563 | 1,992 | 23,850 | 40,384 | 1,703 | 79 | 953 | 56,547 | 2,364 | 91 | 1,245 | 48,630 | 1,173,379 | 2,162 | 26,048 | Conn | yes | UD (gold) | yes | no |
+| eng.pdtb.tedm | eng | pdtb | 529 | 2,616 | 143 | 2 | 110 | 5,569 | 238 | 4 | 231 | 0 | 0 | 0 | 0 | 381 | 8,185 | 6 | 341 | Conn | yes | UD | yes | no |
+| eng.rst.gum | eng | rst | 24,688 | yes | 163,210 | 9,234 | 165 | 20,722 | 21,743 | 1,221 | 24 | 2,790 | 22,061 | 1,201 | 24 | 2,740 | 11,656 | 207,014 | 213 | 26,252 | EDU | no | UD (gold) | yes | yes |
+| eng.rst.rstdt | eng | rst | 19,778 | yes | 169,321 | 6,672 | 309 | 17,646 | 17,574 | 717 | 38 | 1,797 | 22,017 | 929 | 38 | 2,346 | 8,318 | 208,912 | 385 | 21,789 | EDU | yes | UD (gold) | yes | no |
+| eng.sdrt.stac | eng | sdrt | 12,235 | no | 41,930 | 8,754 | 33 | 9,887 | 4,864 | 991 | 6 | 1,154 | 6,732 | 1,342 | 6 | 1,547 | 11,087 | 53,526 | 45 | 12,588 | EDU | no | UD | yes | no |
+| eus.rst.ert | eus | rst | 3,825 | yes | 30,690 | 1,599 | 116 | 2,785 | 7,219 | 366 | 24 | 677 | 7,871 | 415 | 24 | 740 | 2,380 | 45,780 | 164 | 4,202 | EDU | no | UD | no | no |
+| fas.rst.prstc | fas | rst | 5,191 | yes | 52,497 | 1,713 | 120 | 4,609 | 7,033 | 202 | 15 | 576 | 7,396 | 264 | 15 | 670 | 2,179 | 66,926 | 150 | 5,855 | EDU | no | UD | yes | no |
+| fra.sdrt.annodis | fra | sdrt | 3,338 | yes | 22,515 | 1,020 | 64 | 2,255 | 5,013 | 245 | 11 | 556 | 5,171 | 242 | 11 | 618 | 1,507 | 32,699 | 86 | 3,429 | EDU | no | UD | no | no |
+| ita.pdtb.luna | ita | pdtb | 1,544 | yes | 17,344 | 3,721 | 42 | 671 | 3,180 | 775 | 6 | 139 | 6,465 | 1,315 | 12 | 261 | 5,811 | 26,989 | 60 | 1,071 | Conn | yes | UD | yes | no |
+| nld.rst.nldt | nld | rst | 2,264 | no | 17,562 | 1,156 | 56 | 1,662 | 3,783 | 255 | 12 | 343 | 3,553 | 240 | 12 | 338 | 1,651 | 24,898 | 80 | 2,343 | EDU | no | UD | no | no |
+| por.pdtb.crpc | por | pdtb | 11,330 | yes | 147,594 | 4,078 | 243 | 3,994 | 20,102 | 581 | 28 | 621 | 19,153 | 535 | 31 | 544 | 5,194 | 186,849 | 302 | 5,159 | Conn | yes | UD | no | no |
+| por.pdtb.tedm | por | pdtb | 554 | 2,785 | 148 | 2 | 102 | 5,405 | 246 | 4 | 203 | 0 | 0 | 0 | 0 | 394 | 8,190 | 6 | 305 | Conn | yes | UD | no | no |
+| por.rst.cstn | por | rst | 4,993 | yes | 52,177 | 1,825 | 114 | 4,601 | 7,023 | 257 | 14 | 630 | 4,132 | 139 | 12 | 306 | 2,221 | 63,332 | 140 | 5,537 | EDU | no | UD | yes | no |
+| rus.rst.rrt | rus | rst | 34,566 | yes | 390,375 | 18,932 | 272 | 34,682 | 40,779 | 2,025 | 30 | 3,352 | 41,851 | 2,087 | 30 | 3,508 | 23,044 | 473,005 | 332 | 41,542 | EDU | no | UD | no | no |
+| spa.rst.rststb | spa | rst | 3,049 | yes | 43,055 | 1,548 | 203 | 2,472 | 7,551 | 254 | 32 | 419 | 8,111 | 287 | 32 | 460 | 2,089 | 58,717 | 267 | 3,351 | EDU | no | UD | no | no |
+| spa.rst.sctb | spa | rst | 692 | yes | 10,253 | 326 | 32 | 473 | 2,448 | 76 | 9 | 103 | 3,814 | 114 | 9 | 168 | 516 | 16,515 | 50 | 744 | EDU | no | UD | no | no |
+| tha.pdtb.tdtb | tha | pdtb | 10,865 | yes | 199,135 | 5,076 | 139 | 8,277 | 27,326 | 633 | 19 | 1,243 | 30,062 | 825 | 22 | 1,344 | 6,534 | 256,523 | 180 | 10,864 | Conn | yes | UD | no | no |
+| tur.pdtb.tdb | tur | pdtb | 3,185 | yes | 398,515 | 24,960 | 159 | 7,063 | 49,952 | 2,948 | 19 | 831 | 47,891 | 3,289 | 19 | 854 | 31,197 | 496,358 | 197 | 8,748 | Conn | yes | UD | yes | no |
+| tur.pdtb.tedm | tur | pdtb | 577 | 2,159 | 141 | 2 | 135 | 4,127 | 269 | 4 | 247 | 0 | 0 | 0 | 0 | 410 | 6,286 | 6 | 382 | Conn | yes | UD | yes | no |
+| zho.dep.scidtb | zho | dep | 1,298 | no | 11,289 | 308 | 69 | 898 | 3,853 | 103 | 20 | 309 | 3,622 | 89 | 20 | 235 | 500 | 18,764 | 109 | 1,442 | EDU | no | UD | no | no |
+| zho.pdtb.cdtb | zho | pdtb | 5,270 | yes | 52,061 | 2,049 | 125 | 1,034 | 11,178 | 438 | 21 | 314 | 10,075 | 404 | 18 | 312 | 2,891 | 73,314 | 164 | 1,660 | Conn | yes | other (gold) | no | no |
+| zho.rst.gcdt | zho | rst | 8,413 | yes | 47,639 | 2,026 | 40 | 7,470 | 7,619 | 331 | 5 | 1,144 | 7,647 | 335 | 5 | 1,092 | 2,692 | 62,905 | 50 | 9,706 | EDU | no | UD (V1) | no | no |
+| zho.rst.sctb | zho | rst | 692 | yes | 9,655 | 361 | 32 | 473 | 2,264 | 86 | 9 | 103 | 3,577 | 133 | 9 | 168 | 580 | 15,496 | 50 | 744 | EDU | no | UD | no | no |

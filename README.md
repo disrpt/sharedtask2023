@@ -1,8 +1,8 @@
 # DISRPT/sharedtask2023
 
-You can find the proceedings [here](https://aclanthology.org/volumes/2023.disrpt-1/).
-
 Repository for DISRPT2023 Shared Task on Discourse Unit Segmentation, Connective Detection, and Discourse Relation Classification.  
+
+You can find the proceedings [here](https://aclanthology.org/volumes/2023.disrpt-1/).  
 
 **Please check our [FAQ](https://sites.google.com/view/disrpt2023/faq?authuser=0) page on our main [website](https://sites.google.com/view/disrpt2023/home) for more information about the Shared Task, Participation, and Evaluation etc.!**  
 

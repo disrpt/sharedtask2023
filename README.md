@@ -1,13 +1,6 @@
 # DISRPT/sharedtask2023
 
-**Update 04/05/23: datasets have been updated (fixed mistakes in .rels of surprise datasets TEDm and CRPC), don't forget to pull the new data files.**
-
-**Update 19/04/23: datasets have been updated, don't forget to pull the new data files.**
-
-**Update 17/04/23: test and surprise data has been released!**
-
-
-~~**Update 17/03/23: data have been updated, don't forget to pull the new data files.**~~
+You can find the proceedings [here](https://aclanthology.org/volumes/2023.disrpt-1/).
 
 Repository for DISRPT2023 Shared Task on Discourse Unit Segmentation, Connective Detection, and Discourse Relation Classification.  
 
@@ -125,10 +118,10 @@ We will update the table to also include the `test` partition in each dataset up
 | corpus | lang | framework | rels | discont | train_toks | train_sents | train_docs | train_segs | dev_toks | dev_sents | dev_docs | dev_segs | test_toks | test_sents | test_docs | test_segs | total_sents | total_toks | total_docs | total_segs | seg_style | underscored | syntax | MWTs | ellip |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | deu.rst.pcc | deu | rst | 2,665 | no | 26,831 | 1,773 | 142 | 2,471 | 3,152 | 207 | 17 | 275 | 3,239 | 213 | 17 | 294 | 2,193 | 33,222 | 176 | 3,040 | EDU | no | UD | no | no |
-| eng.dep.covdtb | eng | dep | 4,985 | 29,405 | 1,162 | 150 | 2,754 | 31,502 | 1,181 | 150 | 2,951 | 0 | 0 | 0 | 0 | 2,343 | 60,907 | 300 | 5,705 | EDU | no | UD | yes | no |
+| eng.dep.covdtb | eng | dep | 4,985 | yes | 29,405 | 1,162 | 150 | 2,754 | 31,502 | 1,181 | 150 | 2,951 | 0 | 0 | 0 | 0 | 2,343 | 60,907 | 300 | 5,705 | EDU | no | UD | yes | no |
 | eng.dep.scidtb | eng | dep | 9,904 | yes | 62,488 | 2,570 | 492 | 6,740 | 20,299 | 815 | 154 | 2,130 | 19,747 | 817 | 152 | 2,116 | 4,202 | 102,534 | 798 | 10,986 | EDU | no | UD | yes | no |
 | eng.pdtb.pdtb | eng | pdtb | 47,851 | yes | 1,076,448 | 44,563 | 1,992 | 23,850 | 40,384 | 1,703 | 79 | 953 | 56,547 | 2,364 | 91 | 1,245 | 48,630 | 1,173,379 | 2,162 | 26,048 | Conn | yes | UD (gold) | yes | no |
-| eng.pdtb.tedm | eng | pdtb | 529 | 2,616 | 143 | 2 | 110 | 5,569 | 238 | 4 | 231 | 0 | 0 | 0 | 0 | 381 | 8,185 | 6 | 341 | Conn | yes | UD | yes | no |
+| eng.pdtb.tedm | eng | pdtb | 529 | yes | 2,616 | 143 | 2 | 110 | 5,569 | 238 | 4 | 231 | 0 | 0 | 0 | 0 | 381 | 8,185 | 6 | 341 | Conn | yes | UD | yes | no |
 | eng.rst.gum | eng | rst | 24,688 | yes | 163,210 | 9,234 | 165 | 20,722 | 21,743 | 1,221 | 24 | 2,790 | 22,061 | 1,201 | 24 | 2,740 | 11,656 | 207,014 | 213 | 26,252 | EDU | no | UD (gold) | yes | yes |
 | eng.rst.rstdt | eng | rst | 19,778 | yes | 169,321 | 6,672 | 309 | 17,646 | 17,574 | 717 | 38 | 1,797 | 22,017 | 929 | 38 | 2,346 | 8,318 | 208,912 | 385 | 21,789 | EDU | yes | UD (gold) | yes | no |
 | eng.sdrt.stac | eng | sdrt | 12,235 | no | 41,930 | 8,754 | 33 | 9,887 | 4,864 | 991 | 6 | 1,154 | 6,732 | 1,342 | 6 | 1,547 | 11,087 | 53,526 | 45 | 12,588 | EDU | no | UD | yes | no |
@@ -138,14 +131,14 @@ We will update the table to also include the `test` partition in each dataset up
 | ita.pdtb.luna | ita | pdtb | 1,544 | yes | 17,344 | 3,721 | 42 | 671 | 3,180 | 775 | 6 | 139 | 6,465 | 1,315 | 12 | 261 | 5,811 | 26,989 | 60 | 1,071 | Conn | yes | UD | yes | no |
 | nld.rst.nldt | nld | rst | 2,264 | no | 17,562 | 1,156 | 56 | 1,662 | 3,783 | 255 | 12 | 343 | 3,553 | 240 | 12 | 338 | 1,651 | 24,898 | 80 | 2,343 | EDU | no | UD | no | no |
 | por.pdtb.crpc | por | pdtb | 11,330 | yes | 147,594 | 4,078 | 243 | 3,994 | 20,102 | 581 | 28 | 621 | 19,153 | 535 | 31 | 544 | 5,194 | 186,849 | 302 | 5,159 | Conn | yes | UD | no | no |
-| por.pdtb.tedm | por | pdtb | 554 | 2,785 | 148 | 2 | 102 | 5,405 | 246 | 4 | 203 | 0 | 0 | 0 | 0 | 394 | 8,190 | 6 | 305 | Conn | yes | UD | no | no |
+| por.pdtb.tedm | por | pdtb | 554 | yes | 2,785 | 148 | 2 | 102 | 5,405 | 246 | 4 | 203 | 0 | 0 | 0 | 0 | 394 | 8,190 | 6 | 305 | Conn | yes | UD | no | no |
 | por.rst.cstn | por | rst | 4,993 | yes | 52,177 | 1,825 | 114 | 4,601 | 7,023 | 257 | 14 | 630 | 4,132 | 139 | 12 | 306 | 2,221 | 63,332 | 140 | 5,537 | EDU | no | UD | yes | no |
 | rus.rst.rrt | rus | rst | 34,566 | yes | 390,375 | 18,932 | 272 | 34,682 | 40,779 | 2,025 | 30 | 3,352 | 41,851 | 2,087 | 30 | 3,508 | 23,044 | 473,005 | 332 | 41,542 | EDU | no | UD | no | no |
 | spa.rst.rststb | spa | rst | 3,049 | yes | 43,055 | 1,548 | 203 | 2,472 | 7,551 | 254 | 32 | 419 | 8,111 | 287 | 32 | 460 | 2,089 | 58,717 | 267 | 3,351 | EDU | no | UD | no | no |
 | spa.rst.sctb | spa | rst | 692 | yes | 10,253 | 326 | 32 | 473 | 2,448 | 76 | 9 | 103 | 3,814 | 114 | 9 | 168 | 516 | 16,515 | 50 | 744 | EDU | no | UD | no | no |
 | tha.pdtb.tdtb | tha | pdtb | 10,865 | yes | 199,135 | 5,076 | 139 | 8,277 | 27,326 | 633 | 19 | 1,243 | 30,062 | 825 | 22 | 1,344 | 6,534 | 256,523 | 180 | 10,864 | Conn | yes | UD | no | no |
 | tur.pdtb.tdb | tur | pdtb | 3,185 | yes | 398,515 | 24,960 | 159 | 7,063 | 49,952 | 2,948 | 19 | 831 | 47,891 | 3,289 | 19 | 854 | 31,197 | 496,358 | 197 | 8,748 | Conn | yes | UD | yes | no |
-| tur.pdtb.tedm | tur | pdtb | 577 | 2,159 | 141 | 2 | 135 | 4,127 | 269 | 4 | 247 | 0 | 0 | 0 | 0 | 410 | 6,286 | 6 | 382 | Conn | yes | UD | yes | no |
+| tur.pdtb.tedm | tur | pdtb | 577 | yes | 2,159 | 141 | 2 | 135 | 4,127 | 269 | 4 | 247 | 0 | 0 | 0 | 0 | 410 | 6,286 | 6 | 382 | Conn | yes | UD | yes | no |
 | zho.dep.scidtb | zho | dep | 1,298 | no | 11,289 | 308 | 69 | 898 | 3,853 | 103 | 20 | 309 | 3,622 | 89 | 20 | 235 | 500 | 18,764 | 109 | 1,442 | EDU | no | UD | no | no |
 | zho.pdtb.cdtb | zho | pdtb | 5,270 | yes | 52,061 | 2,049 | 125 | 1,034 | 11,178 | 438 | 21 | 314 | 10,075 | 404 | 18 | 312 | 2,891 | 73,314 | 164 | 1,660 | Conn | yes | other (gold) | no | no |
 | zho.rst.gcdt | zho | rst | 8,413 | yes | 47,639 | 2,026 | 40 | 7,470 | 7,619 | 331 | 5 | 1,144 | 7,647 | 335 | 5 | 1,092 | 2,692 | 62,905 | 50 | 9,706 | EDU | no | UD (V1) | no | no |

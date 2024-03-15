@@ -1,7 +1,5 @@
 # DISRPT/sharedtask2023
 
-The task is now over, **DATA HAS BEEN UPDATED**, data used for the task : [**SUBMISSION RELEASE V1.0**](https://github.com/disrpt/sharedtask2023/releases/tag/v1.0).
-
 You can find the proceedings [here](https://aclanthology.org/volumes/2023.disrpt-1/).
 
 Repository for DISRPT2023 Shared Task on Discourse Unit Segmentation, Connective Detection, and Discourse Relation Classification.  
